@@ -32,4 +32,4 @@ B.S., Control Engineering, [National Yang Ming Chiao Tung University](https://en
 * Member (2011), [ATIS](https://www.atis.org/) Machine-to-Machine Focus Group
 * Member (2010), 2011–2014 Strategic Plan, the U.S. Department of Transportation Intelligent Transportation System (ITS) Standards Program
 ## Publications
-* “All-in-one: Making connected vehicles possible,” ISO Focus+, February 2012
+* “All-in-one: Making connected vehicles possible,” [ISO Focus+](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISO%20Focus%2b%20(2010-2013)/en/2012/ISO%20Focus%2b%2c%20February%202012.pdf), February 2012
