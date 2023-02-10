@@ -1,8 +1,40 @@
 # Kevin Lu
-[GitHub](https://github.com/kevinwlu) [Kaggle](https://www.kaggle.com/kevinwlu) [LinkedIn](https://www.linkedin.com/in/kevinwlu) [Twitter](https://twitter.com/kevinwlu) [Instagram](https://www.instagram.com/kevinwenlu/)
+[GitHub](https://github.com/kevinwlu)
+[Google Scholar](https://scholar.google.com/citations?user=r3ktnhEAAAAJ)
+[Kaggle](https://www.kaggle.com/kevinwlu)
+[LinkedIn](https://www.linkedin.com/in/kevinwlu)
+[Twitter](https://twitter.com/kevinwlu)
+[Instagram](https://www.instagram.com/kevinwenlu/)
 
-Dr. Kevin W. Lu is a teaching professor and Associate Chair for Undergraduate Studies of Electrical and Computer Engineering Department at Stevens Institute of Technology. He is an instructor of Engineering Design VI, VII, and VIII.
+## [Stevens Institute of Technology](https://www.stevens.edu/)
+Teaching Professor and Associate Chair for Undergraduate Studies
+[Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering) (ECE)
+[Profile](https://www.stevens.edu/profile/klu2)
 
-He is an IEEE life senior member. He served as Chair (2012-2013) and Advisor (2014-2017) of the ComSoc Standards Development Board, and a member (2016-2023) of the Standardization Programs Development Board. He is a member of the IEEE Standards Association (IEEE-SA) Standards Board (SASB 2016-2023), New Standards Committee (NesCom 2013-2016, 2018-2019), Patent Committee (PatCom 2023), Procedures Committee (ProCom 2020-2023), Standards Review Committee (RevCom 2017), and IEEE Standards Education Committee (SEC 2017-2019); Standards Coordinating Committee (SCC) Coordinator (2017-2018), Member (2019-2020) and Chair (2021-2023) of Audit Committee (AudCom), and Member (2016-2017) and Chair (2018-2023) of Industry Connections Committee (ICCom).
+## Education
+D.Sc. and M.S., Systems Science and Mathematics, [Washington University in St. Louis](https://wustl.edu/)
+B.S., Control Engineering, [National Yang Ming Chiao Tung University](https://en.nycu.edu.tw/)
 
-Kevin was a chief scientist and executive director at Telcordia Applied Research, then a senior principal scientist at Broadcom where he contributed to 3GPP Radio Access Network Working Groups RAN1 and RAN4. He was Chair (2007–2010) of the TIA TR-48 Engineering Committee on Vehicular Telematics, and authored “All-in-one: Making connected vehicles possible” in the February 2012 issue of ISO Focus+. He contributed to the 2011 ATIS Machine-to-Machine Focus Group and the 2011–2014 Strategic Plan for the U.S. Department of Transportation’s Intelligent Transportation System Standards Program. Kevin received B.S. in control engineering from National Chiao Tung University, and M.S. and D.Sc. in systems science and mathematics from Washington University in St. Louis.
+## [IEEE](https://www.ieee.org/)
+* Life Senior Member
+* Chair (2012-2013) and Advisor (2014-2017) of [Communications Society](https://www.comsoc.org/) (ComSoc) [Standards Development Board](https://www.comsoc.org/about/boards/standards-development-board) (SDB)
+* Member (2016-2023) of ComSoc [Standardization Programs Development Board](https://www.comsoc.org/about/boards/standardization-programs-development-board) (SPDB)
+* Member (2016-2023), [IEEE Standards Association](https://standards.ieee.org/) (IEEE-SA) [Standards Board](https://standards.ieee.org/about/sasb/) (SASB)
+* Chair (2021-2023), Member (2019-2020), [Audit Committee](https://standards.ieee.org/about/sasb/audcom/) (AudCom)
+* Chair (2018-2023), Member (2016-2017), [Industry Connections Committee](https://standards.ieee.org/about/bog/iccom/) (ICCom)
+* Member (2013-2016, 2018-2019), [New Standards Committee](https://standards.ieee.org/about/sasb/nescom/) (NesCom)
+* Member (2023), [Patent Committee](https://standards.ieee.org/about/sasb/patcom/) (PatCom)
+* Member (2020-2023), [Procedures Committee](https://standards.ieee.org/about/sasb/procom/) (ProCom)
+* Member (2017), [Standards Review Committee](https://standards.ieee.org/about/sasb/revcom/) (RevCom)
+* Member (2017-2019), Standards Education Committee (SEC)
+* Standards Coordinating Committee (SCC) Coordinator (2017-2018)
+
+## Experience
+* Senior Principal Scientist, [Broadcom](https://www.broadcom.com/)
+* Chief Scientist and Executive Director, Telcordia Applied Research
+* Chair (2007–2010), TIA TR-48 Engineering Committee on Vehicular Telematics
+* 2011 ATIS Machine-to-Machine Focus Group
+* 2011–2014 Strategic Plan, the U.S. Department of Transportation Intelligent Transportation System Standards Program
+
+## Publications
+* “All-in-one: Making connected vehicles possible,” ISO Focus+, February 2012
