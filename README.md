@@ -24,7 +24,7 @@ Teaching Professor and Associate Chair for Undergraduate Studies \
 * Standards Coordinating Committee (SCC) Coordinator (2017-2018)
 ## Education
 D.Sc. and M.S., Systems Science and Mathematics, [Washington University in St. Louis](https://wustl.edu/) \
-B.S., Control Engineering, [National Yang Ming Chiao Tung University](https://en.nycu.edu.tw/)
+B.S., Control Engineering, [National Chiao Tung University](https://en.nycu.edu.tw/)
 ## Experience
 * Senior Principal Scientist, [Broadcom](https://www.broadcom.com/)
 * Chief Scientist, Executive Director, Director, Member of Technical Staff, [Bellcore/Telcordia](https://en.wikipedia.org/wiki/Iconectiv) Applied Research
