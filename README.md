@@ -1,18 +1,20 @@
 # Kevin Lu
-[GitHub](https://github.com/kevinwlu)
-[Google Scholar](https://scholar.google.com/citations?user=r3ktnhEAAAAJ)
-[Kaggle](https://www.kaggle.com/kevinwlu)
-[LinkedIn](https://www.linkedin.com/in/kevinwlu)
-[Twitter](https://twitter.com/kevinwlu)
+[GitHub](https://github.com/kevinwlu) | 
+[Google Scholar](https://scholar.google.com/citations?user=r3ktnhEAAAAJ) | 
+[Kaggle](https://www.kaggle.com/kevinwlu) | 
+[LinkedIn](https://www.linkedin.com/in/kevinwlu) | 
+[Twitter](https://twitter.com/kevinwlu) |
 [Instagram](https://www.instagram.com/kevinwenlu/)
 
 ## [Stevens Institute of Technology](https://www.stevens.edu/)
 Teaching Professor and Associate Chair for Undergraduate Studies
+
 [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering) (ECE)
 [Profile](https://www.stevens.edu/profile/klu2)
 
 ## Education
 D.Sc. and M.S., Systems Science and Mathematics, [Washington University in St. Louis](https://wustl.edu/)
+
 B.S., Control Engineering, [National Yang Ming Chiao Tung University](https://en.nycu.edu.tw/)
 
 ## [IEEE](https://www.ieee.org/)
