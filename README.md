@@ -30,6 +30,6 @@ B.S., Control Engineering, [National Yang Ming Chiao Tung University](https://en
 * Chief Scientist, Executive Director, Director, Member of Technical Staff, [Bellcore/Telcordia](https://en.wikipedia.org/wiki/Iconectiv) Applied Research
 * Chair (2007–2010), [TIA](https://tiaonline.org/) [TR-48](https://tiaonline.org/standards-committees/tr-48/) Engineering Committee on Vehicular Telematics
 * Member (2011), [ATIS](https://www.atis.org/) Machine-to-Machine Focus Group
-* Member (2010), 2011–2014 Strategic Plan, the U.S. Department of Transportation Intelligent Transportation System (ITS) Standards Program
+* Member (2010), 2011–2014 Strategic Plan, [U.S. Department of Transportation (DOT) Intelligent Transportation Systems (ITS) Standards Program](https://www.standards.its.dot.gov/)
 ## Publications
 * “All-in-one: Making connected vehicles possible,” [ISO Focus+](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISO%20Focus%2b%20(2010-2013)/en/2012/ISO%20Focus%2b%2c%20February%202012.pdf), February 2012
