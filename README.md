@@ -27,9 +27,9 @@ D.Sc. and M.S., Systems Science and Mathematics, [Washington University in St. L
 B.S., Control Engineering, [National Yang Ming Chiao Tung University](https://en.nycu.edu.tw/)
 ## Experience
 * Senior Principal Scientist, [Broadcom](https://www.broadcom.com/)
-* Chief Scientist and Executive Director, Telcordia Applied Research
-* Chair (2007–2010), TIA TR-48 Engineering Committee on Vehicular Telematics
-* 2011 ATIS Machine-to-Machine Focus Group
-* 2011–2014 Strategic Plan, the U.S. Department of Transportation Intelligent Transportation System Standards Program
+* Chief Scientist, Executive Director, Director, Member of Technical Staff, [Bellcore/Telcordia](https://en.wikipedia.org/wiki/Iconectiv) Applied Research
+* Chair (2007–2010), [TIA](https://tiaonline.org/) [TR-48](https://tiaonline.org/standards-committees/tr-48/) Engineering Committee on Vehicular Telematics
+* Member (2011), [ATIS](https://www.atis.org/) Machine-to-Machine Focus Group
+* Member (2010), 2011–2014 Strategic Plan, the U.S. Department of Transportation Intelligent Transportation System (ITS) Standards Program
 ## Publications
 * “All-in-one: Making connected vehicles possible,” ISO Focus+, February 2012
