@@ -33,15 +33,15 @@ B.S., Control Engineering, [National Chiao Tung University](https://en.nycu.edu.
 * Member (2010), 2011–2014 Strategic Plan, [U.S. Department of Transportation (DOT) Intelligent Transportation Systems (ITS) Standards Program](https://www.standards.its.dot.gov/)
 ## Publications
 ### Conference Papers
-* J. S. Sadowsky, L. Ariyavisitakul, K. W. Lu, E. Stauffer, J. Wang, L. Zachararias, "[Interpolation Distortion in Large Scale Parameter Maps for Wireless System Simulation](https://ieeexplore.ieee.org/document/6831691)," *2013 IEEE Global Communications Conference (Globecom)*, Atlanta, GA, USA, 2013, pp. 3954-3958.
+* J. S. Sadowsky, L. Ariyavisitakul, K. W. Lu, E. Stauffer, J. Wang, and L. Zachararias, "[Interpolation Distortion in Large Scale Parameter Maps for Wireless System Simulation](https://ieeexplore.ieee.org/document/6831691)," *2013 IEEE Global Communications Conference (Globecom)*, Atlanta, GA, USA, 2013, pp. 3954-3958.
 * K. W. Lu and S. C. Liew, [Analysis and Applications of r-for-N Protection Systems](https://ieeexplore.ieee.org/document/116594)," *1990 IEEE Global Telecommunications Conference and Exhibition*, San Diego, CA, USA, 1990, pp. 678-682 vol. 2.
-* Liew, S. C.; Lu, K. W. (1990). A 3-stage Interconnection Structure for Very Large Packet Switches. International Conference on Communications (ICC) (pp. 771-777). IEEE.
-* Wagner, S. S.; Lu, K. W. (1990). Comparative Video Distribution Techniques for Broadband Fiber-Optic Subscriber Loops. International Conference on Communications (pp. 670-674). IEEE.
-* Liew, S. C.; Lu, K. W. (1990). Performance Analysis of Asymmetric Packet Switch Modules With Channel Grouping. INFOCOM (pp. 668-676). IEEE.
-* Lu, K. W.; Liew, S. C. (1990). Technologies and Approaches for Diversity in Fiber Loop Networks. International Conference on Communications (ICC) (pp. 680-684). IEEE.
-* Eiger, M. I.; Lemberg, H. L.; Lu, K. W.; Wagner, S. S. (1989). Cost Analyses of Emerging Broadband Fiber Loop Architectures. International Conference on Communications (ICC) (pp. 156-161). IEEE.
-* Lu, K. W.; Wolff, R. S.; Gratzer, F. (1988). Installed first cost economics of fiber/broadband access to the home. Global Telecommunications Conference (Globecom) (pp. 1584-1590). IEEE.
-* Huang, G.; Lu, K. W.; Zaborzky, J. (1986). A Texture Model/Algorithm for Computationally Efficient Dispatch and Control on the Power System. Conference on Decision and Control (pp. 1198-1205). IEEE.
+* S. C. Liew and K. W. Lu, (1990). A 3-stage Interconnection Structure for Very Large Packet Switches. International Conference on Communications (ICC) (pp. 771-777). IEEE.
+* S. S. Wagner and K. W. Lu, (1990). Comparative Video Distribution Techniques for Broadband Fiber-Optic Subscriber Loops. International Conference on Communications (pp. 670-674). IEEE.
+* S. C. Liew and K. W. Lu, (1990). Performance Analysis of Asymmetric Packet Switch Modules With Channel Grouping. INFOCOM (pp. 668-676). IEEE.
+* K. W. Lu and S. C. Liew, (1990). Technologies and Approaches for Diversity in Fiber Loop Networks. International Conference on Communications (ICC) (pp. 680-684). IEEE.
+* M. I. Eiger, H. L. Lemberg,  K. W. Lu, and S. S. Wagner, (1989). Cost Analyses of Emerging Broadband Fiber Loop Architectures. International Conference on Communications (ICC) (pp. 156-161). IEEE.
+* K. W. Lu, R. S. Wolff, and F. Gratzer, (1988). Installed first cost economics of fiber/broadband access to the home. Global Telecommunications Conference (Globecom) (pp. 1584-1590). IEEE.
+* [G. Huang](https://scholars.library.tamu.edu/vivo/display/n8800928d/), K. W. Lu, and [J. Zaborzky](https://academyofsciencestl.org/academy-fellows/john-zaborsky-ph-d/), (1986). A Texture Model/Algorithm for Computationally Efficient Dispatch and Control on the Power System. Conference on Decision and Control (pp. 1198-1205). IEEE.
 ### Journal Papers
 * Wu, X.; Subramanian, S.; Guha, R.; White, R. G.; Li, J.; Lu, K. W.; Bucceri, A.; Zhang, T. (2013). Vehicular Communications Using DSRC: Challenges, Enhancements, and Evolution. Journal on Selected Areas in Communications (9 Supplement/Part 1 ed., vol. 31, pp. 399-408). IEEE.
 * Liew, S. C.; Lu, K. W. (1994). A Framework for Characterizing Disaster-Based Network Survivability. Journal on Selected Areas in Communications (1 ed., vol. 12, pp. 52-58). IEEE.
