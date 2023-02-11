@@ -10,6 +10,8 @@
 [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering) (ECE) \
 Stevens 2018-2019 Henry Morton Distinguished Teaching Professor Award
 * [Seniors Design Intelligent Greenhouse to Grow a More Sustainable Food Supply](https://www.stevens.edu/news/seniors-design-intelligent-greenhouse-grow-more-sustainable-food-supply), June 3, 2022
+* [Pick 6: Six Reasons You Need to Attend Stevens Institute of Technology’s 2022 Innovation Expo on April 29
+](https://www.stevens.edu/news/pick-6-six-reasons-you-need-attend-stevens-institute-technologys-2022-innovation-expo-april-29), April 23, 2022
 * [Stevens Seniors Code Smart Watch App to Monitor Panic Attacks and Foster Communication Between Patients and Therapists](https://www.stevens.edu/news/stevens-seniors-code-smart-watch-app-monitor-panic-attacks-and-foster-communication-between-patients), April 8, 2020
 * [Stevens Honors Excellence in Research, Teaching During 2018-2019 Academic Year](https://www.stevens.edu/news/stevens-honors-excellence-research-teaching-during-2018-2019-academic-year), May 30, 2019
 * [Stevens Opens Doors to Record Number of New Faculty for Fall 2018](https://www.stevens.edu/news/stevens-opens-doors-record-number-new-faculty-fall-2018), September 7, 2018
