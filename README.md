@@ -39,7 +39,7 @@ B.S., Control Engineering, [National Chiao Tung University](https://en.nycu.edu.
 * [S. S. Wagner](https://www.peratonlabs.com/stuart-wagner.html) and K. W. Lu, (1990). Comparative video distribution techniques for broadband fiber-optic subscriber loops. International Conference on Communications (pp. 670-674). IEEE.
 * S. C. Liew and K. W. Lu, (1990). Performance analysis of asymmetric packet switch modules with channel grouping. INFOCOM (pp. 668-676). IEEE.
 * K. W. Lu and S. C. Liew, (1990). Technologies and approaches for diversity in fiber loop networks. International Conference on Communications (ICC) (pp. 680-684). IEEE.
-* M. I. Eiger, H. L. Lemberg,  K. W. Lu, and S. S. Wagner, (1989). Cost analyses of emerging broadband fiber loop architectures. International Conference on Communications (ICC) (pp. 156-161). IEEE.
+* [M. I. Eiger](https://ieeexplore.ieee.org/author/37402318000), H. L. Lemberg,  K. W. Lu, and S. S. Wagner, (1989). Cost analyses of emerging broadband fiber loop architectures. International Conference on Communications (ICC) (pp. 156-161). IEEE.
 * K. W. Lu, [R. S. Wolff](https://www.montana.edu/rwolff/), and F. Gratzer, (1988). Installed first cost economics of fiber/broadband access to the home. Global Telecommunications Conference (Globecom) (pp. 1584-1590). IEEE.
 * [G. Huang](https://scholars.library.tamu.edu/vivo/display/n8800928d/), K. W. Lu, and [J. Zaborszky](https://www.nae.edu/28317/Dr-John-Zaborszky), "[A texture model/algorithm for computationally efficient dispatch and control on the power system](https://ieeexplore.ieee.org/abstract/document/4048961)," 1986 25th IEEE Conference on Decision and Control, Athens, Greece, 1986, pp. 1198-1205, doi: 10.1109/CDC.1986.267572.
 ### Journal Papers
