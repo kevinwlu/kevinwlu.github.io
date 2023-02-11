@@ -43,11 +43,11 @@ B.S., Control Engineering, [National Chiao Tung University](https://en.nycu.edu.
 * K. W. Lu, [R. S. Wolff](https://www.montana.edu/rwolff/), and F. Gratzer, (1988). Installed first cost economics of fiber/broadband access to the home. Global Telecommunications Conference (Globecom) (pp. 1584-1590). IEEE.
 * [G. Huang](https://scholars.library.tamu.edu/vivo/display/n8800928d/), K. W. Lu, and [J. Zaborszky](https://www.nae.edu/28317/Dr-John-Zaborszky), "[A texture model/algorithm for computationally efficient dispatch and control on the power system](https://ieeexplore.ieee.org/abstract/document/4048961)," 1986 25th IEEE Conference on Decision and Control, Athens, Greece, 1986, pp. 1198-1205, doi: 10.1109/CDC.1986.267572.
 ### Journal Papers
-* Wu, X.; Subramanian, S.; Guha, R.; White, R. G.; Li, J.; Lu, K. W.; Bucceri, A.; Zhang, T. (2013). Vehicular communications using DSRC: Challenges, Enhancements, and Evolution. Journal on Selected Areas in Communications (9 Supplement/Part 1 ed., vol. 31, pp. 399-408). IEEE.
+* X. Wu, S. Subramanian, R. Guha, R. G. White, J. Li, K. W. Lu, A. Bucceri, and T. Zhang, (2013). Vehicular communications using DSRC: challenges, enhancements, and evolution. Journal on Selected Areas in Communications (9 Supplement/Part 1 ed., vol. 31, pp. 399-408). IEEE.
 * Liew, S. C.; Lu, K. W. (1994). A Framework for Characterizing Disaster-Based Network Survivability. Journal on Selected Areas in Communications (1 ed., vol. 12, pp. 52-58). IEEE.
 * Liew, S. C.; Lu, K. W. (1991). Comparison of buffer strategies for asymmetric packet switch modules. Journal on Selected Areas in Communications (3 ed., vol. 9, pp. 428-438). IEEE.
 * Lu, K. W.; Eiger, M. I.; Lemberg, H. L. (1990). System and cost analyses of broad-band fiber loop architectures. Journal on Selected Areas in Communications (6 ed., vol. 8, pp. 1058-1067). IEEE.
 * Zaborszky, J.; Huang, G.; Lu, K. (1985). A textured model for computationally efficient reactive power control and management. Transactions on Power Apparatus and Systems (7 ed., vol. PAS-104, pp. 1718-1727). IEEE.
 ### Magazine Articles
-* “All-in-one: Making connected vehicles possible,” [ISO Focus+](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISO%20Focus%2b%20(2010-2013)/en/2012/ISO%20Focus%2b%2c%20February%202012.pdf), February 2012
+* “All-in-one: making connected vehicles possible,” [ISO Focus+](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISO%20Focus%2b%20(2010-2013)/en/2012/ISO%20Focus%2b%2c%20February%202012.pdf), February 2012
 * Liew, S. C.; Lu, K. W. (1989). New architectures for diversity in fiber loop networks. Communications Magazine (12 ed., vol. 27, pp. 31-37). IEEE.
