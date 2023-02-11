@@ -8,7 +8,8 @@
 ## [Stevens Institute of Technology](https://www.stevens.edu/)
 Teaching Professor and Associate Chair for Undergraduate Studies \
 [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering) (ECE) \
-[Profile](https://www.stevens.edu/profile/klu2)
+[Profile](https://www.stevens.edu/profile/klu2) \
+* [Stevens 2018-2019 Henry Morton Distinguished Teaching Professor Award](https://www.stevens.edu/news/stevens-honors-excellence-research-teaching-during-2018-2019-academic-year)
 ## [IEEE](https://www.ieee.org/)
 * Life Senior Member
 * Chair (2012-2013) and Advisor (2014-2017), [Communications Society](https://www.comsoc.org/) (ComSoc) [Standards Development Board](https://www.comsoc.org/about/boards/standards-development-board) (SDB)
