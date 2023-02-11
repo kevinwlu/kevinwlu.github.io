@@ -6,7 +6,7 @@
 [Twitter](https://twitter.com/kevinwlu) |
 [Instagram](https://www.instagram.com/kevinwenlu/)
 ## [Stevens Institute of Technology](https://www.stevens.edu/)
-[Teaching Professor and Associate Chair for Undergraduate Studies](https://www.stevens.edu/profile/klu2) \
+[Teaching Professor and Associate Chair for Undergraduate Studies](https://www.stevens.edu/profile/klu2),
 [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering) (ECE) \
 Stevens 2018-2019 Henry Morton Distinguished Teaching Professor Award
 * [Seniors Design Intelligent Greenhouse to Grow a More Sustainable Food Supply](https://www.stevens.edu/news/seniors-design-intelligent-greenhouse-grow-more-sustainable-food-supply), June 3, 2022
