@@ -33,7 +33,7 @@ B.S., Control Engineering, [National Chiao Tung University](https://en.nycu.edu.
 * Member (2010), 2011–2014 Strategic Plan, [U.S. Department of Transportation (DOT) Intelligent Transportation Systems (ITS) Standards Program](https://www.standards.its.dot.gov/)
 ## Publications
 ### Conference Papers
-* J. S. Sadowsky, L. Ariyavisitakul, K. W. Lu, E. Stauffer, J. Wang, and L. Zachararias, "[Interpolation Distortion in Large Scale Parameter Maps for Wireless System Simulation](https://ieeexplore.ieee.org/document/6831691)," *2013 IEEE Global Communications Conference (Globecom)*, Atlanta, GA, USA, 2013, pp. 3954-3958.
+* J. S. Sadowsky, L. Ariyavisitakul, K. W. Lu, E. Stauffer, J. Wang, and L. Zachararias, "[Interpolation distortion in large scale parameter maps for wireless system simulation](https://ieeexplore.ieee.org/document/6831691)," *2013 IEEE Global Communications Conference (Globecom)*, Atlanta, GA, USA, 2013, pp. 3954-3958, doi: 10.1109/GLOCOM.2013.6831691.
 * K. W. Lu and [S. C. Liew](https://www.ie.cuhk.edu.hk/people/soung.shtml), [Analysis and Applications of r-for-N Protection Systems](https://ieeexplore.ieee.org/document/116594)," *1990 IEEE Global Telecommunications Conference and Exhibition*, San Diego, CA, USA, 1990, pp. 678-682 vol. 2.
 * S. C. Liew and K. W. Lu, (1990). A 3-stage Interconnection Structure for Very Large Packet Switches. International Conference on Communications (ICC) (pp. 771-777). IEEE.
 * S. S. Wagner and K. W. Lu, (1990). Comparative Video Distribution Techniques for Broadband Fiber-Optic Subscriber Loops. International Conference on Communications (pp. 670-674). IEEE.
