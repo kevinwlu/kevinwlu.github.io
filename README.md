@@ -6,10 +6,13 @@
 [Twitter](https://twitter.com/kevinwlu) |
 [Instagram](https://www.instagram.com/kevinwenlu/)
 ## [Stevens Institute of Technology](https://www.stevens.edu/)
-Teaching Professor and Associate Chair for Undergraduate Studies \
+[Teaching Professor and Associate Chair for Undergraduate Studies](https://www.stevens.edu/profile/klu2) | 
 [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering) (ECE) \
-[Profile](https://www.stevens.edu/profile/klu2) \
-[Stevens 2018-2019 Henry Morton Distinguished Teaching Professor Award](https://www.stevens.edu/news/stevens-honors-excellence-research-teaching-during-2018-2019-academic-year)
+Stevens 2018-2019 Henry Morton Distinguished Teaching Professor Award
+* [Seniors Design Intelligent Greenhouse to Grow a More Sustainable Food Supply](https://www.stevens.edu/news/seniors-design-intelligent-greenhouse-grow-more-sustainable-food-supply), June 3, 2022
+* [Stevens Honors Excellence in Research, Teaching During 2018-2019 Academic Year](https://www.stevens.edu/news/stevens-honors-excellence-research-teaching-during-2018-2019-academic-year), May 30, 2019
+* [Stevens Opens Doors to Record Number of New Faculty for Fall 2018](https://www.stevens.edu/news/stevens-opens-doors-record-number-new-faculty-fall-2018), September 7, 2018
+
 ## [IEEE](https://www.ieee.org/)
 * Life Senior Member
 * Chair (2012-2013) and Advisor (2014-2017), [Communications Society](https://www.comsoc.org/) (ComSoc) [Standards Development Board](https://www.comsoc.org/about/boards/standards-development-board) (SDB)
