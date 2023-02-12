@@ -22,7 +22,7 @@ Stevens 2018-2019 Henry Morton Distinguished Teaching Professor Award
 * Chair (2012-2013) and Advisor (2014-2017), [Communications Society](https://www.comsoc.org/) (ComSoc) [Standards Development Board](https://www.comsoc.org/about/boards/standards-development-board) (SDB)
 * Member (2016-2023), ComSoc [Standardization Programs Development Board](https://www.comsoc.org/about/boards/standardization-programs-development-board) (SPDB)
 * Member (2016-2023), [IEEE Standards Association](https://standards.ieee.org/) (IEEE-SA) [Standards Board](https://standards.ieee.org/about/sasb/) (SASB)
-* Member (2016-2017), [Awards and Recognition Committee](https://standards.ieee.org/about/bog/arcom/) (ARCom)
+* Member (2016-2017), [Awards and Recognition Committee](https://standards.ieee.org/about/bog/arcom/) (ArCom)
 * Chair (2021-2023), Member (2019-2020), [Audit Committee](https://standards.ieee.org/about/sasb/audcom/) (AudCom)
 * Chair (2018-2023), Member (2016-2017), [Industry Connections Committee](https://standards.ieee.org/about/bog/iccom/) (ICCom)
 * Member (2013-2016, 2018-2019), [New Standards Committee](https://standards.ieee.org/about/sasb/nescom/) (NesCom)
