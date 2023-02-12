@@ -62,5 +62,5 @@ B.S., Control Engineering, [National Chiao Tung University](https://en.nycu.edu.
 * J. Zaborszky, G. Huang, and K. W. Lu, "[A textured model for computationally efficient reactive power control and management](https://ieeexplore.ieee.org/document/4113290)," in *IEEE Transactions on Power Apparatus and Systems*, vol. PAS-104, no. 7, pp. 1718-1727, July 1985, doi: 10.1109/TPAS.1985.319204.
 
 ### Magazine Articles
-* “All-in-one: making connected vehicles possible,” [ISO Focus+](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISO%20Focus%2b%20(2010-2013)/en/2012/ISO%20Focus%2b%2c%20February%202012.pdf), February 2012
+* K. W. Lu, “All-in-one: making connected vehicles possible,” [ISO Focus+](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISO%20Focus%2b%20(2010-2013)/en/2012/ISO%20Focus%2b%2c%20February%202012.pdf), February 2012
 * S. C. Liew and K. W. Lu, "[New architectures for diversity in fiber loop networks](https://ieeexplore.ieee.org/document/41419)," in *IEEE Communications Magazine*, vol. 27, no. 12, pp. 31-37, Dec. 1989, doi: 10.1109/35.41419.
