@@ -5,6 +5,7 @@
 [LinkedIn](https://www.linkedin.com/in/kevinwlu) | 
 [Twitter](https://twitter.com/kevinwlu) |
 [Instagram](https://www.instagram.com/kevinwenlu/)
+
 ## [Stevens Institute of Technology](https://www.stevens.edu/)
 [Teaching Professor and Associate Chair for Undergraduate Studies](https://www.stevens.edu/profile/klu2),
 [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering) (ECE) \
@@ -29,6 +30,7 @@ Stevens 2018-2019 Henry Morton Distinguished Teaching Professor Award
 * Member (2017), [Standards Review Committee](https://standards.ieee.org/about/sasb/revcom/) (RevCom)
 * Member (2017-2019), Standards Education Committee (SEC)
 * Standards Coordinating Committee (SCC) Coordinator (2017-2018)
+
 ## Education
 D.Sc. and M.S., Systems Science and Mathematics, [Washington University in St. Louis](https://wustl.edu/) \
 B.S., Control Engineering, [National Chiao Tung University](https://en.nycu.edu.tw/)
@@ -38,6 +40,7 @@ B.S., Control Engineering, [National Chiao Tung University](https://en.nycu.edu.
 * Chair (2007–2010), [TIA](https://tiaonline.org/) [TR-48](https://tiaonline.org/standards-committees/tr-48/) Engineering Committee on Vehicular Telematics
 * Member (2011), [ATIS](https://www.atis.org/) Machine-to-Machine Focus Group
 * Member (2010), 2011–2014 Strategic Plan, [U.S. Department of Transportation (DOT) Intelligent Transportation Systems (ITS) Standards Program](https://www.standards.its.dot.gov/)
+
 ## Publications
 ### Conference Papers
 * [J. S. Sadowsky](https://ieeexplore.ieee.org/author/38185179800), [S. L. Ariyavisitakul](https://ieeexplore.ieee.org/author/37349391000), [K. W. Lu](https://ieeexplore.ieee.org/author/37073296700), [E. R. Stauffer](https://ieeexplore.ieee.org/author/37296074200), [J. Wang](https://ieeexplore.ieee.org/author/37087155848), and [L. Zachararias](https://ieeexplore.ieee.org/author/37658945700), "[Interpolation distortion in large scale parameter maps for wireless system simulation](https://ieeexplore.ieee.org/document/6831691)," *2013 IEEE Global Communications Conference (GLOBECOM)*, Atlanta, GA, USA, 2013, pp. 3954-3958, doi: 10.1109/GLOCOM.2013.6831691.
