@@ -29,7 +29,7 @@ Stevens 2018-2019 Henry Morton Distinguished Teaching Professor Award
 * Member (2023), [Patent Committee](https://standards.ieee.org/about/sasb/patcom/) (PatCom)
 * Member (2020-2023), [Procedures Committee](https://standards.ieee.org/about/sasb/procom/) (ProCom)
 * Member (2017), [Standards Review Committee](https://standards.ieee.org/about/sasb/revcom/) (RevCom)
-* Member (2017-2020), Standards Education Committee (SEC)
+* Member (2017-2020), [Standards Education Committee](https://www.standardsuniversity.org/standards-education-committee/) (SEC)
 * Standards Coordinating Committee (SCC) Coordinator (2017-2018)
 
 ## Education
