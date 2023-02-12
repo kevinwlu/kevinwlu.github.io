@@ -34,6 +34,7 @@ Stevens 2018-2019 Henry Morton Distinguished Teaching Professor Award
 ## Education
 D.Sc. and M.S., Systems Science and Mathematics, [Washington University in St. Louis](https://wustl.edu/) \
 B.S., Control Engineering, [National Chiao Tung University](https://en.nycu.edu.tw/)
+
 ## Experience
 * Senior Principal Scientist, [Broadcom](https://www.broadcom.com/)
 * Chief Scientist, Executive Director, Director, Member of Technical Staff (MTS), [Bellcore/Telcordia](https://en.wikipedia.org/wiki/Iconectiv) Applied Research
@@ -52,12 +53,14 @@ B.S., Control Engineering, [National Chiao Tung University](https://en.nycu.edu.
 * [M. I. Eiger](https://ieeexplore.ieee.org/author/37402318000), H. L. Lemberg,  K. W. Lu, and S. S. Wagner, "[Cost analyses of emerging broadband fiber loop architectures](https://ieeexplore.ieee.org/document/49686)," *IEEE International Conference on Communications, World Prosperity Through Communications*, Boston, MA, USA, 1989, pp. 156-161 vol.1, doi: 10.1109/ICC.1989.49686.
 * K. W. Lu, [R. S. Wolff](https://www.montana.edu/rwolff/), and F. Gratzer, "[Installed first cost economics of fiber/broadband access to the home](https://ieeexplore.ieee.org/document/26089)," *IEEE Global Telecommunications Conference and Exhibition. Communications for the Information Age*, Hollywood, FL, USA, 1988, pp. 1584-1590 vol.3, doi: 10.1109/GLOCOM.1988.26089.
 * [G. Huang](https://scholars.library.tamu.edu/vivo/display/n8800928d/), K. W. Lu, and [J. Zaborszky](https://www.nae.edu/28317/Dr-John-Zaborszky), "[A texture model/algorithm for computationally efficient dispatch and control on the power system](https://ieeexplore.ieee.org/abstract/document/4048961)," *1986 25th IEEE Conference on Decision and Control*, Athens, Greece, 1986, pp. 1198-1205, doi: 10.1109/CDC.1986.267572.
+
 ### Journal Papers
 * X. Wu, S. Subramanian, R. Guha, R. G. White, J. Li, K. W. Lu, A. Bucceri, and T. Zhang, "[Vehicular communications using DSRC: challenges, enhancements, and evolution](https://ieeexplore.ieee.org/document/6550885)," in *IEEE Journal on Selected Areas in Communications*, vol. 31, no. 9, pp. 399-408, September 2013, doi: 10.1109/JSAC.2013.SUP.0513036.
 * S. C. Liew and K. W. Lu, "[A Framework for Characterizing Disaster-Based Network Survivability](https://ieeexplore.ieee.org/document/265704)," in *IEEE Journal on Selected Areas in Communications*, vol. 12, no. 1, pp. 52-58, Jan. 1994, doi: 10.1109/49.265704.
 * S. C. Liew and K. W. Lu, "[Comparison of buffer strategies for asymmetric packet switch modules](https://ieeexplore.ieee.org/document/76642)," in *IEEE Journal on Selected Areas in Communications*, vol. 9, no. 3, pp. 428-438, April 1991, doi: 10.1109/49.76642.
 * K. W. Lu, M. I. Eiger, and H. L. Lemberg, "[System and cost analyses of broad-band fiber loop architectures](https://ieeexplore.ieee.org/document/57809)," in *IEEE Journal on Selected Areas in Communications*, vol. 8, no. 6, pp. 1058-1067, Aug. 1990, doi: 10.1109/49.57809.
 * J. Zaborszky, G. Huang, and K. W. Lu, "[A textured model for computationally efficient reactive power control and management](https://ieeexplore.ieee.org/document/4113290)," in *IEEE Transactions on Power Apparatus and Systems*, vol. PAS-104, no. 7, pp. 1718-1727, July 1985, doi: 10.1109/TPAS.1985.319204.
+
 ### Magazine Articles
 * “All-in-one: making connected vehicles possible,” [ISO Focus+](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISO%20Focus%2b%20(2010-2013)/en/2012/ISO%20Focus%2b%2c%20February%202012.pdf), February 2012
 * S. C. Liew and K. W. Lu, "[New architectures for diversity in fiber loop networks](https://ieeexplore.ieee.org/document/41419)," in *IEEE Communications Magazine*, vol. 27, no. 12, pp. 31-37, Dec. 1989, doi: 10.1109/35.41419.
