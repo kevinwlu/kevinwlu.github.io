@@ -4,7 +4,8 @@
 [Kaggle](https://www.kaggle.com/kevinwlu) | 
 [LinkedIn](https://www.linkedin.com/in/kevinwlu) | 
 [Twitter](https://twitter.com/kevinwlu) |
-[Instagram](https://www.instagram.com/kevinwenlu/)
+[Instagram](https://www.instagram.com/kevinwenlu/) |
+[Devpost](https://devpost.com/kevinwenlu)
 
 ## [Stevens Institute of Technology](https://www.stevens.edu/)
 [Teaching Professor and Associate Chair for Undergraduate Studies](https://www.stevens.edu/profile/klu2),
