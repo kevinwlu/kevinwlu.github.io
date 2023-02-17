@@ -77,3 +77,23 @@ B.S. (1979), Control Engineering, [National Chiao Tung University](https://en.ny
 * [V. Bhargava](https://people.ece.ubc.ca/vijayb/), "[Raising COMSOC standards activities to new heights [President's Page],](https://ieeexplore.ieee.org/abstract/document/6194375)" in *IEEE Communications Magazine*, vol. 50, no. 5, pp. 6-10, May 2012, doi: 10.1109/MCOM.2012.6194375.
 * K. W. Lu, “[All-in-one: making connected vehicles possible](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISO%20Focus%2b%20(2010-2013)/en/2012/ISO%20Focus%2b%2c%20February%202012.pdf),” in *ISO Focus+*, vol. 3, no. 2, February 2012, pp. 23-25, [ISSN 2226-1095](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso-focusplus_2-12_content.pdf).
 * S. C. Liew and K. W. Lu, "[New architectures for diversity in fiber loop networks](https://ieeexplore.ieee.org/document/41419)," in *IEEE Communications Magazine*, vol. 27, no. 12, pp. 31-37, Dec. 1989, doi: 10.1109/35.41419.
+
+## Courses (Google Sites)
+* [Pre-College Program: Electrical and Computer Engineering](https://sites.google.com/view/ece-ecoes)
+* [Engineering Design VI](https://sites.google.com/view/ece322)
+* [Engineering Design VII-VIII](https://sites.google.com/view/ece423)
+* [Digital System Design](https://sites.google.com/view/ece487)
+* [Internet of Things](https://sites.google.com/view/ece629)
+* [Special Problem](https://sites.google.com/view/ece800)
+* [Thesis](https://sites.google.com/view/ece900)
+
+## Presentations (Google Slides)
+* [Balanced Skill Set](https://docs.google.com/presentation/d/153WdbX45X3mDv5xqPK3I9XluN-qWKLW9vqNKKk2y5kI)
+* [Careers in Industry](https://docs.google.com/presentation/d/106zGCupPAgWhLEW6l_BM_moIr_ZFnFw36kjqOi9m9q8)
+* [Ethics of Autonomous and Intelligent Systems](https://docs.google.com/presentation/d/1mvlRrR5tgnX2LDzR20_8J74wdCawYNp7Y1KuTh8QK3c)
+* [Hands-on Approach to Internet of Things](https://docs.google.com/presentation/d/1nW76PppJbi9WeeJnl-cxk0Al-DEN9r5vw4FR4d0fkYI)
+* [IEEE Writing Style](https://docs.google.com/presentation/d/1TIWfYpBYfumA1rgMLDP6UkM7fC9rC8EK4up3Q28t6MQ)
+* [Necessity and Serendipity of Invention and Innovation](https://docs.google.com/presentation/d/1hLaVNikDvlXs1PCG4ikN8zXegfyOYcp04XByzQSG864)
+* [Professional Writing Workshop](https://docs.google.com/presentation/d/1MxA8BNXht-iZBCjvJ132hFw8NCFqIsytRd7-xZcuoo8)
+* [Research Ethics](https://docs.google.com/presentation/d/17tJUBG1FEAJRNnsOmk7I3pOiPmfpcyCJATd_FuNYrto)
+* [Second Curve of Technology, Media, and Telecommunications](https://goo.gl/5wH7D7)
