@@ -28,6 +28,7 @@
 * [David A. Vaccari](https://www.stevens.edu/profile/dvaccari), "[The Barbed Quatrefoil Is a 1500-Year-Old Symbol of Architectural Advance](https://personal.stevens.edu/~dvaccari/Vaccari%20-%20Sancta%20Sophia.pdf)"
   * [Quatrefoil](https://en.wikipedia.org/wiki/Quatrefoil)
   * [Pendentive](https://en.wikipedia.org/wiki/Pendentive)
+  * [Shard](https://en.wikipedia.org/wiki/Shard_(database_architecture))
 * [IEEE Author Center](https://ieeeauthorcenter.ieee.org/)
   * [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
   * [Overleaf](https://en.wikipedia.org/wiki/Overleaf)
