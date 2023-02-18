@@ -36,10 +36,10 @@ Stevens 2018-2019 Henry Morton Distinguished Teaching Professor Award
 * Standards Coordinating Committee (SCC) Coordinator (2017-2018)
 ### [Wireless and Optical Communications Conference](https://www.wocc.org/) (WOCC)
 * Treasurer (2015-)
-* Chair (2007-2008)
-* Vice Chair (2006-2007)
-* Trustee (2005-2008)
 * President (2004-2005)
+* Board of Trustees (2005-2008)
+  * Chair (2007-2008)
+  * Vice Chair (2006-2007)
 
 ## Education
 D.Sc. (1984) and M.S. (1981), Systems Science and Mathematics, [Washington University in St. Louis](https://wustl.edu/) \
