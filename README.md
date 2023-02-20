@@ -23,6 +23,7 @@ Life Senior Member
 ### [Communications Society](https://www.comsoc.org/) (ComSoc) 
 * Chair (2012-2013) and Advisor (2014-2017), [Standards Development Board](https://www.comsoc.org/about/boards/standards-development-board) (SDB)
 * Member (2016-2023), ComSoc [Standardization Programs Development Board](https://www.comsoc.org/about/boards/standardization-programs-development-board) (SPDB)
+
 ### [IEEE Standards Association](https://standards.ieee.org/) (IEEE SA) 
 * Member (2016-2023), [Standards Board](https://standards.ieee.org/about/sasb/) (SASB)
 * Member (2016-2017), [Awards and Recognition Committee](https://standards.ieee.org/about/bog/arcom/) (ArCom)
@@ -34,6 +35,7 @@ Life Senior Member
 * Member (2017), [Standards Review Committee](https://standards.ieee.org/about/sasb/revcom/) (RevCom)
 * Member (2017-2020), [Standards Education Committee](https://www.standardsuniversity.org/standards-education-committee/) (SEC)
 * Standards Coordinating Committee (SCC) Coordinator (2017-2018)
+
 ### [Wireless and Optical Communications Conference](https://www.wocc.org/) (WOCC)
 * Treasurer (2015-)
 * Chair (2007-2008), Vice Chair (2006-2007), and Member (2005), Board of Trustees
