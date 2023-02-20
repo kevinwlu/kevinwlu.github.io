@@ -19,7 +19,7 @@ Stevens 2018-2019 Henry Morton Distinguished Teaching Professor Award
 * [Stevens Opens Doors to Record Number of New Faculty for Fall 2018](https://www.stevens.edu/news/stevens-opens-doors-record-number-new-faculty-fall-2018), September 7, 2018
 
 ## [IEEE](https://www.ieee.org/)
-* Life Senior Member
+Life Senior Member
 ### [Communications Society](https://www.comsoc.org/) (ComSoc) 
 * Chair (2012-2013) and Advisor (2014-2017), [Standards Development Board](https://www.comsoc.org/about/boards/standards-development-board) (SDB)
 * Member (2016-2023), ComSoc [Standardization Programs Development Board](https://www.comsoc.org/about/boards/standardization-programs-development-board) (SPDB)
