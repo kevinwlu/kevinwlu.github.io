@@ -37,7 +37,7 @@ Life Senior Member
 * Standards Coordinating Committee (SCC) Coordinator (2017-2018)
 
 ### [Wireless and Optical Communications Conference](https://www.wocc.org/) (WOCC)
-* Treasurer (2015-)
+* Treasurer (2015-2023)
 * Chair (2007-2008), Vice Chair (2006-2007), and Member (2005), Board of Trustees
 * President (2004-2005)
 
