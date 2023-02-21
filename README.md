@@ -34,6 +34,7 @@ Life Senior Member
 * Member (2020-2023), [Procedures Committee](https://standards.ieee.org/about/sasb/procom/) (ProCom)
 * Member (2017), [Standards Review Committee](https://standards.ieee.org/about/sasb/revcom/) (RevCom)
 * Member (2017-2020), [Standards Education Committee](https://www.standardsuniversity.org/standards-education-committee/) (SEC)
+* Member (2020-2023), [Strategic and Emerging Standards Committee](https://standards.ieee.org/wp-content/uploads/import/documents/other/SESCom-Operations_Manual.pdf) (SESCom)
 * Standards Coordinating Committee (SCC) Coordinator (2017-2018)
 
 ### [Wireless and Optical Communications Conference](https://www.wocc.org/) (WOCC)
