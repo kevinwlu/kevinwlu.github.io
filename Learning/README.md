@@ -7,12 +7,19 @@
   * [Universal Design for Learning](https://en.wikipedia.org/wiki/Universal_Design_for_Learning) (UDL)
   * [Knowledge graph](https://en.wikipedia.org/wiki/Knowledge_graph)
   * [Classification of Instructional Programs](https://en.wikipedia.org/wiki/Classification_of_Instructional_Programs) (CIP)
-    * 14.1001 Electrical and Electronics Engineering: A program that prepares individuals to apply mathematical and scientific principles to the design, development, and operational evaluation of electrical and electronic systems and their components, including electrical power generation systems; and the analysis of problems such as superconductor, wave propagation, energy storage and retrieval, and reception and amplification.
-    * 14.0901 Computer Engineering, General: A program that generally prepares individuals to apply mathematical and scientific principles to the design, development, and operational evaluation of computer hardware and software systems and related equipment and facilities; and the analysis of specific problems of computer applications to various tasks.
+    > 14.1001 Electrical and Electronics Engineering: A program that prepares individuals to apply mathematical and scientific principles to the design, development, and operational evaluation of electrical and electronic systems and their components, including electrical power generation systems; and the analysis of problems such as superconductor, wave propagation, energy storage and retrieval, and reception and amplification.\
+    > 14.0901 Computer Engineering, General: A program that generally prepares individuals to apply mathematical and scientific principles to the design, development, and operational evaluation of computer hardware and software systems and related equipment and facilities; and the analysis of specific problems of computer applications to various tasks.
+* [Samuel Ullman](https://en.wikipedia.org/wiki/Samuel_Ullman) 1840&mdash;1924, "[Youth](https://www.uab.edu/ullmanmuseum/)"
+* [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan) 1934&mdash;1996, "[The Age of Exploration](https://www.youtube.com/watch?v=6_-jtyhAVTc)," November 9, 1994
+  * [Extrasensory perception](https://en.wikipedia.org/wiki/Extrasensory_perception) (ESP)
+  * [Chauvinism](https://en.wikipedia.org/wiki/Chauvinism)
 * [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming) 1915&mdash;1998, "You and Your Research"
   * *[The Art of Doing Science and Engineering: Learning to Learn](http://worrydream.com/refs/Hamming-TheArtOfDoingScienceAndEngineering.pdf)*, Chapter 30, pp. 209-215, 1997  
   * [1986-03-07 Bellcore Colloquium](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
   * [1995-06-06 Naval Postgraduate School](https://www.youtube.com/watch?v=a1zDuOPkMSw)
+* [Randy Pausch](https://en.wikipedia.org/wiki/Randy_Pausch) 1960&mdash;2008, "[Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo)," September 18, 2007
+* [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) 1955&mdash;2011, [Steve Jobs Archive](https://stevejobsarchive.com/)
+* [Robert J. Waldinger](https://en.wikipedia.org/wiki/Robert_J._Waldinger), [Grant Study](https://en.wikipedia.org/wiki/Grant_Study)
 * [Barbara Oakley](https://en.wikipedia.org/wiki/Barbara_Oakley), *[Learning How to Learn](https://barbaraoakley.com/books/learning-how-to-learn/)*
   * [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
   * [Learning by teaching](https://en.wikipedia.org/wiki/Learning_by_teaching)
@@ -23,19 +30,12 @@
   * [Neurobiological effects of physical exercise](https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise)
 * [McGovern Institute for Brain Research](https://en.wikipedia.org/wiki/McGovern_Institute_for_Brain_Research)
   * [Diffusion-weighted magnetic resonance imaging](https://en.wikipedia.org/wiki/Diffusion_MRI) (DW-MRI)
-* [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan) 1934&mdash;1996, "[The Age of Exploration](https://www.youtube.com/watch?v=6_-jtyhAVTc)," November 9, 1994
-  * [Extrasensory perception](https://en.wikipedia.org/wiki/Extrasensory_perception) (ESP)
-  * [Chauvinism](https://en.wikipedia.org/wiki/Chauvinism)
 * [Irving Herman](http://www.columbia.edu/~iph1/herman.html), [The Laws of Herman](http://www.columbia.edu/~iph1/lawsofherman.htm)
-* [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) 1955&mdash;2011, [Steve Jobs Archive](https://stevejobsarchive.com/)
 * [Elizabeth Koch](https://en.wikipedia.org/wiki/Elizabeth_Koch_(publisher)), [Unlikely Collaborators](https://www.unlikelycollaborators.com/), [Tiny Blue Dot Foundation](https://www.tinybluedotfoundation.org/), and [Perception Box](https://www.tinybluedotfoundation.org/perception-box)
-* [Samuel Ullman](https://en.wikipedia.org/wiki/Samuel_Ullman) 1840&mdash;1924, "[Youth](https://www.uab.edu/ullmanmuseum/)"
 * [David A. Vaccari](https://www.stevens.edu/profile/dvaccari), "[The Barbed Quatrefoil Is a 1500-Year-Old Symbol of Architectural Advance](https://personal.stevens.edu/~dvaccari/Vaccari%20-%20Sancta%20Sophia.pdf)"
   * [Quatrefoil](https://en.wikipedia.org/wiki/Quatrefoil)
   * [Pendentive](https://en.wikipedia.org/wiki/Pendentive)
   * [Shard](https://en.wikipedia.org/wiki/Shard_(database_architecture))
-* [Randy Pausch](https://en.wikipedia.org/wiki/Randy_Pausch) 1960&mdash;2008, "[Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo)," September 18, 2007
-* [Robert J. Waldinger](https://en.wikipedia.org/wiki/Robert_J._Waldinger), [Grant Study](https://en.wikipedia.org/wiki/Grant_Study)
 * [IEEE Author Center](https://ieeeauthorcenter.ieee.org/)
   * [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
   * [Overleaf](https://en.wikipedia.org/wiki/Overleaf)
