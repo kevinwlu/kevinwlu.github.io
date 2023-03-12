@@ -5,7 +5,8 @@
 [LinkedIn](https://www.linkedin.com/in/kevinwlu) | 
 [Twitter](https://twitter.com/kevinwlu) |
 [Instagram](https://www.instagram.com/kevinwenlu/) |
-[Devpost](https://devpost.com/kevinwenlu)
+[Devpost](https://devpost.com/kevinwenlu)\
+Make time everyday for [learning](/learning)
 
 ## [Stevens Institute of Technology](https://www.stevens.edu/)
 [Teaching Professor and Associate Chair for Undergraduate Studies](https://www.stevens.edu/profile/klu2),
