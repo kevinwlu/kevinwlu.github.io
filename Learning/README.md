@@ -23,6 +23,7 @@
 * [Barbara Oakley](https://en.wikipedia.org/wiki/Barbara_Oakley), *[Learning How to Learn](https://barbaraoakley.com/books/learning-how-to-learn/)*
   * [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
   * [Learning by teaching](https://en.wikipedia.org/wiki/Learning_by_teaching)
+  * [Einstellung effect](https://en.wikipedia.org/wiki/Einstellung_effect)
 * Barbara Oakley, [Beth Rogowsky](https://www.bloomu.edu/people-directory/beth-rogowsky), and [Terry Sejnowski](https://en.wikipedia.org/wiki/Terry_Sejnowski), *[Uncommon Sense Teaching](https://barbaraoakley.com/books/uncommon-sense-teaching/)*
   * [Working memory](https://en.wikipedia.org/wiki/Working_memory)
   * [Long-term memory](https://en.wikipedia.org/wiki/Long-term_memory)
