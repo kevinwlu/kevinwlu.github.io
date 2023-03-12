@@ -1,5 +1,6 @@
 # Learning
 * [Instructional design](https://en.wikipedia.org/wiki/Instructional_design)
+  * [Modes of persuasion](https://en.wikipedia.org/wiki/Modes_of_persuasion)
   * [Active learning](https://en.wikipedia.org/wiki/Active_learning)
   * [Direct Instruction](https://en.wikipedia.org/wiki/Direct_instruction)
   * [Instructional scaffolding](https://en.wikipedia.org/wiki/Instructional_scaffolding)
