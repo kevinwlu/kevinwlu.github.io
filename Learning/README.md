@@ -24,6 +24,8 @@
 * [McGovern Institute for Brain Research](https://en.wikipedia.org/wiki/McGovern_Institute_for_Brain_Research)
   * [Diffusion-weighted magnetic resonance imaging](https://en.wikipedia.org/wiki/Diffusion_MRI) (DW-MRI)
 * [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan) 1934&mdash;1996, "[The Age of Exploration](https://www.youtube.com/watch?v=6_-jtyhAVTc)," November 9, 1994
+  * [Extrasensory perception](https://en.wikipedia.org/wiki/Extrasensory_perception) (ESP)
+  * [Chauvinism](https://en.wikipedia.org/wiki/Chauvinism)
 * [Irving Herman](http://www.columbia.edu/~iph1/herman.html), [The Laws of Herman](http://www.columbia.edu/~iph1/lawsofherman.htm)
 * [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) 1955&mdash;2011, [Steve Jobs Archive](https://stevejobsarchive.com/)
 * [Elizabeth Koch](https://en.wikipedia.org/wiki/Elizabeth_Koch_(publisher)), [Unlikely Collaborators](https://www.unlikelycollaborators.com/), [Tiny Blue Dot Foundation](https://www.tinybluedotfoundation.org/), and [Perception Box](https://www.tinybluedotfoundation.org/perception-box)
