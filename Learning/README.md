@@ -37,6 +37,12 @@
   * [Quatrefoil](https://en.wikipedia.org/wiki/Quatrefoil)
   * [Pendentive](https://en.wikipedia.org/wiki/Pendentive)
   * [Shard](https://en.wikipedia.org/wiki/Shard_(database_architecture))
+##
+  | [Emotional intelligence]() | Others' suffering | Others' happiness |
+  | :---: | :---: | :---: |
+  | Bring us suffering | [Empathy](https://en.wikipedia.org/wiki/Empathy) | [Envy](https://en.wikipedia.org/wiki/Envy) |
+  | Bring us hapiness | [Schadenfreude](https://en.wikipedia.org/wiki/Schadenfreude) | [Mudita](https://en.wikipedia.org/wiki/Mudita) |
+##
 * [IEEE Author Center](https://ieeeauthorcenter.ieee.org/)
   * [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
   * [Overleaf](https://en.wikipedia.org/wiki/Overleaf)
