@@ -31,7 +31,7 @@
   * [Quatrefoil](https://en.wikipedia.org/wiki/Quatrefoil)
   * [Pendentive](https://en.wikipedia.org/wiki/Pendentive)
   * [Shard](https://en.wikipedia.org/wiki/Shard_(database_architecture))
-* [Randy Pausch](https://en.wikipedia.org/wiki/Randy_Pausch), "[Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo)"
+* [Randy Pausch](https://en.wikipedia.org/wiki/Randy_Pausch) 1960&mdash;2008, "[Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo)," September 18, 2007
 * [Robert J. Waldinger](https://en.wikipedia.org/wiki/Robert_J._Waldinger), [Grant Study](https://en.wikipedia.org/wiki/Grant_Study)
 * [IEEE Author Center](https://ieeeauthorcenter.ieee.org/)
   * [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
