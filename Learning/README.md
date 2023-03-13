@@ -15,6 +15,7 @@
   * [Shard](https://en.wikipedia.org/wiki/Shard_(database_architecture))
 * [Samuel Ullman](https://en.wikipedia.org/wiki/Samuel_Ullman) 1840&mdash;1924, "[Youth](https://www.uab.edu/ullmanmuseum/)"
 * [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan) 1934&mdash;1996, "[The Age of Exploration](https://www.youtube.com/watch?v=6_-jtyhAVTc)," November 9, 1994
+  * [Evidence of absence](https://en.wikipedia.org/wiki/Evidence_of_absence)
   * [Extrasensory perception](https://en.wikipedia.org/wiki/Extrasensory_perception) (ESP)
   * [Chauvinism](https://en.wikipedia.org/wiki/Chauvinism)
 * [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming) 1915&mdash;1998, "You and Your Research"
