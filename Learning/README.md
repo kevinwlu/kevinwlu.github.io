@@ -32,6 +32,11 @@
   * [Learning by teaching](https://en.wikipedia.org/wiki/Learning_by_teaching)
   * [Einstellung effect](https://en.wikipedia.org/wiki/Einstellung_effect)
 * Barbara Oakley, [Beth Rogowsky](https://www.bloomu.edu/people-directory/beth-rogowsky), and [Terry Sejnowski](https://en.wikipedia.org/wiki/Terry_Sejnowski), *[Uncommon Sense Teaching](https://barbaraoakley.com/books/uncommon-sense-teaching/)*
+  * [Neuron](https://en.wikipedia.org/wiki/Neuron)
+  * [Soma](https://en.wikipedia.org/wiki/Soma_(biology))
+  * [Dendrite](https://en.wikipedia.org/wiki/Dendrite)
+  * [Axon](https://en.wikipedia.org/wiki/Axon)
+  * [Synapse](https://en.wikipedia.org/wiki/Synapse)
   * [Working memory](https://en.wikipedia.org/wiki/Working_memory)
   * [Long-term memory](https://en.wikipedia.org/wiki/Long-term_memory)
   * [Brain-derived neurotrophic factor](https://en.wikipedia.org/wiki/Brain-derived_neurotrophic_factor) (BDNF)
