@@ -92,8 +92,10 @@ B.S. (1979), Control Engineering, [National Chiao Tung University](https://en.ny
 * [Pre-College Program: Electrical and Computer Engineering](https://sites.google.com/view/ece-ecoes)
 * [Engineering Design VI](https://sites.google.com/view/ece322)
 * [Engineering Design VII-VIII](https://sites.google.com/view/ece423)
-* [Digital System Design](https://sites.google.com/view/ece487)
-* [Internet of Things](https://sites.google.com/view/ece629)
+* [Digital System Design](https://sites.google.com/view/ece487) (DSD)
+  * [GitHub repository](https://github.com/kevinwlu/dsd)
+* [Internet of Things](https://sites.google.com/view/ece629) (IoT)
+  * [GitHub repository](https://github.com/kevinwlu/iot)
 * [Special Problem](https://sites.google.com/view/ece800)
 * [Thesis](https://sites.google.com/view/ece900)
 
