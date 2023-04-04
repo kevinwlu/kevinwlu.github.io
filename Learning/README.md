@@ -32,6 +32,7 @@
   * [Learning by teaching](https://en.wikipedia.org/wiki/Learning_by_teaching)
   * [Einstellung effect](https://en.wikipedia.org/wiki/Einstellung_effect)
 * Barbara Oakley, [Beth Rogowsky](https://www.bloomu.edu/people-directory/beth-rogowsky), and [Terry Sejnowski](https://en.wikipedia.org/wiki/Terry_Sejnowski), *[Uncommon Sense Teaching](https://barbaraoakley.com/books/uncommon-sense-teaching/)*
+  * [Neuroscience](https://en.wikipedia.org/wiki/Neuroscience)
   * [Neuron](https://en.wikipedia.org/wiki/Neuron)
   * [Soma](https://en.wikipedia.org/wiki/Soma_(biology))
   * [Dendrite](https://en.wikipedia.org/wiki/Dendrite)
@@ -44,8 +45,8 @@
 * [McGovern Institute for Brain Research](https://en.wikipedia.org/wiki/McGovern_Institute_for_Brain_Research)
   * [Diffusion-weighted magnetic resonance imaging](https://en.wikipedia.org/wiki/Diffusion_MRI) (DW-MRI)
 * [Elizabeth Koch](https://en.wikipedia.org/wiki/Elizabeth_Koch_(publisher)), [Unlikely Collaborators](https://www.unlikelycollaborators.com/), [Tiny Blue Dot Foundation](https://www.tinybluedotfoundation.org/), and [Perception Box](https://www.tinybluedotfoundation.org/perception-box)
-
-##
+* [Soft skills](https://en.wikipedia.org/wiki/Soft_skills)
+## 
   | [Emotional intelligence](https://en.wikipedia.org/wiki/Emotional_intelligence) | Others' suffering | Others' happiness |
   | :---: | :---: | :---: |
   | Bring us suffering | [Empathy](https://en.wikipedia.org/wiki/Empathy) | [Envy](https://en.wikipedia.org/wiki/Envy) |
