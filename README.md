@@ -89,7 +89,7 @@ B.S. (1979), Control Engineering, [National Chiao Tung University](https://en.ny
 * S. C. Liew and K. W. Lu, "[New architectures for diversity in fiber loop networks](https://ieeexplore.ieee.org/document/41419)," in *IEEE Communications Magazine*, vol. 27, no. 12, pp. 31-37, Dec. 1989, doi: 10.1109/35.41419.
 
 ## Courses (Google Sites)
-* [Pre-College Program: Electrical and Computer Engineering](https://sites.google.com/view/ece-ecoes)
+* [Pre-College Program: Electrical and Computer Engineering (ECE)](https://sites.google.com/view/ece-ecoes)
 * [ECE Orientation](https://sites.google.com/view/ece-orientation/)
 * [Engineering Design VI](https://sites.google.com/view/ece322)
 * [Engineering Design VII-VIII](https://sites.google.com/view/ece423)
