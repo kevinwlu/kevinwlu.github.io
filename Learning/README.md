@@ -26,7 +26,7 @@
 * [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) 1955&mdash;2011, [Steve Jobs Archive](https://stevejobsarchive.com/)
 * [Robert J. Waldinger](https://en.wikipedia.org/wiki/Robert_J._Waldinger), [Grant Study](https://en.wikipedia.org/wiki/Grant_Study)
 
-##
+## Neuroscience
 * [Barbara Oakley](https://en.wikipedia.org/wiki/Barbara_Oakley), *[Learning How to Learn](https://barbaraoakley.com/books/learning-how-to-learn/)*
   * [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
   * [Learning by teaching](https://en.wikipedia.org/wiki/Learning_by_teaching)
@@ -51,7 +51,7 @@
   | Bring us suffering | [Empathy](https://en.wikipedia.org/wiki/Empathy) | [Envy](https://en.wikipedia.org/wiki/Envy) |
   | Bring us hapiness | [Schadenfreude](https://en.wikipedia.org/wiki/Schadenfreude) | [Mudita](https://en.wikipedia.org/wiki/Mudita) |
 
-##
+## Method
 * [Ansatz](https://en.wikipedia.org/wiki/Ansatz)
 * [Back-of-the-envelope calculation](https://en.wikipedia.org/wiki/Back-of-the-envelope_calculation)
 * [Guesstimate](https://en.wikipedia.org/wiki/Guesstimate)
