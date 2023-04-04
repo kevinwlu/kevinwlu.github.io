@@ -90,6 +90,7 @@ B.S. (1979), Control Engineering, [National Chiao Tung University](https://en.ny
 
 ## Courses (Google Sites)
 * [Pre-College Program: Electrical and Computer Engineering](https://sites.google.com/view/ece-ecoes)
+* [ECE Orientation](https://sites.google.com/view/ece-orientation/)
 * [Engineering Design VI](https://sites.google.com/view/ece322)
 * [Engineering Design VII-VIII](https://sites.google.com/view/ece423)
 * [Digital System Design](https://sites.google.com/view/ece487) (DSD)
