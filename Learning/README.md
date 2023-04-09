@@ -1,4 +1,5 @@
 # Learning
+* [Learning](https://en.wikipedia.org/wiki/Learning)
 * [Lifelong learning](https://en.wikipedia.org/wiki/Lifelong_learning)
 * [Hyperlearning](https://en.wiktionary.org/wiki/hyperlearning) (HL)
   * [Lewis J. Perelman](http://www.perelman.net/), *[School’s Out: Hyperlearning, the New Technology, and the End of Education](https://books.google.com/books/about/School_s_Out.html?id=cLycAAAAMAAJ)*, [William Morrow](https://en.wikipedia.org/wiki/William_Morrow_and_Company), 1992
