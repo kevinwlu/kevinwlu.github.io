@@ -2,6 +2,9 @@
 * [Instructional design](https://en.wikipedia.org/wiki/Instructional_design)
   * [Modes of persuasion](https://en.wikipedia.org/wiki/Modes_of_persuasion)
   * [Active learning](https://en.wikipedia.org/wiki/Active_learning)
+  * [Hyperlearning](https://en.wiktionary.org/wiki/hyperlearning) (HL)
+    * [Lewis J. Perelman](http://www.perelman.net/), *School’s Out: Hyperlearning, the New Technology, and the End of Education*, [William Morrow](https://en.wikipedia.org/wiki/William_Morrow_and_Company), 1992
+    * [Edward D. Hess](https://en.wikipedia.org/wiki/Edward_D._Hess), *[Hyper-Learning: How to Adapt to the Speed of Change](https://www.edhess.org/)*, 2020
   * [Direct Instruction](https://en.wikipedia.org/wiki/Direct_instruction)
   * [Instructional scaffolding](https://en.wikipedia.org/wiki/Instructional_scaffolding)
   * [Universal Design for Learning](https://en.wikipedia.org/wiki/Universal_Design_for_Learning) (UDL)
