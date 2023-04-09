@@ -3,8 +3,11 @@
   * [Modes of persuasion](https://en.wikipedia.org/wiki/Modes_of_persuasion)
   * [Active learning](https://en.wikipedia.org/wiki/Active_learning)
   * [Hyperlearning](https://en.wiktionary.org/wiki/hyperlearning) (HL)
-    * [Lewis J. Perelman](http://www.perelman.net/), *School’s Out: Hyperlearning, the New Technology, and the End of Education*, [William Morrow](https://en.wikipedia.org/wiki/William_Morrow_and_Company), 1992
+    * [Lewis J. Perelman](http://www.perelman.net/), *[School’s Out: Hyperlearning, the New Technology, and the End of Education](https://books.google.com/books/about/School_s_Out.html?id=cLycAAAAMAAJ)*, [William Morrow](https://en.wikipedia.org/wiki/William_Morrow_and_Company), 1992
     * [Edward D. Hess](https://en.wikipedia.org/wiki/Edward_D._Hess), *[Hyper-Learning: How to Adapt to the Speed of Change](https://www.edhess.org/)*, 2020
+  * []()
+    * [Ian Morrison](https://ianmorrison.com/311/), *[The Second Curve: Managing the Velocity of Change](https://books.google.com/books/about/The_Second_Curve.html?id=jF3VUVY3CocC)*, [Nicholas Brealey](https://nbuspublishing.com/), 1996
+    * [Charles Handy](https://en.wikipedia.org/wiki/Charles_Handy), *[The Second Curve: Thoughts on Reinventing Society](https://books.google.com/books/about/The_Second_Curve.html?id=yztOBQAAQBAJ)*, [Random House](https://en.wikipedia.org/wiki/Random_House) 2015
   * [Direct Instruction](https://en.wikipedia.org/wiki/Direct_instruction)
   * [Instructional scaffolding](https://en.wikipedia.org/wiki/Instructional_scaffolding)
   * [Universal Design for Learning](https://en.wikipedia.org/wiki/Universal_Design_for_Learning) (UDL)
