@@ -7,6 +7,7 @@
   * [Ian Morrison](https://ianmorrison.com/311/), *[The Second Curve: Managing the Velocity of Change](https://books.google.com/books/about/The_Second_Curve.html?id=jF3VUVY3CocC)*, [Nicholas Brealey](https://nbuspublishing.com/), 1996
   * [Charles Handy](https://en.wikipedia.org/wiki/Charles_Handy), *[The Second Curve: Thoughts on Reinventing Society](https://books.google.com/books/about/The_Second_Curve.html?id=yztOBQAAQBAJ)*, [Random House](https://en.wikipedia.org/wiki/Random_House), 2015
 * [Instructional design](https://en.wikipedia.org/wiki/Instructional_design)
+  * [Pedagogy](https://en.wikipedia.org/wiki/Pedagogy)
   * [Active learning](https://en.wikipedia.org/wiki/Active_learning)
   * [Student-centered learning](https://en.wikipedia.org/wiki/Student-centered_learning)
   * [Modes of persuasion](https://en.wikipedia.org/wiki/Modes_of_persuasion)
@@ -14,6 +15,7 @@
   * [Instructional scaffolding](https://en.wikipedia.org/wiki/Instructional_scaffolding)
   * [Universal Design for Learning](https://en.wikipedia.org/wiki/Universal_Design_for_Learning) (UDL)
   * [Knowledge graph](https://en.wikipedia.org/wiki/Knowledge_graph)
+  * [Bloom's taxonomy](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy)
   * [Classification of Instructional Programs](https://en.wikipedia.org/wiki/Classification_of_Instructional_Programs) (CIP)
     > 14.1001 Electrical and Electronics Engineering: A program that prepares individuals to apply mathematical and scientific principles to the design, development, and operational evaluation of electrical and electronic systems and their components, including electrical power generation systems; and the analysis of problems such as superconductor, wave propagation, energy storage and retrieval, and reception and amplification.\
     > 14.0901 Computer Engineering, General: A program that generally prepares individuals to apply mathematical and scientific principles to the design, development, and operational evaluation of computer hardware and software systems and related equipment and facilities; and the analysis of specific problems of computer applications to various tasks.
