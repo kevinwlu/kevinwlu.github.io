@@ -87,7 +87,7 @@
 * [IEEE Author Center](https://ieeeauthorcenter.ieee.org/)
   * [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
   * [Overleaf](https://en.wikipedia.org/wiki/Overleaf)
-  * [IEEE Editorial Style Manual for Authors](https://journals.ieeeauthorcenter.ieee.org/your-role-in-article-production/ieee-editorial-style-manual/) plus Mathematics Guide and Reference Guide
+  * [*IEEE Editorial Style Manual for Authors*](https://journals.ieeeauthorcenter.ieee.org/your-role-in-article-production/ieee-editorial-style-manual/) plus *IEEE Mathematics Guide* and *IEEE Reference Guide*
   * [Digital object identifier](https://en.wikipedia.org/wiki/Digital_object_identifier) (DOI)
   * [IEEE Publishing Ethics](https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/)
 * [Free and open-source software](https://en.wikipedia.org/wiki/Free_and_open-source_software)
