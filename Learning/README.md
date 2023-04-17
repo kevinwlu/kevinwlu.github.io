@@ -7,6 +7,7 @@
   * [Ian Morrison](https://ianmorrison.com/311/), *[The Second Curve: Managing the Velocity of Change](https://books.google.com/books/about/The_Second_Curve.html?id=jF3VUVY3CocC)*, [Nicholas Brealey](https://nbuspublishing.com/), 1996
   * [Charles Handy](https://en.wikipedia.org/wiki/Charles_Handy), *[The Second Curve: Thoughts on Reinventing Society](https://books.google.com/books/about/The_Second_Curve.html?id=yztOBQAAQBAJ)*, [Random House](https://en.wikipedia.org/wiki/Random_House), 2015
 * [Microlearning](https://en.wikipedia.org/wiki/Microlearning)
+* [Nanolearning](https://www.digitallearninginstitute.com/blog/what-is-nano-learning/)
 * [Instructional design](https://en.wikipedia.org/wiki/Instructional_design)
   * [Pedagogy](https://en.wikipedia.org/wiki/Pedagogy)
   * [Active learning](https://en.wikipedia.org/wiki/Active_learning)
