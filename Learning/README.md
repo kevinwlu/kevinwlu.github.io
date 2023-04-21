@@ -1,7 +1,7 @@
 # Learning
 * [Learning](https://en.wikipedia.org/wiki/Learning)
 * [Lifelong learning](https://en.wikipedia.org/wiki/Lifelong_learning)
-  * [Daniel T. Willingham](https://en.wikipedia.org/wiki/Daniel_T._Willingham)
+  * [Daniel T. Willingham](https://en.wikipedia.org/wiki/Daniel_T._Willingham), [Science and Education](http://www.danielwillingham.com/)
 * [Hyperlearning](https://en.wiktionary.org/wiki/hyperlearning) (HL)
   * [Lewis J. Perelman](http://www.perelman.net/), *[School’s Out: Hyperlearning, the New Technology, and the End of Education](https://books.google.com/books/about/School_s_Out.html?id=cLycAAAAMAAJ)*, [William Morrow](https://en.wikipedia.org/wiki/William_Morrow_and_Company), 1992
   * [Edward D. Hess](https://en.wikipedia.org/wiki/Edward_D._Hess), *[Hyper-Learning: How to Adapt to the Speed of Change](https://www.edhess.org/)*, 2020
