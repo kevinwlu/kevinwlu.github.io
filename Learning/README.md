@@ -45,10 +45,11 @@
 * [Randy Pausch](https://en.wikipedia.org/wiki/Randy_Pausch) 1960&mdash;2008, "[Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo)," September 18, 2007
 * [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) 1955&mdash;2011, [Steve Jobs Archive](https://stevejobsarchive.com/)
 * [Robert J. Waldinger](https://en.wikipedia.org/wiki/Robert_J._Waldinger), [Grant Study](https://en.wikipedia.org/wiki/Grant_Study)
-* [Dr. Jordan Metzl](https://drjordanmetzl.com/), [A Prescription for Healthy Movement](https://www.youtube.com/watch?v=5FFGfPSsMpo)
+* [Jordan Metzl](https://drjordanmetzl.com/), [A Prescription for Healthy Movement](https://www.youtube.com/watch?v=5FFGfPSsMpo)
   * [Burpee](https://en.wikipedia.org/wiki/Burpee_(exercise))
   * [Plank](https://en.wikipedia.org/wiki/Plank_(exercise))
   * [Plymouth Rock](https://en.wikipedia.org/wiki/Plymouth_Rock)
+* [Esther Gokhale](https://gokhalemethod.com/), [Gokhale Method](https://en.wikipedia.org/wiki/Gokhale_Method)
 
 ## Neuroscience
 * [Barbara Oakley](https://en.wikipedia.org/wiki/Barbara_Oakley), *[Learning How to Learn](https://barbaraoakley.com/books/learning-how-to-learn/)*
