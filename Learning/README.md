@@ -47,6 +47,7 @@
 * [Robert J. Waldinger](https://en.wikipedia.org/wiki/Robert_J._Waldinger), [Grant Study](https://en.wikipedia.org/wiki/Grant_Study)
 * [Dr. Jordan Metzl](https://drjordanmetzl.com/), [A Prescription for Healthy Movement](https://www.youtube.com/watch?v=5FFGfPSsMpo)
   * [Burpee](https://en.wikipedia.org/wiki/Burpee_(exercise))
+  * [Plank](https://en.wikipedia.org/wiki/Plank_(exercise))
   * [Plymouth Rock](https://en.wikipedia.org/wiki/Plymouth_Rock)
 
 ## Neuroscience
