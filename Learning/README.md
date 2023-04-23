@@ -42,7 +42,8 @@
   * *[The Art of Doing Science and Engineering: Learning to Learn](http://worrydream.com/refs/Hamming-TheArtOfDoingScienceAndEngineering.pdf)*, Chapter 30, pp. 209-215, 1997  
   * [1986-03-07 Bellcore Colloquium](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
   * [1995-06-06 Naval Postgraduate School](https://www.youtube.com/watch?v=a1zDuOPkMSw)
-* [Randy Pausch](https://en.wikipedia.org/wiki/Randy_Pausch) 1960&mdash;2008, "[*Last Lecture: Achieving Your Childhood Dreams*](https://www.youtube.com/watch?v=ji5_MqicxSo)," September 18, 2007
+* [Randy Pausch](https://en.wikipedia.org/wiki/Randy_Pausch) 1960&mdash;2008, "[*The Last Lecture: Achieving Your Childhood Dreams*](https://www.youtube.com/watch?v=ji5_MqicxSo)," September 18, 2007
+  * [*The Last Lecture*](https://en.wikipedia.org/wiki/The_Last_Lecture), 2008
   * [Alphonse Daudet](https://en.wikipedia.org/wiki/Alphonse_Daudet) 1840&mdash;1897, [*The Last Lesson*](https://en.wikisource.org/wiki/The_Last_Lesson)
 * [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) 1955&mdash;2011, [Steve Jobs Archive](https://stevejobsarchive.com/)
 
