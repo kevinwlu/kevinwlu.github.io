@@ -34,16 +34,16 @@
   * [Pendentive](https://en.wikipedia.org/wiki/Pendentive)
   * [Shard](https://en.wikipedia.org/wiki/Shard_(database_architecture))
 * [Samuel Ullman](https://en.wikipedia.org/wiki/Samuel_Ullman) 1840&mdash;1924, "[Youth](https://www.uab.edu/ullmanmuseum/)"
-* [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan) 1934&mdash;1996, *[The Age of Exploration](https://www.youtube.com/watch?v=6_-jtyhAVTc)*, November 9, 1994
+* [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan) 1934&mdash;1996, *[The Age of Exploration](https://www.youtube.com/watch?v=6_-jtyhAVTc)*, November 9, 1994 [Online Video]
   * [Evidence of absence](https://en.wikipedia.org/wiki/Evidence_of_absence)
   * [Extrasensory perception](https://en.wikipedia.org/wiki/Extrasensory_perception) (ESP)
   * [Chauvinism](https://en.wikipedia.org/wiki/Chauvinism)
 * [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming) 1915&mdash;1998, "You and Your Research"
   * *[The Art of Doing Science and Engineering: Learning to Learn](http://worrydream.com/refs/Hamming-TheArtOfDoingScienceAndEngineering.pdf)*, Chapter 30, pp. 209-215, 1997  
   * [1986-03-07 Bellcore Colloquium](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
-  * [1995-06-06 Naval Postgraduate School](https://www.youtube.com/watch?v=a1zDuOPkMSw)
+  * [1995-06-06 Naval Postgraduate School](https://www.youtube.com/watch?v=a1zDuOPkMSw) [Online Video]
 * [Randy Pausch](https://en.wikipedia.org/wiki/Randy_Pausch) 1960&mdash;2008 and [Jeffrey Zaslow](https://en.wikipedia.org/wiki/Jeffrey_Zaslow) 1958&mdash;2012, *[The Last Lecture](https://en.wikipedia.org/wiki/The_Last_Lecture)*, 2008
-  * Randy Pausch, *[The Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo)*, September 18, 2007
+  * Randy Pausch, *[The Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo)*, September 18, 2007 [Online Video]
   * [Alphonse Daudet](https://en.wikipedia.org/wiki/Alphonse_Daudet) 1840&mdash;1897, *[The Last Lesson](https://en.wikisource.org/wiki/The_Last_Lesson)*
 * [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) 1955&mdash;2011, [Steve Jobs Archive](https://stevejobsarchive.com/)
 
