@@ -43,6 +43,7 @@
   * [1986-03-07 Bellcore Colloquium](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
   * [1995-06-06 Naval Postgraduate School](https://www.youtube.com/watch?v=a1zDuOPkMSw)
 * [Randy Pausch](https://en.wikipedia.org/wiki/Randy_Pausch) 1960&mdash;2008, "[Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo)," September 18, 2007
+  * [Alphonse Daudet](https://en.wikipedia.org/wiki/Alphonse_Daudet) 1840&mdash;1897, [*The Last Lesson*](https://en.wikisource.org/wiki/The_Last_Lesson)
 * [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) 1955&mdash;2011, [Steve Jobs Archive](https://stevejobsarchive.com/)
 
 ## Bodymind
