@@ -28,7 +28,7 @@ Life Senior Member\
 * Member (2016-2023), ComSoc [Standardization Programs Development Board](https://www.comsoc.org/about/boards/standardization-programs-development-board) (SPDB)
 
 ### [IEEE Standards Association](https://standards.ieee.org/) (IEEE SA) 
-[IEEE SA Events](https://standards.ieee.org/events/)
+* [IEEE SA Events](https://standards.ieee.org/events/)
 * Member (2016-2023), [Standards Board](https://standards.ieee.org/about/sasb/) (SASB)
 * Member (2016-2017), [Awards and Recognition Committee](https://standards.ieee.org/about/bog/arcom/) (ArCom)
 * Chair (2021-2023), Member (2019-2020), [Audit Committee](https://standards.ieee.org/about/sasb/audcom/) (AudCom)
