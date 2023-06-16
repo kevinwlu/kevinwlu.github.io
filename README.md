@@ -12,6 +12,7 @@ Make time everyday for [learning](/Learning)
 [Teaching Professor and Associate Chair for Undergraduate Studies](https://www.stevens.edu/profile/klu2),
 [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering) (ECE) \
 Stevens 2018-2019 Henry Morton Distinguished Teaching Professor Award
+* [Circle Optics Company News](https://circleoptics.com/insight-from-stevens-institute-professor-kevin-lu/), June 15, 2023
 * [Rediscovering the Language of Family Connections](https://www.stevens.edu/news/rediscovering-the-language-of-family-connections), May 19, 2023
 * [Seniors Design Intelligent Greenhouse to Grow a More Sustainable Food Supply](https://www.stevens.edu/news/seniors-design-intelligent-greenhouse-grow-more-sustainable-food-supply), June 3, 2022
 * [Pick 6: Six Reasons You Need to Attend Stevens Institute of Technology’s 2022 Innovation Expo on April 29
