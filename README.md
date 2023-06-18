@@ -34,7 +34,7 @@ Life Senior Member\
 * Member (2016-2023), [Standards Board](https://standards.ieee.org/about/sasb/) (SASB)
 * Member (2016-2017), [Awards and Recognition Committee](https://standards.ieee.org/about/bog/arcom/) (ArCom)
 * Chair (2021-2023), Member (2019-2020), [Audit Committee](https://standards.ieee.org/about/sasb/audcom/) (AudCom)
-* Non-voting member (2023), [Entity Collaborative Activities Governance Board](https://standards.ieee.org/about/bog/cag/) (CAG)
+* Non-Voting Member (2023), [Entity Collaborative Activities Governance Board](https://standards.ieee.org/about/bog/cag/) (CAG)
 * Chair (2018-2023), Member (2016-2017), [Industry Connections Committee](https://standards.ieee.org/about/bog/iccom/) (ICCom)
 * Member (2013-2016, 2018-2019), [New Standards Committee](https://standards.ieee.org/about/sasb/nescom/) (NesCom)
 * Member (2023), [Patent Committee](https://standards.ieee.org/about/sasb/patcom/) (PatCom)
