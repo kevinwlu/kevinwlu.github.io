@@ -17,6 +17,8 @@
 * [Educational technology](https://en.wikipedia.org/wiki/Educational_technology)
 * [Education 2.0 Conference](https://www.education2conf.com/)
 * [Education 3.0](https://en.wikipedia.org/wiki/Education_3.0)
+* [Accreditation Board for Engineering and Technology](https://en.wikipedia.org/wiki/ABET) (ABET)
+* [Middle States Commission on Higher Education](https://en.wikipedia.org/wiki/Middle_States_Commission_on_Higher_Education) (MSCHE)
 * [JASON Project](https://en.wikipedia.org/wiki/JASON_Project)
   * [Jason remotely operated vehicle](https://en.wikipedia.org/wiki/Jason_(ROV)) (ROV)
 * [Instructional design](https://en.wikipedia.org/wiki/Instructional_design)
