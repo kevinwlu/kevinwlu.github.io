@@ -81,6 +81,8 @@
   * [Long-term memory](https://en.wikipedia.org/wiki/Long-term_memory)
   * [Brain-derived neurotrophic factor](https://en.wikipedia.org/wiki/Brain-derived_neurotrophic_factor) (BDNF)
   * [Neurobiological effects of physical exercise](https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise)
+  * [Dopamine](https://en.wikipedia.org/wiki/Dopamine)
+  * [Endorphins](https://en.wikipedia.org/wiki/Endorphins)
 * [McGovern Institute for Brain Research](https://en.wikipedia.org/wiki/McGovern_Institute_for_Brain_Research)
   * [Diffusion-weighted magnetic resonance imaging](https://en.wikipedia.org/wiki/Diffusion_MRI) (DW-MRI)
 * [Elizabeth Koch](https://en.wikipedia.org/wiki/Elizabeth_Koch_(publisher)), [Unlikely Collaborators](https://www.unlikelycollaborators.com/), [Tiny Blue Dot Foundation](https://www.tinybluedotfoundation.org/), and [Perception Box](https://www.tinybluedotfoundation.org/perception-box)
