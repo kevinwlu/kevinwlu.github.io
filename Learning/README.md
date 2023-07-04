@@ -55,6 +55,14 @@
   * [Alphonse Daudet](https://en.wikipedia.org/wiki/Alphonse_Daudet) 1840&mdash;1897, *[The Last Lesson](https://en.wikisource.org/wiki/The_Last_Lesson)*
 * [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) 1955&mdash;2011, [Steve Jobs Archive](https://stevejobsarchive.com/)
 
+## Astronomy
+* [Causal sets](https://en.wikipedia.org/wiki/Causal_sets)
+* [Cosmic microwave background](https://en.wikipedia.org/wiki/Cosmic_microwave_background)
+* [Gravitational wave](https://en.wikipedia.org/wiki/Gravitational_wave)
+* [Hubble–Lemaître law](https://en.wikipedia.org/wiki/Hubble%27s_law)
+* [Planck units](https://en.wikipedia.org/wiki/Planck_units)
+* [White hole](https://en.wikipedia.org/wiki/White_hole)
+
 ## Bodymind
 * [Bodymind](https://en.wikipedia.org/wiki/Bodymind)
 * [Robert J. Waldinger](https://en.wikipedia.org/wiki/Robert_J._Waldinger), [Grant Study](https://en.wikipedia.org/wiki/Grant_Study)
