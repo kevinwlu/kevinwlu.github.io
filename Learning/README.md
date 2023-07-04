@@ -59,10 +59,13 @@
 * [Carrington Event](https://en.wikipedia.org/wiki/Carrington_Event)
 * [Causal sets](https://en.wikipedia.org/wiki/Causal_sets)
 * [Cosmic microwave background](https://en.wikipedia.org/wiki/Cosmic_microwave_background)
+* [Dark matter](https://en.wikipedia.org/wiki/Dark_matter)
 * [Gravitational wave](https://en.wikipedia.org/wiki/Gravitational_wave)
 * [Hubble–Lemaître law](https://en.wikipedia.org/wiki/Hubble%27s_law)
 * [Planck units](https://en.wikipedia.org/wiki/Planck_units)
+* [String theory](https://en.wikipedia.org/wiki/String_theory)
 * [White hole](https://en.wikipedia.org/wiki/White_hole)
+* [Wormhole](https://en.wikipedia.org/wiki/Wormhole)
 
 ## Bodymind
 * [Bodymind](https://en.wikipedia.org/wiki/Bodymind)
