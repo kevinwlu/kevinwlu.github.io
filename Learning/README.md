@@ -56,6 +56,7 @@
 * [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) 1955&mdash;2011, [Steve Jobs Archive](https://stevejobsarchive.com/)
 
 ## Astronomy
+* [StarTalk](https://www.youtube.com/@StarTalk) by [Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson)
 * [Carrington Event](https://en.wikipedia.org/wiki/Carrington_Event)
 * [Causal sets](https://en.wikipedia.org/wiki/Causal_sets)
 * [Cosmic microwave background](https://en.wikipedia.org/wiki/Cosmic_microwave_background)
