@@ -51,6 +51,7 @@ Life Senior Member\
 
 ## Education
 D.Sc. (1984) and M.S. (1981), Systems Science and Mathematics, [Washington University in St. Louis](https://wustl.edu/) \
+Dissertation: *A Textured Model and Its Uses in Reactive Power Management and Control* \
 B.S. (1979), Control Engineering, [National Chiao Tung University](https://en.nycu.edu.tw/)
 
 ## Experience
