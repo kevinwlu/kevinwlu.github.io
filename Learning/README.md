@@ -146,6 +146,7 @@
   * [GitHub Pages](https://pages.github.com/)
   * [Jekyll](https://en.wikipedia.org/wiki/Jekyll_(software))
   * [GitHub Copilot](https://copilot.github.com/)
+  * [GitHub Actions](https://docs.github.com/en/actions)
   * [Git Large File Storage (LFS)](https://git-lfs.github.com/)
 * [Comparison of source-code-hosting facilities](https://en.wikipedia.org/wiki/Comparison_of_source-code-hosting_facilities)
   * [Bitbucket](https://en.wikipedia.org/wiki/Bitbucket) was acquired by [Atlassian](https://en.wikipedia.org/wiki/Atlassian) in 2010
