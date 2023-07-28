@@ -150,6 +150,7 @@
   * [GitHub Copilot](https://copilot.github.com/)
   * [GitHub Actions](https://docs.github.com/en/actions)
   * [Git Large File Storage (LFS)](https://git-lfs.github.com/)
+  * [Removing sensitive data from a repository](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
 * [Comparison of source-code-hosting facilities](https://en.wikipedia.org/wiki/Comparison_of_source-code-hosting_facilities)
   * [Bitbucket](https://en.wikipedia.org/wiki/Bitbucket) was acquired by [Atlassian](https://en.wikipedia.org/wiki/Atlassian) in 2010
   * [Gitea](https://en.wikipedia.org/wiki/Gitea)
