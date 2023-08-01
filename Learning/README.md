@@ -122,8 +122,9 @@
 
 ## Documentation
 * [George H. Heilmeier](https://en.wikipedia.org/wiki/George_H._Heilmeier) 1936&mdash;2014, [Heilmeier's Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism)
-* [Business case](https://en.wikipedia.org/wiki/Business_case)
-* [Quad chart](https://en.wikipedia.org/wiki/Quad_chart)
+  * [Business case](https://en.wikipedia.org/wiki/Business_case)
+  * [Quad chart](https://en.wikipedia.org/wiki/Quad_chart)
+  * [White paper](https://en.wikipedia.org/wiki/White_paper)
 * [Irving Herman](http://www.columbia.edu/~iph1/herman.html), [The Laws of Herman](http://www.columbia.edu/~iph1/lawsofherman.htm)
 * [IEEE Author Center](https://ieeeauthorcenter.ieee.org/)
   * [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
