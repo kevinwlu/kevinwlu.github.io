@@ -47,6 +47,7 @@
   * [Evidence of absence](https://en.wikipedia.org/wiki/Evidence_of_absence)
   * [Extrasensory perception](https://en.wikipedia.org/wiki/Extrasensory_perception) (ESP)
   * [Chauvinism](https://en.wikipedia.org/wiki/Chauvinism)
+* [Robin Wall Kimmerer](https://en.wikipedia.org/wiki/Robin_Wall_Kimmerer), [*Braiding Sweetgrass*](https://en.wikipedia.org/wiki/Braiding_Sweetgrass)
 * [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming) 1915&mdash;1998, "You and Your Research"
   * *[The Art of Doing Science and Engineering: Learning to Learn](http://worrydream.com/refs/Hamming-TheArtOfDoingScienceAndEngineering.pdf)*, Chapter 30, pp. 209-215, 1997  
   * [1986-03-07 Bellcore Colloquium](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
