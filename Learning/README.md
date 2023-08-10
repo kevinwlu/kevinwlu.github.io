@@ -119,6 +119,7 @@
 * [Rule of thumb](https://en.wikipedia.org/wiki/Rule_of_thumb)
 * [Scale analysis (mathematics)](https://en.wikipedia.org/wiki/Scale_analysis_(mathematics))
 * [Sanity check](https://en.wikipedia.org/wiki/Sanity_check)
+* [https://en.wikipedia.org/wiki/Sounding_board](https://en.wikipedia.org/wiki/Sounding_board)
 * [Taxonomy](https://en.wikipedia.org/wiki/Taxonomy)
 * [Trial and error](https://en.wikipedia.org/wiki/Trial_and_error)
 
