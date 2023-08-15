@@ -81,6 +81,7 @@
   * [Plymouth Rock](https://en.wikipedia.org/wiki/Plymouth_Rock)
 * [Esther Gokhale](https://gokhalemethod.com/), [Gokhale Method](https://en.wikipedia.org/wiki/Gokhale_Method)
 * [Frederick Matthias Alexander](https://en.wikipedia.org/wiki/F._Matthias_Alexander) 1869&mdash;1955, [Alexander Technique](https://en.wikipedia.org/wiki/Alexander_Technique)
+* [Jeremy Griffith](https://en.wikipedia.org/wiki/Jeremy_Griffith), [World Transformation Movement](https://www.humancondition.com/)
 
 ## Neuroscience
 * [Barbara Oakley](https://en.wikipedia.org/wiki/Barbara_Oakley), *[Learning How to Learn](https://barbaraoakley.com/books/learning-how-to-learn/)*
