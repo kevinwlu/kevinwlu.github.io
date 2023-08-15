@@ -75,7 +75,7 @@
 ## Bodymind
 * [Bodymind](https://en.wikipedia.org/wiki/Bodymind)
 * [Robert J. Waldinger](https://en.wikipedia.org/wiki/Robert_J._Waldinger), [Grant Study](https://en.wikipedia.org/wiki/Grant_Study)
-* [Jordan Metzl](https://drjordanmetzl.com/), [A Prescription for Healthy Movement](https://www.youtube.com/watch?v=5FFGfPSsMpo)
+* [Jordan Metzl](https://drjordanmetzl.com/), [Setting Your Fitness Goals: Strategies for Optimizing Health Through Activity](https://www.youtube.com/watch?v=5FFGfPSsMpo)
   * [Burpee](https://en.wikipedia.org/wiki/Burpee_(exercise))
   * [Plank](https://en.wikipedia.org/wiki/Plank_(exercise))
   * [Plymouth Rock](https://en.wikipedia.org/wiki/Plymouth_Rock)
