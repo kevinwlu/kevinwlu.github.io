@@ -115,12 +115,15 @@
 ## Methodologies
 * [Ansatz](https://en.wikipedia.org/wiki/Ansatz)
 * [Back-of-the-envelope calculation](https://en.wikipedia.org/wiki/Back-of-the-envelope_calculation)
+* [BLUF (communication)](https://en.wikipedia.org/wiki/BLUF_(communication))
 * [Guesstimate](https://en.wikipedia.org/wiki/Guesstimate)
 * [Heuristic](https://en.wikipedia.org/wiki/Heuristic)
+* [KISS principle](https://en.wikipedia.org/wiki/KISS_principle)
+* [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
 * [Rule of thumb](https://en.wikipedia.org/wiki/Rule_of_thumb)
 * [Scale analysis (mathematics)](https://en.wikipedia.org/wiki/Scale_analysis_(mathematics))
 * [Sanity check](https://en.wikipedia.org/wiki/Sanity_check)
-* [https://en.wikipedia.org/wiki/Sounding_board](https://en.wikipedia.org/wiki/Sounding_board)
+* [Sounding board](https://en.wikipedia.org/wiki/Sounding_board)
 * [Taxonomy](https://en.wikipedia.org/wiki/Taxonomy)
 * [Trial and error](https://en.wikipedia.org/wiki/Trial_and_error)
 
