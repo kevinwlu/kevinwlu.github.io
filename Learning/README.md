@@ -125,6 +125,7 @@
 * [Sanity check](https://en.wikipedia.org/wiki/Sanity_check)
 * [Sounding board](https://en.wikipedia.org/wiki/Sounding_board)
 * [Taxonomy](https://en.wikipedia.org/wiki/Taxonomy)
+* [TL;DR](https://en.wikipedia.org/wiki/TL;DR)
 * [Trial and error](https://en.wikipedia.org/wiki/Trial_and_error)
 
 ## Documentation
