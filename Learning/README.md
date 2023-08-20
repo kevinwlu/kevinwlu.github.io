@@ -76,6 +76,7 @@
 * [Bodymind](https://en.wikipedia.org/wiki/Bodymind)
 * [Jeremy Griffith](https://en.wikipedia.org/wiki/Jeremy_Griffith), [World Transformation Movement](https://www.humancondition.com/)
 * [Michael Schur](https://en.wikipedia.org/wiki/Michael_Schur), [*How to Be Perfect: The Correct Answer to Every Moral Question*](https://www.simonandschuster.com/books/How-to-Be-Perfect/Michael-Schur/9781982159320)
+* [Virginia Satir](https://en.wikipedia.org/wiki/Virginia_Satir)
 * [Robert J. Waldinger](https://en.wikipedia.org/wiki/Robert_J._Waldinger), [Grant Study](https://en.wikipedia.org/wiki/Grant_Study)
 * [Jordan Metzl](https://drjordanmetzl.com/), [Setting Your Fitness Goals: Strategies for Optimizing Health Through Activity](https://www.youtube.com/watch?v=5FFGfPSsMpo)
   * [Plymouth Rock](https://en.wikipedia.org/wiki/Plymouth_Rock) in 1620
