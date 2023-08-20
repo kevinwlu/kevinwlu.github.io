@@ -116,10 +116,11 @@
 ## Methodologies
 * [Ansatz](https://en.wikipedia.org/wiki/Ansatz)
 * [Back-of-the-envelope calculation](https://en.wikipedia.org/wiki/Back-of-the-envelope_calculation)
-* [BLUF (communication)](https://en.wikipedia.org/wiki/BLUF_(communication))
+* [BLUF (communication)](https://en.wikipedia.org/wiki/BLUF_(communication)): bottom line up front
 * [Guesstimate](https://en.wikipedia.org/wiki/Guesstimate)
 * [Heuristic](https://en.wikipedia.org/wiki/Heuristic)
-* [KISS principle](https://en.wikipedia.org/wiki/KISS_principle)
+* [Iceberg theory](https://en.wikipedia.org/wiki/Iceberg_theory)
+* [KISS principle](https://en.wikipedia.org/wiki/KISS_principle): keep it simple stupid
 * [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
 * [Rule of thumb](https://en.wikipedia.org/wiki/Rule_of_thumb)
 * [Scale analysis (mathematics)](https://en.wikipedia.org/wiki/Scale_analysis_(mathematics))
@@ -128,6 +129,7 @@
 * [Taxonomy](https://en.wikipedia.org/wiki/Taxonomy)
 * [TL;DR](https://en.wikipedia.org/wiki/TL;DR)
 * [Trial and error](https://en.wikipedia.org/wiki/Trial_and_error)
+* [VUCA](https://en.wikipedia.org/wiki/VUCA): volatility, uncertainty, complexity, ambiguity
 
 ## Documentation
 * [George H. Heilmeier](https://en.wikipedia.org/wiki/George_H._Heilmeier) 1936&mdash;2014, [Heilmeier's Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism)
