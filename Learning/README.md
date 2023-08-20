@@ -123,9 +123,11 @@
 * [KISS principle](https://en.wikipedia.org/wiki/KISS_principle): keep it simple stupid
 * [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
 * [Rule of thumb](https://en.wikipedia.org/wiki/Rule_of_thumb)
-* [Scale analysis (mathematics)](https://en.wikipedia.org/wiki/Scale_analysis_(mathematics))
+  * [Scale analysis (mathematics)](https://en.wikipedia.org/wiki/Scale_analysis_(mathematics))
 * [Sanity check](https://en.wikipedia.org/wiki/Sanity_check)
-* [Sounding board](https://en.wikipedia.org/wiki/Sounding_board)
+  * [Sounding board](https://en.wikipedia.org/wiki/Sounding_board)
+* [SECI model of knowledge dimensions](https://en.wikipedia.org/wiki/SECI_model_of_knowledge_dimensions): socialization, externization, combination, internalization
+* [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis): strengths, weaknesses, opportunities, threats
 * [Taxonomy](https://en.wikipedia.org/wiki/Taxonomy)
 * [TL;DR](https://en.wikipedia.org/wiki/TL;DR)
 * [Trial and error](https://en.wikipedia.org/wiki/Trial_and_error)
