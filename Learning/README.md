@@ -76,7 +76,6 @@
 ## Bodymind
 * [Bodymind](https://en.wikipedia.org/wiki/Bodymind)
 * [Jeremy Griffith](https://en.wikipedia.org/wiki/Jeremy_Griffith), [World Transformation Movement](https://www.humancondition.com/)
-* [Michael Schur](https://en.wikipedia.org/wiki/Michael_Schur), [*How to Be Perfect: The Correct Answer to Every Moral Question*](https://www.simonandschuster.com/books/How-to-Be-Perfect/Michael-Schur/9781982159320)
 * [Virginia Satir](https://en.wikipedia.org/wiki/Virginia_Satir)
 * [Robert J. Waldinger](https://en.wikipedia.org/wiki/Robert_J._Waldinger), [Grant Study](https://en.wikipedia.org/wiki/Grant_Study)
 * [Jordan Metzl](https://drjordanmetzl.com/), [Setting Your Fitness Goals: Strategies for Optimizing Health Through Activity](https://www.youtube.com/watch?v=5FFGfPSsMpo)
@@ -85,6 +84,13 @@
   * [Plank](https://en.wikipedia.org/wiki/Plank_(exercise))
 * [Esther Gokhale](https://gokhalemethod.com/), [Gokhale Method](https://en.wikipedia.org/wiki/Gokhale_Method)
 * [Frederick Matthias Alexander](https://en.wikipedia.org/wiki/F._Matthias_Alexander) 1869&mdash;1955, [Alexander Technique](https://en.wikipedia.org/wiki/Alexander_Technique)
+
+## Ethics
+* [Michael Schur](https://en.wikipedia.org/wiki/Michael_Schur), [*How to Be Perfect: The Correct Answer to Every Moral Question*](https://www.simonandschuster.com/books/How-to-Be-Perfect/Michael-Schur/9781982159320)
+  * [Deontology](https://en.wikipedia.org/wiki/Deontology)
+  * [Utilitarianism](https://en.wikipedia.org/wiki/Utilitarianism)
+  * [Existentialism](https://en.wikipedia.org/wiki/Existentialism)
+  * [Ubuntu philosophy](https://en.wikipedia.org/wiki/Ubuntu_philosophy)
 
 ## Neuroscience
 * [Barbara Oakley](https://en.wikipedia.org/wiki/Barbara_Oakley), *[Learning How to Learn](https://barbaraoakley.com/books/learning-how-to-learn/)*
