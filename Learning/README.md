@@ -86,13 +86,14 @@
 * [Frederick Matthias Alexander](https://en.wikipedia.org/wiki/F._Matthias_Alexander) 1869&mdash;1955, [Alexander Technique](https://en.wikipedia.org/wiki/Alexander_Technique)
 
 ## Ethics
-* [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/) (SEP)
 * [Michael Schur](https://en.wikipedia.org/wiki/Michael_Schur), [*How to Be Perfect: The Correct Answer to Every Moral Question*](https://www.simonandschuster.com/books/How-to-Be-Perfect/Michael-Schur/9781982159320)
   * [Virtue ethics](https://en.wikipedia.org/wiki/Virtue_ethics)
   * [Deontology](https://en.wikipedia.org/wiki/Deontology)
   * [Utilitarianism](https://en.wikipedia.org/wiki/Utilitarianism)
   * [Existentialism](https://en.wikipedia.org/wiki/Existentialism)
   * [Ubuntu philosophy](https://en.wikipedia.org/wiki/Ubuntu_philosophy)
+* [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/) (SEP)
+  * [Chinese Ethics](https://plato.stanford.edu/entries/ethics-chinese/)
 
 ## Neuroscience
 * [Barbara Oakley](https://en.wikipedia.org/wiki/Barbara_Oakley), *[Learning How to Learn](https://barbaraoakley.com/books/learning-how-to-learn/)*
