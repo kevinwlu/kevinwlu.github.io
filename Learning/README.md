@@ -92,7 +92,7 @@
   * [Utilitarianism](https://en.wikipedia.org/wiki/Utilitarianism)
   * [Existentialism](https://en.wikipedia.org/wiki/Existentialism)
   * [Ubuntu philosophy](https://en.wikipedia.org/wiki/Ubuntu_philosophy)
-* [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/) (SEP)
+* [Stanford Encyclopedia of Philosophy](https://en.wikipedia.org/wiki/Stanford_Encyclopedia_of_Philosophy) (SEP)
   * [Chinese Ethics](https://plato.stanford.edu/entries/ethics-chinese/)
 
 ## Neuroscience
