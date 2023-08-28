@@ -92,8 +92,12 @@
   * [Utilitarianism](https://en.wikipedia.org/wiki/Utilitarianism)
   * [Existentialism](https://en.wikipedia.org/wiki/Existentialism)
   * [Ubuntu philosophy](https://en.wikipedia.org/wiki/Ubuntu_philosophy)
+* [JSTOR](https://en.wikipedia.org/wiki/JSTOR) (Journal Stroage)
+* [Ethics Unwrapped](https://ethicsunwrapped.utexas.edu/) 
+* [PhilPapers](https://en.wikipedia.org/wiki/PhilPapers)
 * [Stanford Encyclopedia of Philosophy](https://en.wikipedia.org/wiki/Stanford_Encyclopedia_of_Philosophy) (SEP)
   * [Chinese Ethics](https://plato.stanford.edu/entries/ethics-chinese/)
+
 
 ## Neuroscience
 * [Barbara Oakley](https://en.wikipedia.org/wiki/Barbara_Oakley), *[Learning How to Learn](https://barbaraoakley.com/books/learning-how-to-learn/)*
