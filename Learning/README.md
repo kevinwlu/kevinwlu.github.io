@@ -132,6 +132,7 @@
 * [Ansatz](https://en.wikipedia.org/wiki/Ansatz)
 * [Back-of-the-envelope calculation](https://en.wikipedia.org/wiki/Back-of-the-envelope_calculation)
 * [BLUF (communication)](https://en.wikipedia.org/wiki/BLUF_(communication)): bottom line up front
+* [Decision-matrix method](https://en.wikipedia.org/wiki/Decision-matrix_method)
 * [Guesstimate](https://en.wikipedia.org/wiki/Guesstimate)
 * [Heuristic](https://en.wikipedia.org/wiki/Heuristic)
 * [Iceberg theory](https://en.wikipedia.org/wiki/Iceberg_theory)
