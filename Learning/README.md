@@ -67,6 +67,7 @@
 * [Dark matter](https://en.wikipedia.org/wiki/Dark_matter)
 * [Gravitational wave](https://en.wikipedia.org/wiki/Gravitational_wave)
 * [Hubble–Lemaître law](https://en.wikipedia.org/wiki/Hubble%27s_law)
+* [Laniakea Supercluster](https://en.wikipedia.org/wiki/Laniakea_Supercluster)
 * [Planck units](https://en.wikipedia.org/wiki/Planck_units)
 * [Quantum gravity](https://en.wikipedia.org/wiki/Quantum_gravity)
 * [String theory](https://en.wikipedia.org/wiki/String_theory)
