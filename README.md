@@ -3,7 +3,7 @@
 [Google Scholar](https://scholar.google.com/citations?user=r3ktnhEAAAAJ) | 
 [Kaggle](https://www.kaggle.com/kevinwlu) | 
 [LinkedIn](https://www.linkedin.com/in/kevinwlu) | 
-[Twitter](https://twitter.com/kevinwlu) |
+[X](https://twitter.com/kevinwlu) |
 [Instagram](https://www.instagram.com/kevinwenlu/) |
 [Devpost](https://devpost.com/kevinwenlu)\
 Make [learning](/Learning) an everyday habit
