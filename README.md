@@ -11,7 +11,9 @@ Make [learning](/Learning) an everyday habit
 ## [Stevens Institute of Technology](https://www.stevens.edu/)
 [Teaching Professor and Associate Chair for Undergraduate Studies](https://www.stevens.edu/profile/klu2),
 [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering) (ECE) \
-Stevens 2018-2019 [Henry Morton](https://en.wikipedia.org/wiki/Henry_Morton_(scientist)) Distinguished Teaching Professor Award
+Stevens 2018-2019 [Henry Morton](https://en.wikipedia.org/wiki/Henry_Morton_(scientist)) Distinguished Teaching Professor Award \
+2021 ECE Outstanding Teaching Award \
+2023 ECE Outstanding Service Award for Faculty 
 * [Research Ethics and Writing: How to Ensure the Research Meets the Ethical Guidelines and Writing Style](https://www.stevens.edu/events/research-ethics-and-writing-how-to-ensure-the-research-meets-the-ethical), September 13, 2023
 * [Circle Optics Company News](https://circleoptics.com/insight-from-stevens-institute-professor-kevin-lu/), June 15, 2023
 * [Rediscovering the Language of Family Connections](https://www.stevens.edu/news/rediscovering-the-language-of-family-connections), May 19, 2023
