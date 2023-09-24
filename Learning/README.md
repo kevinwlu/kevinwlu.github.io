@@ -31,6 +31,7 @@
   * [Direct Instruction](https://en.wikipedia.org/wiki/Direct_instruction)
   * [Instructional scaffolding](https://en.wikipedia.org/wiki/Instructional_scaffolding)
   * [Universal Design for Learning](https://en.wikipedia.org/wiki/Universal_Design_for_Learning) (UDL)
+    * [David H. Rose](https://www.cast.org/about/board/david-rose)
   * [Knowledge graph](https://en.wikipedia.org/wiki/Knowledge_graph)
   * [Tacit knowledge](https://en.wikipedia.org/wiki/Tacit_knowledge)
   * [SECI model of knowledge dimensions](https://en.wikipedia.org/wiki/SECI_model_of_knowledge_dimensions)
