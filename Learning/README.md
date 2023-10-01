@@ -104,7 +104,7 @@
 * [Barbara Oakley](https://en.wikipedia.org/wiki/Barbara_Oakley), *[Learning How to Learn](https://barbaraoakley.com/books/learning-how-to-learn/)*
   * [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
   * [Learning by teaching](https://en.wikipedia.org/wiki/Learning_by_teaching)
-    * The [Feynman Technique](https://fs.blog/feynman-learning-technique/) used by by [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) 1918&mdash;1988
+    * The [Feynman Technique](https://fs.blog/feynman-learning-technique/) used by [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) 1918&mdash;1988
   * [Einstellung effect](https://en.wikipedia.org/wiki/Einstellung_effect)
 * Barbara Oakley, [Beth Rogowsky](https://www.bloomu.edu/people-directory/beth-rogowsky), and [Terry Sejnowski](https://en.wikipedia.org/wiki/Terry_Sejnowski), *[Uncommon Sense Teaching](https://barbaraoakley.com/books/uncommon-sense-teaching/)*
   * [Neuroscience](https://en.wikipedia.org/wiki/Neuroscience)
