@@ -155,6 +155,9 @@
 * [Trial and error](https://en.wikipedia.org/wiki/Trial_and_error)
 * [VUCA](https://en.wikipedia.org/wiki/VUCA): volatility, uncertainty, complexity, ambiguity
 
+# Standards
+* [Isology](https://www.isology.com/) by [Ken Krechmer](https://www.isology.com/kens-bio/)
+
 ## Documentation
 * [George H. Heilmeier](https://en.wikipedia.org/wiki/George_H._Heilmeier) 1936&mdash;2014, [Heilmeier's Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism)
   * [Business case](https://en.wikipedia.org/wiki/Business_case)
