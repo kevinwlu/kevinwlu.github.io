@@ -103,6 +103,7 @@
 * [PhilPapers](https://en.wikipedia.org/wiki/PhilPapers)
 * [Stanford Encyclopedia of Philosophy](https://en.wikipedia.org/wiki/Stanford_Encyclopedia_of_Philosophy) (SEP)
   * [Chinese Ethics](https://plato.stanford.edu/entries/ethics-chinese/)
+* [Immortalized cell line](https://en.wikipedia.org/wiki/Immortalised_cell_line)
 
 ## Neuroscience
 * [Barbara Oakley](https://en.wikipedia.org/wiki/Barbara_Oakley), *[Learning How to Learn](https://barbaraoakley.com/books/learning-how-to-learn/)*
