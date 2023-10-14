@@ -144,6 +144,7 @@
 * [Heuristic](https://en.wikipedia.org/wiki/Heuristic)
 * [Iceberg theory](https://en.wikipedia.org/wiki/Iceberg_theory)
 * [KISS principle](https://en.wikipedia.org/wiki/KISS_principle): keep it simple stupid
+* [Likert scale](https://en.wikipedia.org/wiki/Likert_scale)
 * [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor) or [law of parsimony](https://www.merriam-webster.com/dictionary/law%20of%20parsimony)
 * [Rule of thumb](https://en.wikipedia.org/wiki/Rule_of_thumb)
   * [Scale analysis (mathematics)](https://en.wikipedia.org/wiki/Scale_analysis_(mathematics))
