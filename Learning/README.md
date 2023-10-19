@@ -116,7 +116,7 @@
   * [Einstellung effect](https://en.wikipedia.org/wiki/Einstellung_effect)
 * Barbara Oakley, [Beth Rogowsky](https://www.bloomu.edu/people-directory/beth-rogowsky), and [Terry Sejnowski](https://en.wikipedia.org/wiki/Terry_Sejnowski), *[Uncommon Sense Teaching](https://barbaraoakley.com/books/uncommon-sense-teaching/)*
   * [Neuroscience](https://en.wikipedia.org/wiki/Neuroscience)
-  * [Neuron](https://en.wikipedia.org/wiki/Neuron)
+  * The [human brain](https://en.wikipedia.org/wiki/Human_brain) has 86 billion [neurons](https://en.wikipedia.org/wiki/Neuron)
   * [Soma](https://en.wikipedia.org/wiki/Soma_(biology))
   * [Dendrite](https://en.wikipedia.org/wiki/Dendrite)
   * [Axon](https://en.wikipedia.org/wiki/Axon)
