@@ -9,7 +9,7 @@
 Make [learning](/Learning) an everyday habit
 
 ## [Stevens Institute of Technology](https://www.stevens.edu/)
-[Teaching Professor and Associate Chair for Undergraduate Studies](https://www.stevens.edu/profile/klu2),
+[Teaching Professor (August 16, 2018) and Associate Chair for Undergraduate Studies (September 1, 2021)](https://www.stevens.edu/profile/klu2),
 [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering) (ECE) \
 Stevens 2018-2019 [Henry Morton](https://en.wikipedia.org/wiki/Henry_Morton_(scientist)) Distinguished Teaching Professor Award \
 2021 ECE Outstanding Teaching Award \
@@ -58,6 +58,7 @@ Dissertation: *A Textured Model and Its Uses in Reactive Power Management and Co
 B.S. (1979), Control Engineering, [National Chiao Tung University](https://en.nycu.edu.tw/)
 
 ## Experience
+* Adjunct Professor (2015-2018), Department of Electrical and Computer Engineering, Stevens Institute of Technology
 * Senior Principal Scientist (2012-2013), [Broadcom](https://www.broadcom.com/)
 * Chief Scientist (2003-2012), Executive Director (1999-2003), Director (1995-1999), Member of Technical Staff (1984-1995), [Telcordia/Bellcore](https://en.wikipedia.org/wiki/Iconectiv) Applied Research
 * Chair (2007–2010), [TIA](https://tiaonline.org/) [TR-48](https://tiaonline.org/standards-committees/tr-48/) Engineering Committee on Vehicular Telematics
