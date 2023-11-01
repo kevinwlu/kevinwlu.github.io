@@ -174,6 +174,7 @@
 * [IEEE Author Center](https://ieeeauthorcenter.ieee.org/)
   * [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
   * [Overleaf](https://en.wikipedia.org/wiki/Overleaf)
+  * [TeXnicCenter](https://en.wikipedia.org/wiki/TeXnicCenter)
   * [*IEEE Editorial Style Manual for Authors*](https://journals.ieeeauthorcenter.ieee.org/your-role-in-article-production/ieee-editorial-style-manual/) plus *IEEE Mathematics Guide* and *IEEE Reference Guide*
   * [Digital object identifier](https://en.wikipedia.org/wiki/Digital_object_identifier) (DOI)
   * [Conference Manuscript Format Definition Table](https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/format-definition-table-and-glossary.pdf)
