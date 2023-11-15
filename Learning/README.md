@@ -96,6 +96,10 @@
 * [Esther Gokhale](https://gokhalemethod.com/), [Gokhale Method](https://en.wikipedia.org/wiki/Gokhale_Method)
 * [Frederick Matthias Alexander](https://en.wikipedia.org/wiki/F._Matthias_Alexander) 1869&mdash;1955, [Alexander Technique](https://en.wikipedia.org/wiki/Alexander_Technique)
 
+## Culture
+* [*Gulliver's Travels*](https://en.wikipedia.org/wiki/Gulliver%27s_Travels) by [Jonathan Swift](https://en.wikipedia.org/wiki/Jonathan_Swift) 1667&mdash;1745
+* [*The Hitchhiker's Guide to the Galaxy*](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy) by [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams) 1952&mdash;2001
+
 ## Ethics
 * [Michael Schur](https://en.wikipedia.org/wiki/Michael_Schur), [*How to Be Perfect: The Correct Answer to Every Moral Question*](https://www.simonandschuster.com/books/How-to-Be-Perfect/Michael-Schur/9781982159320)
   * [Virtue ethics](https://en.wikipedia.org/wiki/Virtue_ethics)
