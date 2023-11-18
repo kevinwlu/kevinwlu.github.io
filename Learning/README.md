@@ -99,6 +99,7 @@
 ## Culture
 * [*Gulliver's Travels*](https://en.wikipedia.org/wiki/Gulliver%27s_Travels) by [Jonathan Swift](https://en.wikipedia.org/wiki/Jonathan_Swift) 1667&mdash;1745
   * [The Project Gutenberg eBook](https://www.gutenberg.org/files/17157/17157-h/17157-h.htm)
+* [*Stranger in a Strange Land*](https://en.wikipedia.org/wiki/Stranger_in_a_Strange_Land) by [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein) 1907&mdash;1988
 * [*The Hitchhiker's Guide to the Galaxy*](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy) by [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams) 1952&mdash;2001
 
 ## Ethics
