@@ -101,6 +101,7 @@
   * [The Project Gutenberg eBook](https://www.gutenberg.org/files/17157/17157-h/17157-h.htm)
 * [*Stranger in a Strange Land*](https://en.wikipedia.org/wiki/Stranger_in_a_Strange_Land) by [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein) 1907&mdash;1988
 * [*The Hitchhiker's Guide to the Galaxy*](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy) by [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams) 1952&mdash;2001
+* [*A Fire Upon the Deep*](https://en.wikipedia.org/wiki/A_Fire_Upon_the_Deep) by [Vernor Vinge](https://en.wikipedia.org/wiki/Vernor_Vinge)
 
 ## Ethics
 * [Michael Schur](https://en.wikipedia.org/wiki/Michael_Schur), [*How to Be Perfect: The Correct Answer to Every Moral Question*](https://www.simonandschuster.com/books/How-to-Be-Perfect/Michael-Schur/9781982159320)
