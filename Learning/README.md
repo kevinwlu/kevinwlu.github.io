@@ -97,9 +97,11 @@
 * [Frederick Matthias Alexander](https://en.wikipedia.org/wiki/F._Matthias_Alexander) 1869&mdash;1955, [Alexander Technique](https://en.wikipedia.org/wiki/Alexander_Technique)
 
 ## Culture
+* [*Don Quixote*](https://en.wikipedia.org/wiki/Don_Quixote) 1605 and 1615 by [Miguel de Cervantes](https://en.wikipedia.org/wiki/Miguel_de_Cervantes) 1547&mdash;1616
 * [*Gulliver's Travels*](https://en.wikipedia.org/wiki/Gulliver%27s_Travels) 1726 by [Jonathan Swift](https://en.wikipedia.org/wiki/Jonathan_Swift) 1667&mdash;1745
   * [The Project Gutenberg eBook](https://www.gutenberg.org/files/17157/17157-h/17157-h.htm)
 * [*Frankenstein*](https://en.wikipedia.org/wiki/Frankenstein) 1818 by [Mary Shelley](https://en.wikipedia.org/wiki/Mary_Shelley) 1797&mdash;1851
+* [*Les Misérables*](https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables) 1862 by [Victor Hugo](https://en.wikipedia.org/wiki/Victor_Hugo) 1802&mdash;1885
 * [*Alice's Adventures in Wonderland*](https://en.wikipedia.org/wiki/Alice's_Adventures_in_Wonderland) 1865 by [Lewis Carroll](https://en.wikipedia.org/wiki/Lewis_Carroll) 1832&mdash;1898
 * [*Stranger in a Strange Land*](https://en.wikipedia.org/wiki/Stranger_in_a_Strange_Land) 1961 by [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein) 1907&mdash;1988
 * [*Catch-22*](https://en.wikipedia.org/wiki/Catch-22) 1961 by [Joseph Heller](https://en.wikipedia.org/wiki/Joseph_Heller) 1923&mdash;1999
