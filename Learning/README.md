@@ -75,6 +75,7 @@
 * [Gravitational wave](https://en.wikipedia.org/wiki/Gravitational_wave)
 * [Hubble–Lemaître law](https://en.wikipedia.org/wiki/Hubble%27s_law)
 * [Laniakea Supercluster](https://en.wikipedia.org/wiki/Laniakea_Supercluster)
+* [Milky Way](https://en.wikipedia.org/wiki/Milky_Way)
 * [Planck units](https://en.wikipedia.org/wiki/Planck_units)
 * [Plasma (physics)](https://en.wikipedia.org/wiki/Plasma_(physics))
   * [List of plasma physics articles](https://en.wikipedia.org/wiki/List_of_plasma_physics_articles)
