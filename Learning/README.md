@@ -108,8 +108,6 @@
 * [*Stranger in a Strange Land*](https://en.wikipedia.org/wiki/Stranger_in_a_Strange_Land) 1961 by [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein) 1907&mdash;1988
 * [*Catch-22*](https://en.wikipedia.org/wiki/Catch-22) 1961 by [Joseph Heller](https://en.wikipedia.org/wiki/Joseph_Heller) 1923&mdash;1999
 * [*The Hitchhiker's Guide to the Galaxy*](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy) 1979 by [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams) 1952&mdash;2001
-* [*Gödel, Escher, Bach*](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) 1979 by [Douglas Hofstadter](https://en.wikipedia.org/wiki/Douglas_Hofstadter)
-  * [*I Am a Strange Loop*](https://en.wikipedia.org/wiki/I_Am_a_Strange_Loop) 2007
 * [*A Fire Upon the Deep*](https://en.wikipedia.org/wiki/A_Fire_Upon_the_Deep) 1992 by [Vernor Vinge](https://en.wikipedia.org/wiki/Vernor_Vinge)
 
 ## Ethics
