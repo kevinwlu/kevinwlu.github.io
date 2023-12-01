@@ -188,7 +188,7 @@
   * [Business case](https://en.wikipedia.org/wiki/Business_case)
   * [Quad chart](https://en.wikipedia.org/wiki/Quad_chart)
   * [White paper](https://en.wikipedia.org/wiki/White_paper)
-* [Irving Herman](http://www.columbia.edu/~iph1/herman.html), [The Laws of Herman](http://www.columbia.edu/~iph1/lawsofherman.htm)
+* [Irving Herman](https://en.wikipedia.org/wiki/Irving_P._Herman), ["Following the law: A guide for the perplexed graduate student doing research"](https://www.nature.com/articles/nj7124-228a)
 * [IEEE Author Center](https://ieeeauthorcenter.ieee.org/)
   * [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
   * [Overleaf](https://en.wikipedia.org/wiki/Overleaf)
