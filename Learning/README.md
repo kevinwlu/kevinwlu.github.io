@@ -189,10 +189,10 @@
   * [Quad chart](https://en.wikipedia.org/wiki/Quad_chart)
   * [White paper](https://en.wikipedia.org/wiki/White_paper)
 * [Irving Herman](https://en.wikipedia.org/wiki/Irving_P._Herman), ["Following the law: A guide for the perplexed graduate student doing research"](https://www.nature.com/articles/nj7124-228a)
-  * [Laws of Herman](https://www.irvingpherman.com/professional/) and Amendments
-    > The First Amendment to the Laws of Herman: “If you didn’t document it, you didn’t do it.”
-    > The Second Amendment to the Laws of Herman: “Do not present your advisor with only your data and analysis; also present your conclusions and plans for future work.”
-    > The Third Amendment to the Laws of Herman: “Do not present your advisor with only your conclusions and plans for future work; also present your data and analysis.”
+  * [Laws of Herman](https://www.irvingpherman.com/professional/)
+    * The First Amendment: “If you didn’t document it, you didn’t do it.”
+    * The Second Amendment: “Do not present your advisor with only your data and analysis; also present your conclusions and plans for future work.”
+    * The Third Amendment: “Do not present your advisor with only your conclusions and plans for future work; also present your data and analysis.”
 * [IEEE Author Center](https://ieeeauthorcenter.ieee.org/)
   * [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
   * [Overleaf](https://en.wikipedia.org/wiki/Overleaf)
