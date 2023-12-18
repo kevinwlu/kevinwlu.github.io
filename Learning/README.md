@@ -104,17 +104,23 @@
 * [Aesop's Fables](https://en.wikipedia.org/wiki/Aesop's_Fables) 
 * [*The Travels of Marco Polo*](https://en.wikipedia.org/wiki/The_Travels_of_Marco_Polo) 1300
 * [Hasht-Bihisht](https://en.wikipedia.org/wiki/Hasht-Bihisht_(poem)) 1302 by [Amir Khusrau](https://en.wikipedia.org/wiki/Amir_Khusrau) 1253&mdash;1325
-  * [*The Three Princes of Serendip*](https://en.wikipedia.org/wiki/The_Three_Princes_of_Serendip) 1557 
+  * [*The Three Princes of Serendip*](https://en.wikipedia.org/wiki/The_Three_Princes_of_Serendip) 1557
+  * [Serendipity](https://en.wikipedia.org/wiki/Serendipity)
 * [*Don Quixote*](https://en.wikipedia.org/wiki/Don_Quixote) 1605 and 1615 by [Miguel de Cervantes](https://en.wikipedia.org/wiki/Miguel_de_Cervantes) 1547&mdash;1616
 * [*Gulliver's Travels*](https://en.wikipedia.org/wiki/Gulliver%27s_Travels) 1726 by [Jonathan Swift](https://en.wikipedia.org/wiki/Jonathan_Swift) 1667&mdash;1745
   * [The Project Gutenberg eBook](https://www.gutenberg.org/files/17157/17157-h/17157-h.htm)
+  * [Endianness](https://en.wikipedia.org/wiki/Endianness)
 * [*Frankenstein*](https://en.wikipedia.org/wiki/Frankenstein) 1818 by [Mary Shelley](https://en.wikipedia.org/wiki/Mary_Shelley) 1797&mdash;1851
 * [*Les Misérables*](https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables) 1862 by [Victor Hugo](https://en.wikipedia.org/wiki/Victor_Hugo) 1802&mdash;1885
 * [*Alice's Adventures in Wonderland*](https://en.wikipedia.org/wiki/Alice's_Adventures_in_Wonderland) 1865 by [Lewis Carroll](https://en.wikipedia.org/wiki/Lewis_Carroll) 1832&mdash;1898
 * [*Animal Farm*](https://en.wikipedia.org/wiki/Animal_Farm) 1945 and [*Nineteen Eighty-Four*](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) 1949 by [George Orwell](https://en.wikipedia.org/wiki/George_Orwell) 1903&mdash;1950
 * [*Stranger in a Strange Land*](https://en.wikipedia.org/wiki/Stranger_in_a_Strange_Land) 1961 by [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein) 1907&mdash;1988
+  * [Grok](https://en.wikipedia.org/wiki/Grok)
 * [*Catch-22*](https://en.wikipedia.org/wiki/Catch-22) 1961 by [Joseph Heller](https://en.wikipedia.org/wiki/Joseph_Heller) 1923&mdash;1999
 * [*The Hitchhiker's Guide to the Galaxy*](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy) 1979 by [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams) 1952&mdash;2001
+  * [Phrases from *The Hitchhiker's Guide to the Galaxy*](https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy)
+  * [42 (number)](https://en.wikipedia.org/wiki/42_(number))
+  * [Towel Day](https://en.wikipedia.org/wiki/Towel_Day)
 * [*A Fire Upon the Deep*](https://en.wikipedia.org/wiki/A_Fire_Upon_the_Deep) 1992 by [Vernor Vinge](https://en.wikipedia.org/wiki/Vernor_Vinge)
 
 ## Ethics
