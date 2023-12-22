@@ -120,6 +120,7 @@
 * [*The Hitchhiker's Guide to the Galaxy*](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy) 1979 by [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams) 1952&mdash;2001
   * [Phrases from *The Hitchhiker's Guide to the Galaxy*](https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy)
   * [42 (number)](https://en.wikipedia.org/wiki/42_(number))
+  * [Thoughty2](https://www.youtube.com/@Thoughty2) by [Arron Lomas](https://youtube.fandom.com/wiki/Thoughty2)
   * [Towel Day](https://en.wikipedia.org/wiki/Towel_Day)
 * [*A Fire Upon the Deep*](https://en.wikipedia.org/wiki/A_Fire_Upon_the_Deep) 1992 by [Vernor Vinge](https://en.wikipedia.org/wiki/Vernor_Vinge)
 
