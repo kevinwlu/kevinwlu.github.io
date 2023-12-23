@@ -101,7 +101,12 @@
  * [Interstitium](https://en.wikipedia.org/wiki/Interstitium)
 
 ## Culture
-* [Aesop's Fables](https://en.wikipedia.org/wiki/Aesop's_Fables) 
+* [*Yi Jing*](https://en.wikipedia.org/wiki/I_Ching)
+* [*Iliad*](https://en.wikipedia.org/wiki/Iliad)
+* [*Odyssey*](https://en.wikipedia.org/wiki/Odyssey)
+  * [Gates of horn and ivory](https://en.wikipedia.org/wiki/Gates_of_horn_and_ivory)
+* [Aesop's Fables](https://en.wikipedia.org/wiki/Aesop's_Fables)
+* [Rosetta Stone](https://en.wikipedia.org/wiki/Rosetta_Stone) 196 BC
 * [*The Travels of Marco Polo*](https://en.wikipedia.org/wiki/The_Travels_of_Marco_Polo) 1300
 * [Hasht-Bihisht](https://en.wikipedia.org/wiki/Hasht-Bihisht_(poem)) 1302 by [Amir Khusrau](https://en.wikipedia.org/wiki/Amir_Khusrau) 1253&mdash;1325
   * [*The Three Princes of Serendip*](https://en.wikipedia.org/wiki/The_Three_Princes_of_Serendip) 1557
