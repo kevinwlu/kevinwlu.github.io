@@ -101,11 +101,12 @@
  * [Interstitium](https://en.wikipedia.org/wiki/Interstitium)
 
 ## Culture
-* [*Yi Jing*](https://en.wikipedia.org/wiki/I_Ching)
-* [*Iliad*](https://en.wikipedia.org/wiki/Iliad)
-* [*Odyssey*](https://en.wikipedia.org/wiki/Odyssey)
+* [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi) 1755&ndash;1750 BC
+* [*Yi Jing*](https://en.wikipedia.org/wiki/I_Ching) 1000&mdash;750 BC
+* [*Iliad*](https://en.wikipedia.org/wiki/Iliad) 700 BC
+* [*Odyssey*](https://en.wikipedia.org/wiki/Odyssey) 700 BC
   * [Gates of horn and ivory](https://en.wikipedia.org/wiki/Gates_of_horn_and_ivory)
-* [Aesop's Fables](https://en.wikipedia.org/wiki/Aesop's_Fables)
+* [Aesop's Fables](https://en.wikipedia.org/wiki/Aesop's_Fables) 620&mdash;564 BC
 * [Rosetta Stone](https://en.wikipedia.org/wiki/Rosetta_Stone) 196 BC
 * [*The Travels of Marco Polo*](https://en.wikipedia.org/wiki/The_Travels_of_Marco_Polo) 1300
 * [Hasht-Bihisht](https://en.wikipedia.org/wiki/Hasht-Bihisht_(poem)) 1302 by [Amir Khusrau](https://en.wikipedia.org/wiki/Amir_Khusrau) 1253&mdash;1325
