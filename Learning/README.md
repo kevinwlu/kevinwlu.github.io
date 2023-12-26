@@ -75,6 +75,7 @@
 * [Dark matter](https://en.wikipedia.org/wiki/Dark_matter)
 * [Gravitational wave](https://en.wikipedia.org/wiki/Gravitational_wave)
 * [Hubble–Lemaître law](https://en.wikipedia.org/wiki/Hubble%27s_law)
+* [Julian day](https://en.wikipedia.org/wiki/Julian_day)
 * [Laniakea Supercluster](https://en.wikipedia.org/wiki/Laniakea_Supercluster)
 * [Milky Way](https://en.wikipedia.org/wiki/Milky_Way)
 * [Planck units](https://en.wikipedia.org/wiki/Planck_units)
