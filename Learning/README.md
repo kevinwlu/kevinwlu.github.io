@@ -75,6 +75,7 @@
 * [Causal sets](https://en.wikipedia.org/wiki/Causal_sets)
 * [Cosmic microwave background](https://en.wikipedia.org/wiki/Cosmic_microwave_background)
 * [Dark matter](https://en.wikipedia.org/wiki/Dark_matter)
+* [Faster-than-light](https://en.wikipedia.org/wiki/Faster-than-light) (FTL)
 * [Gravitational wave](https://en.wikipedia.org/wiki/Gravitational_wave)
 * [Hubble–Lemaître law](https://en.wikipedia.org/wiki/Hubble%27s_law)
 * [Julian day](https://en.wikipedia.org/wiki/Julian_day)
