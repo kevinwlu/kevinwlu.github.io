@@ -64,11 +64,13 @@
 ## Astronomy
 * [Science communication](https://en.wikipedia.org/wiki/Science_communication)
 * [StarTalk](https://www.youtube.com/@StarTalk) by [Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson)
-* [Big Bang](https://en.wikipedia.org/wiki/Big_Bang)
 * [*Brief Answers to the Big Questions*](https://en.wikipedia.org/wiki/Brief_Answers_to_the_Big_Questions) by [Stephen Hawking](https://en.wikipedia.org/wiki/Stephen_Hawking)
 1942&mdash;2018
   * [Amyotrophic lateral sclerosis](https://en.wikipedia.org/wiki/ALS)  (ALS)
   * [Spinal muscular atrophy](https://en.wikipedia.org/wiki/Spinal_muscular_atrophy) (SMA)
+* [Astrobiology](https://en.wikipedia.org/wiki/Astrobiology)
+* [Astronomy](https://en.wikipedia.org/wiki/Astronomy)
+* [Big Bang](https://en.wikipedia.org/wiki/Big_Bang)
 * [Carrington Event](https://en.wikipedia.org/wiki/Carrington_Event)
 * [Causal sets](https://en.wikipedia.org/wiki/Causal_sets)
 * [Cosmic microwave background](https://en.wikipedia.org/wiki/Cosmic_microwave_background)
