@@ -152,9 +152,11 @@
 * [*Gödel, Escher, Bach (GEB): An Eternal Golden Braid&mdash; A Metaphorical Fugue on Minds and Machines in the Spirit of Lewis Carroll*](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) 1979 and [*I Am a Strange Loop*](https://en.wikipedia.org/wiki/I_Am_a_Strange_Loop) 2007 by [Douglas Hofstadter](https://en.wikipedia.org/wiki/Douglas_Hofstadter) 
   * Proposed and discussed the concept of a [strange loop](https://en.wikipedia.org/wiki/Strange_loop) to demonstrate how the properties of self-referential systems such as [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems) can be used to describe the unique properties of minds that animate beings can come out of inanimate matter
   * [Fugue](https://en.wikipedia.org/wiki/Fugue) 
+  * [Self-reference](https://en.wikipedia.org/wiki/Self-reference)
   * [Ouroboros](https://en.wikipedia.org/wiki/Ouroboros)
   * [Paradox](https://en.wikipedia.org/wiki/Paradox)
-  * [Self-reference](https://en.wikipedia.org/wiki/Self-reference)
+  * [Recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym)
+  * [Backronym](https://en.wikipedia.org/wiki/Backronym)
 * [*A Fire Upon the Deep*](https://en.wikipedia.org/wiki/A_Fire_Upon_the_Deep) 1992 by [Vernor Vinge](https://en.wikipedia.org/wiki/Vernor_Vinge)
 
 ## Ethics
