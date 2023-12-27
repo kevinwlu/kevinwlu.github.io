@@ -117,7 +117,7 @@
   * [*The Three Princes of Serendip*](https://en.wikipedia.org/wiki/The_Three_Princes_of_Serendip) 1557
   * [Serendipity](https://en.wikipedia.org/wiki/Serendipity)
 * [*Don Quixote*](https://en.wikipedia.org/wiki/Don_Quixote) 1605 and 1615 by [Miguel de Cervantes](https://en.wikipedia.org/wiki/Miguel_de_Cervantes) 1547&mdash;1616
-* [*Gulliver's Travels*](https://en.wikipedia.org/wiki/Gulliver%27s_Travels) 1726 by [Jonathan Swift](https://en.wikipedia.org/wiki/Jonathan_Swift) 1667&mdash;1745
+* [*Gulliver's Travels*](https://en.wikipedia.org/wiki/Gulliver%27s_Travels) 1726 and 1735 by [Jonathan Swift](https://en.wikipedia.org/wiki/Jonathan_Swift) 1667&mdash;1745
   * [The Project Gutenberg eBook](https://www.gutenberg.org/files/17157/17157-h/17157-h.htm)
   * [Endianness](https://en.wikipedia.org/wiki/Endianness)
   * [Yahoo](https://en.wikipedia.org/wiki/Yahoo_(Gulliver%27s_Travels))
