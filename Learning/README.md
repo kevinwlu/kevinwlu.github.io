@@ -120,6 +120,7 @@
 * [*Gulliver's Travels*](https://en.wikipedia.org/wiki/Gulliver%27s_Travels) 1726 by [Jonathan Swift](https://en.wikipedia.org/wiki/Jonathan_Swift) 1667&mdash;1745
   * [The Project Gutenberg eBook](https://www.gutenberg.org/files/17157/17157-h/17157-h.htm)
   * [Endianness](https://en.wikipedia.org/wiki/Endianness)
+  * [Yahoo](https://en.wikipedia.org/wiki/Yahoo_(Gulliver%27s_Travels))
 * [*Frankenstein*](https://en.wikipedia.org/wiki/Frankenstein) 1818 by [Mary Shelley](https://en.wikipedia.org/wiki/Mary_Shelley) 1797&mdash;1851
 * [*Les Misérables*](https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables) 1862 by [Victor Hugo](https://en.wikipedia.org/wiki/Victor_Hugo) 1802&mdash;1885
 * [*War and Peace*](https://en.wikipedia.org/wiki/War_and_Peace) 1865&mdash;1869 by [Leo Tolstoy](https://en.wikipedia.org/wiki/Leo_Tolstoy) 1828&mdash;1910
