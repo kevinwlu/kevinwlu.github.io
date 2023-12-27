@@ -105,36 +105,38 @@
  * [Interstitium](https://en.wikipedia.org/wiki/Interstitium)
 
 ## Culture
-* [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi) 1755&ndash;1750 BC
-* [*Yi Jing*](https://en.wikipedia.org/wiki/I_Ching) 1000&mdash;750 BC
-  * [The Project Gutenberg eBook](https://www.gutenberg.org/ebooks/25501)
-* [*Iliad*](https://en.wikipedia.org/wiki/Iliad) 700 BC by [Homer](https://en.wikipedia.org/wiki/Homer) 
-  * [The Project Gutenberg eBook](https://www.gutenberg.org/ebooks/6130)
-* [*Odyssey*](https://en.wikipedia.org/wiki/Odyssey) 700 BC by Homer
-  * [The Project Gutenberg eBook](https://www.gutenberg.org/ebooks/1727)
+* [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi) 1755&ndash;1750 [BCE](https://en.wikipedia.org/wiki/Common_Era) (Before the Common Era)
+* [*Yi Jing*](https://en.wikipedia.org/wiki/I_Ching) 1000&mdash;750 BCE
+  * [The Project Gutenberg eBook 25501](https://www.gutenberg.org/ebooks/25501)
+* [*Iliad*](https://en.wikipedia.org/wiki/Iliad) 700 BCE by [Homer](https://en.wikipedia.org/wiki/Homer) 
+  * [The Project Gutenberg eBook 6130](https://www.gutenberg.org/ebooks/6130)
+* [*Odyssey*](https://en.wikipedia.org/wiki/Odyssey) 700 BCE by Homer
+  * [The Project Gutenberg eBook 1727](https://www.gutenberg.org/ebooks/1727)
   * [Gates of horn and ivory](https://en.wikipedia.org/wiki/Gates_of_horn_and_ivory)
-* [Aesop's Fables](https://en.wikipedia.org/wiki/Aesop's_Fables) 620&mdash;564 BC
-* [Rosetta Stone](https://en.wikipedia.org/wiki/Rosetta_Stone) 196 BC
+* [Aesop's Fables](https://en.wikipedia.org/wiki/Aesop's_Fables) 620&mdash;564 BCE
+  * [The Project Gutenberg eBook 21](https://www.gutenberg.org/ebooks/21)
+  * [The Project Gutenberg eBook 11339](https://www.gutenberg.org/ebooks/11339)
+* [Rosetta Stone](https://en.wikipedia.org/wiki/Rosetta_Stone) 196 BCE
 * [*The Travels of Marco Polo*](https://en.wikipedia.org/wiki/The_Travels_of_Marco_Polo) 1300 by [Marco Polo](https://en.wikipedia.org/wiki/Marco_Polo) 1254&mdash;1324 and [Rustichello da Pisa](https://en.wikipedia.org/wiki/Rustichello_da_Pisa)
-  * [The Project Gutenberg eBook — Volume I](https://www.gutenberg.org/ebooks/10636)
-  * [The Project Gutenberg eBook — Volume II](https://www.gutenberg.org/ebooks/12410)
+  * [The Project Gutenberg eBook 10636 — Volume I](https://www.gutenberg.org/ebooks/10636)
+  * [The Project Gutenberg eBook 12410 — Volume II](https://www.gutenberg.org/ebooks/12410)
 * [Hasht-Bihisht](https://en.wikipedia.org/wiki/Hasht-Bihisht_(poem)) 1302 by [Amir Khusrau](https://en.wikipedia.org/wiki/Amir_Khusrau) 1253&mdash;1325
   * [*The Three Princes of Serendip*](https://en.wikipedia.org/wiki/The_Three_Princes_of_Serendip) 1557
   * [Serendipity](https://en.wikipedia.org/wiki/Serendipity)
 * [*Don Quixote*](https://en.wikipedia.org/wiki/Don_Quixote) 1605 and 1615 by [Miguel de Cervantes](https://en.wikipedia.org/wiki/Miguel_de_Cervantes) 1547&mdash;1616
-  * [The Project Gutenberg eBook](https://www.gutenberg.org/ebooks/996)
+  * [The Project Gutenberg eBook 996](https://www.gutenberg.org/ebooks/996)
 * [*Gulliver's Travels Into Several Remote Nations of the World*](https://en.wikipedia.org/wiki/Gulliver%27s_Travels) 1726 and 1735 by [Jonathan Swift](https://en.wikipedia.org/wiki/Jonathan_Swift) 1667&mdash;1745
-  * [The Project Gutenberg eBook](https://www.gutenberg.org/ebooks/829)
+  * [The Project Gutenberg eBook 829](https://www.gutenberg.org/ebooks/829)
   * [Endianness](https://en.wikipedia.org/wiki/Endianness)
   * [Yahoo](https://en.wikipedia.org/wiki/Yahoo_(Gulliver%27s_Travels))
 * [*Frankenstein; Or, The Modern Prometheus*](https://en.wikipedia.org/wiki/Frankenstein) 1818 by [Mary Shelley](https://en.wikipedia.org/wiki/Mary_Shelley) 1797&mdash;1851
-  * [The Project Gutenberg eBook](https://www.gutenberg.org/ebooks/84)
+  * [The Project Gutenberg eBook 84](https://www.gutenberg.org/ebooks/84)
 * [*Les Misérables*](https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables) 1862 by [Victor Hugo](https://en.wikipedia.org/wiki/Victor_Hugo) 1802&mdash;1885
-  * [The Project Gutenberg eBook](https://www.gutenberg.org/ebooks/135)
+  * [The Project Gutenberg eBook 135](https://www.gutenberg.org/ebooks/135)
 * [*War and Peace*](https://en.wikipedia.org/wiki/War_and_Peace) 1865&mdash;1869 by [Leo Tolstoy](https://en.wikipedia.org/wiki/Leo_Tolstoy) 1828&mdash;1910
-  * [The Project Gutenberg eBook](https://www.gutenberg.org/ebooks/2600)
+  * [The Project Gutenberg eBook 2600](https://www.gutenberg.org/ebooks/2600)
 * [*Alice's Adventures in Wonderland*](https://en.wikipedia.org/wiki/Alice's_Adventures_in_Wonderland) 1865 by [Lewis Carroll](https://en.wikipedia.org/wiki/Lewis_Carroll) 1832&mdash;1898
-  * [The Project Gutenberg eBook](https://www.gutenberg.org/ebooks/11)
+  * [The Project Gutenberg eBook 11](https://www.gutenberg.org/ebooks/11)
 * [*Animal Farm*](https://en.wikipedia.org/wiki/Animal_Farm) 1945 and [*Nineteen Eighty-Four*](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) 1949 by [George Orwell](https://en.wikipedia.org/wiki/George_Orwell) 1903&mdash;1950
 * [*Stranger in a Strange Land*](https://en.wikipedia.org/wiki/Stranger_in_a_Strange_Land) 1961 by [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein) 1907&mdash;1988
   * [Grok](https://en.wikipedia.org/wiki/Grok)
