@@ -107,8 +107,11 @@
 ## Culture
 * [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi) 1755&ndash;1750 BC
 * [*Yi Jing*](https://en.wikipedia.org/wiki/I_Ching) 1000&mdash;750 BC
-* [*Iliad*](https://en.wikipedia.org/wiki/Iliad) 700 BC
+  * [The Project Gutenberg eBook](https://www.gutenberg.org/ebooks/25501)
+* [*Iliad*](https://en.wikipedia.org/wiki/Iliad) 700 BC by [Homer](https://en.wikipedia.org/wiki/Homer) 
+  * [The Project Gutenberg eBook](https://www.gutenberg.org/ebooks/6130)
 * [*Odyssey*](https://en.wikipedia.org/wiki/Odyssey) 700 BC
+  * [The Project Gutenberg eBook](https://www.gutenberg.org/ebooks/1727)
   * [Gates of horn and ivory](https://en.wikipedia.org/wiki/Gates_of_horn_and_ivory)
 * [Aesop's Fables](https://en.wikipedia.org/wiki/Aesop's_Fables) 620&mdash;564 BC
 * [Rosetta Stone](https://en.wikipedia.org/wiki/Rosetta_Stone) 196 BC
