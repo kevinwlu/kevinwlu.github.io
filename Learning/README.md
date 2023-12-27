@@ -149,8 +149,9 @@
   * [42 (number)](https://en.wikipedia.org/wiki/42_(number))
   * [Thoughty2](https://www.youtube.com/@Thoughty2) by [Arron Lomas](https://youtube.fandom.com/wiki/Thoughty2)
   * [Towel Day](https://en.wikipedia.org/wiki/Towel_Day)
-* [*Gödel, Escher, Bach (GEB): An Eternal Golden Braid&mdash; A Metaphorical [Fugue](https://en.wikipedia.org/wiki/Fugue) on Minds and Machines in the Spirit of Lewis Carroll*](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) 1979 and [*I Am a Strange Loop*](https://en.wikipedia.org/wiki/I_Am_a_Strange_Loop) 2007 by [Douglas Hofstadter](https://en.wikipedia.org/wiki/Douglas_Hofstadter) 
+* [*Gödel, Escher, Bach (GEB): An Eternal Golden Braid&mdash; A Metaphorical Fugue on Minds and Machines in the Spirit of Lewis Carroll*](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) 1979 and [*I Am a Strange Loop*](https://en.wikipedia.org/wiki/I_Am_a_Strange_Loop) 2007 by [Douglas Hofstadter](https://en.wikipedia.org/wiki/Douglas_Hofstadter) 
   * Proposed and discussed the concept of a [strange loop](https://en.wikipedia.org/wiki/Strange_loop) to demonstrate how the properties of self-referential systems such as [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems) can be used to describe the unique properties of minds that animate beings can come out of inanimate matter
+  * [Fugue](https://en.wikipedia.org/wiki/Fugue) 
   * [Ouroboros](https://en.wikipedia.org/wiki/Ouroboros)
   * [Paradox](https://en.wikipedia.org/wiki/Paradox)
   * [Self-reference](https://en.wikipedia.org/wiki/Self-reference)
