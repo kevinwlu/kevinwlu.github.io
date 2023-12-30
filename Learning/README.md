@@ -104,7 +104,23 @@
 * [P.C. Benias et al., "Structure and Distribution of an Unrecognized Interstitium in Human Tissues." Sci Rep 8, 4947 (2018).](https://www.nature.com/articles/s41598-018-23062-6)
  * [Interstitium](https://en.wikipedia.org/wiki/Interstitium)
 
-## Culture
+## Ethics
+* [Michael Schur](https://en.wikipedia.org/wiki/Michael_Schur), [*How to Be Perfect: The Correct Answer to Every Moral Question*](https://www.simonandschuster.com/books/How-to-Be-Perfect/Michael-Schur/9781982159320)
+  * [Virtue ethics](https://en.wikipedia.org/wiki/Virtue_ethics)
+  * [Deontology](https://en.wikipedia.org/wiki/Deontology)
+  * [Utilitarianism](https://en.wikipedia.org/wiki/Utilitarianism)
+  * [Existentialism](https://en.wikipedia.org/wiki/Existentialism)
+  * [Ubuntu philosophy](https://en.wikipedia.org/wiki/Ubuntu_philosophy)
+* [JSTOR](https://en.wikipedia.org/wiki/JSTOR) (Journal Stroage)
+* [Ethics Unwrapped](https://ethicsunwrapped.utexas.edu/) 
+* [PhilPapers](https://en.wikipedia.org/wiki/PhilPapers)
+* [Stanford Encyclopedia of Philosophy](https://en.wikipedia.org/wiki/Stanford_Encyclopedia_of_Philosophy) (SEP)
+  * [Chinese Ethics](https://plato.stanford.edu/entries/ethics-chinese/)
+* [Immortalized cell line](https://en.wikipedia.org/wiki/Immortalised_cell_line)
+
+## Humanities
+* [Humanities](https://en.wikipedia.org/wiki/Humanities)
+* [Digital humanities](https://en.wikipedia.org/wiki/Digital_humanities)
 * [Project Gutenberg](https://en.wikipedia.org/wiki/Project_Gutenberg)
 * [Chinese Text Project](https://en.wikipedia.org/wiki/Chinese_Text_Project)
 * [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi) 1755&ndash;1750 [BCE](https://en.wikipedia.org/wiki/Common_Era) (Before the Common Era)
@@ -162,20 +178,6 @@
   * [Recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym)
   * [Backronym](https://en.wikipedia.org/wiki/Backronym)
 * [*A Fire Upon the Deep*](https://en.wikipedia.org/wiki/A_Fire_Upon_the_Deep) 1992 by [Vernor Vinge](https://en.wikipedia.org/wiki/Vernor_Vinge)
-
-## Ethics
-* [Michael Schur](https://en.wikipedia.org/wiki/Michael_Schur), [*How to Be Perfect: The Correct Answer to Every Moral Question*](https://www.simonandschuster.com/books/How-to-Be-Perfect/Michael-Schur/9781982159320)
-  * [Virtue ethics](https://en.wikipedia.org/wiki/Virtue_ethics)
-  * [Deontology](https://en.wikipedia.org/wiki/Deontology)
-  * [Utilitarianism](https://en.wikipedia.org/wiki/Utilitarianism)
-  * [Existentialism](https://en.wikipedia.org/wiki/Existentialism)
-  * [Ubuntu philosophy](https://en.wikipedia.org/wiki/Ubuntu_philosophy)
-* [JSTOR](https://en.wikipedia.org/wiki/JSTOR) (Journal Stroage)
-* [Ethics Unwrapped](https://ethicsunwrapped.utexas.edu/) 
-* [PhilPapers](https://en.wikipedia.org/wiki/PhilPapers)
-* [Stanford Encyclopedia of Philosophy](https://en.wikipedia.org/wiki/Stanford_Encyclopedia_of_Philosophy) (SEP)
-  * [Chinese Ethics](https://plato.stanford.edu/entries/ethics-chinese/)
-* [Immortalized cell line](https://en.wikipedia.org/wiki/Immortalised_cell_line)
 
 ## Neuroscience
 * [Barbara Oakley](https://en.wikipedia.org/wiki/Barbara_Oakley), *[Learning How to Learn](https://barbaraoakley.com/books/learning-how-to-learn/)*
