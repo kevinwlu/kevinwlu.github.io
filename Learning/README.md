@@ -159,6 +159,11 @@
   * [The Project Gutenberg eBook 2600](https://www.gutenberg.org/ebooks/2600)
 * [*Alice's Adventures in Wonderland*](https://en.wikipedia.org/wiki/Alice's_Adventures_in_Wonderland) 1865 by [Lewis Carroll](https://en.wikipedia.org/wiki/Lewis_Carroll) 1832&mdash;1898
   * [The Project Gutenberg eBook 11](https://www.gutenberg.org/ebooks/11)
+* [*The Google Book*](https://en.wikipedia.org/wiki/The_Google_Book) 1913 by [Vincent Cartwright Vickers](https://en.wikipedia.org/wiki/Vincent_Cartwright_Vickers) 1879&mdash;1939
+  * [Google Blogoscoped eBook](https://blogoscoped.com/googlebook/)
+  * [Philipp Lenssen](https://outer-court.com/)
+    * [YouTube](https://www.youtube.com/user/PhilippLens)
+    * [GitHub](https://github.com/JPhilipp/)
 * [*Animal Farm*](https://en.wikipedia.org/wiki/Animal_Farm) 1945 and [*Nineteen Eighty-Four*](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) 1949 by [George Orwell](https://en.wikipedia.org/wiki/George_Orwell) 1903&mdash;1950
 * [*Stranger in a Strange Land*](https://en.wikipedia.org/wiki/Stranger_in_a_Strange_Land) 1961 by [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein) 1907&mdash;1988
   * [Grok](https://en.wikipedia.org/wiki/Grok)
