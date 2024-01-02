@@ -164,6 +164,7 @@
   * [Philipp Lenssen](https://outer-court.com/)
     * [YouTube](https://www.youtube.com/user/PhilippLens)
     * [GitHub](https://github.com/JPhilipp/)
+* [*Barney Google and Snuffy Smith*](https://en.wikipedia.org/wiki/Barney_Google_and_Snuffy_Smith) 1919 by [Billy DeBeck](https://en.wikipedia.org/wiki/Billy_DeBeck) 1890&mdash;1942
 * [*Animal Farm*](https://en.wikipedia.org/wiki/Animal_Farm) 1945 and [*Nineteen Eighty-Four*](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) 1949 by [George Orwell](https://en.wikipedia.org/wiki/George_Orwell) 1903&mdash;1950
 * [*Stranger in a Strange Land*](https://en.wikipedia.org/wiki/Stranger_in_a_Strange_Land) 1961 by [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein) 1907&mdash;1988
   * [Grok](https://en.wikipedia.org/wiki/Grok)
