@@ -165,6 +165,9 @@
     * [YouTube](https://www.youtube.com/user/PhilippLens)
     * [GitHub](https://github.com/JPhilipp/)
 * [*Barney Google and Snuffy Smith*](https://en.wikipedia.org/wiki/Barney_Google_and_Snuffy_Smith) 1919 by [Billy DeBeck](https://en.wikipedia.org/wiki/Billy_DeBeck) 1890&mdash;1942
+* [*Mathematics and the Imagination*](https://en.wikipedia.org/wiki/Mathematics_and_the_Imagination) 1940 by [Edward Kasner](https://en.wikipedia.org/wiki/Edward_Kasner) 1878&mdash;1955 and [James R. Newman](https://en.wikipedia.org/wiki/James_R._Newman) 1907&mdash;1966
+  * [Googol](https://en.wikipedia.org/wiki/Googol)
+  * [Googolplex](https://en.wikipedia.org/wiki/Googolplex)
 * [*Animal Farm*](https://en.wikipedia.org/wiki/Animal_Farm) 1945 and [*Nineteen Eighty-Four*](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) 1949 by [George Orwell](https://en.wikipedia.org/wiki/George_Orwell) 1903&mdash;1950
 * [*Stranger in a Strange Land*](https://en.wikipedia.org/wiki/Stranger_in_a_Strange_Land) 1961 by [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein) 1907&mdash;1988
   * [Grok](https://en.wikipedia.org/wiki/Grok)
