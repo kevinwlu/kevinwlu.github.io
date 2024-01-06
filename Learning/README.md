@@ -101,6 +101,9 @@
   * [Plank](https://en.wikipedia.org/wiki/Plank_(exercise))
 * [Esther Gokhale](https://gokhalemethod.com/), [Gokhale Method](https://en.wikipedia.org/wiki/Gokhale_Method)
 * [Frederick Matthias Alexander](https://en.wikipedia.org/wiki/F._Matthias_Alexander) 1869&mdash;1955, [Alexander Technique](https://en.wikipedia.org/wiki/Alexander_Technique)
+* [David R. Hawkins](https://veritaspub.com/) 1927&mdash;2012
+* [Shin-ichiro Terayama](https://www.shin-terayama.jp/en/) 1936&mdash;2023
+* [WINN: What Is Needed Now](https://winnpost.org/)
 * [P.C. Benias et al., "Structure and Distribution of an Unrecognized Interstitium in Human Tissues." Sci Rep 8, 4947 (2018).](https://www.nature.com/articles/s41598-018-23062-6)
  * [Interstitium](https://en.wikipedia.org/wiki/Interstitium)
 
