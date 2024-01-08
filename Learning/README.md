@@ -156,6 +156,8 @@
   * [Yahoo](https://en.wikipedia.org/wiki/Yahoo_(Gulliver%27s_Travels))
 * [*Frankenstein; Or, The Modern Prometheus*](https://en.wikipedia.org/wiki/Frankenstein) 1818 by [Mary Shelley](https://en.wikipedia.org/wiki/Mary_Shelley) 1797&mdash;1851
   * [The Project Gutenberg eBook 84](https://www.gutenberg.org/ebooks/84)
+* [*Les Fleurs du mal*](https://en.wikipedia.org/wiki/Les_Fleurs_du_mal) 1857 by [Charles Baudelaire](https://en.wikipedia.org/wiki/Charles_Baudelaire) 1821&mdash;1867
+  * [The Project Gutenberg eBook 36098](https://www.gutenberg.org/ebooks/36098)
 * [*Les Misérables*](https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables) 1862 by [Victor Hugo](https://en.wikipedia.org/wiki/Victor_Hugo) 1802&mdash;1885
   * [The Project Gutenberg eBook 135](https://www.gutenberg.org/ebooks/135)
 * [*War and Peace*](https://en.wikipedia.org/wiki/War_and_Peace) 1865&mdash;1869 by [Leo Tolstoy](https://en.wikipedia.org/wiki/Leo_Tolstoy) 1828&mdash;1910
