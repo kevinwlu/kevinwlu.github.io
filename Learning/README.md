@@ -43,6 +43,7 @@
     > 14.0901 Computer Engineering, General: A program that generally prepares individuals to apply mathematical and scientific principles to the design, development, and operational evaluation of computer hardware and software systems and related equipment and facilities; and the analysis of specific problems of computer applications to various tasks.
   * [Pygmalion effect](https://en.wikipedia.org/wiki/Pygmalion_effect)
   * [Student syndrome](https://en.wikipedia.org/wiki/Student_syndrome)
+  * [Senioritis](https://en.wikipedia.org/wiki/Senioritis)
 * [David A. Vaccari](https://www.stevens.edu/profile/dvaccari), "[The Barbed Quatrefoil Is a 1500-Year-Old Symbol of Architectural Advance](https://personal.stevens.edu/~dvaccari/Vaccari%20-%20Sancta%20Sophia.pdf)"
   * [Quatrefoil](https://en.wikipedia.org/wiki/Quatrefoil)
   * [Pendentive](https://en.wikipedia.org/wiki/Pendentive)
