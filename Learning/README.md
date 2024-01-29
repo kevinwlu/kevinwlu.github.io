@@ -109,8 +109,11 @@
 * [WINN: What Is Needed Now](https://winnpost.org/)
 * [P.C. Benias et al., "Structure and Distribution of an Unrecognized Interstitium in Human Tissues." Sci Rep 8, 4947 (2018).](https://www.nature.com/articles/s41598-018-23062-6)
  * [Interstitium](https://en.wikipedia.org/wiki/Interstitium)
+* [Placebo](https://en.wikipedia.org/wiki/Placebo)
 
 ## Ethics
+* [Bias](https://en.wikipedia.org/wiki/Bias)
+* [Cardinal virtues](https://en.wikipedia.org/wiki/Cardinal_virtues)
 * [Michael Schur](https://en.wikipedia.org/wiki/Michael_Schur), [*How to Be Perfect: The Correct Answer to Every Moral Question*](https://www.simonandschuster.com/books/How-to-Be-Perfect/Michael-Schur/9781982159320)
   * [Virtue ethics](https://en.wikipedia.org/wiki/Virtue_ethics)
   * [Deontology](https://en.wikipedia.org/wiki/Deontology)
