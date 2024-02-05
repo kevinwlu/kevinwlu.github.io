@@ -123,6 +123,7 @@
 * [JSTOR](https://en.wikipedia.org/wiki/JSTOR) (Journal Stroage)
 * [Ethics Unwrapped](https://ethicsunwrapped.utexas.edu/) 
 * [PhilPapers](https://en.wikipedia.org/wiki/PhilPapers)
+* [Pseudoscience](https://en.wikipedia.org/wiki/Pseudoscience)
 * [Stanford Encyclopedia of Philosophy](https://en.wikipedia.org/wiki/Stanford_Encyclopedia_of_Philosophy) (SEP)
   * [Chinese Ethics](https://plato.stanford.edu/entries/ethics-chinese/)
 * [Immortalized cell line](https://en.wikipedia.org/wiki/Immortalised_cell_line)
