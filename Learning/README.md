@@ -67,6 +67,7 @@
   * Randy Pausch, *[The Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo)*, September 18, 2007
   * [Alphonse Daudet](https://en.wikipedia.org/wiki/Alphonse_Daudet) 1840&mdash;1897, *[The Last Lesson](https://en.wikisource.org/wiki/The_Last_Lesson)*
 * [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) 1955&mdash;2011, [Steve Jobs Archive](https://stevejobsarchive.com/)
+* [Patrick Winston](https://en.wikipedia.org/wiki/Patrick_Winston) 1943&mdash;2019, [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY)
 
 ## Astronomy
 * [Science communication](https://en.wikipedia.org/wiki/Science_communication)
