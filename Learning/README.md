@@ -40,7 +40,8 @@
   * [Bloom's taxonomy](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy)
   * [Classification of Instructional Programs](https://en.wikipedia.org/wiki/Classification_of_Instructional_Programs) (CIP)
     > 14.1001 Electrical and Electronics Engineering: A program that prepares individuals to apply mathematical and scientific principles to the design, development, and operational evaluation of electrical and electronic systems and their components, including electrical power generation systems; and the analysis of problems such as superconductor, wave propagation, energy storage and retrieval, and reception and amplification.\
-    > 14.0901 Computer Engineering, General: A program that generally prepares individuals to apply mathematical and scientific principles to the design, development, and operational evaluation of computer hardware and software systems and related equipment and facilities; and the analysis of specific problems of computer applications to various tasks.
+    > 14.0901 Computer Engineering, General: A program that generally prepares individuals to apply mathematical and scientific principles to the design, development, and operational evaluation of computer hardware and software systems and related equipment and facilities; and the analysis of specific problems of computer applications to various tasks. 
+  * [Positive thinking](https://en.wikipedia.org/wiki/Positive_thinking)
   * [Pygmalion effect](https://en.wikipedia.org/wiki/Pygmalion_effect)
   * [D-Day](https://en.wikipedia.org/wiki/D-Day_(military_term))
   * [Time limit](https://en.wikipedia.org/wiki/Time_limit)
