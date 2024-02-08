@@ -30,14 +30,14 @@ Life Senior Member\
 
 ### [Communications Society](https://www.comsoc.org/) (ComSoc) 
 * Chair (2012-2013) and Advisor (2014-2017), [Standards Development Board](https://www.comsoc.org/about/boards/standards-development-board) (SDB)
-* Member (2016-2023), ComSoc [Standardization Programs Development Board](https://www.comsoc.org/about/boards/standardization-programs-development-board) (SPDB)
+* Member (2016-2024), ComSoc [Standardization Programs Development Board](https://www.comsoc.org/about/boards/standardization-programs-development-board) (SPDB)
 
 ### [IEEE Standards Association](https://standards.ieee.org/) (IEEE SA) 
 * [IEEE SA Events](https://standards.ieee.org/events/)
 * Member (2016-2024), [Standards Board](https://standards.ieee.org/about/sasb/) (SASB)
 * Member (2016-2017), [Awards and Recognition Committee](https://standards.ieee.org/about/bog/arcom/) (ArCom)
 * Chair (2021-2024), Member (2019-2020), [Audit Committee](https://standards.ieee.org/about/sasb/audcom/) (AudCom)
-* Non-Voting Member (2024), [Entity Collaborative Activities Governance Board](https://standards.ieee.org/about/bog/cag/) (CAG)
+* Non-Voting Member (2023-2024), [Entity Collaborative Activities Governance Board](https://standards.ieee.org/about/bog/cag/) (CAG)
 * Chair (2018-2024), Member (2016-2017), [Industry Connections Committee](https://standards.ieee.org/about/bog/iccom/) (ICCom)
 * Member (2013-2016, 2018-2019), [New Standards Committee](https://standards.ieee.org/about/sasb/nescom/) (NesCom)
 * Member (2023-2024), [Patent Committee](https://standards.ieee.org/about/sasb/patcom/) (PatCom)
