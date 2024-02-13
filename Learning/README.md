@@ -30,6 +30,7 @@
   * [Modes of persuasion](https://en.wikipedia.org/wiki/Modes_of_persuasion)
   * [Direct Instruction](https://en.wikipedia.org/wiki/Direct_instruction)
   * [Instructional scaffolding](https://en.wikipedia.org/wiki/Instructional_scaffolding)
+    * [Distributed scaffolding](https://en.wikipedia.org/wiki/Distributed_scaffolding)
   * [Universal Design for Learning](https://en.wikipedia.org/wiki/Universal_Design_for_Learning) (UDL)
     * [David H. Rose](https://www.cast.org/about/board/david-rose)
   * [Knowledge graph](https://en.wikipedia.org/wiki/Knowledge_graph)
