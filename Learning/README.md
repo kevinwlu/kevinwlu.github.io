@@ -102,6 +102,7 @@
 ## Bodymind
 * [*Be Here Now*](https://en.wikipedia.org/wiki/Be_Here_Now_(book)) by [Ram Dass](https://en.wikipedia.org/wiki/Ram_Dass) 1931&mdash;2019
 * [Bodymind](https://en.wikipedia.org/wiki/Bodymind)
+* [Mental chronometry](https://en.wikipedia.org/wiki/Mental_chronometry)
 * [Jeremy Griffith](https://en.wikipedia.org/wiki/Jeremy_Griffith), [World Transformation Movement](https://www.humancondition.com/)
 * [Virginia Satir](https://en.wikipedia.org/wiki/Virginia_Satir)
 * [Robert J. Waldinger](https://en.wikipedia.org/wiki/Robert_J._Waldinger), [Grant Study](https://en.wikipedia.org/wiki/Grant_Study)
