@@ -121,6 +121,7 @@
 
 ## Ethics
 * [Bias](https://en.wikipedia.org/wiki/Bias)
+  * [Echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))
 * [Cardinal virtues](https://en.wikipedia.org/wiki/Cardinal_virtues)
 * [Michael Schur](https://en.wikipedia.org/wiki/Michael_Schur), [*How to Be Perfect: The Correct Answer to Every Moral Question*](https://www.simonandschuster.com/books/How-to-Be-Perfect/Michael-Schur/9781982159320)
   * [Virtue ethics](https://en.wikipedia.org/wiki/Virtue_ethics)
