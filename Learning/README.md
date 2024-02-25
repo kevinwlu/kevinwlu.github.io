@@ -207,6 +207,9 @@
   * [Paradox](https://en.wikipedia.org/wiki/Paradox)
   * [Recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym)
   * [Backronym](https://en.wikipedia.org/wiki/Backronym)
+  * [Self-similarity](https://en.wikipedia.org/wiki/Self-similarity)
+  * [Fractal](https://en.wikipedia.org/wiki/Fractal)
+  * [Sierpiński triangle](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle) by [Wacław Sierpiński](https://en.wikipedia.org/wiki/Wac%C5%82aw_Sierpi%C5%84ski) 1882&mdash;1969
 * [*A Fire Upon the Deep*](https://en.wikipedia.org/wiki/A_Fire_Upon_the_Deep) 1992 by [Vernor Vinge](https://en.wikipedia.org/wiki/Vernor_Vinge)
 
 ## Neuroscience
