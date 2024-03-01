@@ -221,8 +221,11 @@
 * Barbara Oakley, [Beth Rogowsky](https://www.bloomu.edu/people-directory/beth-rogowsky), and [Terry Sejnowski](https://en.wikipedia.org/wiki/Terry_Sejnowski), *[Uncommon Sense Teaching](https://barbaraoakley.com/books/uncommon-sense-teaching/)*
   * [Neuroscience](https://en.wikipedia.org/wiki/Neuroscience)
   * The [human brain](https://en.wikipedia.org/wiki/Human_brain) has 86 billion [neurons](https://en.wikipedia.org/wiki/Neuron)
+  * [Cerebral cortex](https://en.wikipedia.org/wiki/Cerebral_cortex)
   * [Soma](https://en.wikipedia.org/wiki/Soma_(biology))
   * [Dendrite](https://en.wikipedia.org/wiki/Dendrite)
+    * [Action potential](https://en.wikipedia.org/wiki/Action_potential)
+    * [Calcium-mediated dendritic action potentials](https://www.science.org/doi/10.1126/science.aax6239) (dCaAPs)
   * [Axon](https://en.wikipedia.org/wiki/Axon)
   * [Synapse](https://en.wikipedia.org/wiki/Synapse)
   * [Working memory](https://en.wikipedia.org/wiki/Working_memory)
