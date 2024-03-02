@@ -116,7 +116,9 @@
 * [Shin-ichiro Terayama](https://www.shin-terayama.jp/en/) 1936&mdash;2023
 * [WINN: What Is Needed Now](https://winnpost.org/)
 * [P.C. Benias et al., "Structure and Distribution of an Unrecognized Interstitium in Human Tissues." Sci Rep 8, 4947 (2018).](https://www.nature.com/articles/s41598-018-23062-6)
- * [Interstitium](https://en.wikipedia.org/wiki/Interstitium)
+  * [Confocal microscopy](https://en.wikipedia.org/wiki/Confocal_microscopy)
+  * [Endomicroscopy](https://en.wikipedia.org/wiki/Endomicroscopy)
+  * [Interstitium](https://en.wikipedia.org/wiki/Interstitium)
 * [Placebo](https://en.wikipedia.org/wiki/Placebo)
 
 ## Ethics
