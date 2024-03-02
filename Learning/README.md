@@ -119,7 +119,7 @@
   * [Confocal microscopy](https://en.wikipedia.org/wiki/Confocal_microscopy)
   * [Endomicroscopy](https://en.wikipedia.org/wiki/Endomicroscopy)
   * [Fascia](https://en.wikipedia.org/wiki/Fascia)
-    * [Fibromyalgia](https://en.wikipedia.org/wiki/Fibromyalgia)
+  * [Fibromyalgia](https://en.wikipedia.org/wiki/Fibromyalgia)
   * [Gastrointestinal tract](https://en.wikipedia.org/wiki/Gastrointestinal_tract)
   * [Interstitium](https://en.wikipedia.org/wiki/Interstitium)
     * [Chakra](https://en.wikipedia.org/wiki/Chakra)
