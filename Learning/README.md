@@ -118,7 +118,16 @@
 * [P.C. Benias et al., "Structure and Distribution of an Unrecognized Interstitium in Human Tissues." Sci Rep 8, 4947 (2018).](https://www.nature.com/articles/s41598-018-23062-6)
   * [Confocal microscopy](https://en.wikipedia.org/wiki/Confocal_microscopy)
   * [Endomicroscopy](https://en.wikipedia.org/wiki/Endomicroscopy)
+  * [Fascia](https://en.wikipedia.org/wiki/Fascia)
+    * [Fibromyalgia](https://en.wikipedia.org/wiki/Fibromyalgia)
+  * [Gastrointestinal tract](https://en.wikipedia.org/wiki/Gastrointestinal_tract)
   * [Interstitium](https://en.wikipedia.org/wiki/Interstitium)
+    * [Chakra](https://en.wikipedia.org/wiki/Chakra)
+    * [Meridian](https://en.wikipedia.org/wiki/Meridian_(Chinese_medicine))
+  * [Lymphatic vessel](https://en.wikipedia.org/wiki/Lymphatic_vessel)
+  * [Submucosa](https://en.wikipedia.org/wiki/Submucosa)
+  * [Systems biology](https://en.wikipedia.org/wiki/Systems_biology)
+    * [*Systems Biology*](https://www.ncbi.nlm.nih.gov/books/NBK599593/)
 * [Placebo](https://en.wikipedia.org/wiki/Placebo)
 
 ## Ethics
