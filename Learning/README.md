@@ -131,9 +131,12 @@
 * [Placebo](https://en.wikipedia.org/wiki/Placebo)
 
 ## Ethics
-* [Ethics Advice From a Utility Manager](http://www.helpingyouengineeryourfuture.com/ethics-advice.htm) by Stuart G. Walesh
-  > Ethics is the process used to make value-laden decisions beyond the law in professional matters
+* [Ethics Advice From a Utility Manager](http://www.helpingyouengineeryourfuture.com/ethics-advice.htm) by [Stuart G. Walesh](https://www.youtube.com/@stuwalesh276/videos)
+  > Ethics is the process used to make value-laden decisions beyond the law in professional matters* [Ethics](https://en.wikipedia.org/wiki/Ethics)
 * [IEEE Code of Ethics](https://www.ieee.org/about/corporate/governance/p7-8.html)
+* [Ethical dilemma](https://en.wikipedia.org/wiki/Ethical_dilemma)
+  * [Guidelines for Facilitating Solutions to Ethical Dilemmas in Professional Practice](https://www.depts.ttu.edu/murdoughcenter/products/resources/guidelines-for-facilitating-solutions.php)
+* [Moral imagination](https://en.wikipedia.org/wiki/Imagination)
 * [Bias](https://en.wikipedia.org/wiki/Bias)
   * [Echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))
 * [Cardinal virtues](https://en.wikipedia.org/wiki/Cardinal_virtues)
