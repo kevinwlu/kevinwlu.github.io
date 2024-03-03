@@ -131,8 +131,9 @@
 * [Placebo](https://en.wikipedia.org/wiki/Placebo)
 
 ## Ethics
+* [Ethics](https://en.wikipedia.org/wiki/Ethics)
 * [Ethics Advice From a Utility Manager](http://www.helpingyouengineeryourfuture.com/ethics-advice.htm) by [Stuart G. Walesh](https://www.youtube.com/@stuwalesh276/videos)
-  > Ethics is the process used to make value-laden decisions beyond the law in professional matters* [Ethics](https://en.wikipedia.org/wiki/Ethics)
+  > Ethics is the process used to make value-laden decisions beyond the law in professional matters
 * [IEEE Code of Ethics](https://www.ieee.org/about/corporate/governance/p7-8.html)
 * [Ethical dilemma](https://en.wikipedia.org/wiki/Ethical_dilemma)
   * [Guidelines for Facilitating Solutions to Ethical Dilemmas in Professional Practice](https://www.depts.ttu.edu/murdoughcenter/products/resources/guidelines-for-facilitating-solutions.php)
