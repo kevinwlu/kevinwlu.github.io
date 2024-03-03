@@ -235,8 +235,11 @@
 * [Barbara Oakley](https://en.wikipedia.org/wiki/Barbara_Oakley), *[Learning How to Learn](https://barbaraoakley.com/books/learning-how-to-learn/)*
   * [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
   * [Learning by teaching](https://en.wikipedia.org/wiki/Learning_by_teaching)
-    * The [Feynman Technique](https://fs.blog/feynman-learning-technique/) used by [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) 1918&mdash;1988
+    * [Feynman Technique](https://fs.blog/feynman-learning-technique/) used by [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) 1918&mdash;1988
   * [Einstellung effect](https://en.wikipedia.org/wiki/Einstellung_effect)
+    * [Candle problem](https://en.wikipedia.org/wiki/Candle_problem)
+    * [Missing square puzzle](https://en.wikipedia.org/wiki/Missing_square_puzzle)
+    * [Nine dots puzzle](https://en.wikipedia.org/wiki/Nine_dots_puzzle)
 * Barbara Oakley, [Beth Rogowsky](https://www.bloomu.edu/people-directory/beth-rogowsky), and [Terry Sejnowski](https://en.wikipedia.org/wiki/Terry_Sejnowski), *[Uncommon Sense Teaching](https://barbaraoakley.com/books/uncommon-sense-teaching/)*
   * [Neuroscience](https://en.wikipedia.org/wiki/Neuroscience)
   * The [human brain](https://en.wikipedia.org/wiki/Human_brain) has 86 billion [neurons](https://en.wikipedia.org/wiki/Neuron)
