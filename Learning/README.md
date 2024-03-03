@@ -238,6 +238,7 @@
     * [Feynman Technique](https://fs.blog/feynman-learning-technique/) used by [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) 1918&mdash;1988
   * [Einstellung effect](https://en.wikipedia.org/wiki/Einstellung_effect)
     * [Candle problem](https://en.wikipedia.org/wiki/Candle_problem)
+    * [Matchstick puzzle](https://en.wikipedia.org/wiki/Matchstick_puzzle)
     * [Missing square puzzle](https://en.wikipedia.org/wiki/Missing_square_puzzle)
     * [Nine dots puzzle](https://en.wikipedia.org/wiki/Nine_dots_puzzle)
 * Barbara Oakley, [Beth Rogowsky](https://www.bloomu.edu/people-directory/beth-rogowsky), and [Terry Sejnowski](https://en.wikipedia.org/wiki/Terry_Sejnowski), *[Uncommon Sense Teaching](https://barbaraoakley.com/books/uncommon-sense-teaching/)*
