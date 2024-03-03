@@ -131,6 +131,9 @@
 * [Placebo](https://en.wikipedia.org/wiki/Placebo)
 
 ## Ethics
+* [Ethics Advice From a Utility Manager](http://www.helpingyouengineeryourfuture.com/ethics-advice.htm) by Stuart G. Walesh
+  > Ethics is the process used to make value-laden decisions beyond the law in professional matters
+* [IEEE Code of Ethics](https://www.ieee.org/about/corporate/governance/p7-8.html)
 * [Bias](https://en.wikipedia.org/wiki/Bias)
   * [Echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))
 * [Cardinal virtues](https://en.wikipedia.org/wiki/Cardinal_virtues)
@@ -147,8 +150,6 @@
 * [Stanford Encyclopedia of Philosophy](https://en.wikipedia.org/wiki/Stanford_Encyclopedia_of_Philosophy) (SEP)
   * [Chinese Ethics](https://plato.stanford.edu/entries/ethics-chinese/)
 * [Immortalized cell line](https://en.wikipedia.org/wiki/Immortalised_cell_line)
-* [Ethics Advice From a Utility Manager](http://www.helpingyouengineeryourfuture.com/ethics-advice.htm) by Stuart G. Walesh
-  > Ethics is the process used to make value-laden decisions beyond the law in professional matters
 
 ## Humanities
 * [Humanities](https://en.wikipedia.org/wiki/Humanities)
