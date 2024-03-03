@@ -147,7 +147,8 @@
 * [Stanford Encyclopedia of Philosophy](https://en.wikipedia.org/wiki/Stanford_Encyclopedia_of_Philosophy) (SEP)
   * [Chinese Ethics](https://plato.stanford.edu/entries/ethics-chinese/)
 * [Immortalized cell line](https://en.wikipedia.org/wiki/Immortalised_cell_line)
-* [Ethics Advice From a Utility Manager](http://www.helpingyouengineeryourfuture.com/ethics-advice.htm)
+* [Ethics Advice From a Utility Manager](http://www.helpingyouengineeryourfuture.com/ethics-advice.htm) by Stuart G. Walesh
+  > Ethics is the process used to make value-laden decisions beyond the law in professional matters
 
 ## Humanities
 * [Humanities](https://en.wikipedia.org/wiki/Humanities)
