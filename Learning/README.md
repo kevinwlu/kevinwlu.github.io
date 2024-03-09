@@ -234,7 +234,7 @@
 * [*A Fire Upon the Deep*](https://en.wikipedia.org/wiki/A_Fire_Upon_the_Deep) 1992 by [Vernor Vinge](https://en.wikipedia.org/wiki/Vernor_Vinge)
 ---
 * [*The Night Watch*](https://en.wikipedia.org/wiki/The_Night_Watch) 1642 by [Rembrandt Harmenszoon van Rijn](https://en.wikipedia.org/wiki/Rembrandt) 1606&mdash;1669
-* [*Las Meninas*](https://en.wikipedia.org/wiki/Las_Meninas) 1656 by [Diego Velázquez](https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez) 1599&madash;1660
+* [*Las Meninas*](https://en.wikipedia.org/wiki/Las_Meninas) 1656 by [Diego Velázquez](https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez) 1599&mdash;1660
 * [Giuseppe Castiglione](https://en.wikipedia.org/wiki/Giuseppe_Castiglione_(Jesuit_painter)) 1688&mdash;1766
 * [*The Gleaners*](https://en.wikipedia.org/wiki/The_Gleaners) 1857 by [Jean-François Millet](https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Millet) 1814&mdash;1875
 ---
