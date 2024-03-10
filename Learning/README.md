@@ -128,13 +128,14 @@
   * [Submucosa](https://en.wikipedia.org/wiki/Submucosa)
   * [Systems biology](https://en.wikipedia.org/wiki/Systems_biology)
     * [*Systems Biology*](https://www.ncbi.nlm.nih.gov/books/NBK599593/)
-* [Placebo](https://en.wikipedia.org/wiki/Placebo)
-* [Law of attraction](https://en.wikipedia.org/wiki/Law_of_attraction_(New_Thought))
+* [Subjectivity and objectivity](https://en.wikipedia.org/wiki/Subjectivity_and_objectivity_(philosophy))
+  * [Placebo](https://en.wikipedia.org/wiki/Placebo)
+  * [Law of attraction](https://en.wikipedia.org/wiki/Law_of_attraction_(New_Thought))
   * [New Thought](https://en.wikipedia.org/wiki/New_Thought)
   * [Pseudoscience](https://en.wikipedia.org/wiki/Pseudoscience)
   * [Falsifiability](https://en.wikipedia.org/wiki/Falsifiability)
   * [Testability](https://en.wikipedia.org/wiki/Testability)
-  * [Subjectivity and objectivity](https://en.wikipedia.org/wiki/Subjectivity_and_objectivity_(philosophy))
+
 ## Ethics
 * [Ethics](https://en.wikipedia.org/wiki/Ethics)
 * [Ethics Advice From a Utility Manager](http://www.helpingyouengineeryourfuture.com/ethics-advice.htm) by [Stuart G. Walesh](http://www.helpingyouengineeryourfuture.com/)
