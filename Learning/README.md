@@ -46,6 +46,7 @@
   * [Pygmalion effect](https://en.wikipedia.org/wiki/Pygmalion_effect)
   * [D-Day](https://en.wikipedia.org/wiki/D-Day_(military_term))
   * [Time limit](https://en.wikipedia.org/wiki/Time_limit)
+  * [Time perception](https://en.wikipedia.org/wiki/Time_perception)
   * [Procrastination](https://en.wikipedia.org/wiki/Procrastination)
   * [Student syndrome](https://en.wikipedia.org/wiki/Student_syndrome)
   * [Senioritis](https://en.wikipedia.org/wiki/Senioritis)
