@@ -142,6 +142,7 @@
   * [Testability](https://en.wikipedia.org/wiki/Testability)
 * [Substance Abuse and Mental Health Services Administration](https://en.wikipedia.org/wiki/Substance_Abuse_and_Mental_Health_Services_Administration) (SAMHSA)
 * [Gabor Maté](https://en.wikipedia.org/wiki/Gabor_Mat%C3%A9)
+  * [Trauma-informed care](https://en.wikipedia.org/wiki/Trauma-informed_care)
   * [Fight-or-flight response](https://en.wikipedia.org/wiki/Fight-or-flight_response)
   * [Hypothalamus](https://en.wikipedia.org/wiki/Hypothalamus)
 
