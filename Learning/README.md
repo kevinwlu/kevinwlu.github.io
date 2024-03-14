@@ -140,6 +140,8 @@
   * [Pseudoscience](https://en.wikipedia.org/wiki/Pseudoscience)
   * [Falsifiability](https://en.wikipedia.org/wiki/Falsifiability)
   * [Testability](https://en.wikipedia.org/wiki/Testability)
+* [Substance Abuse and Mental Health Services Administration](https://en.wikipedia.org/wiki/Substance_Abuse_and_Mental_Health_Services_Administration) (SAMHSA)
+* [Gabor Maté](https://en.wikipedia.org/wiki/Gabor_Mat%C3%A9)
 
 ## Ethics
 * [Bias](https://en.wikipedia.org/wiki/Bias)
