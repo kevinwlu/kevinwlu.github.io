@@ -4,6 +4,7 @@
   * [List of academic fields](https://en.wikipedia.org/wiki/List_of_academic_fields)
   * [Outline of academic disciplines](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines)
 * [Eclecticism](https://en.wikipedia.org/wiki/Eclecticism)
+  * [Syncretism](https://en.wikipedia.org/wiki/Syncretism)
 * [Lifelong learning](https://en.wikipedia.org/wiki/Lifelong_learning)
   * [Daniel T. Willingham](https://en.wikipedia.org/wiki/Daniel_T._Willingham), [Science and Education](http://www.danielwillingham.com/)
 * [Hyperlearning](https://en.wiktionary.org/wiki/hyperlearning) (HL)
