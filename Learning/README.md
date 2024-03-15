@@ -149,6 +149,8 @@
 ## Ethics
 * [Bias](https://en.wikipedia.org/wiki/Bias)
   * [Echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))
+  * [Emotional bias](https://en.wikipedia.org/wiki/Emotional_bias)
+    * [Status quo bias](https://en.wikipedia.org/wiki/Status_quo_bias)
 * [Cardinal virtues](https://en.wikipedia.org/wiki/Cardinal_virtues)
 * [Double standard](https://en.wikipedia.org/wiki/Double_standard)
 * [Ethics](https://en.wikipedia.org/wiki/Ethics)
