@@ -236,6 +236,7 @@
 * [*Stranger in a Strange Land*](https://en.wikipedia.org/wiki/Stranger_in_a_Strange_Land) 1961 by [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein) 1907&mdash;1988
   * [Grok](https://en.wikipedia.org/wiki/Grok)
   * [Grok (chatbot)](https://en.wikipedia.org/wiki/Grok_(chatbot)) by [xAI](https://en.wikipedia.org/wiki/XAI_(company))
+  * [Groq](https://groq.com/) Language Processing Unit (LPU)
 * [*Catch-22*](https://en.wikipedia.org/wiki/Catch-22) 1961 by [Joseph Heller](https://en.wikipedia.org/wiki/Joseph_Heller) 1923&mdash;1999
   * [Catch-22 (logic)](https://en.wikipedia.org/wiki/Catch-22_(logic))
 * [*The Hitchhiker's Guide to the Galaxy*](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy) 1979 by [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams) 1952&mdash;2001
