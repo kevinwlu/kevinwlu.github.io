@@ -148,8 +148,10 @@
   * [*A priori and a posteriori*](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori)
   * [Fallacy](https://en.wikipedia.org/wiki/Fallacy)
     * [List of fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)
-    * [Straw man](https://en.wikipedia.org/wiki/Straw_man) fallacy
     * [Informal fallacy](https://en.wikipedia.org/wiki/Informal_fallacy)
+      * [Chewbacca defense](https://en.wikipedia.org/wiki/Chewbacca_defense)
+      * [Red herring](https://en.wikipedia.org/wiki/Red_herring)
+      * [Straw man](https://en.wikipedia.org/wiki/Straw_man)
     * [Formal fallacy](https://en.wikipedia.org/wiki/Formal_fallacy)
 * [Substance Abuse and Mental Health Services Administration](https://en.wikipedia.org/wiki/Substance_Abuse_and_Mental_Health_Services_Administration) (SAMHSA)
 * [Gabor Maté](https://en.wikipedia.org/wiki/Gabor_Mat%C3%A9)
