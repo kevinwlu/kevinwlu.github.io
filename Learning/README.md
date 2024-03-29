@@ -57,6 +57,7 @@
   * [Positive thinking](https://en.wikipedia.org/wiki/Positive_thinking)
   * [Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
 * [Student syndrome](https://en.wikipedia.org/wiki/Student_syndrome)
+  * [Absenteeism](https://en.wikipedia.org/wiki/Absenteeism)
   * [D-Day](https://en.wikipedia.org/wiki/D-Day_(military_term))
   * [Time limit](https://en.wikipedia.org/wiki/Time_limit)
   * [Time perception](https://en.wikipedia.org/wiki/Time_perception)
