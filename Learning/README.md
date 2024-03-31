@@ -210,14 +210,14 @@
 * [Chinese Text Project](https://en.wikipedia.org/wiki/Chinese_Text_Project)
 * [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi) 1755&ndash;1750 [BCE](https://en.wikipedia.org/wiki/Common_Era) (Before the Common Era)
   * [The Project Gutenberg eBook 17150](https://www.gutenberg.org/ebooks/17150)
-* [*Yi Jing*](https://en.wikipedia.org/wiki/I_Ching) 1000&mdash;750 BCE
+* [*Yi Jing*](https://en.wikipedia.org/wiki/I_Ching) 1000&ndash;750 BCE
   * [The Project Gutenberg eBook 25501](https://www.gutenberg.org/ebooks/25501)
 * [*Iliad*](https://en.wikipedia.org/wiki/Iliad) 700 BCE by [Homer](https://en.wikipedia.org/wiki/Homer) 
   * [The Project Gutenberg eBook 6130](https://www.gutenberg.org/ebooks/6130)
 * [*Odyssey*](https://en.wikipedia.org/wiki/Odyssey) 700 BCE by Homer
   * [The Project Gutenberg eBook 1727](https://www.gutenberg.org/ebooks/1727)
   * [Gates of horn and ivory](https://en.wikipedia.org/wiki/Gates_of_horn_and_ivory)
-* [Aesop's Fables](https://en.wikipedia.org/wiki/Aesop's_Fables) 620&mdash;564 BCE
+* [Aesop's Fables](https://en.wikipedia.org/wiki/Aesop's_Fables) 620&ndash;564 BCE
   * [The Project Gutenberg eBook 21](https://www.gutenberg.org/ebooks/21)
   * [The Project Gutenberg eBook 11339](https://www.gutenberg.org/ebooks/11339)
 * [Rosetta Stone](https://en.wikipedia.org/wiki/Rosetta_Stone) 196 BCE
@@ -278,7 +278,7 @@
   * [Self-similarity](https://en.wikipedia.org/wiki/Self-similarity)
   * [Fractal](https://en.wikipedia.org/wiki/Fractal)
   * [Sierpiński triangle](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle) by [Wacław Sierpiński](https://en.wikipedia.org/wiki/Wac%C5%82aw_Sierpi%C5%84ski) 1882&mdash;1969
-* [*A Fire Upon the Deep*](https://en.wikipedia.org/wiki/A_Fire_Upon_the_Deep) 1992 by [Vernor Vinge](https://en.wikipedia.org/wiki/Vernor_Vinge) 1944&ndash;2024
+* [*A Fire Upon the Deep*](https://en.wikipedia.org/wiki/A_Fire_Upon_the_Deep) 1992 by [Vernor Vinge](https://en.wikipedia.org/wiki/Vernor_Vinge) 1944&mdash;2024
 ---
 * [*The Night Watch*](https://en.wikipedia.org/wiki/The_Night_Watch) 1642 by [Rembrandt Harmenszoon van Rijn](https://en.wikipedia.org/wiki/Rembrandt) 1606&mdash;1669
 * [*Las Meninas*](https://en.wikipedia.org/wiki/Las_Meninas) 1656 by [Diego Velázquez](https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez) 1599&mdash;1660
