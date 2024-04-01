@@ -109,6 +109,7 @@
 * [Mars landing](https://en.wikipedia.org/wiki/Mars_landing)
 * [Milky Way](https://en.wikipedia.org/wiki/Milky_Way)
 * [Moon landing](https://en.wikipedia.org/wiki/Moon_landing)
+* [Period-luminosity relation](https://en.wikipedia.org/wiki/Period-luminosity_relation)
 * [Planck units](https://en.wikipedia.org/wiki/Planck_units)
 * [Plasma (physics)](https://en.wikipedia.org/wiki/Plasma_(physics))
   * [List of plasma physics articles](https://en.wikipedia.org/wiki/List_of_plasma_physics_articles)
