@@ -120,6 +120,7 @@
 * [Van Allen radiation belt](https://en.wikipedia.org/wiki/Van_Allen_radiation_belt)
 * [White hole](https://en.wikipedia.org/wiki/White_hole)
 * [Wormhole](https://en.wikipedia.org/wiki/Wormhole)
+![galaxies](/galaxies.gif)
 
 ## Bodymind
 * [*Be Here Now*](https://en.wikipedia.org/wiki/Be_Here_Now_(book)) by [Ram Dass](https://en.wikipedia.org/wiki/Ram_Dass) 1931&mdash;2019
