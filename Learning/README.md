@@ -281,6 +281,7 @@
   * [Sierpiński triangle](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle) by [Wacław Sierpiński](https://en.wikipedia.org/wiki/Wac%C5%82aw_Sierpi%C5%84ski) 1882&mdash;1969
 * [*A Fire Upon the Deep*](https://en.wikipedia.org/wiki/A_Fire_Upon_the_Deep) 1992 by [Vernor Vinge](https://en.wikipedia.org/wiki/Vernor_Vinge) 1944&mdash;2024
 * [*The Three-Body Problem*](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) 2006&ndash;2008 by [Cixin Liu](https://en.wikipedia.org/wiki/Liu_Cixin)
+  * [Three-body problem](https://en.wikipedia.org/wiki/Three-body_problem)
 ---
 * [*The Night Watch*](https://en.wikipedia.org/wiki/The_Night_Watch) 1642 by [Rembrandt Harmenszoon van Rijn](https://en.wikipedia.org/wiki/Rembrandt) 1606&mdash;1669
 * [*Las Meninas*](https://en.wikipedia.org/wiki/Las_Meninas) 1656 by [Diego Velázquez](https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez) 1599&mdash;1660
