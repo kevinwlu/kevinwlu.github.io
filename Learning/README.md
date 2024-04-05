@@ -120,6 +120,7 @@
 * [Van Allen radiation belt](https://en.wikipedia.org/wiki/Van_Allen_radiation_belt)
 * [White hole](https://en.wikipedia.org/wiki/White_hole)
 * [Wormhole](https://en.wikipedia.org/wiki/Wormhole)
+
 ![galaxies](/Learning/galaxies.gif)
 
 ## Bodymind
