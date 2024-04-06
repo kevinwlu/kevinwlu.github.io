@@ -123,7 +123,7 @@
 
 ![galaxies](/Learning/galaxies.gif)
 
-Source: An interactive flight through millions of galaxies by [Fiske Planetarium](https://en.wikipedia.org/wiki/Fiske_Planetarium), University of Colorado Boulder and [DESI] (https://en.wikipedia.org/wiki/Dark_Energy_Spectroscopic_Instrument) Collaboration
+Source: An interactive flight through millions of galaxies by [Fiske Planetarium](https://en.wikipedia.org/wiki/Fiske_Planetarium), University of Colorado Boulder and [DESI](https://en.wikipedia.org/wiki/Dark_Energy_Spectroscopic_Instrument) Collaboration
 
 ## Bodymind
 * [*The 5 A.M. Club: Own Your Morning. Elevate Your Life*](https://share.libbyapp.com/title/3877579) 2018 by [Robin Sharma](https://en.wikipedia.org/wiki/Robin_Sharma)
