@@ -306,6 +306,32 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [*The Gleaners*](https://en.wikipedia.org/wiki/The_Gleaners) 1857 by [Jean-François Millet](https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Millet) 1814&mdash;1875
 ---
 * [Piano Concerto No. 21](https://en.wikipedia.org/wiki/Piano_Concerto_No._21_(Mozart)) 1785 by [Wolfgang Amadeus Mozart](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart) 1756&mdash;1791
+
+## Mathematics
+* [Daily Challenge With Po-Shen Loh](https://www.youtube.com/@PoShenLoh)
+
+## Methodologies
+* [Ansatz](https://en.wikipedia.org/wiki/Ansatz)
+* [Back-of-the-envelope calculation](https://en.wikipedia.org/wiki/Back-of-the-envelope_calculation)
+* [BLUF (communication)](https://en.wikipedia.org/wiki/BLUF_(communication)): bottom line up front
+* [Decision-matrix method](https://en.wikipedia.org/wiki/Decision-matrix_method)
+* [Guesstimate](https://en.wikipedia.org/wiki/Guesstimate)
+* [Heuristic](https://en.wikipedia.org/wiki/Heuristic)
+* [Iceberg theory](https://en.wikipedia.org/wiki/Iceberg_theory)
+* [KISS principle](https://en.wikipedia.org/wiki/KISS_principle): keep it simple stupid
+* [Likert scale](https://en.wikipedia.org/wiki/Likert_scale)
+* [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor) or [law of parsimony](https://www.merriam-webster.com/dictionary/law%20of%20parsimony)
+* [Rule of thumb](https://en.wikipedia.org/wiki/Rule_of_thumb)
+  * [Scale analysis (mathematics)](https://en.wikipedia.org/wiki/Scale_analysis_(mathematics))
+* [Sanity check](https://en.wikipedia.org/wiki/Sanity_check)
+  * [Sounding board](https://en.wikipedia.org/wiki/Sounding_board)
+* [SECI model of knowledge dimensions](https://en.wikipedia.org/wiki/SECI_model_of_knowledge_dimensions): socialization, externization, combination, internalization
+* [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis): strengths, weaknesses, opportunities, threats
+* [Taxonomy](https://en.wikipedia.org/wiki/Taxonomy)
+* [TL;DR](https://en.wikipedia.org/wiki/TL;DR)
+* [Trial and error](https://en.wikipedia.org/wiki/Trial_and_error)
+* [VUCA](https://en.wikipedia.org/wiki/VUCA): volatility, uncertainty, complexity, ambiguity
+
 ## Neuroscience
 * [Barbara Oakley](https://en.wikipedia.org/wiki/Barbara_Oakley), *[Learning How to Learn](https://barbaraoakley.com/books/learning-how-to-learn/)*
   * [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
@@ -336,28 +362,6 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [McGovern Institute for Brain Research](https://en.wikipedia.org/wiki/McGovern_Institute_for_Brain_Research)
   * [Diffusion-weighted magnetic resonance imaging](https://en.wikipedia.org/wiki/Diffusion_MRI) (DW-MRI)
 * [Elizabeth Koch](https://en.wikipedia.org/wiki/Elizabeth_Koch_(publisher)), [Unlikely Collaborators](https://www.unlikelycollaborators.com/), [Tiny Blue Dot Foundation](https://www.tinybluedotfoundation.org/), and [Perception Box](https://www.tinybluedotfoundation.org/perception-box)
-
-## Methodologies
-* [Ansatz](https://en.wikipedia.org/wiki/Ansatz)
-* [Back-of-the-envelope calculation](https://en.wikipedia.org/wiki/Back-of-the-envelope_calculation)
-* [BLUF (communication)](https://en.wikipedia.org/wiki/BLUF_(communication)): bottom line up front
-* [Decision-matrix method](https://en.wikipedia.org/wiki/Decision-matrix_method)
-* [Guesstimate](https://en.wikipedia.org/wiki/Guesstimate)
-* [Heuristic](https://en.wikipedia.org/wiki/Heuristic)
-* [Iceberg theory](https://en.wikipedia.org/wiki/Iceberg_theory)
-* [KISS principle](https://en.wikipedia.org/wiki/KISS_principle): keep it simple stupid
-* [Likert scale](https://en.wikipedia.org/wiki/Likert_scale)
-* [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor) or [law of parsimony](https://www.merriam-webster.com/dictionary/law%20of%20parsimony)
-* [Rule of thumb](https://en.wikipedia.org/wiki/Rule_of_thumb)
-  * [Scale analysis (mathematics)](https://en.wikipedia.org/wiki/Scale_analysis_(mathematics))
-* [Sanity check](https://en.wikipedia.org/wiki/Sanity_check)
-  * [Sounding board](https://en.wikipedia.org/wiki/Sounding_board)
-* [SECI model of knowledge dimensions](https://en.wikipedia.org/wiki/SECI_model_of_knowledge_dimensions): socialization, externization, combination, internalization
-* [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis): strengths, weaknesses, opportunities, threats
-* [Taxonomy](https://en.wikipedia.org/wiki/Taxonomy)
-* [TL;DR](https://en.wikipedia.org/wiki/TL;DR)
-* [Trial and error](https://en.wikipedia.org/wiki/Trial_and_error)
-* [VUCA](https://en.wikipedia.org/wiki/VUCA): volatility, uncertainty, complexity, ambiguity
 
 # Standards
 * [Isology](https://www.isology.com/) by [Ken Krechmer](https://www.isology.com/kens-bio/)
