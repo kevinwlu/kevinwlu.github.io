@@ -389,6 +389,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Linux](https://en.wikipedia.org/wiki/Linux)
   * [Software Freedom Conservancy (SFC)](https://en.wikipedia.org/wiki/Software_Freedom_Conservancy)
 * [GitHub](https://en.wikipedia.org/wiki/GitHub)
+  * [Timeline of GitHub](https://en.wikipedia.org/wiki/Timeline_of_GitHub)
   * [Camel case](https://en.wikipedia.org/wiki/Camel_case)
   * [Snake case](https://en.wikipedia.org/wiki/Snake_case)
   * [Octodex](https://octodex.github.com/)
