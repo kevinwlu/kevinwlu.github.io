@@ -330,7 +330,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Eclecticism](https://en.wikipedia.org/wiki/Eclecticism)
 * [Soft skills](https://en.wikipedia.org/wiki/Soft_skills)
 * [Emotion classification](https://en.wikipedia.org/wiki/Emotion_classification)
-  * [Robert Plutchik](https://en.wikipedia.org/wiki/Robert_Plutchik) 1927&mdash:2006
+  * [Robert Plutchik](https://en.wikipedia.org/wiki/Robert_Plutchik) 1927&mdash;2006
 ---
   | [Emotional intelligence](https://en.wikipedia.org/wiki/Emotional_intelligence) | Others' suffering | Others' happiness |
   | :---: | :---: | :---: |
