@@ -12,7 +12,7 @@
   * [Edward D. Hess](https://en.wikipedia.org/wiki/Edward_D._Hess), *[Hyper-Learning: How to Adapt to the Speed of Change](https://www.edhess.org/)*, [Berrett-Koehler](https://www.bkconnection.com/), 2020
   * [Ian Morrison](https://ianmorrison.com/311/), *[The Second Curve: Managing the Velocity of Change](https://books.google.com/books/about/The_Second_Curve.html?id=jF3VUVY3CocC)*, [Nicholas Brealey](https://nbuspublishing.com/), 1996
   * [Charles Handy](https://en.wikipedia.org/wiki/Charles_Handy), *[The Second Curve: Thoughts on Reinventing Society](https://books.google.com/books/about/The_Second_Curve.html?id=yztOBQAAQBAJ)*, [Random House](https://en.wikipedia.org/wiki/Random_House), 2015
-* [M-learning](https://en.wikipedia.org/wiki/M-learning)
+* [M-learning](https://en.wikipedia.org/wiki/M-learning) or mobile learning
 * [Microlearning](https://en.wikipedia.org/wiki/Microlearning)
 * [Nanolearning](https://www.digitallearninginstitute.com/blog/what-is-nano-learning/)
 * [Educational technology](https://en.wikipedia.org/wiki/Educational_technology)
