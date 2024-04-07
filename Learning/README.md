@@ -194,6 +194,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
     * [Status quo bias](https://en.wikipedia.org/wiki/Status_quo_bias)
 * [Cardinal virtues](https://en.wikipedia.org/wiki/Cardinal_virtues)
 * [Double standard](https://en.wikipedia.org/wiki/Double_standard)
+* [Eclecticism](https://en.wikipedia.org/wiki/Eclecticism)
 * [Ethics](https://en.wikipedia.org/wiki/Ethics)
 * [Ethics Advice From a Utility Manager](http://www.helpingyouengineeryourfuture.com/ethics-advice.htm) by [Stuart G. Walesh](http://www.helpingyouengineeryourfuture.com/)
   > Ethics is the process used to make value-laden decisions beyond the law in professional matters
@@ -335,7 +336,6 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [McGovern Institute for Brain Research](https://en.wikipedia.org/wiki/McGovern_Institute_for_Brain_Research)
   * [Diffusion-weighted magnetic resonance imaging](https://en.wikipedia.org/wiki/Diffusion_MRI) (DW-MRI)
 * [Elizabeth Koch](https://en.wikipedia.org/wiki/Elizabeth_Koch_(publisher)), [Unlikely Collaborators](https://www.unlikelycollaborators.com/), [Tiny Blue Dot Foundation](https://www.tinybluedotfoundation.org/), and [Perception Box](https://www.tinybluedotfoundation.org/perception-box)
-* [Eclecticism](https://en.wikipedia.org/wiki/Eclecticism)
 
 ## Methodologies
 * [Ansatz](https://en.wikipedia.org/wiki/Ansatz)
