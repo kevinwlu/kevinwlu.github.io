@@ -313,6 +313,11 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Daily Challenge](https://www.youtube.com/@PoShenLoh) with [Po-Shen Loh](https://en.wikipedia.org/wiki/Po-Shen_Loh)
 * [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) 1913&mdash;1996
   * [List of people by Erdős number](https://en.wikipedia.org/wiki/List_of_people_by_Erd%C5%91s_number)
+  * [Ronald Graham](https://en.wikipedia.org/wiki/Ronald_Graham) 1935&mdash;2020
+    * [Graham's number](https://en.wikipedia.org/wiki/Graham%27s_number)
+    * [Numberphile](https://www.youtube.com/@numberphile)
+    * [Tesseract](https://en.wikipedia.org/wiki/Tesseract)
+  * [Fan Chung](https://en.wikipedia.org/wiki/Fan_Chung)
 * [Fields Medal](https://en.wikipedia.org/wiki/Fields_Medal)
 * [Grigori Perelman](https://en.wikipedia.org/wiki/Grigori_Perelman)
 * [Karmarkar's algorithm](https://en.wikipedia.org/wiki/Karmarkar%27s_algorithm) by [Narendra Karmarkar](https://en.wikipedia.org/wiki/Narendra_Karmarkar)
