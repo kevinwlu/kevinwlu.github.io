@@ -329,7 +329,9 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Elizabeth Koch](https://en.wikipedia.org/wiki/Elizabeth_Koch_(publisher)), [Unlikely Collaborators](https://www.unlikelycollaborators.com/), [Tiny Blue Dot Foundation](https://www.tinybluedotfoundation.org/), and [Perception Box](https://www.tinybluedotfoundation.org/perception-box)
 * [Eclecticism](https://en.wikipedia.org/wiki/Eclecticism)
 * [Soft skills](https://en.wikipedia.org/wiki/Soft_skills)
-## 
+* [Emotion classification](https://en.wikipedia.org/wiki/Emotion_classification)
+  * [Robert Plutchik](https://en.wikipedia.org/wiki/Robert_Plutchik) 1927&mdash:2006
+---
   | [Emotional intelligence](https://en.wikipedia.org/wiki/Emotional_intelligence) | Others' suffering | Others' happiness |
   | :---: | :---: | :---: |
   | Bring us suffering | [Empathy](https://en.wikipedia.org/wiki/Empathy) | [Envy](https://en.wikipedia.org/wiki/Envy) |
