@@ -307,9 +307,6 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 ---
 * [Piano Concerto No. 21](https://en.wikipedia.org/wiki/Piano_Concerto_No._21_(Mozart)) 1785 by [Wolfgang Amadeus Mozart](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart) 1756&mdash;1791
 
-## Mathematics
-* [Daily Challenge With Po-Shen Loh](https://www.youtube.com/@PoShenLoh)
-
 ## Methodologies
 * [Ansatz](https://en.wikipedia.org/wiki/Ansatz)
 * [Back-of-the-envelope calculation](https://en.wikipedia.org/wiki/Back-of-the-envelope_calculation)
