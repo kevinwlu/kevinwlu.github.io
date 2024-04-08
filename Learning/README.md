@@ -88,6 +88,7 @@
 * [Patrick Henry Winston](https://en.wikipedia.org/wiki/Patrick_Winston) 1943&mdash;2019, [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY), [IAP](https://elo.mit.edu/iap/) 2018
 
 ## Astronomy
+* [Carlos Farias](https://www.youtube.com/@Carlos.Explains)
 * [Science communication](https://en.wikipedia.org/wiki/Science_communication)
 * [StarTalk](https://www.youtube.com/@StarTalk) by [Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson)
 * [*Brief Answers to the Big Questions*](https://en.wikipedia.org/wiki/Brief_Answers_to_the_Big_Questions) by [Stephen Hawking](https://en.wikipedia.org/wiki/Stephen_Hawking)
