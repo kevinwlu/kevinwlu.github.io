@@ -135,7 +135,6 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 
 ## Biology
 * [Lithops](https://en.wikipedia.org/wiki/Lithops)
-* [Smart Spoon for Parkinson's Patients](https://solve.mit.edu/challenges/solv-ed-youth-innovation-challenge-2/solutions/68738)
 
 ## Bodymind
 * [*The 5 A.M. Club: Own Your Morning. Elevate Your Life*](https://share.libbyapp.com/title/3877579) 2018 by [Robin Sharma](https://en.wikipedia.org/wiki/Robin_Sharma)
