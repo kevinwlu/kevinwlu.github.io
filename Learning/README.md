@@ -134,6 +134,10 @@
 Source: An interactive flight through millions of galaxies by [Fiske Planetarium](https://en.wikipedia.org/wiki/Fiske_Planetarium), University of Colorado Boulder and [DESI](https://en.wikipedia.org/wiki/Dark_Energy_Spectroscopic_Instrument) Collaboration
 
 ## Biology
+* [Biome](https://en.wikipedia.org/wiki/Biome)
+  * [Fauna](https://en.wikipedia.org/wiki/Fauna)
+  * [Flora](https://en.wikipedia.org/wiki/Flora)
+  * [Funga](https://en.wikipedia.org/wiki/Funga)
 * [Lithops](https://en.wikipedia.org/wiki/Lithops)
 * [Optocollic reflex](https://en.wikipedia.org/wiki/Optocollic_reflex)
 * [Vestibulo–ocular reflex](https://en.wikipedia.org/wiki/Vestibulo%E2%80%93ocular_reflex) (VOR)
