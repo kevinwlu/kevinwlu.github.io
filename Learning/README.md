@@ -419,6 +419,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Conference Manuscript Format Definition Table](https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/format-definition-table-and-glossary.pdf)
   * [IEEE Publishing Ethics](https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/)
 * [Modern Language Association](https://en.wikipedia.org/wiki/Modern_Language_Association) (MLA)
+  * ["How do I cite generative AI in MLA style?"](https://style.mla.org/citing-generative-ai/)
 * [Free and open-source software](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 * [List of free and open-source software packages](https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages)
 
