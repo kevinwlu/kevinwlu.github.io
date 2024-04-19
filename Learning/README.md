@@ -141,6 +141,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Fauna](https://en.wikipedia.org/wiki/Fauna)
   * [Flora](https://en.wikipedia.org/wiki/Flora)
   * [Funga](https://en.wikipedia.org/wiki/Funga)
+* [Förster resonance energy transfer](https://en.wikipedia.org/wiki/F%C3%B6rster_resonance_energy_transfer) (FRET)
+  * [Theodor Förster](https://en.wikipedia.org/wiki/Theodor_F%C3%B6rster) 1910&mdash;1974
 * [Lithops](https://en.wikipedia.org/wiki/Lithops)
 * [Optocollic reflex](https://en.wikipedia.org/wiki/Optocollic_reflex)
 * [Vestibulo–ocular reflex](https://en.wikipedia.org/wiki/Vestibulo%E2%80%93ocular_reflex) (VOR)
