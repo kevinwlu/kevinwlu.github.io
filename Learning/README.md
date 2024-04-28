@@ -200,6 +200,9 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Trauma-informed care](https://en.wikipedia.org/wiki/Trauma-informed_care)
   * [Fight-or-flight response](https://en.wikipedia.org/wiki/Fight-or-flight_response)
   * [Hypothalamus](https://en.wikipedia.org/wiki/Hypothalamus)
+  * [Circadian rhythm](https://en.wikipedia.org/wiki/Circadian_rhythm)
+  * [Pineal gland](https://en.wikipedia.org/wiki/Pineal_gland)
+  * [Melatonin](https://en.wikipedia.org/wiki/Melatonin)
 * [Soft skills](https://en.wikipedia.org/wiki/Soft_skills)
 * [Emotion classification](https://en.wikipedia.org/wiki/Emotion_classification)
   * [Robert Plutchik](https://en.wikipedia.org/wiki/Robert_Plutchik) 1927&mdash;2006
@@ -381,6 +384,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * Barbara Oakley, [Beth Rogowsky](https://www.bloomu.edu/people-directory/beth-rogowsky), and [Terry Sejnowski](https://en.wikipedia.org/wiki/Terry_Sejnowski), *[Uncommon Sense Teaching](https://barbaraoakley.com/books/uncommon-sense-teaching/)*
   * [Neuroscience](https://en.wikipedia.org/wiki/Neuroscience)
   * The [human brain](https://en.wikipedia.org/wiki/Human_brain) has 86 billion [neurons](https://en.wikipedia.org/wiki/Neuron)
+  * [Amygdala](https://en.wikipedia.org/wiki/Amygdala)
   * [Cerebral cortex](https://en.wikipedia.org/wiki/Cerebral_cortex)
   * [Soma](https://en.wikipedia.org/wiki/Soma_(biology))
   * [Dendrite](https://en.wikipedia.org/wiki/Dendrite)
