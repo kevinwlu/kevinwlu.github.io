@@ -116,9 +116,11 @@
 * [Julian day](https://en.wikipedia.org/wiki/Julian_day)
 * [Laniakea Supercluster](https://en.wikipedia.org/wiki/Laniakea_Supercluster)
 * [Mars landing](https://en.wikipedia.org/wiki/Mars_landing)
+  * [Timekeeping on Mars](https://en.wikipedia.org/wiki/Timekeeping_on_Mars)
 * [Milky Way](https://en.wikipedia.org/wiki/Milky_Way)
 * [Moon landing](https://en.wikipedia.org/wiki/Moon_landing)
-* [Period-luminosity relation](https://en.wikipedia.org/wiki/Period-luminosity_relation)
+  * [Lunar time](https://simple.wikipedia.org/wiki/Lunar_time)
+* [Period-luminosity relation](https://en.wikipedia.org/wiki/Period-luminosity_relation) 1908 by [Henrietta Swan Leavitt](https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt) 1868&mdash;1921
 * [Planck units](https://en.wikipedia.org/wiki/Planck_units)
 * [Plasma (physics)](https://en.wikipedia.org/wiki/Plasma_(physics))
   * [List of plasma physics articles](https://en.wikipedia.org/wiki/List_of_plasma_physics_articles)
