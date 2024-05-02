@@ -166,6 +166,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [David R. Hawkins](https://veritaspub.com/) 1927&mdash;2012, *The Map of Consoiusness Explained: A Proven Energy Scale to Actualize Your Ultimate Potential*
 * [Shin-ichiro Terayama](https://www.shin-terayama.jp/en/) 1936&mdash;2023
 * [WINN: What Is Needed Now](https://winnpost.org/)
+* [Mihaly Csikszentmihalyi](https://en.wikipedia.org/wiki/Mihaly_Csikszentmihalyi) 1934&mdash;2021
+  * [Flow (psychology)](https://en.wikipedia.org/wiki/Flow_(psychology))
 * [P.C. Benias et al., "Structure and Distribution of an Unrecognized Interstitium in Human Tissues." Sci Rep 8, 4947 (2018).](https://www.nature.com/articles/s41598-018-23062-6)
   * [Confocal microscopy](https://en.wikipedia.org/wiki/Confocal_microscopy)
   * [Endomicroscopy](https://en.wikipedia.org/wiki/Endomicroscopy)
@@ -418,6 +420,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
     * The First Amendment: “If you didn’t document it, you didn’t do it.”
     * The Second Amendment: “Do not present your advisor with only your data and analysis; also present your conclusions and plans for future work.”
     * The Third Amendment: “Do not present your advisor with only your conclusions and plans for future work; also present your data and analysis.”
+* [The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and Love the Tenure-Track Faculty Life](https://www.scientificamerican.com/blog/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/) by [Radhika Nagpal](https://en.wikipedia.org/wiki/Radhika_Nagpal)
 * [IEEE Author Center](https://ieeeauthorcenter.ieee.org/)
   * [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
   * [Overleaf](https://en.wikipedia.org/wiki/Overleaf)
