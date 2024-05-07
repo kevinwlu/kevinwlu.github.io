@@ -219,13 +219,14 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 
 ## Ethics
 * [Bias](https://en.wikipedia.org/wiki/Bias)
+  * [Double standard](https://en.wikipedia.org/wiki/Double_standard)
   * [Echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))
   * [Emotional bias](https://en.wikipedia.org/wiki/Emotional_bias)
-    * [Status quo bias](https://en.wikipedia.org/wiki/Status_quo_bias)
-* [Cardinal virtues](https://en.wikipedia.org/wiki/Cardinal_virtues)
-* [Double standard](https://en.wikipedia.org/wiki/Double_standard)
-* [Eclecticism](https://en.wikipedia.org/wiki/Eclecticism)
+  * [Status quo bias](https://en.wikipedia.org/wiki/Status_quo_bias)
 * [Ethics](https://en.wikipedia.org/wiki/Ethics)
+  * [Cardinal virtues](https://en.wikipedia.org/wiki/Cardinal_virtues)
+  * [Eclecticism](https://en.wikipedia.org/wiki/Eclecticism)* 
+  * [Stoicism](https://en.wikipedia.org/wiki/Stoicism)
 * [Ethics Advice From a Utility Manager](http://www.helpingyouengineeryourfuture.com/ethics-advice.htm) by [Stuart G. Walesh](http://www.helpingyouengineeryourfuture.com/)
   > Ethics is the process used to make value-laden decisions beyond the law in professional matters
   * [Videos by Stu Walesh](https://www.youtube.com/@stuwalesh276/videos)
