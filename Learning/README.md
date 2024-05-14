@@ -362,6 +362,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Decision-matrix method](https://en.wikipedia.org/wiki/Decision-matrix_method)
 * [Guesstimate](https://en.wikipedia.org/wiki/Guesstimate)
 * [Heuristic](https://en.wikipedia.org/wiki/Heuristic)
+  * [Table of metaheuristics](https://en.wikipedia.org/wiki/Table_of_metaheuristics)
 * [Iceberg theory](https://en.wikipedia.org/wiki/Iceberg_theory)
 * [KISS principle](https://en.wikipedia.org/wiki/KISS_principle): keep it simple stupid
 * [Likert scale](https://en.wikipedia.org/wiki/Likert_scale)
