@@ -145,10 +145,11 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Funga](https://en.wikipedia.org/wiki/Funga)
 * [Förster resonance energy transfer](https://en.wikipedia.org/wiki/F%C3%B6rster_resonance_energy_transfer) (FRET)
   * [Theodor Förster](https://en.wikipedia.org/wiki/Theodor_F%C3%B6rster) 1910&mdash;1974
-* [Induced pluripotent stem cell](https://en.wikipedia.org/wiki/Induced_pluripotent_stem_cell) (iPSCs)
-  * [Shinya Yamanaka](https://en.wikipedia.org/wiki/Shinya_Yamanaka)
 * [Lithops](https://en.wikipedia.org/wiki/Lithops)
 * [Optocollic reflex](https://en.wikipedia.org/wiki/Optocollic_reflex)
+* [Stem cell](https://en.wikipedia.org/wiki/Stem_cell)
+  * [Induced pluripotent stem cell](https://en.wikipedia.org/wiki/Induced_pluripotent_stem_cell) (iPSCs)
+  * [Shinya Yamanaka](https://en.wikipedia.org/wiki/Shinya_Yamanaka)
 * [Vestibulo–ocular reflex](https://en.wikipedia.org/wiki/Vestibulo%E2%80%93ocular_reflex) (VOR)
 
 ## Bodymind
