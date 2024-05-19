@@ -158,6 +158,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Bodymind](https://en.wikipedia.org/wiki/Bodymind)
 * [Mental chronometry](https://en.wikipedia.org/wiki/Mental_chronometry)
 * [Jeremy Griffith](https://en.wikipedia.org/wiki/Jeremy_Griffith), [World Transformation Movement](https://www.humancondition.com/)
+* [John Stephen Akhwari](https://en.wikipedia.org/wiki/John_Stephen_Akhwari)
 * [Virginia Satir](https://en.wikipedia.org/wiki/Virginia_Satir)
 * [Robert J. Waldinger](https://en.wikipedia.org/wiki/Robert_J._Waldinger), [Grant Study](https://en.wikipedia.org/wiki/Grant_Study)
 * [Jordan Metzl](https://drjordanmetzl.com/), [Setting Your Fitness Goals: Strategies for Optimizing Health Through Activity](https://www.youtube.com/watch?v=5FFGfPSsMpo)
