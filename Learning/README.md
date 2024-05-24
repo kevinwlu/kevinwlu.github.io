@@ -110,6 +110,7 @@
 * [Dark matter](https://en.wikipedia.org/wiki/Dark_matter)
 * [Ephemeris](https://en.wikipedia.org/wiki/Ephemeris)
   * [Ephemeris time](https://en.wikipedia.org/wiki/Ephemeris_time) (ET)
+* [Exoplanet](https://en.wikipedia.org/wiki/Exoplanet)
 * [Faster-than-light](https://en.wikipedia.org/wiki/Faster-than-light) (FTL)
 * [Gravitational wave](https://en.wikipedia.org/wiki/Gravitational_wave)
 * [Hubble–Lemaître law](https://en.wikipedia.org/wiki/Hubble%27s_law)
