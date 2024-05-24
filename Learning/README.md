@@ -147,6 +147,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Theodor Förster](https://en.wikipedia.org/wiki/Theodor_F%C3%B6rster) 1910&mdash;1974
 * [Lithops](https://en.wikipedia.org/wiki/Lithops)
 * [Optocollic reflex](https://en.wikipedia.org/wiki/Optocollic_reflex)
+* [SimBio](https://simbio.com/)
+  * [DNA Explored](https://simbio.com/content/dna-explored/)
 * [Stem cell](https://en.wikipedia.org/wiki/Stem_cell)
   * [Induced pluripotent stem cell](https://en.wikipedia.org/wiki/Induced_pluripotent_stem_cell) (iPSCs)
   * [Shinya Yamanaka](https://en.wikipedia.org/wiki/Shinya_Yamanaka)
@@ -220,6 +222,10 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   | :---: | :---: | :---: |
   | Bring us suffering | [Empathy](https://en.wikipedia.org/wiki/Empathy) | [Envy](https://en.wikipedia.org/wiki/Envy) |
   | Bring us hapiness | [Schadenfreude](https://en.wikipedia.org/wiki/Schadenfreude) | [Mudita](https://en.wikipedia.org/wiki/Mudita) |
+
+## Chemistry
+* [MolAR](https://mtzgroup.github.io/molar/)
+  * [App](https://apps.apple.com/us/app/molar-augmented-reality/id1559504847?platform=iphone)
 
 ## Ethics
 * [Bias](https://en.wikipedia.org/wiki/Bias)
