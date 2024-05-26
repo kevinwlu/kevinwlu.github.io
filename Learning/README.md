@@ -271,6 +271,10 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [The Project Gutenberg eBook 17150](https://www.gutenberg.org/ebooks/17150)
 * [*Yi Jing*](https://en.wikipedia.org/wiki/I_Ching) 1000&ndash;750 BCE
   * [The Project Gutenberg eBook 25501](https://www.gutenberg.org/ebooks/25501)
+  * [Biological life cycle](https://en.wikipedia.org/wiki/Biological_life_cycle)
+  * [Growth curve (biology)](https://en.wikipedia.org/wiki/Growth_curve_(biology))
+  * [Growth curve (statistics)](https://en.wikipedia.org/wiki/Growth_curve_(statistics))
+  * [Sigmoid function](https://en.wikipedia.org/wiki/Sigmoid_function)
 * [*Iliad*](https://en.wikipedia.org/wiki/Iliad) 700 BCE by [Homer](https://en.wikipedia.org/wiki/Homer) 
   * [The Project Gutenberg eBook 6130](https://www.gutenberg.org/ebooks/6130)
 * [*Odyssey*](https://en.wikipedia.org/wiki/Odyssey) 700 BCE by Homer
