@@ -366,6 +366,9 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Ronald Graham](https://en.wikipedia.org/wiki/Ronald_Graham) 1935&mdash;2020
     * [Graham's number](https://en.wikipedia.org/wiki/Graham%27s_number)
     * [Numberphile](https://www.youtube.com/@numberphile)
+      * [What is Graham's number?](https://www.youtube.com/watch?v=HX8bihEe3nA)
+      * [How big is Graham's number?](https://www.youtube.com/watch?v=GuigptwlVHo)
+    * [Schlegel diagram](https://en.wikipedia.org/wiki/Schlegel_diagram) by [Victor Schlegel](https://en.wikipedia.org/wiki/Victor_Schlegel) 1843&mdash;1905
     * [Tesseract](https://en.wikipedia.org/wiki/Tesseract)
   * [Fan Chung](https://en.wikipedia.org/wiki/Fan_Chung)
 * [Fields Medal](https://en.wikipedia.org/wiki/Fields_Medal)
