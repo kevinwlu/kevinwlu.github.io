@@ -265,6 +265,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 ## Humanities
 * [Humanities](https://en.wikipedia.org/wiki/Humanities)
 * [Digital humanities](https://en.wikipedia.org/wiki/Digital_humanities)
+* [Michael Sugrue](https://www.youtube.com/@dr.michaelsugrue) 1957&mdash;2024
 * [Project Gutenberg](https://en.wikipedia.org/wiki/Project_Gutenberg)
 * [Chinese Text Project](https://en.wikipedia.org/wiki/Chinese_Text_Project)
 * [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi) 1755&ndash;1750 [BCE](https://en.wikipedia.org/wiki/Common_Era) (Before the Common Era)
