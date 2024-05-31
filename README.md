@@ -49,7 +49,7 @@ Life Senior Member\
 
 ### [Wireless and Optical Communications Conference](https://www.wocc.org/) (WOCC)
 * Treasurer (2015-2024)
-* Chair (2007-2008), Vice Chair (2006-2007), and Member (2005), Board of Trustees
+* Chair (2007-2008), Vice Chair (2006-2007), and Member (2005-2006), Board of Trustees
 * President (2004-2005)
 
 ## Education
