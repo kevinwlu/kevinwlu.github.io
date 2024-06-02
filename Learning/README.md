@@ -300,8 +300,12 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [The Project Gutenberg eBook 829](https://www.gutenberg.org/ebooks/829)
   * [Endianness](https://en.wikipedia.org/wiki/Endianness)
   * [Yahoo](https://en.wikipedia.org/wiki/Yahoo_(Gulliver%27s_Travels))
+* [John Locke](https://en.wikipedia.org/wiki/John_Locke) 1632&mdash;1704
 * [*The Spirit of Law*](https://en.wikipedia.org/wiki/The_Spirit_of_Law) 1748 by [Montesquieu](https://en.wikipedia.org/wiki/Montesquieu) 1689&mdash;1755
   * [The Project Gutenberg eBook 27573](https://www.gutenberg.org/ebooks/27573)
+* [Voltaire](https://en.wikipedia.org/wiki/Voltaire) 1694&mdash;1778
+* [*The Social Contract*](https://en.wikipedia.org/wiki/The_Social_Contract) 1762 by [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) 1712&mdash;1778
+  * [The Project Gutenberg eBook 46333](https://www.gutenberg.org/ebooks/46333)
 * [*Frankenstein; Or, The Modern Prometheus*](https://en.wikipedia.org/wiki/Frankenstein) 1818 by [Mary Shelley](https://en.wikipedia.org/wiki/Mary_Shelley) 1797&mdash;1851
   * [The Project Gutenberg eBook 84](https://www.gutenberg.org/ebooks/84)
 * [*Les Fleurs du mal*](https://en.wikipedia.org/wiki/Les_Fleurs_du_mal) 1857 by [Charles Baudelaire](https://en.wikipedia.org/wiki/Charles_Baudelaire) 1821&mdash;1867
