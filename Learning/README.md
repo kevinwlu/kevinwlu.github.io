@@ -113,6 +113,7 @@
   * [Ephemeris time](https://en.wikipedia.org/wiki/Ephemeris_time) (ET)
 * [Exoplanet](https://en.wikipedia.org/wiki/Exoplanet)
 * [Faster-than-light](https://en.wikipedia.org/wiki/Faster-than-light) (FTL)
+* [Galactic coordinate system](https://en.wikipedia.org/wiki/Galactic_coordinate_system)
 * [Gravitational wave](https://en.wikipedia.org/wiki/Gravitational_wave)
 * [Hubble–Lemaître law](https://en.wikipedia.org/wiki/Hubble%27s_law)
 * [Julian day](https://en.wikipedia.org/wiki/Julian_day)
