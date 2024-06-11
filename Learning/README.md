@@ -123,6 +123,8 @@
 * [Mars landing](https://en.wikipedia.org/wiki/Mars_landing)
   * [Timekeeping on Mars](https://en.wikipedia.org/wiki/Timekeeping_on_Mars)
 * [Milky Way](https://en.wikipedia.org/wiki/Milky_Way)
+* [Minor planet](https://en.wikipedia.org/wiki/Minor_planet)
+  * [Minor Planet Center](https://www.youtube.com/@minorplanetcenter126) on YouTube
 * [Moon landing](https://en.wikipedia.org/wiki/Moon_landing)
   * [Lunar time](https://simple.wikipedia.org/wiki/Lunar_time)
 * [Near-Earth object](https://en.wikipedia.org/wiki/Near-Earth_object) (NEO)
