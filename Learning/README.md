@@ -131,6 +131,8 @@
 * [Moon landing](https://en.wikipedia.org/wiki/Moon_landing)
   * [Lunar time](https://simple.wikipedia.org/wiki/Lunar_time)
 * [Near-Earth object](https://en.wikipedia.org/wiki/Near-Earth_object) (NEO)
+  * [Kaggle NASA NEO dataset](https://www.kaggle.com/datasets/sameepvani/nasa-nearest-earth-objects)
+  * [NEO API](https://proulxp.github.io/CS290-How-To-Guide/neo.html)
 * [Period-luminosity relation](https://en.wikipedia.org/wiki/Period-luminosity_relation) 1908 by [Henrietta Swan Leavitt](https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt) 1868&mdash;1921
 * [Planck units](https://en.wikipedia.org/wiki/Planck_units)
 * [Plasma (physics)](https://en.wikipedia.org/wiki/Plasma_(physics))
