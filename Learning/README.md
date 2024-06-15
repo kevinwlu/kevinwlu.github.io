@@ -308,6 +308,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Hasht-Bihisht](https://en.wikipedia.org/wiki/Hasht-Bihisht_(poem)) 1302 by [Amir Khusrau](https://en.wikipedia.org/wiki/Amir_Khusrau) 1253&mdash;1325
   * [*The Three Princes of Serendip*](https://en.wikipedia.org/wiki/The_Three_Princes_of_Serendip) 1557
   * [Serendipity](https://en.wikipedia.org/wiki/Serendipity)
+* [*Divine Comedy*](https://en.wikipedia.org/wiki/Divine_Comedy) 1321 by [Dante Alighieri](https://en.wikipedia.org/wiki/Dante_Alighieri) 1265&mdash;1321
+  * [The Project Gutenberg eBook 8800](https://www.gutenberg.org/ebooks/8800)
 * [*The Notebooks of Leonardo da Vinci*](https://en.wikipedia.org/wiki/Leonardo_da_Vinci#Journals_and_notes) by [Leonardo da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_Vinci) 1452&mdash;1519
   * [The Project Gutenberg eBook 5000](https://www.gutenberg.org/ebooks/5000)
 * [*Don Quixote*](https://en.wikipedia.org/wiki/Don_Quixote) 1605 and 1615 by [Miguel de Cervantes](https://en.wikipedia.org/wiki/Miguel_de_Cervantes) 1547&mdash;1616
