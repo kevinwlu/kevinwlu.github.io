@@ -125,6 +125,13 @@
   * [Timekeeping on Mars](https://en.wikipedia.org/wiki/Timekeeping_on_Mars)
 * [Milky Way](https://en.wikipedia.org/wiki/Milky_Way)
 * [Minor planet](https://en.wikipedia.org/wiki/Minor_planet)
+  * [Asteroid](https://en.wikipedia.org/wiki/Asteroid)
+    * [Asteroid Terrestrial-impact Last Alert System](https://en.wikipedia.org/wiki/Asteroid_Terrestrial-impact_Last_Alert_System) (ATLAS)
+  * [Meteoroid](https://en.wikipedia.org/wiki/Meteoroid)
+    * [Chelyabinsk meteor](https://en.wikipedia.org/wiki/Chelyabinsk_meteor) was approximately 18 m in diameter
+  * [List of possible impact structures on Earth](https://en.wikipedia.org/wiki/List_of_possible_impact_structures_on_Earth)
+  * [List of impact structures on Earth](https://en.wikipedia.org/wiki/List_of_impact_structures_on_Earth)
+    * [Chicxulub crater](https://en.wikipedia.org/wiki/Chicxulub_crater)
 * [Minor Planet Center](https://en.wikipedia.org/wiki/Minor_Planet_Center) (MPC)
   * [Website](https://minorplanetcenter.net/)
   * [YouTube](https://www.youtube.com/@minorplanetcenter126)
@@ -132,6 +139,7 @@
   * [Lunar time](https://simple.wikipedia.org/wiki/Lunar_time)
 * [Near-Earth object](https://en.wikipedia.org/wiki/Near-Earth_object) (NEO)
   * [Kaggle NASA NEO dataset](https://www.kaggle.com/datasets/sameepvani/nasa-nearest-earth-objects)
+  * [List of near-Earth object observation projects](https://en.wikipedia.org/wiki/List_of_near-Earth_object_observation_projects)
   * [NEO API](https://proulxp.github.io/CS290-How-To-Guide/neo.html)
 * [Period-luminosity relation](https://en.wikipedia.org/wiki/Period-luminosity_relation) 1908 by [Henrietta Swan Leavitt](https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt) 1868&mdash;1921
 * [Planck units](https://en.wikipedia.org/wiki/Planck_units)
