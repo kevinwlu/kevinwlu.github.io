@@ -147,7 +147,7 @@
     * [Double Asteroid Redirection Test](https://en.wikipedia.org/wiki/Double_Asteroid_Redirection_Test) (DART)
     * [List of asteroid close approaches to Earth](https://en.wikipedia.org/wiki/List_of_asteroid_close_approaches_to_Earth)
     * [Chelyabinsk meteor](https://en.wikipedia.org/wiki/Chelyabinsk_meteor) was approximately 18 m in diameter
-  * [Meteoroid](https://en.wikipedia.org/wiki/Meteoroid) between 30 μm and one meter in diameter
+  * [Meteoroid](https://en.wikipedia.org/wiki/Meteoroid) is between 30 μm and one meter in diameter
     * [Meteorite](https://en.wikipedia.org/wiki/Meteorite)
     * [Meteorite classification](https://en.wikipedia.org/wiki/Meteorite_classification)
   * [List of possible impact structures on Earth](https://en.wikipedia.org/wiki/List_of_possible_impact_structures_on_Earth)
@@ -160,7 +160,11 @@
   * [Kaggle NASA NEO dataset](https://www.kaggle.com/datasets/sameepvani/nasa-nearest-earth-objects)
   * [List of near-Earth object observation projects](https://en.wikipedia.org/wiki/List_of_near-Earth_object_observation_projects)
   * [NEO API](https://proulxp.github.io/CS290-How-To-Guide/neo.html)
-
+* [Micrometeoroid](https://en.wikipedia.org/wiki/Micrometeoroid) was deprecated by IAU in 2017
+* [Space debris](https://en.wikipedia.org/wiki/Space_debris)
+  * [Space Transportation System](https://en.wikipedia.org/wiki/Space_Transportation_System) (STS)
+  * [Long Duration Exposure Facility](https://en.wikipedia.org/wiki/Long_Duration_Exposure_Facility) (LDEF) from March 1985 to January 1990
+---
 ![galaxies](/Learning/galaxies.gif)
 
 Source: An interactive flight through millions of galaxies by [Fiske Planetarium](https://en.wikipedia.org/wiki/Fiske_Planetarium), University of Colorado Boulder and [DESI](https://en.wikipedia.org/wiki/Dark_Energy_Spectroscopic_Instrument) Collaboration
