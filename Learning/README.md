@@ -146,9 +146,10 @@
     * [Asteroid Terrestrial-impact Last Alert System](https://en.wikipedia.org/wiki/Asteroid_Terrestrial-impact_Last_Alert_System) (ATLAS)
     * [Double Asteroid Redirection Test](https://en.wikipedia.org/wiki/Double_Asteroid_Redirection_Test) (DART)
     * [List of asteroid close approaches to Earth](https://en.wikipedia.org/wiki/List_of_asteroid_close_approaches_to_Earth)
-  * [Meteoroid](https://en.wikipedia.org/wiki/Meteoroid)
     * [Chelyabinsk meteor](https://en.wikipedia.org/wiki/Chelyabinsk_meteor) was approximately 18 m in diameter
+  * [Meteoroid](https://en.wikipedia.org/wiki/Meteoroid) between 30 μm and one meter in diameter
     * [Meteorite](https://en.wikipedia.org/wiki/Meteorite)
+    * [Meteorite classification](https://en.wikipedia.org/wiki/Meteorite_classification)
   * [List of possible impact structures on Earth](https://en.wikipedia.org/wiki/List_of_possible_impact_structures_on_Earth)
   * [List of impact structures on Earth](https://en.wikipedia.org/wiki/List_of_impact_structures_on_Earth)
     * [Chicxulub crater](https://en.wikipedia.org/wiki/Chicxulub_crater)
