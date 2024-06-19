@@ -253,6 +253,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Kinkeeping](https://en.wikipedia.org/wiki/Kinkeeping)
 * [Emotion classification](https://en.wikipedia.org/wiki/Emotion_classification)
   * [Robert Plutchik](https://en.wikipedia.org/wiki/Robert_Plutchik) 1927&mdash;2006
+* [Crocodile tears](https://en.wikipedia.org/wiki/Crocodile_tears)
 ---
   | [Emotional intelligence](https://en.wikipedia.org/wiki/Emotional_intelligence) | Others' suffering | Others' happiness |
   | :---: | :---: | :---: |
