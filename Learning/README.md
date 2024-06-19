@@ -397,7 +397,12 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [*Las Meninas*](https://en.wikipedia.org/wiki/Las_Meninas) 1656 by [Diego Velázquez](https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez) 1599&mdash;1660
 * [Giuseppe Castiglione](https://en.wikipedia.org/wiki/Giuseppe_Castiglione_(Jesuit_painter)) 1688&mdash;1766
 * [*The Gleaners*](https://en.wikipedia.org/wiki/The_Gleaners) 1857 by [Jean-François Millet](https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Millet) 1814&mdash;1875
-
+---
+* [Contract](https://en.wikipedia.org/wiki/Contract)
+* [Double jeopardy](https://en.wikipedia.org/wiki/Double_jeopardy)
+* [*Force majeure*](https://en.wikipedia.org/wiki/Force_majeure)
+* [Product liability](https://en.wikipedia.org/wiki/Product_liability)
+* [Tort](https://en.wikipedia.org/wiki/Tort)
 ## Mathematics
 * [Conjecture](https://en.wikipedia.org/wiki/Conjecture)
   * [List of conjectures](https://en.wikipedia.org/wiki/List_of_conjectures)
