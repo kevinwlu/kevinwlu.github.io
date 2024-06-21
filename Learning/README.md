@@ -142,6 +142,7 @@
 * [Wormhole](https://en.wikipedia.org/wiki/Wormhole)
 ---
 * [Interstellar object](https://en.wikipedia.org/wiki/Interstellar_object)
+  * [CNEOS 2014-01-08](https://en.wikipedia.org/wiki/CNEOS_2014-01-08)
   * [ʻOumuamua](https://en.wikipedia.org/wiki/%CA%BBOumuamua)
 * [Minor planet](https://en.wikipedia.org/wiki/Minor_planet)
   * [Asteroid](https://en.wikipedia.org/wiki/Asteroid)
