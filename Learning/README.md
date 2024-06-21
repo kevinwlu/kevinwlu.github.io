@@ -141,6 +141,8 @@
 * [White hole](https://en.wikipedia.org/wiki/White_hole)
 * [Wormhole](https://en.wikipedia.org/wiki/Wormhole)
 ---
+* [Interstellar object](https://en.wikipedia.org/wiki/Interstellar_object)
+  * [ʻOumuamua](https://en.wikipedia.org/wiki/%CA%BBOumuamua)
 * [Minor planet](https://en.wikipedia.org/wiki/Minor_planet)
   * [Asteroid](https://en.wikipedia.org/wiki/Asteroid)
     * [Asteroid Terrestrial-impact Last Alert System](https://en.wikipedia.org/wiki/Asteroid_Terrestrial-impact_Last_Alert_System) (ATLAS)
