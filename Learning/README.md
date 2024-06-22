@@ -170,8 +170,9 @@
 * [Space debris](https://en.wikipedia.org/wiki/Space_debris)
   * [Space Transportation System](https://en.wikipedia.org/wiki/Space_Transportation_System) (STS)
   * [Long Duration Exposure Facility](https://en.wikipedia.org/wiki/Long_Duration_Exposure_Facility) (LDEF) from March 1985 to January 1990
-* [SpaceML](https://spaceml.org/)
-  * [GitHub repositories](https://github.com/spaceml-org)
+* [Trillium Technologies](https://trillium.tech/)
+  * [SpaceML](https://spaceml.org/)
+    * [GitHub repositories](https://github.com/spaceml-org)
 ---
 * [National Aviation Reporting Center on Anomalous Phenomena](https://www.narcap.org/) (NARCAP)
 ---
