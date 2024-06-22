@@ -144,6 +144,7 @@
 * [Interstellar object](https://en.wikipedia.org/wiki/Interstellar_object)
   * [CNEOS 2014-01-08](https://en.wikipedia.org/wiki/CNEOS_2014-01-08)
   * [ʻOumuamua](https://en.wikipedia.org/wiki/%CA%BBOumuamua)
+  * [2I/Borisov](https://en.wikipedia.org/wiki/2I/Borisov)
 * [Minor planet](https://en.wikipedia.org/wiki/Minor_planet)
   * [Asteroid](https://en.wikipedia.org/wiki/Asteroid)
     * [Asteroid Terrestrial-impact Last Alert System](https://en.wikipedia.org/wiki/Asteroid_Terrestrial-impact_Last_Alert_System) (ATLAS)
