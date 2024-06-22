@@ -448,10 +448,13 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [KISS principle](https://en.wikipedia.org/wiki/KISS_principle): keep it simple stupid
 * [Likert scale](https://en.wikipedia.org/wiki/Likert_scale)
 * [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor) or [law of parsimony](https://www.merriam-webster.com/dictionary/law%20of%20parsimony)
+* [OODA loop](https://en.wikipedia.org/wiki/OODA_loop): observe, orient, decide, act
 * [Rule of thumb](https://en.wikipedia.org/wiki/Rule_of_thumb)
   * [Scale analysis (mathematics)](https://en.wikipedia.org/wiki/Scale_analysis_(mathematics))
 * [Sanity check](https://en.wikipedia.org/wiki/Sanity_check)
   * [Sounding board](https://en.wikipedia.org/wiki/Sounding_board)
+* [Six Sigma](https://en.wikipedia.org/wiki/Six_Sigma)
+  * [DMAIC](https://en.wikipedia.org/wiki/DMAIC): define, measure, analyze, improve and control
 * [SECI model of knowledge dimensions](https://en.wikipedia.org/wiki/SECI_model_of_knowledge_dimensions): socialization, externization, combination, internalization
 * [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis): strengths, weaknesses, opportunities, threats
 * [Taxonomy](https://en.wikipedia.org/wiki/Taxonomy)
