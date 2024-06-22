@@ -1,5 +1,9 @@
 # Learning
 * [Learning](https://en.wikipedia.org/wiki/Learning)
+* [Learning disability](https://en.wikipedia.org/wiki/Learning_disability)
+  * [Dyscalculia](https://en.wikipedia.org/wiki/Dyscalculia)
+  * [Dysgraphia](https://en.wikipedia.org/wiki/Dysgraphia)
+  * [Dyslexia](https://en.wikipedia.org/wiki/Dyslexia)
 * [Academic fields](https://en.wikipedia.org/wiki/Academic_discipline)
   * [List of academic fields](https://en.wikipedia.org/wiki/List_of_academic_fields)
   * [Outline of academic disciplines](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines)
