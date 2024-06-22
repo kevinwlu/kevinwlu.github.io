@@ -95,6 +95,7 @@
 * [Carlos Explains](https://www.youtube.com/@Carlos.Explains) by Carlos Farias
 * [StarTalk](https://www.youtube.com/@StarTalk) by [Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson)
 ---
+* [Nicolaus Copernicus](https://en.wikipedia.org/wiki/Nicolaus_Copernicus) 1473&mdash;1543
 * [*Brief Answers to the Big Questions*](https://en.wikipedia.org/wiki/Brief_Answers_to_the_Big_Questions) by [Stephen Hawking](https://en.wikipedia.org/wiki/Stephen_Hawking)
 1942&mdash;2018
   * [Amyotrophic lateral sclerosis](https://en.wikipedia.org/wiki/ALS)  (ALS)
