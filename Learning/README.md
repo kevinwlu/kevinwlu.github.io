@@ -449,6 +449,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Likert scale](https://en.wikipedia.org/wiki/Likert_scale)
 * [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor) or [law of parsimony](https://www.merriam-webster.com/dictionary/law%20of%20parsimony)
 * [OODA loop](https://en.wikipedia.org/wiki/OODA_loop): observe, orient, decide, act
+* [PDCA](https://en.wikipedia.org/wiki/PDCA): plan, do, check, act
 * [Rule of thumb](https://en.wikipedia.org/wiki/Rule_of_thumb)
   * [Scale analysis (mathematics)](https://en.wikipedia.org/wiki/Scale_analysis_(mathematics))
 * [Sanity check](https://en.wikipedia.org/wiki/Sanity_check)
