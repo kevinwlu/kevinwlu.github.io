@@ -395,6 +395,9 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Paradox](https://en.wikipedia.org/wiki/Paradox)
   * [Recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym)
   * [Backronym](https://en.wikipedia.org/wiki/Backronym)
+  * [Penrose triangle](https://en.wikipedia.org/wiki/Penrose_triangle)
+    * [Lionel Penrose](https://en.wikipedia.org/wiki/Lionel_Penrose) 1898&mdash;1972
+    * [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)
   * [Self-similarity](https://en.wikipedia.org/wiki/Self-similarity)
   * [Fractal](https://en.wikipedia.org/wiki/Fractal)
   * [Sierpiński triangle](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle) by [Wacław Sierpiński](https://en.wikipedia.org/wiki/Wac%C5%82aw_Sierpi%C5%84ski) 1882&mdash;1969
