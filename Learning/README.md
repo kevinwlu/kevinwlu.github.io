@@ -505,6 +505,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [McGovern Institute for Brain Research](https://en.wikipedia.org/wiki/McGovern_Institute_for_Brain_Research)
   * [Diffusion-weighted magnetic resonance imaging](https://en.wikipedia.org/wiki/Diffusion_MRI) (DW-MRI)
 * [Elizabeth Koch](https://en.wikipedia.org/wiki/Elizabeth_Koch_(publisher)), [Unlikely Collaborators](https://www.unlikelycollaborators.com/), [Tiny Blue Dot Foundation](https://www.tinybluedotfoundation.org/), and [Perception Box](https://www.tinybluedotfoundation.org/perception-box)
+* [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
 
 # Standards
 * [Isology](https://www.isology.com/) by [Ken Krechmer](https://www.isology.com/kens-bio/)
