@@ -141,6 +141,7 @@
 * [Saros](https://en.wikipedia.org/wiki/Saros_(astronomy))
   * [List of solar eclipses in the 21st century](https://en.wikipedia.org/wiki/List_of_solar_eclipses_in_the_21st_century)
 * [Solar cycle](https://en.wikipedia.org/wiki/Solar_cycle)
+* [Space weather](https://en.wikipedia.org/wiki/Space_weather)
 * [String theory](https://en.wikipedia.org/wiki/String_theory)
 * [Van Allen radiation belt](https://en.wikipedia.org/wiki/Van_Allen_radiation_belt)
 * [White hole](https://en.wikipedia.org/wiki/White_hole)
