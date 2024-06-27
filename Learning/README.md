@@ -166,6 +166,7 @@
   * [List of possible impact structures on Earth](https://en.wikipedia.org/wiki/List_of_possible_impact_structures_on_Earth)
   * [List of impact structures on Earth](https://en.wikipedia.org/wiki/List_of_impact_structures_on_Earth)
     * [Chicxulub crater](https://en.wikipedia.org/wiki/Chicxulub_crater)
+    * [Cretaceous–Paleogene extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event)
   * [Minor Planet Center](https://en.wikipedia.org/wiki/Minor_Planet_Center) (MPC)
     * [Website](https://minorplanetcenter.net/)
     * [YouTube](https://www.youtube.com/@minorplanetcenter126)
