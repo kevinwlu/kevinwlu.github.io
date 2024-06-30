@@ -445,6 +445,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [List of conjectures](https://en.wikipedia.org/wiki/List_of_conjectures)
 * [Daily Challenge](https://www.youtube.com/@PoShenLoh) with [Po-Shen Loh](https://en.wikipedia.org/wiki/Po-Shen_Loh)
 * [Euclid](https://en.wikipedia.org/wiki/Euclid) 
+* [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) 1596&mdash;1650
+* [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) 1707&mdash;1783
 * [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) 1777&mdash;1855
 * [János Bolyai](https://en.wikipedia.org/wiki/J%C3%A1nos_Bolyai) 1802&mdash;1860
 * [Bernhard Riemann](https://en.wikipedia.org/wiki/Bernhard_Riemann) 1826&mdash;1866
