@@ -444,6 +444,10 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Conjecture](https://en.wikipedia.org/wiki/Conjecture)
   * [List of conjectures](https://en.wikipedia.org/wiki/List_of_conjectures)
 * [Daily Challenge](https://www.youtube.com/@PoShenLoh) with [Po-Shen Loh](https://en.wikipedia.org/wiki/Po-Shen_Loh)
+* [Euclid](https://en.wikipedia.org/wiki/Euclid) 
+* [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) 1777&mdash;1855
+* [János Bolyai](https://en.wikipedia.org/wiki/J%C3%A1nos_Bolyai) 1802&mdash;1860
+* [Bernhard Riemann](https://en.wikipedia.org/wiki/Bernhard_Riemann) 1826&mdash;1866
 * [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) 1913&mdash;1996
   * [List of people by Erdős number](https://en.wikipedia.org/wiki/List_of_people_by_Erd%C5%91s_number)
   * [Ronald Graham](https://en.wikipedia.org/wiki/Ronald_Graham) 1935&mdash;2020
