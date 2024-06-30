@@ -100,10 +100,18 @@
 * [StarTalk](https://www.youtube.com/@StarTalk) by [Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson)
 ---
 * [Nicolaus Copernicus](https://en.wikipedia.org/wiki/Nicolaus_Copernicus) 1473&mdash;1543
+* [Karl Schwarzschild](https://en.wikipedia.org/wiki/Karl_Schwarzschild) 1873&mdash;1916
+* [Arthur Eddington](https://en.wikipedia.org/wiki/Arthur_Eddington) 1882&mdash;1944
+* [Ralph H. Fowler](https://en.wikipedia.org/wiki/Ralph_H._Fowler) 1889&mdash;1944
+* [J. Robert Oppenheimer](https://en.wikipedia.org/wiki/J._Robert_Oppenheimer) 1904&mdash;1967
+* [Subrahmanyan Chandrasekhar](https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar) 1910&mdash;1995
+* [William Alfred Fowler](https://en.wikipedia.org/wiki/William_Alfred_Fowler) 1911&mdash;1995
 * [*Brief Answers to the Big Questions*](https://en.wikipedia.org/wiki/Brief_Answers_to_the_Big_Questions) by [Stephen Hawking](https://en.wikipedia.org/wiki/Stephen_Hawking)
 1942&mdash;2018
   * [Amyotrophic lateral sclerosis](https://en.wikipedia.org/wiki/ALS)  (ALS)
   * [Spinal muscular atrophy](https://en.wikipedia.org/wiki/Spinal_muscular_atrophy) (SMA)
+* [Roy Kerr](https://en.wikipedia.org/wiki/Roy_Kerr)
+---
 * [Astrobiology](https://en.wikipedia.org/wiki/Astrobiology)
 * [Astronomy](https://en.wikipedia.org/wiki/Astronomy)
 * [Astronomical unit](https://en.wikipedia.org/wiki/Astronomical_unit) (AU)
