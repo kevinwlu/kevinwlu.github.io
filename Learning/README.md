@@ -29,7 +29,9 @@
   * [Classroom](https://en.wikipedia.org/wiki/Classroom)
   * [Class arrangement](https://en.wikipedia.org/wiki/Class_arrangement)
   * [Flexible seating classrooms](https://en.wikipedia.org/wiki/Flexible_seating_classrooms)
+* [All India Council for Technical Education](https://www.aicte-india.org/) (AICTE)
 * [IEEE Blended Learning Program](https://blended-learning.ieee.org/Portal/) (BLP)
+
 * [JASON Project](https://en.wikipedia.org/wiki/JASON_Project)
   * [Jason remotely operated vehicle](https://en.wikipedia.org/wiki/Jason_(ROV)) (ROV)
 * [Instructional design](https://en.wikipedia.org/wiki/Instructional_design)
