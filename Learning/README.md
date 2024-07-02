@@ -532,6 +532,10 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 
 # Standards
 * [Isology](https://www.isology.com/) by [Ken Krechmer](https://www.isology.com/kens-bio/)
+* [IEEE P1484.20.3](https://sagroups.ieee.org/1484-20-3/) Competency Data Standards Working Group
+* [ABET Accreditation Criteria & Supporting Documents](https://www.abet.org/accreditation/accreditation-criteria/)
+* [ANSI Committee on Education](https://www.ansi.org/about/governance-advisory/committee-education) (COE)
+  * [Building a Standards Workforce for Tomorrow](https://www.ansi.org/education/standards-education-training)
 
 ## Documentation
 * [George H. Heilmeier](https://en.wikipedia.org/wiki/George_H._Heilmeier) 1936&mdash;2014, [Heilmeier's Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism)
