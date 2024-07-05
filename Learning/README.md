@@ -432,6 +432,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [*The Three-Body Problem*](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) 2006&ndash;2008 by [Cixin Liu](https://en.wikipedia.org/wiki/Liu_Cixin)
   * [Three-body problem](https://en.wikipedia.org/wiki/Three-body_problem)
   * [Syzygy](https://en.wikipedia.org/wiki/Syzygy_(astronomy))
+* [Haruki Murakami](https://en.wikipedia.org/wiki/Haruki_Murakami)
 ---
 * [*The Night Watch*](https://en.wikipedia.org/wiki/The_Night_Watch) 1642 by [Rembrandt Harmenszoon van Rijn](https://en.wikipedia.org/wiki/Rembrandt) 1606&mdash;1669
 * [*Las Meninas*](https://en.wikipedia.org/wiki/Las_Meninas) 1656 by [Diego Velázquez](https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez) 1599&mdash;1660
