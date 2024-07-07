@@ -444,12 +444,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [*The Great Wave off Kanagawa*](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa) 1831 by [Katsushika Hokusai](https://en.wikipedia.org/wiki/Hokusai) 1760&mdash;1849
 * [Utagawa Hiroshige](https://en.wikipedia.org/wiki/Hiroshige) 1797&mdash;1858
 * [*The Gleaners*](https://en.wikipedia.org/wiki/The_Gleaners) 1857 by [Jean-François Millet](https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Millet) 1814&mdash;1875
----
-* [Contract](https://en.wikipedia.org/wiki/Contract)
-* [Double jeopardy](https://en.wikipedia.org/wiki/Double_jeopardy)
-* [*Force majeure*](https://en.wikipedia.org/wiki/Force_majeure)
-* [Product liability](https://en.wikipedia.org/wiki/Product_liability)
-* [Tort](https://en.wikipedia.org/wiki/Tort)
+
 ## Mathematics
 * [Conjecture](https://en.wikipedia.org/wiki/Conjecture)
   * [List of conjectures](https://en.wikipedia.org/wiki/List_of_conjectures)
