@@ -382,6 +382,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [The Project Gutenberg eBook 46333](https://www.gutenberg.org/ebooks/46333)
 * [*Frankenstein; Or, The Modern Prometheus*](https://en.wikipedia.org/wiki/Frankenstein) 1818 by [Mary Shelley](https://en.wikipedia.org/wiki/Mary_Shelley) 1797&mdash;1851
   * [The Project Gutenberg eBook 84](https://www.gutenberg.org/ebooks/84)
+* [*Walden*](https://en.wikipedia.org/wiki/Walden) 1854 by [Henry David Thoreau](https://en.wikipedia.org/wiki/Henry_David_Thoreau) 1817&mdash;1862
+  * [The Project Gutenberg eBook 205](https://www.gutenberg.org/ebooks/205)
 * [*Les Fleurs du mal*](https://en.wikipedia.org/wiki/Les_Fleurs_du_mal) 1857 by [Charles Baudelaire](https://en.wikipedia.org/wiki/Charles_Baudelaire) 1821&mdash;1867
   * [The Project Gutenberg eBook 36098](https://www.gutenberg.org/ebooks/36098)
 * [*Les Misérables*](https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables) 1862 by [Victor Hugo](https://en.wikipedia.org/wiki/Victor_Hugo) 1802&mdash;1885
