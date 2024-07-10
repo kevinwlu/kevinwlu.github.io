@@ -112,6 +112,7 @@
 1942&mdash;2018
   * [Amyotrophic lateral sclerosis](https://en.wikipedia.org/wiki/ALS)  (ALS)
   * [Spinal muscular atrophy](https://en.wikipedia.org/wiki/Spinal_muscular_atrophy) (SMA)
+* [Richard Goldstein](https://en.wikipedia.org/wiki/Richard_Goldstein_(astronomer)) 1927&mdash;2024
 * [Roy Kerr](https://en.wikipedia.org/wiki/Roy_Kerr)
 ---
 * [Astrobiology](https://en.wikipedia.org/wiki/Astrobiology)
