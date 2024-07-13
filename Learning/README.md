@@ -117,6 +117,8 @@
 * [Roy Kerr](https://en.wikipedia.org/wiki/Roy_Kerr)
 ---
 * [Astrobiology](https://en.wikipedia.org/wiki/Astrobiology)
+  * [Europa](https://en.wikipedia.org/wiki/Europa_(moon))
+  * [Europa Clipper](https://en.wikipedia.org/wiki/Europa_Clipper)
 * [Astronomy](https://en.wikipedia.org/wiki/Astronomy)
 * [Astronomical unit](https://en.wikipedia.org/wiki/Astronomical_unit) (AU)
   * [Lunar distance](https://en.wikipedia.org/wiki/Lunar_distance) (LD)
