@@ -167,6 +167,8 @@
 * [Ephemeris](https://en.wikipedia.org/wiki/Ephemeris)
   * [Ephemeris time](https://en.wikipedia.org/wiki/Ephemeris_time) (ET)
 * [Exoplanet](https://en.wikipedia.org/wiki/Exoplanet)
+  * [NASA Exoplanet Archive](https://en.wikipedia.org/wiki/NASA_Exoplanet_Archive)
+  * [Contributed Data Sets](https://exoplanetarchive.ipac.caltech.edu/docs/contributed_data.html)
 * [Interstellar object](https://en.wikipedia.org/wiki/Interstellar_object)
   * [CNEOS 2014-01-08](https://en.wikipedia.org/wiki/CNEOS_2014-01-08)
   * [ʻOumuamua](https://en.wikipedia.org/wiki/%CA%BBOumuamua)
