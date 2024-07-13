@@ -447,6 +447,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Syzygy](https://en.wikipedia.org/wiki/Syzygy_(astronomy))
 * [Haruki Murakami](https://en.wikipedia.org/wiki/Haruki_Murakami)
 ---
+* [Baroque painting](https://en.wikipedia.org/wiki/Baroque_painting)
 * [*The Night Watch*](https://en.wikipedia.org/wiki/The_Night_Watch) 1642 by [Rembrandt Harmenszoon van Rijn](https://en.wikipedia.org/wiki/Rembrandt) 1606&mdash;1669
 * [*Las Meninas*](https://en.wikipedia.org/wiki/Las_Meninas) 1656 by [Diego Velázquez](https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez) 1599&mdash;1660
 * [Giuseppe Castiglione](https://en.wikipedia.org/wiki/Giuseppe_Castiglione_(Jesuit_painter)) 1688&mdash;1766
