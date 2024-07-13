@@ -120,6 +120,7 @@
   * [Extraterrestrial liquid water](https://en.wikipedia.org/wiki/Extraterrestrial_liquid_water)
   * [Europa](https://en.wikipedia.org/wiki/Europa_(moon))
   * [Europa Clipper](https://en.wikipedia.org/wiki/Europa_Clipper)
+  * [Enceladus](https://en.wikipedia.org/wiki/Enceladus)
 * [Astronomy](https://en.wikipedia.org/wiki/Astronomy)
 * [Astronomical unit](https://en.wikipedia.org/wiki/Astronomical_unit) (AU)
   * [Lunar distance](https://en.wikipedia.org/wiki/Lunar_distance) (LD)
