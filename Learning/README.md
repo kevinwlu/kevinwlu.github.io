@@ -424,6 +424,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [*The Hitchhiker's Guide to the Galaxy*](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy) 1979 by [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams) 1952&mdash;2001
   * [Phrases from *The Hitchhiker's Guide to the Galaxy*](https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy)
   * [42 (number)](https://en.wikipedia.org/wiki/42_(number))
+    * [Marathon](https://en.wikipedia.org/wiki/Marathon) is 42.195 km long
   * [Thoughty2](https://www.youtube.com/@Thoughty2) by [Arron Lomas](https://youtube.fandom.com/wiki/Thoughty2)
   * [Towel Day](https://en.wikipedia.org/wiki/Towel_Day)
 * [*Gödel, Escher, Bach (GEB): An Eternal Golden Braid&mdash; A Metaphorical Fugue on Minds and Machines in the Spirit of Lewis Carroll*](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) 1979 and [*I Am a Strange Loop*](https://en.wikipedia.org/wiki/I_Am_a_Strange_Loop) 2007 by [Douglas Hofstadter](https://en.wikipedia.org/wiki/Douglas_Hofstadter) 
