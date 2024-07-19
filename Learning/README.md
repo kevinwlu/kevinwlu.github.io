@@ -31,6 +31,7 @@
   * [Flexible seating classrooms](https://en.wikipedia.org/wiki/Flexible_seating_classrooms)
 * [All India Council for Technical Education](https://www.aicte-india.org/) (AICTE)
 * [IEEE Blended Learning Program](https://blended-learning.ieee.org/Portal/) (BLP)
+* [IEEE TryEngineering](https://tryengineering.org/)
 * [JASON Project](https://en.wikipedia.org/wiki/JASON_Project)
   * [Jason remotely operated vehicle](https://en.wikipedia.org/wiki/Jason_(ROV)) (ROV)
 * [Instructional design](https://en.wikipedia.org/wiki/Instructional_design)
@@ -100,6 +101,7 @@
 ## Astronomy
 * [Carlos Explains](https://www.youtube.com/@Carlos.Explains) by Carlos Farias
 * [StarTalk](https://www.youtube.com/@StarTalk) by [Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson)
+* [IEEE Spectrum Space News and Articles](https://spectrum.ieee.org/tag/space)
 ---
 * [Nicolaus Copernicus](https://en.wikipedia.org/wiki/Nicolaus_Copernicus) 1473&mdash;1543
 * [Karl Schwarzschild](https://en.wikipedia.org/wiki/Karl_Schwarzschild) 1873&mdash;1916
