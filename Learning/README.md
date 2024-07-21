@@ -195,6 +195,7 @@
     * [YouTube](https://www.youtube.com/@minorplanetcenter126)
 * [Near-Earth object](https://en.wikipedia.org/wiki/Near-Earth_object) (NEO)
   * [Center for Near-Earth Object Studies](https://en.wikipedia.org/wiki/Center_for_Near-Earth_Object_Studies) (CNEOS)
+  * [Torino scale](https://en.wikipedia.org/wiki/Torino_scale)
   * [Kaggle NASA NEO dataset](https://www.kaggle.com/datasets/sameepvani/nasa-nearest-earth-objects)
   * [List of near-Earth object observation projects](https://en.wikipedia.org/wiki/List_of_near-Earth_object_observation_projects)
   * [NEO API](https://proulxp.github.io/CS290-How-To-Guide/neo.html)
