@@ -1,5 +1,7 @@
 # Learning
 * [Learning](https://en.wikipedia.org/wiki/Learning)
+  * [Learning curve](https://en.wikipedia.org/wiki/Learning_curve)
+  * [Learning curve (machine learning)](https://en.wikipedia.org/wiki/Learning_curve_(machine_learning))
 * [Learning disability](https://en.wikipedia.org/wiki/Learning_disability)
   * [Dyscalculia](https://en.wikipedia.org/wiki/Dyscalculia)
   * [Dysgraphia](https://en.wikipedia.org/wiki/Dysgraphia)
