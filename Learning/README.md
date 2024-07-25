@@ -90,10 +90,6 @@
   * [Extrasensory perception](https://en.wikipedia.org/wiki/Extrasensory_perception) (ESP)
   * [Chauvinism](https://en.wikipedia.org/wiki/Chauvinism)
 * [Robin Wall Kimmerer](https://en.wikipedia.org/wiki/Robin_Wall_Kimmerer), [*Braiding Sweetgrass*](https://en.wikipedia.org/wiki/Braiding_Sweetgrass)
-* [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming) 1915&mdash;1998, "You and Your Research"
-  * *[The Art of Doing Science and Engineering: Learning to Learn](http://worrydream.com/refs/Hamming-TheArtOfDoingScienceAndEngineering.pdf)*, Chapter 30, pp. 209-215, 1997  
-  * [1986-03-07 Bellcore Colloquium](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
-  * [1995-06-06 Naval Postgraduate School](https://www.youtube.com/watch?v=a1zDuOPkMSw)
 * [Randy Pausch](https://en.wikipedia.org/wiki/Randy_Pausch) 1960&mdash;2008 and [Jeffrey Zaslow](https://en.wikipedia.org/wiki/Jeffrey_Zaslow) 1958&mdash;2012, *[The Last Lecture](https://en.wikipedia.org/wiki/The_Last_Lecture)*, 2008
   * Randy Pausch, *[The Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo)*, September 18, 2007
   * [Alphonse Daudet](https://en.wikipedia.org/wiki/Alphonse_Daudet) 1840&mdash;1897, *[The Last Lesson](https://en.wikisource.org/wiki/The_Last_Lesson)*
@@ -561,7 +557,11 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [ANSI Committee on Education](https://www.ansi.org/about/governance-advisory/committee-education) (COE)
   * [Building a Standards Workforce for Tomorrow](https://www.ansi.org/education/standards-education-training)
 
-## Documentation
+## Research and Documentation
+* [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming) 1915&mdash;1998, "You and Your Research"
+  * *[The Art of Doing Science and Engineering: Learning to Learn](http://worrydream.com/refs/Hamming-TheArtOfDoingScienceAndEngineering.pdf)*, Chapter 30, pp. 209-215, 1997
+  * [1986-03-07 Bellcore Colloquium](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+  * [1995-06-06 Naval Postgraduate School](https://www.youtube.com/watch?v=a1zDuOPkMSw)
 * [George H. Heilmeier](https://en.wikipedia.org/wiki/George_H._Heilmeier) 1936&mdash;2014, [Heilmeier's Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism)
   * [Business case](https://en.wikipedia.org/wiki/Business_case)
   * [Quad chart](https://en.wikipedia.org/wiki/Quad_chart)
@@ -572,6 +572,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
     * The First Amendment: “If you didn’t document it, you didn’t do it.”
     * The Second Amendment: “Do not present your advisor with only your data and analysis; also present your conclusions and plans for future work.”
     * The Third Amendment: “Do not present your advisor with only your conclusions and plans for future work; also present your data and analysis.”
+* [MIT URTC](https://urtc.mit.edu/)
 ---
 * [APA style](https://en.wikipedia.org/wiki/APA_style)
   * [ChatGPT and other AI generative tools](https://guelphhumber.libguides.com/c.php?g=716556&p=5279441)
