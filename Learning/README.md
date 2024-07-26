@@ -248,6 +248,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Shinya Yamanaka](https://en.wikipedia.org/wiki/Shinya_Yamanaka)
 * [Systems biology](https://en.wikipedia.org/wiki/Systems_biology)
   * [*Systems Biology*](https://www.ncbi.nlm.nih.gov/books/NBK599593/)
+* [Telomere](https://en.wikipedia.org/wiki/Telomere)
 * [Vestibulo–ocular reflex](https://en.wikipedia.org/wiki/Vestibulo%E2%80%93ocular_reflex) (VOR)
 
 ## Bodymind
