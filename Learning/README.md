@@ -560,7 +560,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Elizabeth Koch](https://en.wikipedia.org/wiki/Elizabeth_Koch_(publisher)), [Unlikely Collaborators](https://www.unlikelycollaborators.com/), [Tiny Blue Dot Foundation](https://www.tinybluedotfoundation.org/), and [Perception Box](https://www.tinybluedotfoundation.org/perception-box)
 * [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
 
-## Standards
+## Standards Education
 * [Isology](https://www.isology.com/) by [Ken Krechmer](https://www.isology.com/kens-bio/)
 * [IEEE P1484.20.3](https://sagroups.ieee.org/1484-20-3/) Competency Data Standards Working Group
 * [ABET Accreditation Criteria & Supporting Documents](https://www.abet.org/accreditation/accreditation-criteria/)
