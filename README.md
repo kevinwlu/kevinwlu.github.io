@@ -121,3 +121,7 @@ B.S. (1979), Control Engineering, [National Yang Ming Chiao Tung University](htt
 * [Professional Writing Workshop](https://docs.google.com/presentation/d/1MxA8BNXht-iZBCjvJ132hFw8NCFqIsytRd7-xZcuoo8)
 * [Research Ethics](https://docs.google.com/presentation/d/17tJUBG1FEAJRNnsOmk7I3pOiPmfpcyCJATd_FuNYrto)
 * [Second Curve of Technology, Media, and Telecommunications](https://goo.gl/5wH7D7)
+
+## Citation
+* National Research Council. 2002. [*Broadband: Bring Home the Bits*](https://nap.nationalacademies.org/read/10235/chapter/1#ix). Washington, DC: The National Academies Press. doi: https://doi.org/10.17226/10235
+  > Kevin Lu, executuve director of the Integrated Access and Operations Department, Telcordia, discussed fiber in the last mile
