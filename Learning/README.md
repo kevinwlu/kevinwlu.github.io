@@ -251,6 +251,12 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [*Systems Biology*](https://www.ncbi.nlm.nih.gov/books/NBK599593/)
 * [Telomere](https://en.wikipedia.org/wiki/Telomere)
 * [Vestibulo–ocular reflex](https://en.wikipedia.org/wiki/Vestibulo%E2%80%93ocular_reflex) (VOR)
+---
+* [Anaconda](https://en.wikipedia.org/wiki/Anaconda) | [Python](https://en.wikipedia.org/wiki/Python_(genus))
+* [Condor](https://en.wikipedia.org/wiki/Condor) | [Eagle](https://en.wikipedia.org/wiki/Eagle)
+* [Emu](https://en.wikipedia.org/wiki/Emu) | [Ostrich](https://en.wikipedia.org/wiki/Ostrich)
+* [Piping plover](https://en.wikipedia.org/wiki/Piping_plover)
+* [Swift (bird)](https://en.wikipedia.org/wiki/Swift_(bird))
 
 ## Bodymind
 * [*The 5 A.M. Club: Own Your Morning. Elevate Your Life*](https://share.libbyapp.com/title/3877579) 2018 by [Robin Sharma](https://en.wikipedia.org/wiki/Robin_Sharma)
