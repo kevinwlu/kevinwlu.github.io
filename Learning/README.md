@@ -4,7 +4,7 @@
   * [Learning curve (machine learning)](https://en.wikipedia.org/wiki/Learning_curve_(machine_learning))
 * [Learning community](https://en.wikipedia.org/wiki/Learning_community)
   * [Vincent Tinto](https://en.wikipedia.org/wiki/Vince_Tinto)
-  * [*From Educational Experiment to Standard Bearer: University 101 at the University of South Carolina*](https://uscpress.com/From-Educational-Experiment-to-Standard-Bearer)
+  * [*From Educational Experiment to Standard Bearer: University 101 at the University of South Carolina*](https://uscpress.com/From-Educational-Experiment-to-Standard-Bearer) 2022
 * [Academic fields](https://en.wikipedia.org/wiki/Academic_discipline)
   * [List of academic fields](https://en.wikipedia.org/wiki/List_of_academic_fields)
   * [Outline of academic disciplines](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines)
