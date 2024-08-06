@@ -2,10 +2,6 @@
 * [Learning](https://en.wikipedia.org/wiki/Learning)
   * [Learning curve](https://en.wikipedia.org/wiki/Learning_curve)
   * [Learning curve (machine learning)](https://en.wikipedia.org/wiki/Learning_curve_(machine_learning))
-* [Learning disability](https://en.wikipedia.org/wiki/Learning_disability)
-  * [Dyscalculia](https://en.wikipedia.org/wiki/Dyscalculia)
-  * [Dysgraphia](https://en.wikipedia.org/wiki/Dysgraphia)
-  * [Dyslexia](https://en.wikipedia.org/wiki/Dyslexia)
 * [Academic fields](https://en.wikipedia.org/wiki/Academic_discipline)
   * [List of academic fields](https://en.wikipedia.org/wiki/List_of_academic_fields)
   * [Outline of academic disciplines](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines)
@@ -96,8 +92,7 @@
 * [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) 1955&mdash;2011, [Steve Jobs Archive](https://stevejobsarchive.com/)
 * [Patrick Henry Winston](https://en.wikipedia.org/wiki/Patrick_Winston) 1943&mdash;2019, [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY), [IAP](https://elo.mit.edu/iap/) 2018
 * [Science communication](https://en.wikipedia.org/wiki/Science_communication)
-* [Obsessive–compulsive disorder](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder) (OCD)
-  * [Arithmomania](https://en.wikipedia.org/wiki/Arithmomania)
+
 ## Astronomy
 * [Carlos Explains](https://www.youtube.com/@Carlos.Explains) by Carlos Farias
 * [StarTalk](https://www.youtube.com/@StarTalk) by [Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson)
@@ -569,6 +564,12 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [McGovern Institute for Brain Research](https://en.wikipedia.org/wiki/McGovern_Institute_for_Brain_Research)
   * [Diffusion-weighted magnetic resonance imaging](https://en.wikipedia.org/wiki/Diffusion_MRI) (DW-MRI)
 * [Elizabeth Koch](https://en.wikipedia.org/wiki/Elizabeth_Koch_(publisher)), [Unlikely Collaborators](https://www.unlikelycollaborators.com/), [Tiny Blue Dot Foundation](https://www.tinybluedotfoundation.org/), and [Perception Box](https://www.tinybluedotfoundation.org/perception-box)
+* [Learning disability](https://en.wikipedia.org/wiki/Learning_disability)
+  * [Dyscalculia](https://en.wikipedia.org/wiki/Dyscalculia)
+  * [Dysgraphia](https://en.wikipedia.org/wiki/Dysgraphia)
+  * [Dyslexia](https://en.wikipedia.org/wiki/Dyslexia)
+* [Obsessive–compulsive disorder](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder) (OCD)
+  * [Arithmomania](https://en.wikipedia.org/wiki/Arithmomania)
 * [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
 
 ## Standards Education
