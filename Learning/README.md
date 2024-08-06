@@ -96,6 +96,8 @@
 * [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) 1955&mdash;2011, [Steve Jobs Archive](https://stevejobsarchive.com/)
 * [Patrick Henry Winston](https://en.wikipedia.org/wiki/Patrick_Winston) 1943&mdash;2019, [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY), [IAP](https://elo.mit.edu/iap/) 2018
 * [Science communication](https://en.wikipedia.org/wiki/Science_communication)
+* [Obsessive–compulsive disorder](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder) (OCD)
+  * [Arithmomania](https://en.wikipedia.org/wiki/Arithmomania)
 ## Astronomy
 * [Carlos Explains](https://www.youtube.com/@Carlos.Explains) by Carlos Farias
 * [StarTalk](https://www.youtube.com/@StarTalk) by [Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson)
