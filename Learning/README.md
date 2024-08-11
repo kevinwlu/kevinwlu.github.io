@@ -232,6 +232,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Funga](https://en.wikipedia.org/wiki/Funga)
 * [Bengt I. Samuelsson](https://en.wikipedia.org/wiki/Bengt_I._Samuelsson) 1934&mdash;2024
 * [Domain](https://en.wikipedia.org/wiki/Domain_(biology))
+  * [Realm (virology)](https://en.wikipedia.org/wiki/Realm_(virology))
 * [Evolutionary developmental biology](https://en.wikipedia.org/wiki/Evolutionary_developmental_biology)
 * [Fastest animals](https://en.wikipedia.org/wiki/Fastest_animals)
   * [List of birds by flight speed](https://en.wikipedia.org/wiki/List_of_birds_by_flight_speed)
