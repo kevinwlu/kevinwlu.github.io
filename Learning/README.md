@@ -98,8 +98,8 @@
 
 ## Astronomy
 * [Astraeus](https://en.wikipedia.org/wiki/Astraeus)
+  * [Astraea](https://en.wikipedia.org/wiki/Astraea)
 * [Asteria](https://en.wikipedia.org/wiki/Asteria_(Titaness))
-* [Astraea](https://en.wikipedia.org/wiki/Astraea)
 * [Carlos Explains](https://www.youtube.com/@Carlos.Explains) by Carlos Farias
 * [StarTalk](https://www.youtube.com/@StarTalk) by [Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson)
 * [IEEE Spectrum Space News and Articles](https://spectrum.ieee.org/tag/space)
