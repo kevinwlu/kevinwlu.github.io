@@ -194,8 +194,9 @@
   * [List of possible impact structures on Earth](https://en.wikipedia.org/wiki/List_of_possible_impact_structures_on_Earth)
   * [List of impact structures on Earth](https://en.wikipedia.org/wiki/List_of_impact_structures_on_Earth)
     * [Chicxulub crater](https://en.wikipedia.org/wiki/Chicxulub_crater)
-    * [Ruthenium](https://en.wikipedia.org/wiki/Ruthenium)
-    * [Cretaceous–Paleogene extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event)
+      * [Ruthenium](https://en.wikipedia.org/wiki/Ruthenium)
+      * [Ruthenium isotopes show the Chicxulub impactor was a carbonaceous-type asteroid](https://www.science.org/doi/10.1126/science.adk4868), 15 August 2024
+    * [Cretaceous–Paleogene (K-Pg) extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event)
   * [Minor Planet Center](https://en.wikipedia.org/wiki/Minor_Planet_Center) (MPC)
     * [Website](https://minorplanetcenter.net/)
     * [YouTube](https://www.youtube.com/@minorplanetcenter126)
