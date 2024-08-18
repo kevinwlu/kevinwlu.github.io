@@ -272,6 +272,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Condor](https://en.wikipedia.org/wiki/Condor) | [Eagle](https://en.wikipedia.org/wiki/Eagle)
 * [Emu](https://en.wikipedia.org/wiki/Emu) | [Ostrich](https://en.wikipedia.org/wiki/Ostrich)
 * [Flamingo](https://en.wikipedia.org/wiki/Flamingo) | [Flamenco](https://en.wikipedia.org/wiki/Flamenco)
+  > The Spanish word flamenco can refer to both a bird and a traditional Andalusian art form that includes music, dance, and singing.
+  > There is some evidence that flamenco, a traditional Spanish art form, has roots in Rajasthan, India.
 * [Piping plover](https://en.wikipedia.org/wiki/Piping_plover)
 * [Swift (bird)](https://en.wikipedia.org/wiki/Swift_(bird))
 
