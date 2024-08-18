@@ -118,6 +118,8 @@
 * [Richard Goldstein](https://en.wikipedia.org/wiki/Richard_Goldstein_(astronomer)) 1927&mdash;2024
   * [Radar astronomy](https://en.wikipedia.org/wiki/Radar_astronomy)
 * [Roy Kerr](https://en.wikipedia.org/wiki/Roy_Kerr)
+  * [Kerr metric](https://en.wikipedia.org/wiki/Kerr_metric)
+  * [Rotating black hole](https://en.wikipedia.org/wiki/Rotating_black_hole)
 ---
 * [Astrobiology](https://en.wikipedia.org/wiki/Astrobiology)
   * [Extraterrestrial liquid water](https://en.wikipedia.org/wiki/Extraterrestrial_liquid_water)
