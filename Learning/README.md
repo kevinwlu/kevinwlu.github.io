@@ -271,6 +271,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Anaconda](https://en.wikipedia.org/wiki/Anaconda) | [Python](https://en.wikipedia.org/wiki/Python_(genus))
 * [Condor](https://en.wikipedia.org/wiki/Condor) | [Eagle](https://en.wikipedia.org/wiki/Eagle)
 * [Emu](https://en.wikipedia.org/wiki/Emu) | [Ostrich](https://en.wikipedia.org/wiki/Ostrich)
+* [Flamingo](https://en.wikipedia.org/wiki/Flamingo) | [Flamenco](https://en.wikipedia.org/wiki/Flamenco)
 * [Piping plover](https://en.wikipedia.org/wiki/Piping_plover)
 * [Swift (bird)](https://en.wikipedia.org/wiki/Swift_(bird))
 
