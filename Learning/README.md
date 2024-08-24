@@ -596,6 +596,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Dyscalculia](https://en.wikipedia.org/wiki/Dyscalculia)
   * [Dysgraphia](https://en.wikipedia.org/wiki/Dysgraphia)
   * [Dyslexia](https://en.wikipedia.org/wiki/Dyslexia)
+    * [BeyondWords](https://play.google.com/store/apps/details?id=com.beyondwords&hl=en)
     * [OpenDyslexic](https://en.wikipedia.org/wiki/OpenDyslexic)
 * [Obsessive–compulsive disorder](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder) (OCD)
   * [Arithmomania](https://en.wikipedia.org/wiki/Arithmomania)
