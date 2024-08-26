@@ -601,6 +601,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Obsessive–compulsive disorder](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder) (OCD)
   * [Arithmomania](https://en.wikipedia.org/wiki/Arithmomania)
 * [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
+* [Helen Fisher (anthropologist)](https://en.wikipedia.org/wiki/Helen_Fisher_(anthropologist)) 1945&mdash;2024
 
 ## Standards Education
 * [Isology](https://www.isology.com/) by [Ken Krechmer](https://www.isology.com/kens-bio/)
