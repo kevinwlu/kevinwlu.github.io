@@ -196,7 +196,7 @@
   * [List of possible impact structures on Earth](https://en.wikipedia.org/wiki/List_of_possible_impact_structures_on_Earth)
   * [List of impact structures on Earth](https://en.wikipedia.org/wiki/List_of_impact_structures_on_Earth)
     * [Chicxulub crater](https://en.wikipedia.org/wiki/Chicxulub_crater)
-      * [Ruthenium](https://en.wikipedia.org/wiki/Ruthenium)
+      * [Ruthenium](https://en.wikipedia.org/wiki/Ruthenium) has symbol Ru and stomic number 44
       * [Ruthenium isotopes show the Chicxulub impactor was a carbonaceous-type asteroid](https://www.science.org/doi/10.1126/science.adk4868), 15 August 2024
     * [Cretaceous–Paleogene (K-Pg) extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event)
   * [Minor Planet Center](https://en.wikipedia.org/wiki/Minor_Planet_Center) (MPC)
@@ -475,6 +475,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [*The Hitchhiker's Guide to the Galaxy*](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy) 1979 by [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams) 1952&mdash;2001
   * [Phrases from *The Hitchhiker's Guide to the Galaxy*](https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy)
   * [42 (number)](https://en.wikipedia.org/wiki/42_(number))
+    * [Molybdenum](https://en.wikipedia.org/wiki/Molybdenum) has symbol Mo and atomic number 42
     * [Marathon](https://en.wikipedia.org/wiki/Marathon) is 42.195 km long
   * [Thoughty2](https://www.youtube.com/@Thoughty2) by [Arron Lomas](https://youtube.fandom.com/wiki/Thoughty2)
   * [Towel Day](https://en.wikipedia.org/wiki/Towel_Day)
