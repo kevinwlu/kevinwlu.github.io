@@ -6,7 +6,7 @@
 [X](https://twitter.com/kevinwlu) |
 [Instagram](https://www.instagram.com/kevinwenlu/) |
 [Devpost](https://devpost.com/kevinwenlu)\
-Make [learning](/Learning) an everyday habit
+Make lifelong [learning](/Learning) an everyday habit
 
 ## [Stevens Institute of Technology](https://www.stevens.edu/)
 [Teaching Professor (August 16, 2018) and Associate Chair for Undergraduate Studies (September 1, 2021)](https://www.stevens.edu/profile/klu2),
