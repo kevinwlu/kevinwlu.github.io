@@ -77,6 +77,7 @@
 * [Mentorship](https://en.wikipedia.org/wiki/Mentorship)
 * [Coaching](https://en.wikipedia.org/wiki/Coaching)
 ---
+* [Stevens Institute of Technology](https://en.wikipedia.org/wiki/Stevens_Institute_of_Technology)
 * [David A. Vaccari](https://www.stevens.edu/profile/dvaccari), "[The Barbed Quatrefoil Is a 1500-Year-Old Symbol of Architectural Advance](https://personal.stevens.edu/~dvaccari/Vaccari%20-%20Sancta%20Sophia.pdf)"
   * [Quatrefoil](https://en.wikipedia.org/wiki/Quatrefoil)
   * [Pendentive](https://en.wikipedia.org/wiki/Pendentive)
@@ -84,6 +85,7 @@
 * [History of New Jersey](https://en.wikipedia.org/wiki/History_of_New_Jersey)
   * [Hoboken, Antwerp](https://en.wikipedia.org/wiki/Hoboken,_Antwerp)
   * [Hoboken, New Jersey](https://en.wikipedia.org/wiki/Hoboken,_New_Jersey)
+---
 * [Samuel Ullman](https://en.wikipedia.org/wiki/Samuel_Ullman) 1840&mdash;1924, "[Youth](https://www.uab.edu/ullmanmuseum/)"
 * [John Dewey](https://en.wikipedia.org/wiki/John_Dewey) 1859&mdash;1952
 * [Ludwig Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein) 1889&mdash;1951, [*Philosophical Investigations*](https://en.wikipedia.org/wiki/Philosophical_Investigations)
