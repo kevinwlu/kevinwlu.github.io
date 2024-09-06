@@ -505,7 +505,6 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Fractal](https://en.wikipedia.org/wiki/Fractal)
   * [Sierpiński triangle](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle) by [Wacław Sierpiński](https://en.wikipedia.org/wiki/Wac%C5%82aw_Sierpi%C5%84ski) 1882&mdash;1969
 * [*A Fire Upon the Deep*](https://en.wikipedia.org/wiki/A_Fire_Upon_the_Deep) 1992 by [Vernor Vinge](https://en.wikipedia.org/wiki/Vernor_Vinge) 1944&mdash;2024
-* [*Pay It Forward*](https://en.wikipedia.org/wiki/Pay_It_Forward_(novel)) 1999 by [Catherine Ryan Hyde](https://en.wikipedia.org/wiki/Catherine_Ryan_Hyde)
 * [*The Three-Body Problem*](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) 2006&ndash;2008 by [Cixin Liu](https://en.wikipedia.org/wiki/Liu_Cixin)
   * [Three-body problem](https://en.wikipedia.org/wiki/Three-body_problem)
   * [Syzygy](https://en.wikipedia.org/wiki/Syzygy_(astronomy))
