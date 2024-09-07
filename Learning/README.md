@@ -319,6 +319,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
     * [Meridian](https://en.wikipedia.org/wiki/Meridian_(Chinese_medicine))
   * [Lymphatic vessel](https://en.wikipedia.org/wiki/Lymphatic_vessel)
   * [Submucosa](https://en.wikipedia.org/wiki/Submucosa)
+* [Is the Newly Described Interstitial Network the Anatomical Basis of Acupuncture Meridians? A Commentary](https://pubmed.ncbi.nlm.nih.gov/30874366/)
 * [Rorschach test](https://en.wikipedia.org/wiki/Rorschach_test)
   * [Hermann Rorschach](https://en.wikipedia.org/wiki/Hermann_Rorschach) 1884&mdash;1922
 * [Subjectivity and objectivity](https://en.wikipedia.org/wiki/Subjectivity_and_objectivity_(philosophy))
