@@ -542,6 +542,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Fan Chung](https://en.wikipedia.org/wiki/Fan_Chung)
 * [Fields Medal](https://en.wikipedia.org/wiki/Fields_Medal)
 * [Grigori Perelman](https://en.wikipedia.org/wiki/Grigori_Perelman)
+  * [Poincaré conjecture](https://en.wikipedia.org/wiki/Poincar%C3%A9_conjecture)
 * [International Mathematical Olympiad](https://en.wikipedia.org/wiki/International_Mathematical_Olympiad) (IMO)
 * [Karmarkar's algorithm](https://en.wikipedia.org/wiki/Karmarkar%27s_algorithm) by [Narendra Karmarkar](https://en.wikipedia.org/wiki/Narendra_Karmarkar)
 * [Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao)
