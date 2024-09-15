@@ -5,6 +5,9 @@
 * [Learning community](https://en.wikipedia.org/wiki/Learning_community)
   * [Vincent Tinto](https://en.wikipedia.org/wiki/Vince_Tinto)
   * [*From Educational Experiment to Standard Bearer: University 101 at the University of South Carolina*](https://uscpress.com/From-Educational-Experiment-to-Standard-Bearer), 2022
+* [List of oldest universities in continuous operation](https://en.wikipedia.org/wiki/List_of_oldest_universities_in_continuous_operation)
+  * [Nalanda mahavihara](https://en.wikipedia.org/wiki/Nalanda_mahavihara)
+  * [Nalanda University](https://en.wikipedia.org/wiki/Nalanda_University)
 * [Academic fields](https://en.wikipedia.org/wiki/Academic_discipline)
   * [List of academic fields](https://en.wikipedia.org/wiki/List_of_academic_fields)
   * [Outline of academic disciplines](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines)
