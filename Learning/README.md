@@ -483,6 +483,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Brough Superior](https://en.wikipedia.org/wiki/Brough_Superior) by [George Brough](https://en.wikipedia.org/wiki/George_Brough) 1890&mdash1970
 * [*Animal Farm*](https://en.wikipedia.org/wiki/Animal_Farm) 1945 and [*Nineteen Eighty-Four*](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) 1949 by [George Orwell](https://en.wikipedia.org/wiki/George_Orwell) 1903&mdash;1950
 * [*Stranger in a Strange Land*](https://en.wikipedia.org/wiki/Stranger_in_a_Strange_Land) 1961 by [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein) 1907&mdash;1988
+  * [Grok (disambiguation)](https://en.wikipedia.org/wiki/Grok_(disambiguation))
   * [Grok](https://en.wikipedia.org/wiki/Grok)
   * [Grok (chatbot)](https://en.wikipedia.org/wiki/Grok_(chatbot)) by [xAI](https://en.wikipedia.org/wiki/XAI_(company))
   * [Groq](https://groq.com/) Language Processing Unit (LPU)
