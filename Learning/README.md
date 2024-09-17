@@ -486,6 +486,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Grok (disambiguation)](https://en.wikipedia.org/wiki/Grok_(disambiguation))
   * [Grok](https://en.wikipedia.org/wiki/Grok)
   * [Grok (chatbot)](https://en.wikipedia.org/wiki/Grok_(chatbot)) by [xAI](https://en.wikipedia.org/wiki/XAI_(company))
+  * [GROK-the-World](https://groktheworld.com/)
   * [Groq](https://groq.com/) Language Processing Unit (LPU)
 * [*Catch-22*](https://en.wikipedia.org/wiki/Catch-22) 1961 by [Joseph Heller](https://en.wikipedia.org/wiki/Joseph_Heller) 1923&mdash;1999
   * [Catch-22 (logic)](https://en.wikipedia.org/wiki/Catch-22_(logic))
