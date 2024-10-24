@@ -707,3 +707,5 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [How to convert video to GIF in Linux](https://itsfoss.com/convert-video-gif-linux/)
   * [Making GIFs](https://about.gitlab.com/handbook/product/making-gifs/)
   * [EZGIF Video to GIF Converter](https://ezgif.com/video-to-gif)
+* [GitBook](https://www.gitbook.com/)
+  * [GitHub repository](https://github.com/GitbookIO/gitbook)
