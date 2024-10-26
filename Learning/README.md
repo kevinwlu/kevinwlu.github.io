@@ -650,6 +650,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
     * The Third Amendment: “Do not present your advisor with only your conclusions and plans for future work; also present your data and analysis.”
 * [MIT URTC](https://urtc.mit.edu/)
 ---
+* [Capitalize My Title](https://capitalizemytitle.com/)
 * [Title Case Converter](https://titlecaseconverter.com/)
 * [APA style](https://en.wikipedia.org/wiki/APA_style)
   * [ChatGPT and other AI generative tools](https://guelphhumber.libguides.com/c.php?g=716556&p=5279441)
