@@ -448,6 +448,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [*Gulliver's Travels Into Several Remote Nations of the World*](https://en.wikipedia.org/wiki/Gulliver%27s_Travels) 1726 and 1735 by [Jonathan Swift](https://en.wikipedia.org/wiki/Jonathan_Swift) 1667&mdash;1745
   * [The Project Gutenberg eBook 829](https://www.gutenberg.org/ebooks/829)
   * [Endianness](https://en.wikipedia.org/wiki/Endianness)
+  * [Eggs as food](https://en.wikipedia.org/wiki/Eggs_as_food)
   * [Yahoo](https://en.wikipedia.org/wiki/Yahoo_(Gulliver%27s_Travels))
 * [John Locke](https://en.wikipedia.org/wiki/John_Locke) 1632&mdash;1704
 * [*The Spirit of Law*](https://en.wikipedia.org/wiki/The_Spirit_of_Law) 1748 by [Montesquieu](https://en.wikipedia.org/wiki/Montesquieu) 1689&mdash;1755
