@@ -503,6 +503,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [*The Hitchhiker's Guide to the Galaxy*](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy) 1979 by [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams) 1952&mdash;2001
   * [Phrases from *The Hitchhiker's Guide to the Galaxy*](https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy)
   * [42 (number)](https://en.wikipedia.org/wiki/42_(number))
+    * [ISO/IEC JTC 1/SC 42](https://en.wikipedia.org/wiki/ISO/IEC_JTC_1/SC_42) Information Technology/Artificial Intelligence
     * [Molybdenum](https://en.wikipedia.org/wiki/Molybdenum) has symbol Mo and atomic number 42
     * [Marathon](https://en.wikipedia.org/wiki/Marathon) is 42.195 km long
   * [Thoughty2](https://www.youtube.com/@Thoughty2) by [Arron Lomas](https://youtube.fandom.com/wiki/Thoughty2)
