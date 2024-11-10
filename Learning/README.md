@@ -406,6 +406,11 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Chinese Ethics](https://plato.stanford.edu/entries/ethics-chinese/)
 * [Sustainability](https://en.wikipedia.org/wiki/Sustainability)
 
+## History
+* [History](https://en.wikipedia.org/wiki/History)
+* [Crisis of the late Middle Ages](https://en.wikipedia.org/wiki/Crisis_of_the_late_Middle_Ages)
+* [Renaissance](https://en.wikipedia.org/wiki/Renaissance)
+* [Gregorian calendar](https://en.wikipedia.org/wiki/Gregorian_calendar)
 ## Humanities
 * [Humanities](https://en.wikipedia.org/wiki/Humanities)
 * [Digital humanities](https://en.wikipedia.org/wiki/Digital_humanities)
