@@ -104,6 +104,21 @@
 * [Patrick Henry Winston](https://en.wikipedia.org/wiki/Patrick_Winston) 1943&mdash;2019, [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY), [IAP](https://elo.mit.edu/iap/) 2018
 * [Science communication](https://en.wikipedia.org/wiki/Science_communication)
 
+## Arts
+* [Baroque painting](https://en.wikipedia.org/wiki/Baroque_painting)
+* [*The Night Watch*](https://en.wikipedia.org/wiki/The_Night_Watch) 1642 by [Rembrandt Harmenszoon van Rijn](https://en.wikipedia.org/wiki/Rembrandt) 1606&mdash;1669
+* [*Las Meninas*](https://en.wikipedia.org/wiki/Las_Meninas) 1656 by [Diego Velázquez](https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez) 1599&mdash;1660
+* [Giuseppe Castiglione](https://en.wikipedia.org/wiki/Giuseppe_Castiglione_(Jesuit_painter)) 1688&mdash;1766
+* [*The Great Wave off Kanagawa*](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa) 1831 by [Katsushika Hokusai](https://en.wikipedia.org/wiki/Hokusai) 1760&mdash;1849
+* [Utagawa Hiroshige](https://en.wikipedia.org/wiki/Hiroshige) 1797&mdash;1858
+* [*The Gleaners*](https://en.wikipedia.org/wiki/The_Gleaners) 1857 by [Jean-François Millet](https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Millet) 1814&mdash;1875
+---
+* [Louis Comfort Tiffany](https://en.wikipedia.org/wiki/Louis_Comfort_Tiffany) 1848&mdash;1933
+* [Antoni Gaudí](https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD) 1852&mdash;1926
+* [Alphonse Mucha](https://en.wikipedia.org/wiki/Alphonse_Mucha) 1860&mdash;1939
+* [Gustav Klimt](https://en.wikipedia.org/wiki/Gustav_Klimt) 1862&mdash;1918
+* [Henri de Toulouse-Lautrec](https://en.wikipedia.org/wiki/Henri_de_Toulouse-Lautrec) 1864&mdash;1901
+* [Aubrey Beardsley](https://en.wikipedia.org/wiki/Aubrey_Beardsley) 1872&mdash;1898
 ## Astronomy
 * [Astraeus](https://en.wikipedia.org/wiki/Astraeus)
   * [Astraea](https://en.wikipedia.org/wiki/Astraea)
@@ -411,6 +426,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Crisis of the late Middle Ages](https://en.wikipedia.org/wiki/Crisis_of_the_late_Middle_Ages)
 * [Renaissance](https://en.wikipedia.org/wiki/Renaissance)
 * [Gregorian calendar](https://en.wikipedia.org/wiki/Gregorian_calendar)
+
 ## Humanities
 * [Humanities](https://en.wikipedia.org/wiki/Humanities)
 * [Digital humanities](https://en.wikipedia.org/wiki/Digital_humanities)
@@ -527,14 +543,6 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Three-body problem](https://en.wikipedia.org/wiki/Three-body_problem)
   * [Syzygy](https://en.wikipedia.org/wiki/Syzygy_(astronomy))
 * [Haruki Murakami](https://en.wikipedia.org/wiki/Haruki_Murakami)
----
-* [Baroque painting](https://en.wikipedia.org/wiki/Baroque_painting)
-* [*The Night Watch*](https://en.wikipedia.org/wiki/The_Night_Watch) 1642 by [Rembrandt Harmenszoon van Rijn](https://en.wikipedia.org/wiki/Rembrandt) 1606&mdash;1669
-* [*Las Meninas*](https://en.wikipedia.org/wiki/Las_Meninas) 1656 by [Diego Velázquez](https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez) 1599&mdash;1660
-* [Giuseppe Castiglione](https://en.wikipedia.org/wiki/Giuseppe_Castiglione_(Jesuit_painter)) 1688&mdash;1766
-* [*The Great Wave off Kanagawa*](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa) 1831 by [Katsushika Hokusai](https://en.wikipedia.org/wiki/Hokusai) 1760&mdash;1849
-* [Utagawa Hiroshige](https://en.wikipedia.org/wiki/Hiroshige) 1797&mdash;1858
-* [*The Gleaners*](https://en.wikipedia.org/wiki/The_Gleaners) 1857 by [Jean-François Millet](https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Millet) 1814&mdash;1875
 
 ## Mathematics
 * [Conjecture](https://en.wikipedia.org/wiki/Conjecture)
