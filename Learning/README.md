@@ -460,6 +460,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Hasht-Bihisht](https://en.wikipedia.org/wiki/Hasht-Bihisht_(poem)) 1302 by [Amir Khusrau](https://en.wikipedia.org/wiki/Amir_Khusrau) 1253&mdash;1325
   * [*The Three Princes of Serendip*](https://en.wikipedia.org/wiki/The_Three_Princes_of_Serendip) 1557
   * [Serendipity](https://en.wikipedia.org/wiki/Serendipity)
+    * [Army Corps Civil Engineer Still Puts in the Hours at 92](https://www.nad.usace.army.mil/Media/News-Releases/Article/3787977/army-corps-civil-engineer-still-puts-in-the-hours-at-92/) May 26, 2024
+    * I met Ron St. Laurent at 6:03 AM, Tuesday, November 26, 2024
 * [*Divine Comedy*](https://en.wikipedia.org/wiki/Divine_Comedy) 1321 by [Dante Alighieri](https://en.wikipedia.org/wiki/Dante_Alighieri) 1265&mdash;1321
   * [The Project Gutenberg eBook 8800](https://www.gutenberg.org/ebooks/8800)
 * [*The Notebooks of Leonardo da Vinci*](https://en.wikipedia.org/wiki/Leonardo_da_Vinci#Journals_and_notes) by [Leonardo da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_Vinci) 1452&mdash;1519
