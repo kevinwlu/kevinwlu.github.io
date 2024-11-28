@@ -559,6 +559,10 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) 1777&mdash;1855
 * [János Bolyai](https://en.wikipedia.org/wiki/J%C3%A1nos_Bolyai) 1802&mdash;1860
 * [Bernhard Riemann](https://en.wikipedia.org/wiki/Bernhard_Riemann) 1826&mdash;1866
+* [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell) 1872&mdash;1970
+  * [*Principia Mathematica*](https://en.wikipedia.org/wiki/Principia_Mathematica) 1910, 1912, 1913
+* [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) 1906&mdash;1978
+  * [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del's_incompleteness_theorems) 1931
 * [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) 1913&mdash;1996
   * [List of people by Erdős number](https://en.wikipedia.org/wiki/List_of_people_by_Erd%C5%91s_number)
   * [Ronald Graham](https://en.wikipedia.org/wiki/Ronald_Graham) 1935&mdash;2020
