@@ -667,7 +667,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Quad chart](https://en.wikipedia.org/wiki/Quad_chart)
   * [White paper](https://en.wikipedia.org/wiki/White_paper)
 * [Institutional review board](https://en.wikipedia.org/wiki/Institutional_review_board) (IRB)
-* [Irving Herman](https://en.wikipedia.org/wiki/Irving_P._Herman), ["Following the law: A guide for the perplexed graduate student doing research"](https://www.nature.com/articles/nj7124-228a)
+* [Irving Herman](https://en.wikipedia.org/wiki/Irving_P._Herman), ["Following the law: A guide for the perplexed graduate student doing research,"](https://www.nature.com/articles/nj7124-228a) January 10, 2007
   * [Laws of Herman](https://www.irvingpherman.com/professional/)
     * The First Amendment: “If you didn’t document it, you didn’t do it.”
     * The Second Amendment: “Do not present your advisor with only your data and analysis; also present your conclusions and plans for future work.”
