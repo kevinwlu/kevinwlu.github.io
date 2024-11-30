@@ -377,8 +377,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 ---
   | [Emotional intelligence](https://en.wikipedia.org/wiki/Emotional_intelligence) | Others' suffering | Others' happiness |
   | :---: | :---: | :---: |
-  | Bring us suffering | [Empathy](https://en.wikipedia.org/wiki/Empathy) | [Envy](https://en.wikipedia.org/wiki/Envy) |
-  | Bring us hapiness | [Schadenfreude](https://en.wikipedia.org/wiki/Schadenfreude) | [Mudita](https://en.wikipedia.org/wiki/Mudita) |
+  | Brings us suffering | [Empathy](https://en.wikipedia.org/wiki/Empathy) | [Envy](https://en.wikipedia.org/wiki/Envy) |
+  | Brings us hapiness | [Schadenfreude](https://en.wikipedia.org/wiki/Schadenfreude) | [Mudita](https://en.wikipedia.org/wiki/Mudita) |
 
 ## Chemistry
 * [AlphaFold](https://en.wikipedia.org/wiki/AlphaFold)
