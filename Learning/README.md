@@ -694,7 +694,9 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 ---
 * [Free and open-source software](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 * [List of free and open-source software packages](https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages)
-
+---
+* [Machine-readable document](https://en.wikipedia.org/wiki/Machine-readable_document)
+* [Machine-readable medium and data](https://en.wikipedia.org/wiki/Machine-readable_medium_and_data)
 ## GitHub Basics
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
   * [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
