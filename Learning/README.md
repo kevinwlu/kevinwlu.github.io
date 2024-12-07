@@ -697,6 +697,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 ---
 * [Machine-readable document](https://en.wikipedia.org/wiki/Machine-readable_document)
 * [Machine-readable medium and data](https://en.wikipedia.org/wiki/Machine-readable_medium_and_data)
+* [IEC/ISO SMART](https://www.iso.org/smart)
 ## GitHub Basics
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
   * [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
