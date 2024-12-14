@@ -471,6 +471,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [*Black Myth: Wukong*](https://en.wikipedia.org/wiki/Black_Myth:_Wukong) 2024
 * [*Don Quixote*](https://en.wikipedia.org/wiki/Don_Quixote) 1605 and 1615 by [Miguel de Cervantes](https://en.wikipedia.org/wiki/Miguel_de_Cervantes) 1547&mdash;1616
   * [The Project Gutenberg eBook 996](https://www.gutenberg.org/ebooks/996)
+  * [*Man of La Mancha* (film)](https://en.wikipedia.org/wiki/Man_of_La_Mancha_(film))
+  * [The Impossible Dream (The Quest)](https://en.wikipedia.org/wiki/The_Impossible_Dream_(The_Quest))
 * [*Gulliver's Travels Into Several Remote Nations of the World*](https://en.wikipedia.org/wiki/Gulliver%27s_Travels) 1726 and 1735 by [Jonathan Swift](https://en.wikipedia.org/wiki/Jonathan_Swift) 1667&mdash;1745
   * [The Project Gutenberg eBook 829](https://www.gutenberg.org/ebooks/829)
   * [Endianness](https://en.wikipedia.org/wiki/Endianness)
