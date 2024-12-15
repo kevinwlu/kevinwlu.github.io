@@ -128,6 +128,7 @@
 * [IEEE Spectrum Space News and Articles](https://spectrum.ieee.org/tag/space)
 ---
 * [Nicolaus Copernicus](https://en.wikipedia.org/wiki/Nicolaus_Copernicus) 1473&mdash;1543
+* [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) 1564&mdash;1642
 * [Karl Schwarzschild](https://en.wikipedia.org/wiki/Karl_Schwarzschild) 1873&mdash;1916
 * [Arthur Eddington](https://en.wikipedia.org/wiki/Arthur_Eddington) 1882&mdash;1944
 * [Ralph H. Fowler](https://en.wikipedia.org/wiki/Ralph_H._Fowler) 1889&mdash;1944
@@ -553,6 +554,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [*The Three-Body Problem*](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) 2006&ndash;2008 by [Cixin Liu](https://en.wikipedia.org/wiki/Liu_Cixin)
   * [Three-body problem](https://en.wikipedia.org/wiki/Three-body_problem)
   * [Syzygy](https://en.wikipedia.org/wiki/Syzygy_(astronomy))
+  * [*Silent Spring*](https://en.wikipedia.org/wiki/Silent_Spring) 1962 by [Rachel Carson](https://en.wikipedia.org/wiki/Rachel_Carson) 1907&mdash;1964
 * [Haruki Murakami](https://en.wikipedia.org/wiki/Haruki_Murakami)
 
 ## Mathematics
