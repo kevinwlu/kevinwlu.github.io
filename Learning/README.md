@@ -383,6 +383,9 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 ## Chemistry
 * [AlphaFold](https://en.wikipedia.org/wiki/AlphaFold)
   * [The Nobel Prize in Chemistry 2024](https://www.nobelprize.org/prizes/chemistry/2024/summary/)
+* [Bromine](https://en.wikipedia.org/wiki/Bromine)
+* [Brominated flame retardant](https://en.wikipedia.org/wiki/Brominated_flame_retardant) (BFR)
+* [Flame retardant](https://en.wikipedia.org/wiki/Flame_retardant)
 * [MolAR](https://mtzgroup.github.io/molar/)
   * [App](https://apps.apple.com/us/app/molar-augmented-reality/id1559504847?platform=iphone)
 * [Nigel Braun](https://arndtsen-group.mcgill.ca/nigel.html) | [Videos](https://www.youtube.com/@NileRed/videos)
