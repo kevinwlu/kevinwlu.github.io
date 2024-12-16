@@ -586,6 +586,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Poincaré conjecture](https://en.wikipedia.org/wiki/Poincar%C3%A9_conjecture)
 * [International Mathematical Olympiad](https://en.wikipedia.org/wiki/International_Mathematical_Olympiad) (IMO)
 * [Karmarkar's algorithm](https://en.wikipedia.org/wiki/Karmarkar%27s_algorithm) by [Narendra Karmarkar](https://en.wikipedia.org/wiki/Narendra_Karmarkar)
+* [Ricci flow](https://en.wikipedia.org/wiki/Ricci_flow)
 * [Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao)
 * [Yitang Zhang](https://en.wikipedia.org/wiki/Yitang_Zhang)
 
