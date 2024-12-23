@@ -282,6 +282,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Mycorrhizal network](https://en.wikipedia.org/wiki/Mycorrhizal_network)
   * [Society for the Protection of Underground Networks](https://en.wikipedia.org/wiki/Society_for_the_Protection_of_Underground_Networks) (SPUN)
 * [Optocollic reflex](https://en.wikipedia.org/wiki/Optocollic_reflex)
+* [Right whale](https://en.wikipedia.org/wiki/Right_whale)
 * [Saffron](https://en.wikipedia.org/wiki/Saffron)
 * [Saffron (color)](https://en.wikipedia.org/wiki/Saffron_(color))
 * [Sandalwood](https://en.wikipedia.org/wiki/Sandalwood)
