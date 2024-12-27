@@ -506,6 +506,9 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [*Alice's Adventures in Wonderland*](https://en.wikipedia.org/wiki/Alice's_Adventures_in_Wonderland) 1865 by [Lewis Carroll](https://en.wikipedia.org/wiki/Lewis_Carroll) 1832&mdash;1898
   * [The Project Gutenberg eBook 11](https://www.gutenberg.org/ebooks/11)
   * [Down the rabbit hole](https://en.wikipedia.org/wiki/Down_the_rabbit_hole)
+* [*The Wonderful Wizard of Oz*](https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz) 1900 by [Lyman Frank Baum](https://en.wikipedia.org/wiki/L._Frank_Baum) 1856&mdash;1919
+  * [The Project Gutenberg eBook 55](https://www.gutenberg.org/ebooks/55)
+  * [*Wicked: The Life and Times of the Wicked Witch of the West*](https://en.wikipedia.org/wiki/Wicked_(Maguire_novel)) 1995 by [Gregory Maguire](https://en.wikipedia.org/wiki/Gregory_Maguire)
 * [*The Google Book*](https://en.wikipedia.org/wiki/The_Google_Book) 1913 by [Vincent Cartwright Vickers](https://en.wikipedia.org/wiki/Vincent_Cartwright_Vickers) 1879&mdash;1939
   * [Google Blogoscoped eBook](https://blogoscoped.com/googlebook/)
   * [Philipp Lenssen](https://outer-court.com/)
