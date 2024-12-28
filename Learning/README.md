@@ -119,6 +119,11 @@
 * [Gustav Klimt](https://en.wikipedia.org/wiki/Gustav_Klimt) 1862&mdash;1918
 * [Henri de Toulouse-Lautrec](https://en.wikipedia.org/wiki/Henri_de_Toulouse-Lautrec) 1864&mdash;1901
 * [Aubrey Beardsley](https://en.wikipedia.org/wiki/Aubrey_Beardsley) 1872&mdash;1898
+* [Hayao Miyazaki](https://en.wikipedia.org/wiki/Hayao_Miyazaki)
+  * [List of works by Hayao Miyazaki](https://en.wikipedia.org/wiki/List_of_works_by_Hayao_Miyazaki)
+  * [*My Neighbor Totoro*](https://en.wikipedia.org/wiki/My_Neighbor_Totoro) 1988
+  * [*Kiki's Delivery Service*](https://en.wikipedia.org/wiki/Kiki%27s_Delivery_Service) 1989
+  * [*Spirited Away*](https://en.wikipedia.org/wiki/Spirited_Away) 2001
 ## Astronomy
 * [Astraeus](https://en.wikipedia.org/wiki/Astraeus)
   * [Astraea](https://en.wikipedia.org/wiki/Astraea)
