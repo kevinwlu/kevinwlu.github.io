@@ -124,6 +124,7 @@
   * [*My Neighbor Totoro*](https://en.wikipedia.org/wiki/My_Neighbor_Totoro) 1988
   * [*Kiki's Delivery Service*](https://en.wikipedia.org/wiki/Kiki%27s_Delivery_Service) 1989
   * [*Spirited Away*](https://en.wikipedia.org/wiki/Spirited_Away) 2001
+  * [*The Boy and the Heron*](https://en.wikipedia.org/wiki/The_Boy_and_the_Heron) 2023
 ## Astronomy
 * [Astraeus](https://en.wikipedia.org/wiki/Astraeus)
   * [Astraea](https://en.wikipedia.org/wiki/Astraea)
