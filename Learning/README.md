@@ -125,6 +125,25 @@
   * [*Kiki's Delivery Service*](https://en.wikipedia.org/wiki/Kiki%27s_Delivery_Service) 1989
   * [*Spirited Away*](https://en.wikipedia.org/wiki/Spirited_Away) 2001
   * [*The Boy and the Heron*](https://en.wikipedia.org/wiki/The_Boy_and_the_Heron) 2023
+---
+* [Piano Concerto No. 21](https://en.wikipedia.org/wiki/Piano_Concerto_No._21_(Mozart)) 1785 by [Wolfgang Amadeus Mozart](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart) 1756&mdash;1791
+  * [Second Movement sheet music](https://musescore.com/user/62716/scores/902101)
+  * [Listen](https://www.youtube.com/watch?v=df-eLzao63I)
+  * [Elvira Madigan](https://en.wikipedia.org/wiki/Elvira_Madigan) 1867&mdash;1889
+  * [*Elvira Madigan*](https://en.wikipedia.org/wiki/Elvira_Madigan_(1967_film)) 1967
+* [Schubert's last sonatas](https://en.wikipedia.org/wiki/Schubert%27s_last_sonatas) 1828 by [Franz Schubert](https://en.wikipedia.org/wiki/Franz_Schubert) 1797&mdash;1828
+  * [Schubert Thematic Catalogue](https://en.wikipedia.org/wiki/Schubert_Thematic_Catalogue)
+  * [D 958](https://www.youtube.com/watch?v=hTA6CZLb_FY)
+  * [D 959](https://www.youtube.com/watch?v=gCvIhO0Qrvg)
+  * [D 960](https://www.youtube.com/watch?v=BAF5daMhyy4)
+* [Ride of the Valkyries](https://en.wikipedia.org/wiki/Ride_of_the_Valkyries) 1856 by [Richard Wagner](https://en.wikipedia.org/wiki/Richard_Wagner) 1813&mdash;1883
+  * [Sheet music](https://musescore.com/hmscomp/scores/944826)
+  * [Listen](https://www.youtube.com/watch?v=GGU1P6lBW6Q)
+* [*Turandot*](https://en.wikipedia.org/wiki/Turandot) 1924 unfinished by [Giacomo Puccini](https://en.wikipedia.org/wiki/Giacomo_Puccini) 1858&mdash;1924
+* [*Adagio for Strings*](https://en.wikipedia.org/wiki/Adagio_for_Strings) 1936 by [Samuel Barber](https://en.wikipedia.org/wiki/Samuel_Barber) 1910&mdash;1981
+* [Andrea Giuffredi](https://www.youtube.com/watch?v=V_VPLLQIBEA), a master of [bel canto](https://en.wikipedia.org/wiki/Bel_canto) trumpet style
+  * [*La Califfa*](https://en.wikipedia.org/wiki/La_Califfa) 1970 and [*Gabriel's Oboe*](https://en.wikipedia.org/wiki/Gabriel%27s_Oboe) 1986 by [Ennio Morricone](https://en.wikipedia.org/wiki/Ennio_Morricone) 1928&mdash;2020
+
 ## Astronomy
 * [Astraeus](https://en.wikipedia.org/wiki/Astraeus)
   * [Astraea](https://en.wikipedia.org/wiki/Astraea)
