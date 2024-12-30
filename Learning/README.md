@@ -126,6 +126,7 @@
   * [*Spirited Away*](https://en.wikipedia.org/wiki/Spirited_Away) 2001
   * [*The Boy and the Heron*](https://en.wikipedia.org/wiki/The_Boy_and_the_Heron) 2023
 ---
+* [List of classical music composers by period](https://simple.wikipedia.org/wiki/List_of_classical_music_composers_by_period)
 * [Piano Concerto No. 21](https://en.wikipedia.org/wiki/Piano_Concerto_No._21_(Mozart)) 1785 by [Wolfgang Amadeus Mozart](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart) 1756&mdash;1791
   * [Second Movement sheet music](https://musescore.com/user/62716/scores/902101)
   * [Listen](https://www.youtube.com/watch?v=df-eLzao63I)
@@ -143,7 +144,11 @@
 * [*Adagio for Strings*](https://en.wikipedia.org/wiki/Adagio_for_Strings) 1936 by [Samuel Barber](https://en.wikipedia.org/wiki/Samuel_Barber) 1910&mdash;1981
 * [Andrea Giuffredi](https://www.youtube.com/watch?v=V_VPLLQIBEA), a master of [bel canto](https://en.wikipedia.org/wiki/Bel_canto) trumpet style
   * [*La Califfa*](https://en.wikipedia.org/wiki/La_Califfa) 1970 and [*Gabriel's Oboe*](https://en.wikipedia.org/wiki/Gabriel%27s_Oboe) 1986 by [Ennio Morricone](https://en.wikipedia.org/wiki/Ennio_Morricone) 1928&mdash;2020
-
+---
+* [List of dances](https://simple.wikipedia.org/wiki/List_of_dances)
+* [Hopak](https://en.wikipedia.org/wiki/Hopak)
+* [Malambo](https://en.wikipedia.org/wiki/Malambo_(dance))
+* [Zaouli](https://en.wikipedia.org/wiki/Zaouli)
 ## Astronomy
 * [Astraeus](https://en.wikipedia.org/wiki/Astraeus)
   * [Astraea](https://en.wikipedia.org/wiki/Astraea)
