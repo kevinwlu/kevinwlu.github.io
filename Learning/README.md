@@ -633,6 +633,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Back-of-the-envelope calculation](https://en.wikipedia.org/wiki/Back-of-the-envelope_calculation)
 * [BLUF (communication)](https://en.wikipedia.org/wiki/BLUF_(communication)): bottom line up front
 * [Decision-matrix method](https://en.wikipedia.org/wiki/Decision-matrix_method)
+* [Eclecticism](https://en.wikipedia.org/wiki/Eclecticism)
+  * [Syncretism](https://en.wikipedia.org/wiki/Syncretism)
 * [Guesstimate](https://en.wikipedia.org/wiki/Guesstimate)
 * [Heuristic](https://en.wikipedia.org/wiki/Heuristic)
   * [Table of metaheuristics](https://en.wikipedia.org/wiki/Table_of_metaheuristics)
