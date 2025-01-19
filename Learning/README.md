@@ -566,6 +566,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Groq](https://groq.com/) Language Processing Unit (LPU)
 * [*Catch-22*](https://en.wikipedia.org/wiki/Catch-22) 1961 by [Joseph Heller](https://en.wikipedia.org/wiki/Joseph_Heller) 1923&mdash;1999
   * [Catch-22 (logic)](https://en.wikipedia.org/wiki/Catch-22_(logic))
+* [*2001: A Space Odyssey*](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(novel)) 1968 by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke) 1917&mdash;2008
+  * [*2001: A Space Odyssey*](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey) 1968
 * [*The Hitchhiker's Guide to the Galaxy*](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy) 1979 by [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams) 1952&mdash;2001
   * [Phrases from *The Hitchhiker's Guide to the Galaxy*](https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy)
   * [42 (number)](https://en.wikipedia.org/wiki/42_(number))
@@ -588,11 +590,14 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Self-similarity](https://en.wikipedia.org/wiki/Self-similarity)
   * [Fractal](https://en.wikipedia.org/wiki/Fractal)
   * [Sierpiński triangle](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle) by [Wacław Sierpiński](https://en.wikipedia.org/wiki/Wac%C5%82aw_Sierpi%C5%84ski) 1882&mdash;1969
+* [*Contact*](https://en.wikipedia.org/wiki/Contact_(novel)) 1985 by [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan) 1934&mdash;1996
 * [*A Fire Upon the Deep*](https://en.wikipedia.org/wiki/A_Fire_Upon_the_Deep) 1992 by [Vernor Vinge](https://en.wikipedia.org/wiki/Vernor_Vinge) 1944&mdash;2024
 * [*The Three-Body Problem*](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) 2006&ndash;2008 by [Cixin Liu](https://en.wikipedia.org/wiki/Liu_Cixin)
   * [Three-body problem](https://en.wikipedia.org/wiki/Three-body_problem)
   * [Syzygy](https://en.wikipedia.org/wiki/Syzygy_(astronomy))
   * [*Silent Spring*](https://en.wikipedia.org/wiki/Silent_Spring) 1962 by [Rachel Carson](https://en.wikipedia.org/wiki/Rachel_Carson) 1907&mdash;1964
+* [*The Science of Interstellar*](https://en.wikipedia.org/wiki/The_Science_of_Interstellar) 2014 by [Kip Thorne](https://en.wikipedia.org/wiki/Kip_Thorne)
+  * [*Interstellar*](https://en.wikipedia.org/wiki/Interstellar_(film)) 2014
 * [Haruki Murakami](https://en.wikipedia.org/wiki/Haruki_Murakami)
 
 ## Mathematics
