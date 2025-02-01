@@ -566,6 +566,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Groq](https://groq.com/) Language Processing Unit (LPU)
 * [*Catch-22*](https://en.wikipedia.org/wiki/Catch-22) 1961 by [Joseph Heller](https://en.wikipedia.org/wiki/Joseph_Heller) 1923&mdash;1999
   * [Catch-22 (logic)](https://en.wikipedia.org/wiki/Catch-22_(logic))
+* [Edwin Jarvis](https://en.wikipedia.org/wiki/Edwin_Jarvis) 1964
+  * [J.A.R.V.I.S.](https://en.wikipedia.org/wiki/J.A.R.V.I.S.) (Just a Rather Very Intelligent System) 2008
 * [*2001: A Space Odyssey*](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(novel)) 1968 by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke) 1917&mdash;2008
   * [*2001: A Space Odyssey*](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey) 1968
 * [*The Hitchhiker's Guide to the Galaxy*](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy) 1979 by [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams) 1952&mdash;2001
@@ -656,6 +658,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Six Sigma](https://en.wikipedia.org/wiki/Six_Sigma)
   * [DMAIC](https://en.wikipedia.org/wiki/DMAIC): define, measure, analyze, improve and control
 * [SECI model of knowledge dimensions](https://en.wikipedia.org/wiki/SECI_model_of_knowledge_dimensions): socialization, externization, combination, internalization
+* [State of the art](https://en.wikipedia.org/wiki/State_of_the_art) (SOTA)
 * [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis): strengths, weaknesses, opportunities, threats
 * [Taxonomy](https://en.wikipedia.org/wiki/Taxonomy)
 * [TL;DR](https://en.wikipedia.org/wiki/TL;DR)
