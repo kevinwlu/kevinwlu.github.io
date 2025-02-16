@@ -625,6 +625,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
       * [How big is Graham's number?](https://www.youtube.com/watch?v=GuigptwlVHo)
     * [Schlegel diagram](https://en.wikipedia.org/wiki/Schlegel_diagram) by [Victor Schlegel](https://en.wikipedia.org/wiki/Victor_Schlegel) 1843&mdash;1905
     * [Tesseract](https://en.wikipedia.org/wiki/Tesseract)
+      * [Understanding 4D - The Tesseract](https://www.youtube.com/watch?v=iGO12Z5Lw8s) by [James Schloss](https://www.leioslabs.com/about) of [LeiosLabs](https://www.leioslabs.com/index)
   * [Fan Chung](https://en.wikipedia.org/wiki/Fan_Chung)
 * [Fields Medal](https://en.wikipedia.org/wiki/Fields_Medal)
 * [Grigori Perelman](https://en.wikipedia.org/wiki/Grigori_Perelman)
