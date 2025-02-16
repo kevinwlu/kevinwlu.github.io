@@ -740,6 +740,11 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
     * The Third Amendment: “Do not present your advisor with only your conclusions and plans for future work; also present your data and analysis.”
 * [MIT URTC](https://urtc.mit.edu/)
 ---
+* [Are ideas getting aarder to find?](https://www.nber.org/system/files/working_papers/w23782/w23782.pdf)
+* [Combinations of technology in US patents, 1926–2009: a weakening base for future innovation?](https://www.tandfonline.com/doi/full/10.1080/10438599.2017.1410007)
+* [A possible declining trend for worldwide innovation](https://www.sciencedirect.com/science/article/abs/pii/S0040162505000235)
+* [My Doubts about The End of Science](https://johnhorgan.org/cross-check/my-doubts-about-the-end-of-science)
+---
 * [Capitalize My Title](https://capitalizemytitle.com/)
 * [Title Case Converter](https://titlecaseconverter.com/)
 * [APA style](https://en.wikipedia.org/wiki/APA_style)
