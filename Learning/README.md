@@ -1,4 +1,3 @@
-
 # Learning
 * [Learning](https://en.wikipedia.org/wiki/Learning)
   * [Learning curve](https://en.wikipedia.org/wiki/Learning_curve)
