@@ -1,3 +1,4 @@
+
 # Learning
 * [Learning](https://en.wikipedia.org/wiki/Learning)
   * [Learning curve](https://en.wikipedia.org/wiki/Learning_curve)
@@ -602,6 +603,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [*Silent Spring*](https://en.wikipedia.org/wiki/Silent_Spring) 1962 by [Rachel Carson](https://en.wikipedia.org/wiki/Rachel_Carson) 1907&mdash;1964
 * [*The Science of Interstellar*](https://en.wikipedia.org/wiki/The_Science_of_Interstellar) 2014 by [Kip Thorne](https://en.wikipedia.org/wiki/Kip_Thorne)
   * [*Interstellar*](https://en.wikipedia.org/wiki/Interstellar_(film)) 2014
+* [*Bullshit Jobs: A Theory*](https://en.wikipedia.org/wiki/Bullshit_Jobs) 2018 by [David Graeber](https://en.wikipedia.org/wiki/David_Graeber) 1961&mdash;2020
 * [Haruki Murakami](https://en.wikipedia.org/wiki/Haruki_Murakami)
 
 ## Mathematics
