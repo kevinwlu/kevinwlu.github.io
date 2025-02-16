@@ -227,6 +227,8 @@
     * [Stellarator](https://en.wikipedia.org/wiki/Stellarator)
 * [Quantum gravity](https://en.wikipedia.org/wiki/Quantum_gravity)
 * [String theory](https://en.wikipedia.org/wiki/String_theory)
+  * [Lee Smolin](https://en.wikipedia.org/wiki/Lee_Smolin)
+  * [Peter Woit](https://en.wikipedia.org/wiki/Peter_Woit)
 * [Theory of everything](https://en.wikipedia.org/wiki/Theory_of_everything)
 * [White hole](https://en.wikipedia.org/wiki/White_hole)
 * [Wormhole](https://en.wikipedia.org/wiki/Wormhole)
