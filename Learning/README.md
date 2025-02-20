@@ -249,6 +249,7 @@
     * [Double Asteroid Redirection Test](https://en.wikipedia.org/wiki/Double_Asteroid_Redirection_Test) (DART)
     * [List of asteroid close approaches to Earth](https://en.wikipedia.org/wiki/List_of_asteroid_close_approaches_to_Earth)
     * [Chelyabinsk meteor](https://en.wikipedia.org/wiki/Chelyabinsk_meteor) was approximately 18 m in diameter
+    * [2024 YR4](https://en.wikipedia.org/wiki/2024_YR4)
   * [Meteoroid](https://en.wikipedia.org/wiki/Meteoroid) is between 30 μm and one meter in diameter
     * [Meteorite](https://en.wikipedia.org/wiki/Meteorite)
     * [Meteorite classification](https://en.wikipedia.org/wiki/Meteorite_classification)
