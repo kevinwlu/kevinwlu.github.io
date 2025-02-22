@@ -126,6 +126,8 @@
   * [*Kiki's Delivery Service*](https://en.wikipedia.org/wiki/Kiki%27s_Delivery_Service) 1989
   * [*Spirited Away*](https://en.wikipedia.org/wiki/Spirited_Away) 2001
   * [*The Boy and the Heron*](https://en.wikipedia.org/wiki/The_Boy_and_the_Heron) 2023
+* [Daniel Wurtzel](https://www.danielwurtzel.com/)
+  * [YouTube channel](https://www.youtube.com/@danielwurtzel/)
 ---
 * [List of classical music composers by period](https://simple.wikipedia.org/wiki/List_of_classical_music_composers_by_period)
 * [Piano Concerto No. 21](https://en.wikipedia.org/wiki/Piano_Concerto_No._21_(Mozart)) 1785 by [Wolfgang Amadeus Mozart](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart) 1756&mdash;1791
