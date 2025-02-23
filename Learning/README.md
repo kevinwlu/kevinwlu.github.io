@@ -747,7 +747,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
     * The First Amendment: “If you didn’t document it, you didn’t do it.”
     * The Second Amendment: “Do not present your advisor with only your data and analysis; also present your conclusions and plans for future work.”
     * The Third Amendment: “Do not present your advisor with only your conclusions and plans for future work; also present your data and analysis.”
-* [MIT URTC](https://urtc.mit.edu/)
+* [MIT URTC](https://urtc.mit.edu/) Undergraduate Research Technology Conference
 ---
 * [Are ideas getting harder to find?](https://www.nber.org/system/files/working_papers/w23782/w23782.pdf) 2017
 * [Combinations of technology in US patents, 1926–2009: a weakening base for future innovation?](https://www.tandfonline.com/doi/full/10.1080/10438599.2017.1410007) 2017
