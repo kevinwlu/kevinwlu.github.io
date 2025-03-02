@@ -315,6 +315,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Theodor Förster](https://en.wikipedia.org/wiki/Theodor_F%C3%B6rster) 1910&mdash;1974
 * [Largest organisms](https://en.wikipedia.org/wiki/Largest_organisms)
   * [Pando_(tree)](https://en.wikipedia.org/wiki/Pando_(tree))
+* [List of human cell types](https://en.wikipedia.org/wiki/List_of_human_cell_types)
 * [Lithops](https://en.wikipedia.org/wiki/Lithops)
 * [Mycorrhiza](https://en.wikipedia.org/wiki/Mycorrhiza) is a symbiotic association between a fungus and a plant
   * [Mycorrhizal fungi and soil carbon storage](https://en.wikipedia.org/wiki/Mycorrhizal_fungi_and_soil_carbon_storage)
@@ -334,6 +335,11 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Shinya Yamanaka](https://en.wikipedia.org/wiki/Shinya_Yamanaka)
 * [Systems biology](https://en.wikipedia.org/wiki/Systems_biology)
   * [*Systems Biology*](https://www.ncbi.nlm.nih.gov/books/NBK599593/)
+* [Taste](https://en.wikipedia.org/wiki/Taste)
+  * [Umami](https://en.wikipedia.org/wiki/Umami)
+  * [Monosodium glutamate](https://en.wikipedia.org/wiki/Monosodium_glutamate) (MSG)
+  * [Taste receptor](https://en.wikipedia.org/wiki/Taste_receptor)
+  * [A sensor-actuator–coupled gustatory interface chemically connecting virtual and real environments for remote tasting](https://www.science.org/doi/10.1126/sciadv.adr4797)
 * [Telomere](https://en.wikipedia.org/wiki/Telomere)
 * [Vestibulo–ocular reflex](https://en.wikipedia.org/wiki/Vestibulo%E2%80%93ocular_reflex) (VOR)
 ---
