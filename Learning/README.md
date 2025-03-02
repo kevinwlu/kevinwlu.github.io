@@ -324,6 +324,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Mycorrhizal fungi and soil carbon storage](https://en.wikipedia.org/wiki/Mycorrhizal_fungi_and_soil_carbon_storage)
   * [Mycorrhizal network](https://en.wikipedia.org/wiki/Mycorrhizal_network)
   * [Society for the Protection of Underground Networks](https://en.wikipedia.org/wiki/Society_for_the_Protection_of_Underground_Networks) (SPUN)
+  * [A travelling-wave strategy for plant–fungal trade](https://www.nature.com/articles/s41586-025-08614-x), February 26, 2025
 * [Optocollic reflex](https://en.wikipedia.org/wiki/Optocollic_reflex)
 * [Right whale](https://en.wikipedia.org/wiki/Right_whale)
 * [Saffron](https://en.wikipedia.org/wiki/Saffron)
