@@ -156,8 +156,9 @@
 * [Malambo](https://en.wikipedia.org/wiki/Malambo_(dance))
 * [Zaouli](https://en.wikipedia.org/wiki/Zaouli)
 ---
-* [Bauhaus](https://en.wikipedia.org/wiki/Bauhaus)
-* [Brutalist architecture](https://en.wikipedia.org/wiki/Brutalist_architecture)
+* [List of architectural styles](https://en.wikipedia.org/wiki/List_of_architectural_styles)
+  * [Bauhaus](https://en.wikipedia.org/wiki/Bauhaus)
+  * [Brutalist architecture](https://en.wikipedia.org/wiki/Brutalist_architecture)
 ## Astronomy
 * [Astraeus](https://en.wikipedia.org/wiki/Astraeus)
   * [Astraea](https://en.wikipedia.org/wiki/Astraea)
