@@ -84,7 +84,7 @@
 * [David A. Vaccari](https://www.stevens.edu/profile/dvaccari), "[The Barbed Quatrefoil Is a 1500-Year-Old Symbol of Architectural Advance](https://personal.stevens.edu/~dvaccari/Vaccari%20-%20Sancta%20Sophia.pdf)"
   * [Quatrefoil](https://en.wikipedia.org/wiki/Quatrefoil)
   * [Pendentive](https://en.wikipedia.org/wiki/Pendentive)
-  * [Shard](https://en.wikipedia.org/wiki/Shard_(database_architecture))
+  * [Shard](https://en.wikipedia.org/wiki/Shard_(database_))
 * [History of New Jersey](https://en.wikipedia.org/wiki/History_of_New_Jersey)
   * [Hoboken, Antwerp](https://en.wikipedia.org/wiki/Hoboken,_Antwerp)
   * [Hoboken, New Jersey](https://en.wikipedia.org/wiki/Hoboken,_New_Jersey)
@@ -159,6 +159,7 @@
 * [List of architectural styles](https://en.wikipedia.org/wiki/List_of_architectural_styles)
   * [Bauhaus](https://en.wikipedia.org/wiki/Bauhaus)
   * [Brutalist architecture](https://en.wikipedia.org/wiki/Brutalist_architecture)
+  * [Pritzker Architecture Prize](https://en.wikipedia.org/wiki/Pritzker_Architecture_Prize)
 ## Astronomy
 * [Astraeus](https://en.wikipedia.org/wiki/Astraeus)
   * [Astraea](https://en.wikipedia.org/wiki/Astraea)
