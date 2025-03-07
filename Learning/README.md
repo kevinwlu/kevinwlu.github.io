@@ -306,6 +306,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Flora](https://en.wikipedia.org/wiki/Flora)
   * [Funga](https://en.wikipedia.org/wiki/Funga)
 * [Bengt I. Samuelsson](https://en.wikipedia.org/wiki/Bengt_I._Samuelsson) 1934&mdash;2024
+* [Cristina Zenato](https://en.wikipedia.org/wiki/Cristina_Zenato) 
 * [Domain (biology)](https://en.wikipedia.org/wiki/Domain_(biology))
   * [Realm (virology)](https://en.wikipedia.org/wiki/Realm_(virology))
 * [Ecosystem](https://en.wikipedia.org/wiki/Ecosystem)
