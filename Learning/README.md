@@ -689,6 +689,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [TRIZ](https://en.wikipedia.org/wiki/TRIZ) theory of inventive problem solving
   * [Genrikh Altshuller](https://en.wikipedia.org/wiki/Genrikh_Altshuller) 1926&mdash;1998
   * [40 principles of invention](https://en.wikipedia.org/wiki/40_principles_of_invention)
+  * [Laws of technical systems evolution](https://en.wikipedia.org/wiki/Laws_of_technical_systems_evolution)
 * [Trial and error](https://en.wikipedia.org/wiki/Trial_and_error)
 * [VUCA](https://en.wikipedia.org/wiki/VUCA): volatility, uncertainty, complexity, ambiguity
 
