@@ -127,4 +127,4 @@ B.S. (1979), Control Engineering, [National Chiao Tung University](https://en.ny
 
 ## Other
 * National Research Council. 2002. [*Broadband: Bring Home the Bits*](https://nap.nationalacademies.org/read/10235/chapter/1#ix). Washington, DC: The National Academies Press. doi: https://doi.org/10.17226/10235
-  > Kevin Lu, executuve director of the Integrated Access and Operations Department, Telcordia, discussed fiber in the last mile (National Academies Broadband Access Workshop, Committee on Broadband Last Mile Technology of the National Research Council, Washington, D.C., June 19, 2000)
+  > Kevin Lu, executive director of the Integrated Access and Operations Department, Telcordia, discussed fiber in the last mile (National Academies Broadband Access Workshop, Committee on Broadband Last Mile Technology of the National Research Council, Washington, D.C., June 19, 2000)
