@@ -1,6 +1,7 @@
 # Kevin Lu
 [GitHub](https://github.com/kevinwlu) | 
 [Google Scholar](https://scholar.google.com/citations?user=r3ktnhEAAAAJ) | 
+[DBLP](https://dblp.org/pid/91/1700.html) |
 [Kaggle](https://www.kaggle.com/kevinwlu) | 
 [LinkedIn](https://www.linkedin.com/in/kevinwlu) | 
 [X](https://twitter.com/kevinwlu) |
