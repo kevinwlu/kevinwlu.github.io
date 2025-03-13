@@ -309,6 +309,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Funga](https://en.wikipedia.org/wiki/Funga)
 * [Bengt I. Samuelsson](https://en.wikipedia.org/wiki/Bengt_I._Samuelsson) 1934&mdash;2024
 * [Cristina Zenato](https://en.wikipedia.org/wiki/Cristina_Zenato) 
+* [CREB](https://en.wikipedia.org/wiki/CREB) cAMP response element-binding protein
+  * [Cyclic adenosine monophosphate](https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate) (cAMP)
 * [Domain (biology)](https://en.wikipedia.org/wiki/Domain_(biology))
   * [Realm (virology)](https://en.wikipedia.org/wiki/Realm_(virology))
 * [Ecosystem](https://en.wikipedia.org/wiki/Ecosystem)
