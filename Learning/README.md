@@ -681,6 +681,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Guesstimate](https://en.wikipedia.org/wiki/Guesstimate)
 * [Heuristic](https://en.wikipedia.org/wiki/Heuristic)
   * [Table of metaheuristics](https://en.wikipedia.org/wiki/Table_of_metaheuristics)
+* [Human error](https://en.wikipedia.org/wiki/Human_error)
+  * [James Reason](https://en.wikipedia.org/wiki/James_Reason) 1938&mdash;2025
 * [Iceberg theory](https://en.wikipedia.org/wiki/Iceberg_theory)
 * [KISS principle](https://en.wikipedia.org/wiki/KISS_principle): keep it simple stupid
 * [Likert scale](https://en.wikipedia.org/wiki/Likert_scale)
