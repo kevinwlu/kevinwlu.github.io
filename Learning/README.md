@@ -581,7 +581,14 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Brough Superior](https://en.wikipedia.org/wiki/Brough_Superior) by [George Brough](https://en.wikipedia.org/wiki/George_Brough) 1890&mdash1970
 * [*War Is a Racket*](https://en.wikipedia.org/wiki/War_Is_a_Racket) 1935 by [Smedley Butler](https://en.wikipedia.org/wiki/Smedley_Butler) 1881&mdash;1940
   * [The Project Gutenberg Canada Ebook](https://gutenberg.ca/ebooks/butlersd-warisaracket/butlersd-warisaracket-00-e.html)
+* [*The Grapes of Wrath*](https://en.wikipedia.org/wiki/The_Grapes_of_Wrath) 1939 by [John Steinbeck](https://en.wikipedia.org/wiki/John_Steinbeck) 1902&mdash;1968
+  * [Grapes of Wrath](https://en.wikipedia.org/wiki/Grapes_of_Wrath)
+  * [*The Grapes of Wrath* (film)](https://en.wikipedia.org/wiki/The_Grapes_of_Wrath_(film)) 1940
+  * [Dust Bowl](https://en.wikipedia.org/wiki/Dust_Bowl)
 * [*Animal Farm*](https://en.wikipedia.org/wiki/Animal_Farm) 1945 and [*Nineteen Eighty-Four*](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) 1949 by [George Orwell](https://en.wikipedia.org/wiki/George_Orwell) 1903&mdash;1950
+* [*To Kill a Mockingbird*](https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird) 1960 by [Harper Lee](https://en.wikipedia.org/wiki/Harper_Lee) 1926&mdash;2016
+  * [Mockingbird](https://en.wikipedia.org/wiki/Mockingbird)
+  * [*To Kill a Mockingbir*d (film)](https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_(film)) 1962
 * [*Stranger in a Strange Land*](https://en.wikipedia.org/wiki/Stranger_in_a_Strange_Land) 1961 by [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein) 1907&mdash;1988
   * [Grok (disambiguation)](https://en.wikipedia.org/wiki/Grok_(disambiguation))
   * [Grok](https://en.wikipedia.org/wiki/Grok)
