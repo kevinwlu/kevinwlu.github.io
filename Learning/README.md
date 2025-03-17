@@ -141,6 +141,7 @@
   * [D 958](https://www.youtube.com/watch?v=hTA6CZLb_FY)
   * [D 959](https://www.youtube.com/watch?v=gCvIhO0Qrvg)
   * [D 960](https://www.youtube.com/watch?v=BAF5daMhyy4)
+* [Má vlast](https://en.wikipedia.org/wiki/M%C3%A1_vlast) 1874–79 by [Bedřich Smetana](https://en.wikipedia.org/wiki/Bed%C5%99ich_Smetana) 1824&mdash;1884
 * [Ride of the Valkyries](https://en.wikipedia.org/wiki/Ride_of_the_Valkyries) 1856 by [Richard Wagner](https://en.wikipedia.org/wiki/Richard_Wagner) 1813&mdash;1883
   * [Sheet music](https://musescore.com/hmscomp/scores/944826)
   * [YouTube](https://www.youtube.com/watch?v=GGU1P6lBW6Q)
