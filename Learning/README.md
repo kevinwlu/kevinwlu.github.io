@@ -136,6 +136,7 @@
   * [YouTube](https://www.youtube.com/watch?v=df-eLzao63I)
   * [Elvira Madigan](https://en.wikipedia.org/wiki/Elvira_Madigan) 1867&mdash;1889
   * [*Elvira Madigan*](https://en.wikipedia.org/wiki/Elvira_Madigan_(1967_film)) 1967
+* [Ludwig van Beethoven](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven) 1770&mdash;1827
 * [Schubert's last sonatas](https://en.wikipedia.org/wiki/Schubert%27s_last_sonatas) 1828 by [Franz Schubert](https://en.wikipedia.org/wiki/Franz_Schubert) 1797&mdash;1828
   * [Schubert Thematic Catalogue](https://en.wikipedia.org/wiki/Schubert_Thematic_Catalogue)
   * [D 958](https://www.youtube.com/watch?v=hTA6CZLb_FY)
