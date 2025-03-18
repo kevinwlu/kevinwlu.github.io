@@ -147,6 +147,7 @@
 * [Ride of the Valkyries](https://en.wikipedia.org/wiki/Ride_of_the_Valkyries) 1856 by [Richard Wagner](https://en.wikipedia.org/wiki/Richard_Wagner) 1813&mdash;1883
   * [Sheet music](https://musescore.com/hmscomp/scores/944826)
   * [YouTube](https://www.youtube.com/watch?v=GGU1P6lBW6Q)
+* [Pyotr Ilyich Tchaikovsky](https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky) 1840&mdash;1893
 * [*Turandot*](https://en.wikipedia.org/wiki/Turandot) 1924 unfinished by [Giacomo Puccini](https://en.wikipedia.org/wiki/Giacomo_Puccini) 1858&mdash;1924
 * [*Adagio for Strings*](https://en.wikipedia.org/wiki/Adagio_for_Strings) 1936 by [Samuel Barber](https://en.wikipedia.org/wiki/Samuel_Barber) 1910&mdash;1981
 * [Adagio in G minor](https://en.wikipedia.org/wiki/Adagio_in_G_minor) by [Tomaso Albinoni](https://en.wikipedia.org/wiki/Tomaso_Albinoni) 1671&mdash;1751, arranged by [Remo Giazotto](https://en.wikipedia.org/wiki/Remo_Giazotto) 1910&mdash;1998
