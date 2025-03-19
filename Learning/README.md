@@ -144,6 +144,8 @@
   * [D 960](https://www.youtube.com/watch?v=BAF5daMhyy4)
 * [Má vlast](https://en.wikipedia.org/wiki/M%C3%A1_vlast) 1874–79 by [Bedřich Smetana](https://en.wikipedia.org/wiki/Bed%C5%99ich_Smetana) 1824&mdash;1884
   * [Vltava](https://en.wikipedia.org/wiki/Vltava)
+  * [*The Tree of Life* (film)](https://en.wikipedia.org/wiki/The_Tree_of_Life_(film)) 2011
+  * [*The Tree of Life* (soundtrack)](https://en.wikipedia.org/wiki/The_Tree_of_Life_(soundtrack))
   * [Antonín Dvořák](https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k) 1841&mdash;1904
 * [Ride of the Valkyries](https://en.wikipedia.org/wiki/Ride_of_the_Valkyries) 1856 by [Richard Wagner](https://en.wikipedia.org/wiki/Richard_Wagner) 1813&mdash;1883
   * [Sheet music](https://musescore.com/hmscomp/scores/944826)
