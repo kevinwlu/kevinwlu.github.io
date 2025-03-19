@@ -150,6 +150,8 @@
   * [YouTube](https://www.youtube.com/watch?v=GGU1P6lBW6Q)
 * [Pyotr Ilyich Tchaikovsky](https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky) 1840&mdash;1893
 * [*Turandot*](https://en.wikipedia.org/wiki/Turandot) 1924 unfinished by [Giacomo Puccini](https://en.wikipedia.org/wiki/Giacomo_Puccini) 1858&mdash;1924
+* [Dmitri Shostakovich](https://en.wikipedia.org/wiki/Dmitri_Shostakovich) 1906&mdash;1975
+  [*The Second Waltz*](https://www.youtube.com/watch?v=vauo4o-ExoY)
 * [*Adagio for Strings*](https://en.wikipedia.org/wiki/Adagio_for_Strings) 1936 by [Samuel Barber](https://en.wikipedia.org/wiki/Samuel_Barber) 1910&mdash;1981
 * [Adagio in G minor](https://en.wikipedia.org/wiki/Adagio_in_G_minor) by [Tomaso Albinoni](https://en.wikipedia.org/wiki/Tomaso_Albinoni) 1671&mdash;1751, arranged by [Remo Giazotto](https://en.wikipedia.org/wiki/Remo_Giazotto) 1910&mdash;1998
   * [YouTube](https://www.youtube.com/watch?v=CQbI_sSV5G4) 2021 by Yo-Yo-Ma
