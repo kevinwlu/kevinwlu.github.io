@@ -502,6 +502,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Crisis of the late Middle Ages](https://en.wikipedia.org/wiki/Crisis_of_the_late_Middle_Ages)
 * [Renaissance](https://en.wikipedia.org/wiki/Renaissance)
 * [Gregorian calendar](https://en.wikipedia.org/wiki/Gregorian_calendar)
+* [Horatio Nelson, 1st Viscount Nelson](https://en.wikipedia.org/wiki/Horatio_Nelson,_1st_Viscount_Nelson)
+  * [The Story of Nelson](https://www.heritage-history.com/index.php?c=read&author=cambridge&book=primary&story=nelson1)
 
 ## Humanities
 * [Humanities](https://en.wikipedia.org/wiki/Humanities)
