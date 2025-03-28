@@ -599,6 +599,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Grapes of Wrath](https://en.wikipedia.org/wiki/Grapes_of_Wrath)
   * [*The Grapes of Wrath* (film)](https://en.wikipedia.org/wiki/The_Grapes_of_Wrath_(film)) 1940
   * [Dust Bowl](https://en.wikipedia.org/wiki/Dust_Bowl)
+  * [Woody Guthrie](https://en.wikipedia.org/wiki/Woody_Guthrie) 1912&mdash;1967
+    * [This Land Is Your Land](https://en.wikipedia.org/wiki/This_Land_Is_Your_Land)
 * [*Animal Farm*](https://en.wikipedia.org/wiki/Animal_Farm) 1945 and [*Nineteen Eighty-Four*](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) 1949 by [George Orwell](https://en.wikipedia.org/wiki/George_Orwell) 1903&mdash;1950
 * [*To Kill a Mockingbird*](https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird) 1960 by [Harper Lee](https://en.wikipedia.org/wiki/Harper_Lee) 1926&mdash;2016
   * [Mockingbird](https://en.wikipedia.org/wiki/Mockingbird)
