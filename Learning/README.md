@@ -296,6 +296,11 @@
   * [SpaceML](https://spaceml.org/)
     * [GitHub repositories](https://github.com/spaceml-org)
 ---
+* [Hubble Space Telescope](https://en.wikipedia.org/wiki/Hubble_Space_Telescope) (HST)
+  * [Edwin Hubble](https://en.wikipedia.org/wiki/Edwin_Hubble) 1889&mdash;1953
+* [James Webb Space Telescope](https://en.wikipedia.org/wiki/James_Webb_Space_Telescope) (JWST)
+  * [James E. Webb](https://en.wikipedia.org/wiki/James_E._Webb) 1906&mdash;1992
+---
 * [National Aviation Reporting Center on Anomalous Phenomena](https://www.narcap.org/) (NARCAP)
 * [List of government space agencies](https://en.wikipedia.org/wiki/List_of_government_space_agencies)
 * [China National Space Administration](https://en.wikipedia.org/wiki/China_National_Space_Administration) (CNSA)
