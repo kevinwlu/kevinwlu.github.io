@@ -695,6 +695,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Yitang Zhang](https://en.wikipedia.org/wiki/Yitang_Zhang)
 
 ## Methodologies
+* [Anki (software)](https://en.wikipedia.org/wiki/Anki_(software))
 * [Ansatz](https://en.wikipedia.org/wiki/Ansatz)
 * [Back-of-the-envelope calculation](https://en.wikipedia.org/wiki/Back-of-the-envelope_calculation)
 * [BLUF (communication)](https://en.wikipedia.org/wiki/BLUF_(communication)): bottom line up front
