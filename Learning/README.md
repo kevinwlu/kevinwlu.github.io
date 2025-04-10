@@ -104,7 +104,6 @@
   * [On the origin of "make something wonderful" - Steve's driving motivation](https://stevejobsarchive.com/newsletters/on-the-origin-of-make-something-wonderful), February 24, 2025
 * [Patrick Henry Winston](https://en.wikipedia.org/wiki/Patrick_Winston) 1943&mdash;2019, [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY), [IAP](https://elo.mit.edu/iap/) 2018
 * [Science communication](https://en.wikipedia.org/wiki/Science_communication)
-* [John Bredin](https://storiesofhopeeducation.wordpress.com/)
 ## Arts
 * [Baroque painting](https://en.wikipedia.org/wiki/Baroque_painting)
 * [*The Night Watch*](https://en.wikipedia.org/wiki/The_Night_Watch) 1642 by [Rembrandt Harmenszoon van Rijn](https://en.wikipedia.org/wiki/Rembrandt) 1606&mdash;1669
