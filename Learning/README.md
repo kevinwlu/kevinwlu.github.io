@@ -167,6 +167,7 @@
 * [List of architectural styles](https://en.wikipedia.org/wiki/List_of_architectural_styles)
   * [Bauhaus](https://en.wikipedia.org/wiki/Bauhaus)
   * [Brutalist architecture](https://en.wikipedia.org/wiki/Brutalist_architecture)
+  * [Colonnade](https://en.wikipedia.org/wiki/Colonnade)
   * [Pritzker Architecture Prize](https://en.wikipedia.org/wiki/Pritzker_Architecture_Prize)
   * [Design–build](https://en.wikipedia.org/wiki/Design%E2%80%93build)
     * [David E. Sellers](https://en.wikipedia.org/wiki/David_E._Sellers) 1938&mdash;2025
