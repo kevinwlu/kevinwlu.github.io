@@ -752,7 +752,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * Barbara Oakley, [Beth Rogowsky](https://www.bloomu.edu/people-directory/beth-rogowsky), and [Terry Sejnowski](https://en.wikipedia.org/wiki/Terry_Sejnowski), *[Uncommon Sense Teaching](https://barbaraoakley.com/books/uncommon-sense-teaching/)*
   * [Neuroscience](https://en.wikipedia.org/wiki/Neuroscience)
   * The [human brain](https://en.wikipedia.org/wiki/Human_brain) has 86 billion [neurons](https://en.wikipedia.org/wiki/Neuron)
-    * [MICrONS](https://en.wikipedia.org/wiki/MICrONS) 
+    * [MICrONS](https://en.wikipedia.org/wiki/MICrONS)
+    * [BossDB](https://bossdb.org/)
     * [MICrONS Project](https://www.nature.com/immersive/d42859-025-00001-w/index.html), April 9, 2025
     * [Scientists map unprecedented detail of connections and visual perception in the mouse brain](https://www.nih.gov/news-events/news-releases/scientists-map-unprecedented-detail-connections-visual-perception-mouse-brain), April 9,2025
   * [Amygdala](https://en.wikipedia.org/wiki/Amygdala)
