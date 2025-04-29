@@ -261,7 +261,7 @@
 * [Exoplanet](https://en.wikipedia.org/wiki/Exoplanet)
   * [NASA Exoplanet Archive](https://en.wikipedia.org/wiki/NASA_Exoplanet_Archive)
   * [Contributed Data Sets](https://exoplanetarchive.ipac.caltech.edu/docs/contributed_data.html)
-  * [K2-18b](https://en.wikipedia.org/wiki/K2-18b)
+  * [K2-18b](https://en.wikipedia.org/wiki/K2-18b) 
 * [Interstellar object](https://en.wikipedia.org/wiki/Interstellar_object)
   * [CNEOS 2014-01-08](https://en.wikipedia.org/wiki/CNEOS_2014-01-08)
   * [ʻOumuamua](https://en.wikipedia.org/wiki/%CA%BBOumuamua)
@@ -752,6 +752,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * Barbara Oakley, [Beth Rogowsky](https://www.bloomu.edu/people-directory/beth-rogowsky), and [Terry Sejnowski](https://en.wikipedia.org/wiki/Terry_Sejnowski), *[Uncommon Sense Teaching](https://barbaraoakley.com/books/uncommon-sense-teaching/)*
   * [Neuroscience](https://en.wikipedia.org/wiki/Neuroscience)
   * The [human brain](https://en.wikipedia.org/wiki/Human_brain) has 86 billion [neurons](https://en.wikipedia.org/wiki/Neuron)
+    * [Scientists map unprecedented detail of connections and visual perception in the mouse brain](https://www.nih.gov/news-events/news-releases/scientists-map-unprecedented-detail-connections-visual-perception-mouse-brain), April 9,2025
   * [Amygdala](https://en.wikipedia.org/wiki/Amygdala)
   * [Cerebral cortex](https://en.wikipedia.org/wiki/Cerebral_cortex)
   * [Soma](https://en.wikipedia.org/wiki/Soma_(biology))
