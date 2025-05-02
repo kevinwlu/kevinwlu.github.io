@@ -456,6 +456,10 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Robert Plutchik](https://en.wikipedia.org/wiki/Robert_Plutchik) 1927&mdash;2006
 * [Crocodile tears](https://en.wikipedia.org/wiki/Crocodile_tears)
 * [Obsessive–compulsive disorder](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder) (OCD)
+* [Hedonic vs. Eudaimonic Wellbeing: How to Reach Happiness](https://positivepsychology.com/hedonic-vs-eudaimonic-wellbeing/)
+  * [Hedonism](https://en.wikipedia.org/wiki/Hedonism)
+  * [Hedonic treadmill](https://en.wikipedia.org/wiki/Hedonic_treadmill)
+  * [Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)
 ---
   | [Emotional intelligence](https://en.wikipedia.org/wiki/Emotional_intelligence) | Others' suffering | Others' happiness |
   | :---: | :---: | :---: |
