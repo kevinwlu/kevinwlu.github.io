@@ -90,8 +90,9 @@
   * [Hoboken, New Jersey](https://en.wikipedia.org/wiki/Hoboken,_New_Jersey)
 ---
 * [Samuel Ullman](https://en.wikipedia.org/wiki/Samuel_Ullman) 1840&mdash;1924, "[Youth](https://www.uab.edu/ullmanmuseum/)"
-* [John Dewey](https://en.wikipedia.org/wiki/John_Dewey) 1859&mdash;1952
+* [John Dewey](https://en.wikipedia.org/wiki/John_Dewey) 1859&mdash;1952, "Education is not preparation for life; education is life itself."
 * [Ludwig Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein) 1889&mdash;1951, [*Philosophical Investigations*](https://en.wikipedia.org/wiki/Philosophical_Investigations)
+* [Mark Van Doren](https://en.wikipedia.org/wiki/Mark_Van_Doren) 1894&mdash;1972, "The art of teaching is the art of assisting discovery."
 * [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan) 1934&mdash;1996, *[The Age of Exploration](https://www.youtube.com/watch?v=6_-jtyhAVTc)*, November 9, 1994
   * [Evidence of absence](https://en.wikipedia.org/wiki/Evidence_of_absence)
   * [Extrasensory perception](https://en.wikipedia.org/wiki/Extrasensory_perception) (ESP)
