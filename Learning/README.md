@@ -93,6 +93,8 @@
 * [John Dewey](https://en.wikipedia.org/wiki/John_Dewey) 1859&mdash;1952, "Education is not preparation for life; education is life itself."
 * [Ludwig Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein) 1889&mdash;1951, [*Philosophical Investigations*](https://en.wikipedia.org/wiki/Philosophical_Investigations)
 * [Mark Van Doren](https://en.wikipedia.org/wiki/Mark_Van_Doren) 1894&mdash;1972, "The art of teaching is the art of assisting discovery."
+* [Jaime Escalante](https://en.wikipedia.org/wiki/Jaime_Escalante) 1930&mdash;2010
+  * [*Stand and Deliver*](https://en.wikipedia.org/wiki/Stand_and_Deliver) 1988
 * [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan) 1934&mdash;1996, *[The Age of Exploration](https://www.youtube.com/watch?v=6_-jtyhAVTc)*, November 9, 1994
   * [Evidence of absence](https://en.wikipedia.org/wiki/Evidence_of_absence)
   * [Extrasensory perception](https://en.wikipedia.org/wiki/Extrasensory_perception) (ESP)
