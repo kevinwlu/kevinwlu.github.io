@@ -68,6 +68,8 @@
     * [Martin Seligman](https://en.wikipedia.org/wiki/Martin_Seligman)
   * [Positive thinking](https://en.wikipedia.org/wiki/Positive_thinking)
   * [Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
+    * [David Dunning](https://en.wikipedia.org/wiki/David_Dunning)
+    * [Justin Kruger](https://en.wikipedia.org/wiki/Justin_Kruger)
 * [Student syndrome](https://en.wikipedia.org/wiki/Student_syndrome)
   * [Absenteeism](https://en.wikipedia.org/wiki/Absenteeism)
   * [D-Day](https://en.wikipedia.org/wiki/D-Day_(military_term))
