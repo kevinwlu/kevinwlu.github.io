@@ -65,6 +65,7 @@
   * [Inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning)
 * [Pygmalion effect](https://en.wikipedia.org/wiki/Pygmalion_effect)
   * [Positive psychology](https://en.wikipedia.org/wiki/Positive_psychology)
+    * [Martin Seligman](https://en.wikipedia.org/wiki/Martin_Seligman)
   * [Positive thinking](https://en.wikipedia.org/wiki/Positive_thinking)
   * [Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
 * [Student syndrome](https://en.wikipedia.org/wiki/Student_syndrome)
