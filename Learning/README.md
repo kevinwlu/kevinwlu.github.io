@@ -195,8 +195,12 @@
 * [J. Robert Oppenheimer](https://en.wikipedia.org/wiki/J._Robert_Oppenheimer) 1904&mdash;1967
 * [Subrahmanyan Chandrasekhar](https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar) 1910&mdash;1995
 * [William Alfred Fowler](https://en.wikipedia.org/wiki/William_Alfred_Fowler) 1911&mdash;1995
-* [*Brief Answers to the Big Questions*](https://en.wikipedia.org/wiki/Brief_Answers_to_the_Big_Questions) by [Stephen Hawking](https://en.wikipedia.org/wiki/Stephen_Hawking)
-1942&mdash;2018
+* [Frank Drake](https://en.wikipedia.org/wiki/Frank_Drake) 1930&mdash;2022
+  * [Drake equation](https://en.wikipedia.org/wiki/Drake_equation) 1961
+  * [Search for extraterrestrial intelligence](https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence) (SETI)
+* [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan) 1934&mdash;1996
+* [Stephen Hawking](https://en.wikipedia.org/wiki/Stephen_Hawking) 1942&mdash;2018
+  * [*Brief Answers to the Big Questions*](https://en.wikipedia.org/wiki/Brief_Answers_to_the_Big_Questions) by 
   * [Amyotrophic lateral sclerosis](https://en.wikipedia.org/wiki/ALS)  (ALS)
   * [Spinal muscular atrophy](https://en.wikipedia.org/wiki/Spinal_muscular_atrophy) (SMA)
 * [Richard Goldstein](https://en.wikipedia.org/wiki/Richard_Goldstein_(astronomer)) 1927&mdash;2024
@@ -561,7 +565,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Hasht-Bihisht](https://en.wikipedia.org/wiki/Hasht-Bihisht_(poem)) 1302 by [Amir Khusrau](https://en.wikipedia.org/wiki/Amir_Khusrau) 1253&mdash;1325
   * [*The Three Princes of Serendip*](https://en.wikipedia.org/wiki/The_Three_Princes_of_Serendip) 1557
   * [Serendipity](https://en.wikipedia.org/wiki/Serendipity)
-    * [Army Corps Civil Engineer Still Puts in the Hours at 92](https://www.nad.usace.army.mil/Media/News-Releases/Article/3787977/army-corps-civil-engineer-still-puts-in-the-hours-at-92/) May 26, 2024
+  * [SERENDIP](https://en.wikipedia.org/wiki/SERENDIP) (Search for Extraterrestrial Radio Emissions from Nearby Developed Intelligent Populations)
+  * [Army Corps Civil Engineer Still Puts in the Hours at 92](https://www.nad.usace.army.mil/Media/News-Releases/Article/3787977/army-corps-civil-engineer-still-puts-in-the-hours-at-92/) May 26, 2024
     * I met Ron St. Laurent at 6:03 AM, Tuesday, November 26, 2024
 * [*Divine Comedy*](https://en.wikipedia.org/wiki/Divine_Comedy) 1321 by [Dante Alighieri](https://en.wikipedia.org/wiki/Dante_Alighieri) 1265&mdash;1321
   * [The Project Gutenberg eBook 8800](https://www.gutenberg.org/ebooks/8800)
