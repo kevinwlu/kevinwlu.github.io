@@ -14,7 +14,7 @@ Make lifelong [learning](/Learning) an everyday habit
 [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering) (ECE) \
 2018-2019 [Henry Morton](https://en.wikipedia.org/wiki/Henry_Morton_(scientist)) Distinguished Teaching Professor Award \
 2021 ECE Outstanding Teaching Award \
-2023 ECE Outstanding Service Award for Faculty 
+2023 ECE Outstanding Service Award for Faculty
 * [Research Ethics and Writing: How to Ensure the Research Meets the Ethical Guidelines and Writing Style](/Seminar.md), September 13, 2023
 * [Circle Optics Company News](https://circleoptics.com/insight-from-stevens-institute-professor-kevin-lu/), June 15, 2023
 * [Rediscovering the Language of Family Connections](https://www.stevens.edu/news/rediscovering-the-language-of-family-connections), May 19, 2023
@@ -55,6 +55,9 @@ Life Senior Member\
 * Treasurer (2015-2025)
 * Chair (2007-2008), Vice Chair (2006-2007), and Member (2005-2006), Board of Trustees
 * President (2004-2005)
+
+## [Order of the Engineer](https://en.wikipedia.org/wiki/Order_of_the_Engineer)
+* May 20, 2025
 
 ## Education
 D.Sc. (1984) and M.S. (1981), Systems Science and Mathematics, [Washington University in St. Louis](https://wustl.edu/) \
