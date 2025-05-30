@@ -112,6 +112,8 @@
 * [Patrick Henry Winston](https://en.wikipedia.org/wiki/Patrick_Winston) 1943&mdash;2019, [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY), [IAP](https://elo.mit.edu/iap/) 2018
 * [Science communication](https://en.wikipedia.org/wiki/Science_communication)
 ## Arts
+* [*The School of Athens*](https://en.wikipedia.org/wiki/The_School_of_Athens) 1509&mdash;1511 by [Raphael](https://en.wikipedia.org/wiki/Raphael) 1483&mdash;1520
+* [Baroque](https://en.wikipedia.org/wiki/Baroque)
 * [Baroque painting](https://en.wikipedia.org/wiki/Baroque_painting)
 * [*The Night Watch*](https://en.wikipedia.org/wiki/The_Night_Watch) 1642 by [Rembrandt Harmenszoon van Rijn](https://en.wikipedia.org/wiki/Rembrandt) 1606&mdash;1669
 * [*Las Meninas*](https://en.wikipedia.org/wiki/Las_Meninas) 1656 by [Diego Velázquez](https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez) 1599&mdash;1660
