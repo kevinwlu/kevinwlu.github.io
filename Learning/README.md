@@ -272,6 +272,8 @@
 * [Antikythera mechanism](https://en.wikipedia.org/wiki/Antikythera_mechanism)
 * [Ephemeris](https://en.wikipedia.org/wiki/Ephemeris)
   * [Ephemeris time](https://en.wikipedia.org/wiki/Ephemeris_time) (ET)
+* [Trans-Neptunian object](https://en.wikipedia.org/wiki/Trans-Neptunian_object) (TNO)
+* [Extreme trans-Neptunian object](https://en.wikipedia.org/wiki/Extreme_trans-Neptunian_object) (ETNO)
 * [Exoplanet](https://en.wikipedia.org/wiki/Exoplanet)
   * [NASA Exoplanet Archive](https://en.wikipedia.org/wiki/NASA_Exoplanet_Archive)
   * [Contributed Data Sets](https://exoplanetarchive.ipac.caltech.edu/docs/contributed_data.html)
