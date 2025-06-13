@@ -394,6 +394,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [A sensor-actuator–coupled gustatory interface chemically connecting virtual and real environments for remote tasting](https://www.science.org/doi/10.1126/sciadv.adr4797)
 * [Telomere](https://en.wikipedia.org/wiki/Telomere)
 * [Vestibulo–ocular reflex](https://en.wikipedia.org/wiki/Vestibulo%E2%80%93ocular_reflex) (VOR)
+  * Cervico-ocular reflex (COR)
+  * [Optokinetic response](https://en.wikipedia.org/wiki/Optokinetic_response) (OKR)
 ---
 * [P.C. Benias et al., "Structure and Distribution of an Unrecognized Interstitium in Human Tissues." Sci Rep 8, 4947 (2018).](https://www.nature.com/articles/s41598-018-23062-6)
   * [Confocal microscopy](https://en.wikipedia.org/wiki/Confocal_microscopy)
