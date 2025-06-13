@@ -393,6 +393,9 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Taste receptor](https://en.wikipedia.org/wiki/Taste_receptor)
   * [A sensor-actuator–coupled gustatory interface chemically connecting virtual and real environments for remote tasting](https://www.science.org/doi/10.1126/sciadv.adr4797)
 * [Telomere](https://en.wikipedia.org/wiki/Telomere)
+  * [Hermann Joseph Muller](https://en.wikipedia.org/wiki/Hermann_Joseph_Muller) 1890&mdash;1967
+  * [Barbara McClintock](https://en.wikipedia.org/wiki/Barbara_McClintock) 1902&mdash;1992
+  * [Maximum life span](https://en.wikipedia.org/wiki/Maximum_life_span)
 * [Vestibulo–ocular reflex](https://en.wikipedia.org/wiki/Vestibulo%E2%80%93ocular_reflex) (VOR)
   * Cervico-ocular reflex (COR)
   * [Optokinetic response](https://en.wikipedia.org/wiki/Optokinetic_response) (OKR)
