@@ -34,6 +34,7 @@ Life Senior Member\
 * Non-Voting Member (2023-2025) and Member (2016-2022) ComSoc [Standardization Programs Development Board](https://www.comsoc.org/about/boards/standardization-programs-development-board) (SPDB)
 
 ### [IEEE Standards Association](https://standards.ieee.org/) (IEEE SA) 
+* [Telecom Expert Honored By IEEE Standards Association: Stevens professor was recognized for standards governance management](https://spectrum.ieee.org/telecom-kevin-lu-ieee-standards), June 12, 2025
 * IEEE SA Standards Board Distinguished Service Award (2024)
   * [2024 IEEE SA Awards](https://standards.ieee.org/beyond-standards/2024-ieee-sa-award-winners/)
   * [2024 IEEE SA Awards Ceremony](https://standards.ieee.org/about/awards/ceremonies/)
