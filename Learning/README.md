@@ -346,6 +346,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Flora](https://en.wikipedia.org/wiki/Flora)
   * [Funga](https://en.wikipedia.org/wiki/Funga)
 * [Bengt I. Samuelsson](https://en.wikipedia.org/wiki/Bengt_I._Samuelsson) 1934&mdash;2024
+* [Bioluminescence](https://en.wikipedia.org/wiki/Bioluminescence)
+  * [Dinoflagellate](https://en.wikipedia.org/wiki/Dinoflagellate) 
 * [Cristina Zenato](https://en.wikipedia.org/wiki/Cristina_Zenato) 
 * [CREB](https://en.wikipedia.org/wiki/CREB) cAMP response element-binding protein
   * [Cyclic adenosine monophosphate](https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate) (cAMP)
@@ -761,6 +763,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Six Sigma](https://en.wikipedia.org/wiki/Six_Sigma)
   * [DMAIC](https://en.wikipedia.org/wiki/DMAIC): define, measure, analyze, improve and control
 * [SECI model of knowledge dimensions](https://en.wikipedia.org/wiki/SECI_model_of_knowledge_dimensions): socialization, externization, combination, internalization
+* [Slippery slope](https://en.wikipedia.org/wiki/Slippery_slope)
 * [State of the art](https://en.wikipedia.org/wiki/State_of_the_art) (SOTA)
 * [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis): strengths, weaknesses, opportunities, threats
 * [Taxonomy](https://en.wikipedia.org/wiki/Taxonomy)
