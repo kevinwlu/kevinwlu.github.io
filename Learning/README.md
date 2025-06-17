@@ -588,7 +588,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
     * I met Ron St. Laurent at 6:03 AM, Tuesday, November 26, 2024
 * [*Divine Comedy*](https://en.wikipedia.org/wiki/Divine_Comedy) 1321 by [Dante Alighieri](https://en.wikipedia.org/wiki/Dante_Alighieri) 1265&mdash;1321
   * [The Project Gutenberg eBook 8800](https://www.gutenberg.org/ebooks/8800)
-* [*Divina proportione*](https://en.wikipedia.org/wiki/Divina_proportione) 1498 by [Luca Pacioli](https://en.wikipedia.org/wiki/Luca_Pacioli) 1447&mdash;1517
+* [*Divina proportione*](https://en.wikipedia.org/wiki/Divina_proportione) 1509 by [Luca Pacioli](https://en.wikipedia.org/wiki/Luca_Pacioli) 1447&mdash;1517
   * [Golden ratio](https://en.wikipedia.org/wiki/Golden_ratio)
 * [*The Notebooks of Leonardo da Vinci*](https://en.wikipedia.org/wiki/Leonardo_da_Vinci#Journals_and_notes) by [Leonardo da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_Vinci) 1452&mdash;1519
   * [The Project Gutenberg eBook 5000](https://www.gutenberg.org/ebooks/5000)
