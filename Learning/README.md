@@ -593,7 +593,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [*The Notebooks of Leonardo da Vinci*](https://en.wikipedia.org/wiki/Leonardo_da_Vinci#Journals_and_notes) by [Leonardo da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_Vinci) 1452&mdash;1519
   * [The Project Gutenberg eBook 5000](https://www.gutenberg.org/ebooks/5000)
   * [*Vitruvian Man*](https://en.wikipedia.org/wiki/Vitruvian_Man)
-  * [Navel Gazing and the Golden Ratio: What an apple, a pentagram and a bellybutton have in common.](https://www.nytimes.com/interactive/2025/06/16/science/math-strogatz-leonardo-bellybutton.html)
+  * [Navel Gazing and the Golden Ratio: What an apple, a pentagram and a bellybutton have in common.](https://www.nytimes.com/interactive/2025/06/16/science/math-strogatz-leonardo-bellybutton.html), June 16, 2025
 * [*Journey to the West*](https://en.wikipedia.org/wiki/Journey_to_the_West) 1592 by [Wu Cheng'en](https://en.wikipedia.org/wiki/Wu_Cheng%27en) 1500&mdash;1582 or 1505&mdash;1580
   * [The Project Gutenberg eBook 23962](https://www.gutenberg.org/ebooks/23962)
   * [*Black Myth: Wukong*](https://en.wikipedia.org/wiki/Black_Myth:_Wukong) 2024
