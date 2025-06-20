@@ -190,6 +190,10 @@
   * [Pritzker Architecture Prize](https://en.wikipedia.org/wiki/Pritzker_Architecture_Prize)
   * [Design–build](https://en.wikipedia.org/wiki/Design%E2%80%93build)
     * [David E. Sellers](https://en.wikipedia.org/wiki/David_E._Sellers) 1938&mdash;2025
+---
+* [Photography](https://en.wikipedia.org/wiki/Photography)
+* [List of photographs considered the most important](https://en.wikipedia.org/wiki/List_of_photographs_considered_the_most_important)
+* [Julia Margaret Cameron](https://en.wikipedia.org/wiki/Julia_Margaret_Cameron) 1815&mdash;1879
 ## Astronomy
 * [Astraeus](https://en.wikipedia.org/wiki/Astraeus)
   * [Astraea](https://en.wikipedia.org/wiki/Astraea)
