@@ -331,6 +331,10 @@
   * [SpaceML](https://spaceml.org/)
     * [GitHub repositories](https://github.com/spaceml-org)
 ---
+* [List of largest optical reflecting telescopes](https://en.wikipedia.org/wiki/List_of_largest_optical_reflecting_telescopes)
+* [Vera C. Rubin Observatory](https://en.wikipedia.org/wiki/Vera_C._Rubin_Observatory)
+  * [Vera Rubin](https://en.wikipedia.org/wiki/Vera_Rubin) 1928&mdash;2016
+* [Space telescope](https://en.wikipedia.org/wiki/Space_telescope)
 * [Hubble Space Telescope](https://en.wikipedia.org/wiki/Hubble_Space_Telescope) (HST)
   * [Edwin Hubble](https://en.wikipedia.org/wiki/Edwin_Hubble) 1889&mdash;1953
 * [James Webb Space Telescope](https://en.wikipedia.org/wiki/James_Webb_Space_Telescope) (JWST)
