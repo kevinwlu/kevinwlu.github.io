@@ -94,6 +94,8 @@
 * [Coaching](https://en.wikipedia.org/wiki/Coaching)
 ---
 * [Stevens Institute of Technology](https://en.wikipedia.org/wiki/Stevens_Institute_of_Technology)
+  * [Science, technology, engineering, and mathematics](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) (STEM)
+  * [STEM Outreach](https://www.stevens.edu/school-engineering-science/about/stem-outreach)
 * [David A. Vaccari](https://www.stevens.edu/profile/dvaccari), "[The Barbed Quatrefoil Is a 1500-Year-Old Symbol of Architectural Advance](https://personal.stevens.edu/~dvaccari/Vaccari%20-%20Sancta%20Sophia.pdf)"
   * [Quatrefoil](https://en.wikipedia.org/wiki/Quatrefoil)
   * [Pendentive](https://en.wikipedia.org/wiki/Pendentive)
