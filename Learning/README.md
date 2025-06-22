@@ -561,6 +561,11 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 
 ## History
 * [History](https://en.wikipedia.org/wiki/History)
+* [*Homo heidelbergensis*](https://en.wikipedia.org/wiki/Homo_heidelbergensis)
+* [*Homo longi*](https://en.wikipedia.org/wiki/Homo_longi)
+* [Denisovan](https://en.wikipedia.org/wiki/Denisovan)
+* [Human](https://en.wikipedia.org/wiki/Human)
+* [Neanderthal](https://en.wikipedia.org/wiki/Neanderthal)
 * [Crisis of the late Middle Ages](https://en.wikipedia.org/wiki/Crisis_of_the_late_Middle_Ages)
 * [Renaissance](https://en.wikipedia.org/wiki/Renaissance)
 * [Gregorian calendar](https://en.wikipedia.org/wiki/Gregorian_calendar)
