@@ -730,6 +730,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 ## Mathematics
 * [Conjecture](https://en.wikipedia.org/wiki/Conjecture)
   * [List of conjectures](https://en.wikipedia.org/wiki/List_of_conjectures)
+  * [DARPA expMath: Exponentiating Mathematics](https://www.darpa.mil/research/programs/expmath-exponential-mathematics)
 * [Daily Challenge](https://www.youtube.com/@PoShenLoh) with [Po-Shen Loh](https://en.wikipedia.org/wiki/Po-Shen_Loh)
 * [Euclid](https://en.wikipedia.org/wiki/Euclid) 300 BC
   * [Golden ratio](https://en.wikipedia.org/wiki/Golden_ratio)
