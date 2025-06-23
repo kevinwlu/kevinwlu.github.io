@@ -885,6 +885,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
     * The First Amendment: “If you didn’t document it, you didn’t do it.”
     * The Second Amendment: “Do not present your advisor with only your data and analysis; also present your conclusions and plans for future work.”
     * The Third Amendment: “Do not present your advisor with only your conclusions and plans for future work; also present your data and analysis.”
+* [Obfuscation](https://en.wikipedia.org/wiki/Obfuscation)
 * [MIT URTC](https://urtc.mit.edu/) Undergraduate Research Technology Conference
 * [Bond graph](https://en.wikipedia.org/wiki/Bond_graph) by [Henry Paynter](https://en.wikipedia.org/wiki/Henry_Paynter) 1923&mdash;2002
 ---
