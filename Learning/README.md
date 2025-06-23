@@ -522,6 +522,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [App](https://apps.apple.com/us/app/molar-augmented-reality/id1559504847?platform=iphone)
 * [Nigel Braun](https://arndtsen-group.mcgill.ca/nigel.html) | [Videos](https://www.youtube.com/@NileRed/videos)
 * [ProFET](https://github.com/ddofer/ProFET) (Protein Feature Engineering Toolkit) for Machine Learning
+* [Radium Girls](https://en.wikipedia.org/wiki/Radium_Girls)
 * [Samarium](https://en.wikipedia.org/wiki/Samarium) is a chemical element with the symbol Sm and atomic number 62
   * [Samarium–cobalt magnet](https://en.wikipedia.org/wiki/Samarium%E2%80%93cobalt_magnet)
 * [Sodium carbonate](https://en.wikipedia.org/wiki/Sodium_carbonate) also known as washing soda
