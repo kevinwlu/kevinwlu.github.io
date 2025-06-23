@@ -123,6 +123,7 @@
   * [On the origin of "make something wonderful" - Steve's driving motivation](https://stevejobsarchive.com/newsletters/on-the-origin-of-make-something-wonderful), February 24, 2025
 * [Patrick Henry Winston](https://en.wikipedia.org/wiki/Patrick_Winston) 1943&mdash;2019, [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY), [IAP](https://elo.mit.edu/iap/) 2018
 * [Science communication](https://en.wikipedia.org/wiki/Science_communication)
+  * [Ben Miles](https://www.drbenmiles.com/)
 ## Arts
 * [*The School of Athens*](https://en.wikipedia.org/wiki/The_School_of_Athens) 1509&mdash;1511 by [Raphael](https://en.wikipedia.org/wiki/Raphael) 1483&mdash;1520
 * [Baroque](https://en.wikipedia.org/wiki/Baroque)
