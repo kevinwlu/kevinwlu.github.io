@@ -151,6 +151,7 @@
 * [Daniel Wurtzel](https://www.danielwurtzel.com/)
   * [YouTube channel](https://www.youtube.com/@danielwurtzel/)
 * [Arnaldo Pomodoro](https://en.wikipedia.org/wiki/Arnaldo_Pomodoro) 1926&mdash;2025
+  * [*Sphere Within Sphere*](https://en.wikipedia.org/wiki/Sphere_Within_Sphere)
 ---
 * [List of classical music composers by period](https://simple.wikipedia.org/wiki/List_of_classical_music_composers_by_period)
 * [Piano Concerto No. 21](https://en.wikipedia.org/wiki/Piano_Concerto_No._21_(Mozart)) 1785 by [Wolfgang Amadeus Mozart](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart) 1756&mdash;1791
