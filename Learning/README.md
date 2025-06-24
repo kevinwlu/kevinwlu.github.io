@@ -194,6 +194,7 @@
   * [Pritzker Architecture Prize](https://en.wikipedia.org/wiki/Pritzker_Architecture_Prize)
   * [Design–build](https://en.wikipedia.org/wiki/Design%E2%80%93build)
     * [David E. Sellers](https://en.wikipedia.org/wiki/David_E._Sellers) 1938&mdash;2025
+* [Passive house](https://en.wikipedia.org/wiki/Passive_house)
 ---
 * [Photography](https://en.wikipedia.org/wiki/Photography)
 * [List of photographs considered the most important](https://en.wikipedia.org/wiki/List_of_photographs_considered_the_most_important)
