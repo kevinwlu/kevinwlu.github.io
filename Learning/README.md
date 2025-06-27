@@ -192,7 +192,9 @@
   * [Brutalist architecture](https://en.wikipedia.org/wiki/Brutalist_architecture)
   * [Colonnade](https://en.wikipedia.org/wiki/Colonnade)
     * [Gian Lorenzo Bernini](https://en.wikipedia.org/wiki/Gian_Lorenzo_Bernini) 1598&mdash;1680
+  * [Frank Lloyd Wright](https://en.wikipedia.org/wiki/Frank_Lloyd_Wright) 1867&mdash;1959
   * [Pritzker Architecture Prize](https://en.wikipedia.org/wiki/Pritzker_Architecture_Prize)
+    * [Jay Pritzker](https://en.wikipedia.org/wiki/Jay_Pritzker) 1922&mdash;1999
   * [Design–build](https://en.wikipedia.org/wiki/Design%E2%80%93build)
     * [David E. Sellers](https://en.wikipedia.org/wiki/David_E._Sellers) 1938&mdash;2025
 * [Passive house](https://en.wikipedia.org/wiki/Passive_house)
