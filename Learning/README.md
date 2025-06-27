@@ -858,6 +858,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Arithmomania](https://en.wikipedia.org/wiki/Arithmomania)
 * [Optical illusion](https://en.wikipedia.org/wiki/Optical_illusion)
   * [Best Illusion of the Year Contest](https://illusionoftheyear.com/)
+  * [Poggendorff illusion](https://en.wikipedia.org/wiki/Poggendorff_illusion)
+  * [Johann Christian Poggendorff](https://en.wikipedia.org/wiki/Johann_Christian_Poggendorff) 1796&mdash;1877
 * [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
 * [Helen Fisher (anthropologist)](https://en.wikipedia.org/wiki/Helen_Fisher_(anthropologist)) 1945&mdash;2024
 
