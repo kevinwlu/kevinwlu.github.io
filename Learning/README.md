@@ -856,8 +856,13 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
     * [OpenDyslexic](https://en.wikipedia.org/wiki/OpenDyslexic)
 * [Obsessive–compulsive disorder](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder) (OCD)
   * [Arithmomania](https://en.wikipedia.org/wiki/Arithmomania)
+* [Optical illusion](https://en.wikipedia.org/wiki/Optical_illusion)
+  * [Best Illusion of the Year Contest](https://illusionoftheyear.com/)
 * [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
 * [Helen Fisher (anthropologist)](https://en.wikipedia.org/wiki/Helen_Fisher_(anthropologist)) 1945&mdash;2024
+
+## Physics
+* [Manipulating trapped air bubbles in ice for message storage in cold regions](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00221-8)
 
 ## Social Sciences
 * [Socioemotional selectivity theory](https://en.wikipedia.org/wiki/Socioemotional_selectivity_theory)
