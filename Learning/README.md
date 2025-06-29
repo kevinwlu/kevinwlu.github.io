@@ -152,6 +152,8 @@
 * [Arnaldo Pomodoro](https://en.wikipedia.org/wiki/Arnaldo_Pomodoro) 1926&mdash;2025
   * [*Sphere Within Sphere*](https://en.wikipedia.org/wiki/Sphere_Within_Sphere)
 ---
+* [Music of China](https://en.wikipedia.org/wiki/Music_of_China)
+  * [Mo Li Hua](https://en.wikipedia.org/wiki/Mo_Li_Hua)
 * [List of classical music composers by period](https://simple.wikipedia.org/wiki/List_of_classical_music_composers_by_period)
 * [Piano Concerto No. 21](https://en.wikipedia.org/wiki/Piano_Concerto_No._21_(Mozart)) 1785 by [Wolfgang Amadeus Mozart](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart) 1756&mdash;1791
   * [Second Movement sheet music](https://musescore.com/user/62716/scores/902101)
@@ -528,6 +530,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [App](https://apps.apple.com/us/app/molar-augmented-reality/id1559504847?platform=iphone)
 * [Nigel Braun](https://arndtsen-group.mcgill.ca/nigel.html) | [Videos](https://www.youtube.com/@NileRed/videos)
 * [ProFET](https://github.com/ddofer/ProFET) (Protein Feature Engineering Toolkit) for Machine Learning
+* [Radical (chemistry)](https://en.wikipedia.org/wiki/Radical_(chemistry))
+  * [Liver spot](https://en.wikipedia.org/wiki/Liver_spot)
 * [Radium Girls](https://en.wikipedia.org/wiki/Radium_Girls)
 * [Samarium](https://en.wikipedia.org/wiki/Samarium) is a chemical element with the symbol Sm and atomic number 62
   * [Samarium–cobalt magnet](https://en.wikipedia.org/wiki/Samarium%E2%80%93cobalt_magnet)
