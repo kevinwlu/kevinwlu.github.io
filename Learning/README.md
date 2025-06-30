@@ -524,6 +524,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [The Nobel Prize in Chemistry 2024](https://www.nobelprize.org/prizes/chemistry/2024/summary/)
 * [Bromine](https://en.wikipedia.org/wiki/Bromine)
 * [Brominated flame retardant](https://en.wikipedia.org/wiki/Brominated_flame_retardant) (BFR)
+* [Dark oxygen](https://en.wikipedia.org/wiki/Dark_oxygen)
 * [Flame retardant](https://en.wikipedia.org/wiki/Flame_retardant)
 * [Litmus](https://en.wikipedia.org/wiki/Litmus)
 * [MolAR](https://mtzgroup.github.io/molar/)
