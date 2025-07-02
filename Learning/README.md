@@ -135,6 +135,7 @@
 * [Utagawa Hiroshige](https://en.wikipedia.org/wiki/Hiroshige) 1797&mdash;1858
 * [*The Gleaners*](https://en.wikipedia.org/wiki/The_Gleaners) 1857 by [Jean-François Millet](https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Millet) 1814&mdash;1875
 ---
+* [Paul Cézanne](https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne) 1839&mdash;1906
 * [Louis Comfort Tiffany](https://en.wikipedia.org/wiki/Louis_Comfort_Tiffany) 1848&mdash;1933
 * [Antoni Gaudí](https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD) 1852&mdash;1926
 * [Alphonse Mucha](https://en.wikipedia.org/wiki/Alphonse_Mucha) 1860&mdash;1939
