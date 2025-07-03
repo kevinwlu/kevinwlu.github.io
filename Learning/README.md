@@ -540,6 +540,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Radium Girls](https://en.wikipedia.org/wiki/Radium_Girls)
 * [Samarium](https://en.wikipedia.org/wiki/Samarium) is a chemical element with the symbol Sm and atomic number 62
   * [Samarium–cobalt magnet](https://en.wikipedia.org/wiki/Samarium%E2%80%93cobalt_magnet)
+* [Single-molecule electric motor](https://en.wikipedia.org/wiki/Single-molecule_electric_motor)
 * [Sodium carbonate](https://en.wikipedia.org/wiki/Sodium_carbonate) also known as washing soda
 * [Sodium bicarbonate](https://en.wikipedia.org/wiki/Sodium_bicarbonate) commonly known as baking soda
 * [Sodium thiosulfate](https://en.wikipedia.org/wiki/Sodium_thiosulfate)
