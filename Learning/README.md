@@ -400,6 +400,10 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Society for the Protection of Underground Networks](https://en.wikipedia.org/wiki/Society_for_the_Protection_of_Underground_Networks) (SPUN)
   * [A travelling-wave strategy for plant–fungal trade](https://www.nature.com/articles/s41586-025-08614-x), February 26, 2025
 * [Optocollic reflex](https://en.wikipedia.org/wiki/Optocollic_reflex)
+* [Ortolan bunting](https://en.wikipedia.org/wiki/Ortolan_bunting)
+  * [*The Taste of Things*](https://en.wikipedia.org/wiki/The_Taste_of_Things) 2023
+  * [Jean Anthelme Brillat-Savarin](https://en.wikipedia.org/wiki/Jean_Anthelme_Brillat-Savarin) 1755&mdash;1826
+  * [Grimod de La Reynière](https://en.wikipedia.org/wiki/Grimod_de_La_Reyni%C3%A8re) 1758&mdash;1837
 * [Right whale](https://en.wikipedia.org/wiki/Right_whale)
 * [Saffron](https://en.wikipedia.org/wiki/Saffron)
 * [Saffron (color)](https://en.wikipedia.org/wiki/Saffron_(color))
