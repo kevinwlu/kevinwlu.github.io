@@ -92,6 +92,8 @@
   * [Senioritis](https://en.wikipedia.org/wiki/Senioritis)
 * [Mentorship](https://en.wikipedia.org/wiki/Mentorship)
 * [Coaching](https://en.wikipedia.org/wiki/Coaching)
+* [Rapid eye movement sleep](https://en.wikipedia.org/wiki/Rapid_eye_movement_sleep)
+* [Sleep and learning](https://en.wikipedia.org/wiki/Sleep_and_learning)
 ---
 * [Stevens Institute of Technology](https://en.wikipedia.org/wiki/Stevens_Institute_of_Technology)
   * [Science, technology, engineering, and mathematics](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) (STEM)
