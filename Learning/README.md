@@ -374,6 +374,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Bengt I. Samuelsson](https://en.wikipedia.org/wiki/Bengt_I._Samuelsson) 1934&mdash;2024
 * [Bioluminescence](https://en.wikipedia.org/wiki/Bioluminescence)
   * [Dinoflagellate](https://en.wikipedia.org/wiki/Dinoflagellate) 
+* [Cicada](https://en.wikipedia.org/wiki/Cicada)
 * [Cristina Zenato](https://en.wikipedia.org/wiki/Cristina_Zenato) 
 * [CREB](https://en.wikipedia.org/wiki/CREB) cAMP response element-binding protein
   * [Cyclic adenosine monophosphate](https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate) (cAMP)
@@ -387,6 +388,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [List of birds by flight speed](https://en.wikipedia.org/wiki/List_of_birds_by_flight_speed)
   * [List of birds by flight heights](https://en.wikipedia.org/wiki/List_of_birds_by_flight_heights)
   * [Organisms at high altitude](https://en.wikipedia.org/wiki/Organisms_at_high_altitude)
+* [Firefly](https://en.wikipedia.org/wiki/Firefly)
 * [Förster resonance energy transfer](https://en.wikipedia.org/wiki/F%C3%B6rster_resonance_energy_transfer) (FRET)
   * [Theodor Förster](https://en.wikipedia.org/wiki/Theodor_F%C3%B6rster) 1910&mdash;1974
 * [Fruit](https://en.wikipedia.org/wiki/Fruit)
