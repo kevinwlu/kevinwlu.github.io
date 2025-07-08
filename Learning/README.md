@@ -679,6 +679,9 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [The Project Gutenberg eBook 135](https://www.gutenberg.org/ebooks/135)
 * [*War and Peace*](https://en.wikipedia.org/wiki/War_and_Peace) 1865&mdash;1869 by [Leo Tolstoy](https://en.wikipedia.org/wiki/Leo_Tolstoy) 1828&mdash;1910
   * [The Project Gutenberg eBook 2600](https://www.gutenberg.org/ebooks/2600)
+  * [*The Death of Ivan Ilyich*](https://en.wikipedia.org/wiki/The_Death_of_Ivan_Ilyich) 1886
+    * [*Ikiru*](https://en.wikipedia.org/wiki/Ikiru) 1952 by [Akira Kurosawa](https://en.wikipedia.org/wiki/Akira_Kurosawa) 1910&mdash;1998
+    * [*Living*](https://en.wikipedia.org/wiki/Living_(2022_film)) 2022
 * [*Alice's Adventures in Wonderland*](https://en.wikipedia.org/wiki/Alice's_Adventures_in_Wonderland) 1865 by [Lewis Carroll](https://en.wikipedia.org/wiki/Lewis_Carroll) 1832&mdash;1898
   * [The Project Gutenberg eBook 11](https://www.gutenberg.org/ebooks/11)
   * [Down the rabbit hole](https://en.wikipedia.org/wiki/Down_the_rabbit_hole)
