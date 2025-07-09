@@ -109,6 +109,8 @@
 ---
 * [Samuel Ullman](https://en.wikipedia.org/wiki/Samuel_Ullman) 1840&mdash;1924, "[Youth](https://www.uab.edu/ullmanmuseum/)"
 * [John Dewey](https://en.wikipedia.org/wiki/John_Dewey) 1859&mdash;1952, "Education is not preparation for life; education is life itself."
+  * [American Federation of Teachers](https://en.wikipedia.org/wiki/American_Federation_of_Teachers) (AFT) 1916
+  * [National Education Association](https://en.wikipedia.org/wiki/National_Education_Association) (NEA) 1857
 * [Ludwig Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein) 1889&mdash;1951, [*Philosophical Investigations*](https://en.wikipedia.org/wiki/Philosophical_Investigations)
 * [Mark Van Doren](https://en.wikipedia.org/wiki/Mark_Van_Doren) 1894&mdash;1972, "The art of teaching is the art of assisting discovery."
 * [Jaime Escalante](https://en.wikipedia.org/wiki/Jaime_Escalante) 1930&mdash;2010
