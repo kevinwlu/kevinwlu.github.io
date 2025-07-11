@@ -207,6 +207,9 @@
   * [Design–build](https://en.wikipedia.org/wiki/Design%E2%80%93build)
     * [David E. Sellers](https://en.wikipedia.org/wiki/David_E._Sellers) 1938&mdash;2025
 * [Passive house](https://en.wikipedia.org/wiki/Passive_house)
+* [Sagrada Família](https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia)
+  * [Antoni Gaudí](https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD) 1852&mdash;1926
+  * [Sedum acre](https://en.wikipedia.org/wiki/Sedum_acre)
 * [Skyway](https://en.wikipedia.org/wiki/Skyway)
 ---
 * [Photography](https://en.wikipedia.org/wiki/Photography)
@@ -282,11 +285,6 @@
 * [Faster-than-light](https://en.wikipedia.org/wiki/Faster-than-light) (FTL)
 * [Gravitational wave](https://en.wikipedia.org/wiki/Gravitational_wave)
 * [Hubble–Lemaître law](https://en.wikipedia.org/wiki/Hubble%27s_law)
-* [Landform](https://en.wikipedia.org/wiki/Landform)
-  * [Fjord](https://en.wikipedia.org/wiki/Fjord)
-  * [Heath](https://en.wikipedia.org/wiki/Heath)
-    * [Calluna](https://en.wikipedia.org/wiki/Calluna) or heather
-  * [Ravine](https://en.wikipedia.org/wiki/Ravine)
 * [M-theory](https://en.wikipedia.org/wiki/M-theory)
 * [Period-luminosity relation](https://en.wikipedia.org/wiki/Period-luminosity_relation) 1908 by [Henrietta Swan Leavitt](https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt) 1868&mdash;1921
 * [Planck units](https://en.wikipedia.org/wiki/Planck_units)
@@ -464,7 +462,13 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   > There is some evidence that flamenco, a traditional Spanish art form, has roots in Rajasthan, India.
 * [Piping plover](https://en.wikipedia.org/wiki/Piping_plover)
 * [Swift (bird)](https://en.wikipedia.org/wiki/Swift_(bird))
-
+---
+* [Landform](https://en.wikipedia.org/wiki/Landform)
+  * [Fjord](https://en.wikipedia.org/wiki/Fjord)
+  * [Heath](https://en.wikipedia.org/wiki/Heath)
+    * [Calluna](https://en.wikipedia.org/wiki/Calluna) or heather
+    * [Thistle](https://en.wikipedia.org/wiki/Thistle)
+  * [Ravine](https://en.wikipedia.org/wiki/Ravine)
 ## Bodymind
 * [*The 5 A.M. Club: Own Your Morning. Elevate Your Life*](https://share.libbyapp.com/title/3877579) 2018 by [Robin Sharma](https://en.wikipedia.org/wiki/Robin_Sharma)
 * [Anima and animus](https://en.wikipedia.org/wiki/Anima_and_animus)
