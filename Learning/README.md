@@ -475,6 +475,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Carl Jung](https://en.wikipedia.org/wiki/Carl_Jung) 1875&mdash1961
 * [*Be Here Now*](https://en.wikipedia.org/wiki/Be_Here_Now_(book)) by [Ram Dass](https://en.wikipedia.org/wiki/Ram_Dass) 1931&mdash;2019
 * [Bodymind](https://en.wikipedia.org/wiki/Bodymind)
+* [Algospeak](https://en.wikipedia.org/wiki/Algospeak)
+* [Brain rot](https://en.wikipedia.org/wiki/Brain_rot)
 * [Mental chronometry](https://en.wikipedia.org/wiki/Mental_chronometry)
 * [Jeremy Griffith](https://en.wikipedia.org/wiki/Jeremy_Griffith), [World Transformation Movement](https://www.humancondition.com/)
 * [John Stephen Akhwari](https://en.wikipedia.org/wiki/John_Stephen_Akhwari)
