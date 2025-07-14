@@ -413,6 +413,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [*The Taste of Things*](https://en.wikipedia.org/wiki/The_Taste_of_Things) 2023
   * [Jean Anthelme Brillat-Savarin](https://en.wikipedia.org/wiki/Jean_Anthelme_Brillat-Savarin) 1755&mdash;1826
   * [Grimod de La Reynière](https://en.wikipedia.org/wiki/Grimod_de_La_Reyni%C3%A8re) 1758&mdash;1837
+* [Petrifaction](https://en.wikipedia.org/wiki/Petrifaction)
 * [Right whale](https://en.wikipedia.org/wiki/Right_whale)
 * [Saffron](https://en.wikipedia.org/wiki/Saffron)
 * [Saffron (color)](https://en.wikipedia.org/wiki/Saffron_(color))
