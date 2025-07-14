@@ -637,6 +637,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [The Project Gutenberg eBook 21](https://www.gutenberg.org/ebooks/21)
   * [The Project Gutenberg eBook 11339](https://www.gutenberg.org/ebooks/11339)
 * [Bhagavad Gita](https://en.wikipedia.org/wiki/Bhagavad_Gita) 500&mdash;400 BCE
+* [*Constitution of the Athenians*](https://en.wikipedia.org/wiki/Constitution_of_the_Athenians_(Aristotle)) 328&mdash;322 BCE
+  * [Ostracism](https://en.wikipedia.org/wiki/Ostracism)
 * [Rosetta Stone](https://en.wikipedia.org/wiki/Rosetta_Stone) 196 BCE
   * [The Project Gutenberg eBook 48649](https://www.gutenberg.org/ebooks/48649)
 * [*The Travels of Marco Polo*](https://en.wikipedia.org/wiki/The_Travels_of_Marco_Polo) 1300 by [Marco Polo](https://en.wikipedia.org/wiki/Marco_Polo) 1254&mdash;1324 and [Rustichello da Pisa](https://en.wikipedia.org/wiki/Rustichello_da_Pisa)
