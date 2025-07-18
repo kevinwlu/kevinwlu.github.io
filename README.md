@@ -15,6 +15,7 @@ Make lifelong [learning](/Learning) an everyday habit
 2018-2019 [Henry Morton](https://en.wikipedia.org/wiki/Henry_Morton_(scientist)) Distinguished Teaching Professor Award \
 2021 ECE Outstanding Teaching Award \
 2023 ECE Outstanding Service Award for Faculty
+* [High School Students Broaden Their Futures Through Experiential Learning at Stevens](https://www.stevens.edu/news/high-school-students-experiential-learning), July 17, 2025
 * [Research Ethics and Writing: How to Ensure the Research Meets the Ethical Guidelines and Writing Style](/Seminar.md), September 13, 2023
 * [Circle Optics Company News](https://circleoptics.com/insight-from-stevens-institute-professor-kevin-lu/), June 15, 2023
 * [Rediscovering the Language of Family Connections](https://www.stevens.edu/news/rediscovering-the-language-of-family-connections), May 19, 2023
