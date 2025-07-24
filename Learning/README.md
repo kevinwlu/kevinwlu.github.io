@@ -614,11 +614,12 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Gregorian calendar](https://en.wikipedia.org/wiki/Gregorian_calendar)
 * [Horatio Nelson, 1st Viscount Nelson](https://en.wikipedia.org/wiki/Horatio_Nelson,_1st_Viscount_Nelson) 1758&mdash;1805
   * [The Story of Nelson](https://www.heritage-history.com/index.php?c=read&author=cambridge&book=primary&story=nelson1)
-* [Lewis and Clark Expedition](https://en.wikipedia.org/wiki/Lewis_and_Clark_Expedition)
+* [Lewis and Clark Expedition](https://en.wikipedia.org/wiki/Lewis_and_Clark_Expedition) May 14, 1804&mdash;September 23, 1806
   * [Timeline of the Lewis and Clark Expedition](https://en.wikipedia.org/wiki/Timeline_of_the_Lewis_and_Clark_Expedition)
   * [Meriwether Lewis](https://en.wikipedia.org/wiki/Meriwether_Lewis) 1774&mdash;1809
   * [William Clark](https://en.wikipedia.org/wiki/William_Clark) 1770&mdash;1838
   * [Sacagawea](https://en.wikipedia.org/wiki/Sacagawea) 1788&mdash;1812
+  * [Toussaint Charbonneau](https://en.wikipedia.org/wiki/Toussaint_Charbonneau) 1767&mdash;1843
 
 ## Humanities
 * [Humanities](https://en.wikipedia.org/wiki/Humanities)
