@@ -7,6 +7,7 @@
   * [Spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition)
   * [Student-centered learning](https://en.wikipedia.org/wiki/Student-centered_learning)
   * [Flipped classroom](https://en.wikipedia.org/wiki/Flipped_classroom)
+  * [Habit](https://en.wikipedia.org/wiki/Habit)
   * [Learning curve](https://en.wikipedia.org/wiki/Learning_curve)
   * [Learning curve (machine learning)](https://en.wikipedia.org/wiki/Learning_curve_(machine_learning))
 * [Learning community](https://en.wikipedia.org/wiki/Learning_community)
