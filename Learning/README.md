@@ -468,6 +468,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Landform](https://en.wikipedia.org/wiki/Landform)
   * [Basalt](https://en.wikipedia.org/wiki/Basalt)
     * [Giant's Causeway](https://en.wikipedia.org/wiki/Giant%27s_Causeway)
+    * [Hallgrímskirkja](https://en.wikipedia.org/wiki/Hallgr%C3%ADmskirkja)
   * [Fjord](https://en.wikipedia.org/wiki/Fjord)
   * [Heath](https://en.wikipedia.org/wiki/Heath)
     * [Calluna](https://en.wikipedia.org/wiki/Calluna) or heather
