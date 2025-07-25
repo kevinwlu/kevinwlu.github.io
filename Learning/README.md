@@ -653,6 +653,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [The Project Gutenberg eBook 48649](https://www.gutenberg.org/ebooks/48649)
 * [*Egil's Saga*](https://en.wikipedia.org/wiki/Egil%27s_Saga) 850&mdash;1000
   * [Egill Skallagrímsson](https://en.wikipedia.org/wiki/Egill_Skallagr%C3%ADmsson) 904&mdash;995
+  * [Icelandic language](https://en.wikipedia.org/wiki/Icelandic_language)
 * [*The Travels of Marco Polo*](https://en.wikipedia.org/wiki/The_Travels_of_Marco_Polo) 1300 by [Marco Polo](https://en.wikipedia.org/wiki/Marco_Polo) 1254&mdash;1324 and [Rustichello da Pisa](https://en.wikipedia.org/wiki/Rustichello_da_Pisa)
   * [The Project Gutenberg eBook 10636 — Volume I](https://www.gutenberg.org/ebooks/10636)
   * [The Project Gutenberg eBook 12410 — Volume II](https://www.gutenberg.org/ebooks/12410)
