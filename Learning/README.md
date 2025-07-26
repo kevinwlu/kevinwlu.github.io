@@ -415,6 +415,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Jean Anthelme Brillat-Savarin](https://en.wikipedia.org/wiki/Jean_Anthelme_Brillat-Savarin) 1755&mdash;1826
   * [Grimod de La Reynière](https://en.wikipedia.org/wiki/Grimod_de_La_Reyni%C3%A8re) 1758&mdash;1837
 * [Petrifaction](https://en.wikipedia.org/wiki/Petrifaction)
+* [Photosynthesis](https://en.wikipedia.org/wiki/Photosynthesis)
 * [Right whale](https://en.wikipedia.org/wiki/Right_whale)
 * [Saffron](https://en.wikipedia.org/wiki/Saffron)
 * [Saffron (color)](https://en.wikipedia.org/wiki/Saffron_(color))
