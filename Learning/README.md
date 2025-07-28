@@ -10,6 +10,7 @@
   * [Habit](https://en.wikipedia.org/wiki/Habit)
   * [Learning curve](https://en.wikipedia.org/wiki/Learning_curve)
   * [Learning curve (machine learning)](https://en.wikipedia.org/wiki/Learning_curve_(machine_learning))
+  * [Alpha School](https://en.wikipedia.org/wiki/Alpha_School)
 * [Learning community](https://en.wikipedia.org/wiki/Learning_community)
   * [Vincent Tinto](https://en.wikipedia.org/wiki/Vince_Tinto)
   * [*From Educational Experiment to Standard Bearer: University 101 at the University of South Carolina*](https://uscpress.com/From-Educational-Experiment-to-Standard-Bearer), 2022
