@@ -838,7 +838,10 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Fan Chung](https://en.wikipedia.org/wiki/Fan_Chung)
 * [Dissection puzzle](https://en.wikipedia.org/wiki/Dissection_puzzle)
   * [Henry Dudeney](https://en.wikipedia.org/wiki/Henry_Dudeney) 1857&mdash;1930
+  * [Jerry Slocum](https://en.wikipedia.org/wiki/Jerry_Slocum)
   * [Missing square puzzle](https://en.wikipedia.org/wiki/Missing_square_puzzle)
+  * [Nob Yoshigahar](https://en.wikipedia.org/wiki/Nob_Yoshigahara) 1936&mdash;2004
+    * [Nob Yoshigahara Puzzle Design Competition](https://en.wikipedia.org/wiki/Nob_Yoshigahara_Puzzle_Design_Competition)
   * [Packing problems](https://en.wikipedia.org/wiki/Packing_problems)
   * [Tangram](https://en.wikipedia.org/wiki/Tangram)
   * [Tiling puzzle](https://en.wikipedia.org/wiki/Tiling_puzzle)
