@@ -807,8 +807,13 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [List of conjectures](https://en.wikipedia.org/wiki/List_of_conjectures)
   * [DARPA expMath: Exponentiating Mathematics](https://www.darpa.mil/research/programs/expmath-exponential-mathematics)
 * [Daily Challenge](https://www.youtube.com/@PoShenLoh) with [Po-Shen Loh](https://en.wikipedia.org/wiki/Po-Shen_Loh)
+* [Pythagoras](https://en.wikipedia.org/wiki/Pythagoras) 570&mdash;495 BC
+  * [Pythagorean theorem](https://en.wikipedia.org/wiki/Pythagorean_theorem) 
 * [Euclid](https://en.wikipedia.org/wiki/Euclid) 300 BC
   * [Golden ratio](https://en.wikipedia.org/wiki/Golden_ratio)
+* [Liu Hui](https://en.wikipedia.org/wiki/Liu_Hui) 225&mdash;295
+  * [Liu Hui's π algorithm](https://en.wikipedia.org/wiki/Liu_Hui%27s_%CF%80_algorithm)
+* [Zu Chongzhi](https://en.wikipedia.org/wiki/Zu_Chongzhi) 429&mdash;500
 * [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci) 1170&mdash;1250
   * [Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_sequence)
 * [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) 1596&mdash;1650
