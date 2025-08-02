@@ -837,7 +837,9 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
       * [Understanding 4D - The Tesseract](https://www.youtube.com/watch?v=iGO12Z5Lw8s) by [James Schloss](https://www.leioslabs.com/about) of [LeiosLabs](https://www.leioslabs.com/index)
   * [Fan Chung](https://en.wikipedia.org/wiki/Fan_Chung)
 * [Dissection puzzle](https://en.wikipedia.org/wiki/Dissection_puzzle)
+  * [Henry Dudeney](https://en.wikipedia.org/wiki/Henry_Dudeney) 1857&mdash;1930
   * [Missing square puzzle](https://en.wikipedia.org/wiki/Missing_square_puzzle)
+  * [Packing problems](https://en.wikipedia.org/wiki/Packing_problems)
   * [Tangram](https://en.wikipedia.org/wiki/Tangram)
   * [Tiling puzzle](https://en.wikipedia.org/wiki/Tiling_puzzle)
 * [Fields Medal](https://en.wikipedia.org/wiki/Fields_Medal)
