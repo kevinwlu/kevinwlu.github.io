@@ -3,6 +3,7 @@
   * [Active learning](https://en.wikipedia.org/wiki/Active_learning)
   * [Evidence-based education](https://en.wikipedia.org/wiki/Evidence-based_education)
   * [Meaningful learning](https://en.wikipedia.org/wiki/Meaningful_learning)
+    * [Ikigai](https://en.wikipedia.org/wiki/Ikigai)
   * [Rote learning](https://en.wikipedia.org/wiki/Rote_learning)
   * [Spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition)
   * [Student-centered learning](https://en.wikipedia.org/wiki/Student-centered_learning)
