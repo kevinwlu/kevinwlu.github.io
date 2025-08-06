@@ -388,6 +388,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
     * [Calluna](https://en.wikipedia.org/wiki/Calluna) or heather
     * [Thistle](https://en.wikipedia.org/wiki/Thistle)
   * [Ravine](https://en.wikipedia.org/wiki/Ravine)
+* [Pangaea](https://en.wikipedia.org/wiki/Pangaea)
 * [Ring of Fire](https://en.wikipedia.org/wiki/Ring_of_Fire)
 ## Biology
 * [Biome](https://en.wikipedia.org/wiki/Biome)
