@@ -159,6 +159,11 @@
   * [*The Boy and the Heron*](https://en.wikipedia.org/wiki/The_Boy_and_the_Heron) 2023
 * [Daniel Wurtzel](https://www.danielwurtzel.com/)
   * [YouTube channel](https://www.youtube.com/@danielwurtzel/)
+---
+* [Nike (mythology)](https://en.wikipedia.org/wiki/Nike_(mythology))
+  * [Ephesus](https://en.wikipedia.org/wiki/Ephesus)
+  * [Nike of Paionios](https://en.wikipedia.org/wiki/Nike_of_Paionios) 425 BC&mdash;420 BC
+  * [Winged Victory of Samothrace](https://en.wikipedia.org/wiki/Winged_Victory_of_Samothrace) 200 BC&mdash;190 BC
 * [Arnaldo Pomodoro](https://en.wikipedia.org/wiki/Arnaldo_Pomodoro) 1926&mdash;2025
   * [*Sphere Within Sphere*](https://en.wikipedia.org/wiki/Sphere_Within_Sphere)
 ---
