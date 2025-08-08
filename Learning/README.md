@@ -446,6 +446,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [DNA Explored](https://simbio.com/content/dna-explored/)
 * [Smallest organisms](https://en.wikipedia.org/wiki/Smallest_organisms)
   * [Vaquita](https://en.wikipedia.org/wiki/Vaquita)
+* [Spotted lanternfly](https://en.wikipedia.org/wiki/Spotted_lanternfly)
 * [Stem cell](https://en.wikipedia.org/wiki/Stem_cell)
   * [Induced pluripotent stem cell](https://en.wikipedia.org/wiki/Induced_pluripotent_stem_cell) (iPSCs)
   * [Shinya Yamanaka](https://en.wikipedia.org/wiki/Shinya_Yamanaka)
