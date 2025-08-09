@@ -398,6 +398,9 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Bengt I. Samuelsson](https://en.wikipedia.org/wiki/Bengt_I._Samuelsson) 1934&mdash;2024
 * [Bioluminescence](https://en.wikipedia.org/wiki/Bioluminescence)
   * [Dinoflagellate](https://en.wikipedia.org/wiki/Dinoflagellate) 
+* [Chimera (molecular biology)](https://en.wikipedia.org/wiki/Chimera_(molecular_biology))
+  * [Chimera (genetics)](https://en.wikipedia.org/wiki/Chimera_(genetics))
+  * [Chimera (mythology)](https://en.wikipedia.org/wiki/Chimera_(mythology))
 * [Cicada](https://en.wikipedia.org/wiki/Cicada)
 * [Cristina Zenato](https://en.wikipedia.org/wiki/Cristina_Zenato) 
 * [CREB](https://en.wikipedia.org/wiki/CREB) cAMP response element-binding protein
