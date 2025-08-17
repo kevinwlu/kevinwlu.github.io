@@ -160,6 +160,7 @@
   * [*The Boy and the Heron*](https://en.wikipedia.org/wiki/The_Boy_and_the_Heron) 2023
 * [Daniel Wurtzel](https://www.danielwurtzel.com/)
   * [YouTube channel](https://www.youtube.com/@danielwurtzel/)
+* [Tristan Duke](https://www.tristanduke.com/)
 ---
 * [Nike (mythology)](https://en.wikipedia.org/wiki/Nike_(mythology))
   * [Ephesus](https://en.wikipedia.org/wiki/Ephesus)
