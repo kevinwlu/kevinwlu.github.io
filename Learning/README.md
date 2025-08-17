@@ -721,6 +721,14 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [*The Count of Monte Cristo*](https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo) 1844 by [Alexandre Dumas](https://en.wikipedia.org/wiki/Alexandre_Dumas) 1802&mdash&1870
   * [The Project Gutenberg eBook 1184](https://www.gutenberg.org/ebooks/1184)
   * [Château d'If](https://en.wikipedia.org/wiki/Ch%C3%A2teau_d%27If)
+* [*Moby-Dick*](https://en.wikipedia.org/wiki/Moby-Dick) 1851 by [Herman Melville](https://en.wikipedia.org/wiki/Herman_Melville) 1819&mdash;1891
+  * [The Project Gutenberg eBook 2701](https://www.gutenberg.org/ebooks/2701)
+  * [List of *Moby-Dick* characters](https://en.wikipedia.org/wiki/List_of_Moby-Dick_characters)
+  * [Starbucks](https://en.wikipedia.org/wiki/Starbucks)
+  * [Original Starbucks](https://en.wikipedia.org/wiki/Original_Starbucks)
+  * [*Pequod (Moby-Dick)*](https://en.wikipedia.org/wiki/Pequod_(Moby-Dick))
+  * [Mocha Dick](https://en.wikipedia.org/wiki/Mocha_Dick)
+  * [Mocha Island](https://en.wikipedia.org/wiki/Mocha_Island)
 * [*Walden*](https://en.wikipedia.org/wiki/Walden) 1854 by [Henry David Thoreau](https://en.wikipedia.org/wiki/Henry_David_Thoreau) 1817&mdash;1862
   * [The Project Gutenberg eBook 205](https://www.gutenberg.org/ebooks/205)
 * [*Les Fleurs du mal*](https://en.wikipedia.org/wiki/Les_Fleurs_du_mal) 1857 by [Charles Baudelaire](https://en.wikipedia.org/wiki/Charles_Baudelaire) 1821&mdash;1867
