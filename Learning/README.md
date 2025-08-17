@@ -134,6 +134,7 @@
 ## Arts
 * [List of most-visited art museums](https://en.wikipedia.org/wiki/List_of_most-visited_art_museums)
   * [Uffizi](https://en.wikipedia.org/wiki/Uffizi)
+* [*The Garden of Earthly Delights*](https://en.wikipedia.org/wiki/The_Garden_of_Earthly_Delights) by [Hieronymus Bosch](https://en.wikipedia.org/wiki/Hieronymus_Bosch) 1450&mdash;1516
 * [*The School of Athens*](https://en.wikipedia.org/wiki/The_School_of_Athens) 1509&mdash;1511 by [Raphael](https://en.wikipedia.org/wiki/Raphael) 1483&mdash;1520
 * [Baroque](https://en.wikipedia.org/wiki/Baroque)
 * [Baroque painting](https://en.wikipedia.org/wiki/Baroque_painting)
