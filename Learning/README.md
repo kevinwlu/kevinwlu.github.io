@@ -726,8 +726,9 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [*Moby-Dick*](https://en.wikipedia.org/wiki/Moby-Dick) 1851 by [Herman Melville](https://en.wikipedia.org/wiki/Herman_Melville) 1819&mdash;1891
   * [The Project Gutenberg eBook 2701](https://www.gutenberg.org/ebooks/2701)
   * [List of *Moby-Dick* characters](https://en.wikipedia.org/wiki/List_of_Moby-Dick_characters)
+  * [Starbuck](https://en.wikipedia.org/wiki/Starbuck)
   * [Starbucks](https://en.wikipedia.org/wiki/Starbucks)
-  * [Original Starbucks](https://en.wikipedia.org/wiki/Original_Starbucks)
+    * [Original Starbucks](https://en.wikipedia.org/wiki/Original_Starbucks)
   * [*Pequod (Moby-Dick)*](https://en.wikipedia.org/wiki/Pequod_(Moby-Dick))
   * [Mocha Dick](https://en.wikipedia.org/wiki/Mocha_Dick)
   * [Mocha Island](https://en.wikipedia.org/wiki/Mocha_Island)
