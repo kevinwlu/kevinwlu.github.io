@@ -785,6 +785,9 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [J.A.R.V.I.S.](https://en.wikipedia.org/wiki/J.A.R.V.I.S.) (Just a Rather Very Intelligent System) 2008
 * [*2001: A Space Odyssey*](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(novel)) 1968 by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke) 1917&mdash;2008
   * [*2001: A Space Odyssey*](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey) 1968
+* [*Battlestar Galactica*](https://en.wikipedia.org/wiki/Battlestar_Galactica) 1978
+  * [List of *Battlestar Galactica* (1978 TV series) and *Galactica 1980* characters](https://en.wikipedia.org/wiki/List_of_Battlestar_Galactica_(1978_TV_series)_and_Galactica_1980_characters)
+  * [*Battlestar Galactica* (2004 TV series)](https://en.wikipedia.org/wiki/Battlestar_Galactica_(2004_TV_series))
 * [*The Hitchhiker's Guide to the Galaxy*](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy) 1979 by [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams) 1952&mdash;2001
   * [Phrases from *The Hitchhiker's Guide to the Galaxy*](https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy)
   * [42 (number)](https://en.wikipedia.org/wiki/42_(number))
