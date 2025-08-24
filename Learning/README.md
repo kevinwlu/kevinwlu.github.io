@@ -523,6 +523,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and Love the Tenure-Track Faculty Life](https://www.scientificamerican.com/blog/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/) by [Radhika Nagpal](https://en.wikipedia.org/wiki/Radhika_Nagpal)
 * [Rorschach test](https://en.wikipedia.org/wiki/Rorschach_test)
   * [Hermann Rorschach](https://en.wikipedia.org/wiki/Hermann_Rorschach) 1884&mdash;1922
+---
 * [Subjectivity and objectivity](https://en.wikipedia.org/wiki/Subjectivity_and_objectivity_(philosophy))
   * [Placebo](https://en.wikipedia.org/wiki/Placebo)
   * [Law of attraction](https://en.wikipedia.org/wiki/Law_of_attraction_(New_Thought))
@@ -540,6 +541,9 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
       * [Red herring](https://en.wikipedia.org/wiki/Red_herring)
       * [Straw man](https://en.wikipedia.org/wiki/Straw_man)
     * [Formal fallacy](https://en.wikipedia.org/wiki/Formal_fallacy)
+* [Verisimilitude](https://en.wikipedia.org/wiki/Verisimilitude)
+  * [Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper) 1902&mdash1994
+---
 * [Substance Abuse and Mental Health Services Administration](https://en.wikipedia.org/wiki/Substance_Abuse_and_Mental_Health_Services_Administration) (SAMHSA)
   * [Antisocial personality disorder](https://en.wikipedia.org/wiki/Antisocial_personality_disorder) (ASPD)
 * [Gabor Maté](https://en.wikipedia.org/wiki/Gabor_Mat%C3%A9)
