@@ -131,6 +131,10 @@
   * [On the origin of "make something wonderful" - Steve's driving motivation](https://stevejobsarchive.com/newsletters/on-the-origin-of-make-something-wonderful), February 24, 2025
 * [Patrick Henry Winston](https://en.wikipedia.org/wiki/Patrick_Winston) 1943&mdash;2019, [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY), [IAP](https://elo.mit.edu/iap/) 2018
 * [Science communication](https://en.wikipedia.org/wiki/Science_communication)
+---
+* [The Pen Is Mightier Than the Keyboard: Advantages of Longhand Over Laptop Note Taking](https://www.jstor.org/stable/24543504)
+* [Brain Drain: The Mere Presence of One’s Own Smartphone Reduces Available Cognitive Capacity](https://www.journals.uchicago.edu/doi/10.1086/691462)
+* [Smartphone use undermines enjoyment of face-to-face social interactions](https://www.sciencedirect.com/science/article/abs/pii/S0022103117301737)
 ## Arts
 * [List of most-visited art museums](https://en.wikipedia.org/wiki/List_of_most-visited_art_museums)
   * [Uffizi](https://en.wikipedia.org/wiki/Uffizi)
