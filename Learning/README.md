@@ -386,6 +386,7 @@
 Source: An interactive flight through millions of galaxies by [Fiske Planetarium](https://en.wikipedia.org/wiki/Fiske_Planetarium), University of Colorado Boulder and [DESI](https://en.wikipedia.org/wiki/Dark_Energy_Spectroscopic_Instrument) Collaboration
 
 ---
+* [Equal Earth projection](https://en.wikipedia.org/wiki/Equal_Earth_projection)
 * [Landform](https://en.wikipedia.org/wiki/Landform)
   * [Basalt](https://en.wikipedia.org/wiki/Basalt)
     * [Giant's Causeway](https://en.wikipedia.org/wiki/Giant%27s_Causeway)
