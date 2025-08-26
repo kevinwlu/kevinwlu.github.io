@@ -910,6 +910,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Iceberg theory](https://en.wikipedia.org/wiki/Iceberg_theory)
 * [KISS principle](https://en.wikipedia.org/wiki/KISS_principle): keep it simple stupid
 * [Likert scale](https://en.wikipedia.org/wiki/Likert_scale)
+  * [Rensis Likert](https://en.wikipedia.org/wiki/Rensis_Likert) 1903&mdash;1981
 * [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor) or [law of parsimony](https://www.merriam-webster.com/dictionary/law%20of%20parsimony)
 * [OODA loop](https://en.wikipedia.org/wiki/OODA_loop): observe, orient, decide, act
 * [PDCA](https://en.wikipedia.org/wiki/PDCA): plan, do, check, act
