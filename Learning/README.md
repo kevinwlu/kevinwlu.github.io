@@ -566,6 +566,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Leptin](https://en.wikipedia.org/wiki/Leptin)
   * [Glucagon-like peptide-1](https://en.wikipedia.org/wiki/Glucagon-like_peptide-1) (GLP-1)
 * [Soft skills](https://en.wikipedia.org/wiki/Soft_skills)
+* [Stage fright](https://en.wikipedia.org/wiki/Stage_fright)
 * [Kinkeeping](https://en.wikipedia.org/wiki/Kinkeeping)
 * [Emotion classification](https://en.wikipedia.org/wiki/Emotion_classification)
   * [Robert Plutchik](https://en.wikipedia.org/wiki/Robert_Plutchik) 1927&mdash;2006
