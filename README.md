@@ -11,9 +11,8 @@ Make lifelong [learning](/Learning) an everyday habit
 
 ## [Stevens Institute of Technology](https://www.stevens.edu/)
 [Teaching Professor (August 16, 2018)](https://www.stevens.edu/profile/klu2) \
-Associate Chair for Undergraduate Studies (September 1, 2021&mdash;August 31, 2025) \
 [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering) (ECE) \
-Associate Dean for Undergraduate Studies (August 1, 2025&mdash;July 31, 2028) \
+Associate Dean for Undergraduate Studies (August 1, 2025) \
 [Charles V. Schaefer, Jr. School of Engineering and Science](https://www.stevens.edu/school-engineering-science) (SES) \
 2018-2019 [Henry Morton](https://en.wikipedia.org/wiki/Henry_Morton_(scientist)) Distinguished Teaching Professor Award \
 2021 ECE Outstanding Teaching Award \
@@ -72,6 +71,7 @@ Dissertation: *A Textured Model and Its Uses in Reactive Power Management and Co
 B.S. (1979), Control Engineering, [National Chiao Tung University](https://en.nycu.edu.tw/)
 
 ## Experience
+* Associate Chair for Undergraduate Studies (2021-2025), Department of Electrical and Computer Engineering, Stevens Institute of Technology
 * Adjunct Professor (2015-2018), Department of Electrical and Computer Engineering, Stevens Institute of Technology
 * Senior Principal Scientist (2012-2013), [Broadcom](https://www.broadcom.com/)
 * Chief Scientist (2003-2012), Executive Director (1999-2003), Director (1995-1999), Member of Technical Staff (1984-1995), [Telcordia/Bellcore](https://en.wikipedia.org/wiki/Iconectiv) Applied Research
