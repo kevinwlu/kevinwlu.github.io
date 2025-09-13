@@ -10,7 +10,7 @@
 Make lifelong [learning](/Learning) an everyday habit
 
 ## [Stevens Institute of Technology](https://www.stevens.edu/)
-[Teaching Professor (August 16, 2018)](https://www.stevens.edu/profile/klu2) \
+[Teaching Professor](https://www.stevens.edu/profile/klu2) (August 16, 2018)\
 [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering) (ECE) \
 Associate Dean for Undergraduate Studies (August 1, 2025) \
 [Charles V. Schaefer, Jr. School of Engineering and Science](https://www.stevens.edu/school-engineering-science) (SES) \
