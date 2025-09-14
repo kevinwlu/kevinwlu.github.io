@@ -11,11 +11,15 @@ Make lifelong [learning](/Learning) an everyday habit
 
 ## [Stevens Institute of Technology](https://www.stevens.edu/)
 [Teaching Professor](https://www.stevens.edu/profile/klu2), [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering) (ECE) since  August 16, 2018 \
-Associate Dean for Undergraduate Studies, [Charles V. Schaefer, Jr. School of Engineering and Science](https://www.stevens.edu/school-engineering-science) (SES) since August 1, 2025\
-2018-2019 [Henry Morton](https://en.wikipedia.org/wiki/Henry_Morton_(scientist)) Distinguished Teaching Professor Award \
+Associate Dean for Undergraduate Studies, [Charles V. Schaefer, Jr. School of Engineering and Science](https://www.stevens.edu/school-engineering-science) (SES) since August 1, 2025 \
+Associate Chair for Undergraduate Studies (2021-2025), Department of Electrical and Computer Engineering \
+Adjunct Professor (2015-2018), Department of Electrical and Computer Engineering \
+[Order of the Engineer](https://en.wikipedia.org/wiki/Order_of_the_Engineer), May 20, 2025 \
+2023 ECE Outstanding Service Award for Faculty \
 2021 ECE Outstanding Teaching Award \
-2023 ECE Outstanding Service Award for Faculty
+2018-2019 [Henry Morton](https://en.wikipedia.org/wiki/Henry_Morton_(scientist)) Distinguished Teaching Professor Award
 * [High School Students Broaden Their Futures Through Experiential Learning at Stevens](https://www.stevens.edu/news/high-school-students-experiential-learning), July 17, 2025
+* [Stevens Inducts Graduating Seniors into the Order of the Engineer at Spring 2025 Ceremony](https://www.stevens.edu/news/order-of-the-engineer-2025), July 10, 2025
 * [Research Ethics and Writing: How to Ensure the Research Meets the Ethical Guidelines and Writing Style](/Seminar.md), September 13, 2023
 * [Circle Optics Company News](https://circleoptics.com/insight-from-stevens-institute-professor-kevin-lu/), June 15, 2023
 * [Rediscovering the Language of Family Connections](https://www.stevens.edu/news/rediscovering-the-language-of-family-connections), May 19, 2023
@@ -60,17 +64,12 @@ Life Senior Member\
 * Chair (2007-2008), Vice Chair (2006-2007), and Member (2005-2006), Board of Trustees
 * President (2004-2005)
 
-## [Order of the Engineer](https://en.wikipedia.org/wiki/Order_of_the_Engineer)
-* May 20, 2025
-
 ## Education
 D.Sc. (1984) and M.S. (1981), Systems Science and Mathematics, [Washington University in St. Louis](https://wustl.edu/) \
 Dissertation: *A Textured Model and Its Uses in Reactive Power Management and Control* \
 B.S. (1979), Control Engineering, [National Chiao Tung University](https://en.nycu.edu.tw/)
 
 ## Experience
-* Associate Chair for Undergraduate Studies (2021-2025), Department of Electrical and Computer Engineering, Stevens Institute of Technology
-* Adjunct Professor (2015-2018), Department of Electrical and Computer Engineering, Stevens Institute of Technology
 * Senior Principal Scientist (2012-2013), [Broadcom](https://www.broadcom.com/)
 * Chief Scientist (2003-2012), Executive Director (1999-2003), Director (1995-1999), Member of Technical Staff (1984-1995), [Telcordia/Bellcore](https://en.wikipedia.org/wiki/Iconectiv) Applied Research
 * Chair (2007–2010), [TIA](https://tiaonline.org/) [TR-48](https://tiaonline.org/standards-committees/tr-48/) Engineering Committee on Vehicular Telematics
