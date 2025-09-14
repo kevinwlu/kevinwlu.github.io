@@ -425,6 +425,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Cristina Zenato](https://en.wikipedia.org/wiki/Cristina_Zenato) 
 * [CREB](https://en.wikipedia.org/wiki/CREB) cAMP response element-binding protein
   * [Cyclic adenosine monophosphate](https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate) (cAMP)
+* [*Dipteryx oleifera*](https://en.wikipedia.org/wiki/Dipteryx_oleifera)
+  * [How some tropical trees benefit from being struck by lightning: evidence for *Dipteryx oleifera* and other large-statured trees](https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.70062)
 * [Domain (biology)](https://en.wikipedia.org/wiki/Domain_(biology))
   * [Realm (virology)](https://en.wikipedia.org/wiki/Realm_(virology))
 * [Ecosystem](https://en.wikipedia.org/wiki/Ecosystem)
@@ -484,8 +486,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Hermann Joseph Muller](https://en.wikipedia.org/wiki/Hermann_Joseph_Muller) 1890&mdash;1967
   * [Barbara McClintock](https://en.wikipedia.org/wiki/Barbara_McClintock) 1902&mdash;1992
   * [Maximum life span](https://en.wikipedia.org/wiki/Maximum_life_span)
-* [*Dipteryx oleifera*](https://en.wikipedia.org/wiki/Dipteryx_oleifera)
-  * [How some tropical trees benefit from being struck by lightning: evidence for *Dipteryx oleifera* and other large-statured trees](https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.70062)
+* [Theropoda](https://en.wikipedia.org/wiki/Theropoda)
+  * [Mark Norell](https://en.wikipedia.org/wiki/Mark_Norell) 1957&mdash;2025
 * [Vestibulo–ocular reflex](https://en.wikipedia.org/wiki/Vestibulo%E2%80%93ocular_reflex) (VOR)
   * Cervico-ocular reflex (COR)
   * [Optokinetic response](https://en.wikipedia.org/wiki/Optokinetic_response) (OKR)
