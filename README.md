@@ -10,8 +10,8 @@
 Make lifelong [learning](/Learning) an everyday habit
 
 ## [Stevens Institute of Technology](https://www.stevens.edu/)
-[Teaching Professor](https://www.stevens.edu/profile/klu2) (August 16, 2018), [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering) (ECE) \
-Associate Dean for Undergraduate Studies (August 1, 2025), [Charles V. Schaefer, Jr. School of Engineering and Science](https://www.stevens.edu/school-engineering-science) (SES) \
+[Teaching Professor](https://www.stevens.edu/profile/klu2), [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering) (ECE) since  August 16, 2018 \
+Associate Dean for Undergraduate Studies, [Charles V. Schaefer, Jr. School of Engineering and Science](https://www.stevens.edu/school-engineering-science) (SES) since August 1, 2025\
 2018-2019 [Henry Morton](https://en.wikipedia.org/wiki/Henry_Morton_(scientist)) Distinguished Teaching Professor Award \
 2021 ECE Outstanding Teaching Award \
 2023 ECE Outstanding Service Award for Faculty
