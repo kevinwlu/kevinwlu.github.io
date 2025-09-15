@@ -32,7 +32,10 @@ Adjunct Professor (2015-2018), Department of Electrical and Computer Engineering
 
 ## [IEEE](https://www.ieee.org/)
 Life Senior Member\
-[IEEE vTools](https://vtools.ieee.org/)
+[IEEE vTools](https://vtools.ieee.org/)\
+[njSTEMlink](https://rdnj.org/program/njstemlink/)\
+[TryEngineering](https://tryengineering.org/)\
+[TryEngineering Global Classroom Visits](https://classroom-visits.tryengineering.org/)
 
 ![MB45](/MB45.png)
 
