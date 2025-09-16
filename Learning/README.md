@@ -398,6 +398,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 
 ---
 * [Equal Earth projection](https://en.wikipedia.org/wiki/Equal_Earth_projection)
+* [Geocaching](https://en.wikipedia.org/wiki/Geocaching)
 * [Landform](https://en.wikipedia.org/wiki/Landform)
   * [Basalt](https://en.wikipedia.org/wiki/Basalt)
     * [Giant's Causeway](https://en.wikipedia.org/wiki/Giant%27s_Causeway)
