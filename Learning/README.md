@@ -232,6 +232,9 @@
     * [David E. Sellers](https://en.wikipedia.org/wiki/David_E._Sellers) 1938&mdash;2025
 * [Brick](https://en.wikipedia.org/wiki/Brick)
   * [Roman brick](https://en.wikipedia.org/wiki/Roman_brick)
+* [Bridge of Sighs](https://en.wikipedia.org/wiki/Bridge_of_Sighs)
+  * [Bridge of Sighs, Cambridge](https://en.wikipedia.org/wiki/Bridge_of_Sighs,_Cambridge)
+  * [Bridge of Sighs, Oxford](https://en.wikipedia.org/wiki/Bridge_of_Sighs,_Oxford)
 * [Passive house](https://en.wikipedia.org/wiki/Passive_house)
 * [Sagrada Família](https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia)
   * [Antoni Gaudí](https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD) 1852&mdash;1926
