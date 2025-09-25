@@ -147,6 +147,8 @@
 * [Baroque](https://en.wikipedia.org/wiki/Baroque)
 * [Baroque painting](https://en.wikipedia.org/wiki/Baroque_painting)
 * [*The Night Watch*](https://en.wikipedia.org/wiki/The_Night_Watch) 1642 by [Rembrandt Harmenszoon van Rijn](https://en.wikipedia.org/wiki/Rembrandt) 1606&mdash;1669
+  * [Original Drawing of the Dog in the Night Watch Discovered](https://www.rijksmuseum.nl/en/press/press-releases/original-drawing-of-the-dog-in-the-night-watch-discovered), September 17, 2025
+  * [Adriaen van de Venne](https://en.wikipedia.org/wiki/Adriaen_van_de_Venne) 1589&mdash;1662
 * [*Las Meninas*](https://en.wikipedia.org/wiki/Las_Meninas) 1656 by [Diego Velázquez](https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez) 1599&mdash;1660
 * [Giuseppe Castiglione](https://en.wikipedia.org/wiki/Giuseppe_Castiglione_(Jesuit_painter)) 1688&mdash;1766
 * [*The Great Wave off Kanagawa*](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa) 1831 by [Katsushika Hokusai](https://en.wikipedia.org/wiki/Hokusai) 1760&mdash;1849
