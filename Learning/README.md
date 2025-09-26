@@ -160,6 +160,8 @@
 * [Paul Cézanne](https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne) 1839&mdash;1906
 * [Louis Comfort Tiffany](https://en.wikipedia.org/wiki/Louis_Comfort_Tiffany) 1848&mdash;1933
 * [Antoni Gaudí](https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD) 1852&mdash;1926
+  * [Sagrada Família](https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia)
+  * [Casa Batlló](https://en.wikipedia.org/wiki/Casa_Batll%C3%B3)
 * [Alphonse Mucha](https://en.wikipedia.org/wiki/Alphonse_Mucha) 1860&mdash;1939
 * [Gustav Klimt](https://en.wikipedia.org/wiki/Gustav_Klimt) 1862&mdash;1918
 * [Henri de Toulouse-Lautrec](https://en.wikipedia.org/wiki/Henri_de_Toulouse-Lautrec) 1864&mdash;1901
