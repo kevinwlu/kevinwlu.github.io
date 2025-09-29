@@ -235,6 +235,7 @@
     * [Jay Pritzker](https://en.wikipedia.org/wiki/Jay_Pritzker) 1922&mdash;1999
   * [Design–build](https://en.wikipedia.org/wiki/Design%E2%80%93build)
     * [David E. Sellers](https://en.wikipedia.org/wiki/David_E._Sellers) 1938&mdash;2025
+* [Ambulatory](https://en.wikipedia.org/wiki/Ambulatory)
 * [Brick](https://en.wikipedia.org/wiki/Brick)
   * [Roman brick](https://en.wikipedia.org/wiki/Roman_brick)
 * [Bridge of Sighs](https://en.wikipedia.org/wiki/Bridge_of_Sighs)
