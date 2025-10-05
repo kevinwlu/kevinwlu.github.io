@@ -72,17 +72,18 @@
   * [Abductive reasoning](https://en.wikipedia.org/wiki/Abductive_reasoning)
   * [Deductive reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning)
   * [Inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning)
+* [Ben Franklin effect](https://en.wikipedia.org/wiki/Ben_Franklin_effect)
+* [Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
+   * [David Dunning](https://en.wikipedia.org/wiki/David_Dunning)
+   * [Justin Kruger](https://en.wikipedia.org/wiki/Justin_Kruger)
+* [Ovsiankina effect](https://en.wikipedia.org/wiki/Ovsiankina_effect)
+  * [Maria Ovsiankina](https://en.wikipedia.org/wiki/Maria_Ovsiankina) 1898&mdash;1993
 * [Pygmalion effect](https://en.wikipedia.org/wiki/Pygmalion_effect)
   * [Positive psychology](https://en.wikipedia.org/wiki/Positive_psychology)
     * [Martin Seligman](https://en.wikipedia.org/wiki/Martin_Seligman)
   * [Positive thinking](https://en.wikipedia.org/wiki/Positive_thinking)
-  * [Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
-    * [David Dunning](https://en.wikipedia.org/wiki/David_Dunning)
-    * [Justin Kruger](https://en.wikipedia.org/wiki/Justin_Kruger)
 * [Zeigarnik effect](https://en.wikipedia.org/wiki/Zeigarnik_effect)
   * [Bluma Zeigarnik](https://en.wikipedia.org/wiki/Bluma_Zeigarnik) 1900&mdash;1988
-* [Ovsiankina effect](https://en.wikipedia.org/wiki/Ovsiankina_effect)
-  * [Maria Ovsiankina](https://en.wikipedia.org/wiki/Maria_Ovsiankina) 1898&mdash;1993
 * [Impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
 * [Student syndrome](https://en.wikipedia.org/wiki/Student_syndrome)
   * [Absenteeism](https://en.wikipedia.org/wiki/Absenteeism)
