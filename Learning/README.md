@@ -137,6 +137,7 @@
 * [Brain Drain: The Mere Presence of One’s Own Smartphone Reduces Available Cognitive Capacity](https://www.journals.uchicago.edu/doi/10.1086/691462)
 * [Smartphone use undermines enjoyment of face-to-face social interactions](https://www.sciencedirect.com/science/article/abs/pii/S0022103117301737)
 * [Unbalance: An Immigrant Teacher’s Life and Perspective on U.S. Education](https://medium.com/age-of-awareness/unbalance-an-immigrant-teachers-life-and-perspective-on-u-s-education-prologue-e44fc2499994)
+  * [Maxy Awards](https://www.maxyawards.com/2025-new)
 ## Arts
 * [List of most-visited art museums](https://en.wikipedia.org/wiki/List_of_most-visited_art_museums)
   * [Uffizi](https://en.wikipedia.org/wiki/Uffizi)
