@@ -210,6 +210,7 @@
   * [Sheet music](https://musescore.com/hmscomp/scores/944826)
   * [YouTube](https://www.youtube.com/watch?v=GGU1P6lBW6Q)
 * [Pyotr Ilyich Tchaikovsky](https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky) 1840&mdash;1893
+  * [*The Seasons*](https://en.wikipedia.org/wiki/The_Seasons_(Tchaikovsky))
 * [*Turandot*](https://en.wikipedia.org/wiki/Turandot) 1924 unfinished by [Giacomo Puccini](https://en.wikipedia.org/wiki/Giacomo_Puccini) 1858&mdash;1924
 * [Dmitri Shostakovich](https://en.wikipedia.org/wiki/Dmitri_Shostakovich) 1906&mdash;1975
   [*The Second Waltz*](https://www.youtube.com/watch?v=vauo4o-ExoY)
