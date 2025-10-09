@@ -778,6 +778,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [The Project Gutenberg eBook 36098](https://www.gutenberg.org/ebooks/36098)
 * [*Les Misérables*](https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables) 1862 by [Victor Hugo](https://en.wikipedia.org/wiki/Victor_Hugo) 1802&mdash;1885
   * [The Project Gutenberg eBook 135](https://www.gutenberg.org/ebooks/135)
+  * [Musical](https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables_(musical)) premiered in Paris on 24 September 1980
 * [*War and Peace*](https://en.wikipedia.org/wiki/War_and_Peace) 1865&mdash;1869 by [Leo Tolstoy](https://en.wikipedia.org/wiki/Leo_Tolstoy) 1828&mdash;1910
   * [The Project Gutenberg eBook 2600](https://www.gutenberg.org/ebooks/2600)
   * [*The Death of Ivan Ilyich*](https://en.wikipedia.org/wiki/The_Death_of_Ivan_Ilyich) 1886
