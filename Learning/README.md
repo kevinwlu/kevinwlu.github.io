@@ -273,6 +273,9 @@
 * [Frank Drake](https://en.wikipedia.org/wiki/Frank_Drake) 1930&mdash;2022
   * [Drake equation](https://en.wikipedia.org/wiki/Drake_equation) 1961
   * [Search for extraterrestrial intelligence](https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence) (SETI)
+* [Arno Allan Penzias](https://en.wikipedia.org/wiki/Arno_Allan_Penzias) 1933&mdash;2024
+  * [Robert Woodrow Wilson](https://en.wikipedia.org/wiki/Robert_Woodrow_Wilson)
+  * [Bell Labs Scientists Accidentally Proved the Big Bang Theory](https://spectrum.ieee.org/big-bang-theory-discovery), 26 September 2025
 * [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan) 1934&mdash;1996
 * [Stephen Hawking](https://en.wikipedia.org/wiki/Stephen_Hawking) 1942&mdash;2018
   * [*Brief Answers to the Big Questions*](https://en.wikipedia.org/wiki/Brief_Answers_to_the_Big_Questions) by 
