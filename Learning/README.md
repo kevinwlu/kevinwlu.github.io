@@ -533,6 +533,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Piping plover](https://en.wikipedia.org/wiki/Piping_plover)
 * [Swift (bird)](https://en.wikipedia.org/wiki/Swift_(bird))
 ## Bodymind
+* [Norman Lazarus](https://www.thelazarusstrategy.com/)
 * [*The 5 A.M. Club: Own Your Morning. Elevate Your Life*](https://share.libbyapp.com/title/3877579) 2018 by [Robin Sharma](https://en.wikipedia.org/wiki/Robin_Sharma)
 * [Anima and animus](https://en.wikipedia.org/wiki/Anima_and_animus)
   * [Carl Jung](https://en.wikipedia.org/wiki/Carl_Jung) 1875&mdash1961
