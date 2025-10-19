@@ -1020,6 +1020,10 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Helen Fisher (anthropologist)](https://en.wikipedia.org/wiki/Helen_Fisher_(anthropologist)) 1945&mdash;2024
 
 ## Physics
+* [Tsung-Dao Lee](https://en.wikipedia.org/wiki/Tsung-Dao_Lee) 1926&mdash;2024
+* [Chen-Ning Yang](https://en.wikipedia.org/wiki/Yang_Chen-Ning) 1922&mdash;2025
+* [Chien-Shiung Wu](https://en.wikipedia.org/wiki/Chien-Shiung_Wu) 1912&mdash;1997
+  * [Wu experiment](https://en.wikipedia.org/wiki/Wu_experiment) 1956
 * [Manipulating trapped air bubbles in ice for message storage in cold regions](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00221-8)
 
 ## Social Sciences
