@@ -270,6 +270,8 @@
 * [J. Robert Oppenheimer](https://en.wikipedia.org/wiki/J._Robert_Oppenheimer) 1904&mdash;1967
 * [Subrahmanyan Chandrasekhar](https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar) 1910&mdash;1995
 * [William Alfred Fowler](https://en.wikipedia.org/wiki/William_Alfred_Fowler) 1911&mdash;1995
+* [Richard Goldstein](https://en.wikipedia.org/wiki/Richard_Goldstein_(astronomer)) 1927&mdash;2024
+  * [Radar astronomy](https://en.wikipedia.org/wiki/Radar_astronomy)
 * [Frank Drake](https://en.wikipedia.org/wiki/Frank_Drake) 1930&mdash;2022
   * [Drake equation](https://en.wikipedia.org/wiki/Drake_equation) 1961
   * [Search for extraterrestrial intelligence](https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence) (SETI)
@@ -281,8 +283,8 @@
   * [*Brief Answers to the Big Questions*](https://en.wikipedia.org/wiki/Brief_Answers_to_the_Big_Questions) by 
   * [Amyotrophic lateral sclerosis](https://en.wikipedia.org/wiki/ALS)  (ALS)
   * [Spinal muscular atrophy](https://en.wikipedia.org/wiki/Spinal_muscular_atrophy) (SMA)
-* [Richard Goldstein](https://en.wikipedia.org/wiki/Richard_Goldstein_(astronomer)) 1927&mdash;2024
-  * [Radar astronomy](https://en.wikipedia.org/wiki/Radar_astronomy)
+* [George Smoot](https://en.wikipedia.org/wiki/George_Smoot) 1945&mdash;2025
+  * [Cosmic Background Explorer](https://en.wikipedia.org/wiki/Cosmic_Background_Explorer) (COBE)
 * [Roy Kerr](https://en.wikipedia.org/wiki/Roy_Kerr)
   * [Kerr metric](https://en.wikipedia.org/wiki/Kerr_metric)
   * [Rotating black hole](https://en.wikipedia.org/wiki/Rotating_black_hole)
