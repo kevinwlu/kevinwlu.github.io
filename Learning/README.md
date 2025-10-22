@@ -285,6 +285,8 @@
   * [Spinal muscular atrophy](https://en.wikipedia.org/wiki/Spinal_muscular_atrophy) (SMA)
 * [George Smoot](https://en.wikipedia.org/wiki/George_Smoot) 1945&mdash;2025
   * [Cosmic Background Explorer](https://en.wikipedia.org/wiki/Cosmic_Background_Explorer) (COBE)
+  * [Oliver R. Smoot](https://en.wikipedia.org/wiki/Oliver_R._Smoot)
+  * [Smoot](https://en.wikipedia.org/wiki/Smoot), a distance of 5 feet 7 inches
 * [Roy Kerr](https://en.wikipedia.org/wiki/Roy_Kerr)
   * [Kerr metric](https://en.wikipedia.org/wiki/Kerr_metric)
   * [Rotating black hole](https://en.wikipedia.org/wiki/Rotating_black_hole)
