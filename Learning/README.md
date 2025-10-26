@@ -433,6 +433,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Ravine](https://en.wikipedia.org/wiki/Ravine)
 * [Pangaea](https://en.wikipedia.org/wiki/Pangaea)
 * [Ring of Fire](https://en.wikipedia.org/wiki/Ring_of_Fire)
+* [Sprite (lightning)](https://en.wikipedia.org/wiki/Sprite_(lightning))
 ---
 * [Mare Imbrium](https://en.wikipedia.org/wiki/Mare_Imbrium)
 ## Biology
