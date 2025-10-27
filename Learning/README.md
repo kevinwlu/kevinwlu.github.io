@@ -446,6 +446,11 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Bengt I. Samuelsson](https://en.wikipedia.org/wiki/Bengt_I._Samuelsson) 1934&mdash;2024
 * [Bioluminescence](https://en.wikipedia.org/wiki/Bioluminescence)
   * [Dinoflagellate](https://en.wikipedia.org/wiki/Dinoflagellate) 
+* [Bovidae](https://en.wikipedia.org/wiki/Bovidae)
+ * [Bison](https://en.wikipedia.org/wiki/Bison)
+ * [American bison](https://en.wikipedia.org/wiki/American_bison)
+ * [Bubalina](https://en.wikipedia.org/wiki/Bubalina)
+ * [Wildebeest](https://en.wikipedia.org/wiki/Wildebeest)
 * [Chimera (molecular biology)](https://en.wikipedia.org/wiki/Chimera_(molecular_biology))
   * [Chimera (genetics)](https://en.wikipedia.org/wiki/Chimera_(genetics))
   * [Chimera (mythology)](https://en.wikipedia.org/wiki/Chimera_(mythology))
