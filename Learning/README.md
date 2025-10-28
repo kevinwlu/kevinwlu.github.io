@@ -435,6 +435,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Ring of Fire](https://en.wikipedia.org/wiki/Ring_of_Fire)
 * [Upper-atmospheric lightning](https://en.wikipedia.org/wiki/Upper-atmospheric_lightning)
 * [Sprite (lightning)](https://en.wikipedia.org/wiki/Sprite_(lightning))
+* [Tropical cyclone naming](https://en.wikipedia.org/wiki/Tropical_cyclone_naming)
 ---
 * [Mare Imbrium](https://en.wikipedia.org/wiki/Mare_Imbrium)
 ## Biology
