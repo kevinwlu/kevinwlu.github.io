@@ -579,6 +579,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and Love the Tenure-Track Faculty Life](https://www.scientificamerican.com/blog/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/) by [Radhika Nagpal](https://en.wikipedia.org/wiki/Radhika_Nagpal)
 * [Rorschach test](https://en.wikipedia.org/wiki/Rorschach_test)
   * [Hermann Rorschach](https://en.wikipedia.org/wiki/Hermann_Rorschach) 1884&mdash;1922
+* [Eye–hand coordination](https://en.wikipedia.org/wiki/Eye%E2%80%93hand_coordination)
 ---
 * [Subjectivity and objectivity](https://en.wikipedia.org/wiki/Subjectivity_and_objectivity_(philosophy))
   * [Placebo](https://en.wikipedia.org/wiki/Placebo)
