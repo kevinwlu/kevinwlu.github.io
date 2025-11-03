@@ -1089,6 +1089,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [APA style](https://en.wikipedia.org/wiki/APA_style)
   * [ChatGPT and other AI generative tools](https://guelphhumber.libguides.com/c.php?g=716556&p=5279441)
   * [How to cite ChatGPT](https://apastyle.apa.org/blog/how-to-cite-chatgpt)
+* [IEEE style](https://en.wikipedia.org/wiki/IEEE_style)
 * [IEEE Author Center](https://ieeeauthorcenter.ieee.org/)
   * [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
   * [Overleaf](https://en.wikipedia.org/wiki/Overleaf)
