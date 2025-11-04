@@ -377,7 +377,8 @@
       * [Ruthenium](https://en.wikipedia.org/wiki/Ruthenium) has symbol Ru and stomic number 44
       * [Ruthenium isotopes show the Chicxulub impactor was a carbonaceous-type asteroid](https://www.science.org/doi/10.1126/science.adk4868), 15 August 2024
     * [Cretaceous–Paleogene (K-Pg) extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event)
-  * [Minor Planet Center](https://en.wikipedia.org/wiki/Minor_Planet_Center) (MPC)
+    * [Shock wave](https://en.wikipedia.org/wiki/Shock_wave)
+   * [Minor Planet Center](https://en.wikipedia.org/wiki/Minor_Planet_Center) (MPC)
     * [Website](https://minorplanetcenter.net/)
     * [YouTube](https://www.youtube.com/@minorplanetcenter126)
 * [Near-Earth object](https://en.wikipedia.org/wiki/Near-Earth_object) (NEO)
@@ -1043,8 +1044,10 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Chien-Shiung Wu](https://en.wikipedia.org/wiki/Chien-Shiung_Wu) 1912&mdash;1997
   * [Wu experiment](https://en.wikipedia.org/wiki/Wu_experiment) 1956
 * [Manipulating trapped air bubbles in ice for message storage in cold regions](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00221-8)
+* [Schlieren](https://en.wikipedia.org/wiki/Schlieren)
 
 ## Social Sciences
+
 * [Socioemotional selectivity theory](https://en.wikipedia.org/wiki/Socioemotional_selectivity_theory)
   * [Laura L. Carstensen](https://en.wikipedia.org/wiki/Laura_L._Carstensen)
 * ["Social selectivity in aging wild chimpanzees,"](https://www.science.org/doi/10.1126/science.aaz9129) Science, 23 Oct 2020, Vol 370, Issue 6515, pp. 473-476
