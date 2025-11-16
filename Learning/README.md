@@ -717,7 +717,10 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 ## Humanities
 * [Humanities](https://en.wikipedia.org/wiki/Humanities)
 * [Digital humanities](https://en.wikipedia.org/wiki/Digital_humanities)
-* [Esperanto](https://en.wikipedia.org/wiki/Esperanto)
+* [Esperanto](https://en.wikipedia.org/wiki/Esperanto) is a [Constructed language](https://en.wikipedia.org/wiki/Constructed_language) and [International auxiliary language](https://en.wikipedia.org/wiki/International_auxiliary_language) (IAL)
+* [Slang](https://en.wikipedia.org/wiki/Slang)
+* [Glossary of 2020s slang](https://en.wikipedia.org/wiki/Glossary_of_2020s_slang#I)
+* [https://en.wikipedia.org/wiki/Leet](https://en.wikipedia.org/wiki/Leet) or 1337
 * [Michael Sugrue](https://www.youtube.com/@dr.michaelsugrue) 1957&mdash;2024
 * [Project Gutenberg](https://en.wikipedia.org/wiki/Project_Gutenberg)
 * [Chinese Text Project](https://en.wikipedia.org/wiki/Chinese_Text_Project)
