@@ -461,6 +461,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Cicada](https://en.wikipedia.org/wiki/Cicada)
 * [Columbidae](https://en.wikipedia.org/wiki/Columbidae)
   * [Doves as symbols](https://en.wikipedia.org/wiki/Doves_as_symbols)
+  * [Aquilegia](https://en.wikipedia.org/wiki/Aquilegia) or columbines
   * [Olive branch](https://en.wikipedia.org/wiki/Olive_branch)
   * [Peace symbols](https://en.wikipedia.org/wiki/Peace_symbols)
   * [Nuclear disarmament](https://en.wikipedia.org/wiki/Nuclear_disarmament)
