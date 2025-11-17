@@ -459,6 +459,10 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Chimera (genetics)](https://en.wikipedia.org/wiki/Chimera_(genetics))
   * [Chimera (mythology)](https://en.wikipedia.org/wiki/Chimera_(mythology))
 * [Cicada](https://en.wikipedia.org/wiki/Cicada)
+* [Columbidae](https://en.wikipedia.org/wiki/Columbidae)
+  * [Peace symbols](https://en.wikipedia.org/wiki/Peace_symbols)
+  * [Doves as symbols](https://en.wikipedia.org/wiki/Doves_as_symbols)
+  * [Olive branch](https://en.wikipedia.org/wiki/Olive_branch)
 * [Cristina Zenato](https://en.wikipedia.org/wiki/Cristina_Zenato) 
 * [CREB](https://en.wikipedia.org/wiki/CREB) cAMP response element-binding protein
   * [Cyclic adenosine monophosphate](https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate) (cAMP)
