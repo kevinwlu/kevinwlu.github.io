@@ -132,7 +132,7 @@
   * [Steve Jobs Archive](https://stevejobsarchive.com/)
   * [Stevenote](https://en.wikipedia.org/wiki/Stevenote)
   * [On the origin of "make something wonderful" - Steve's driving motivation](https://stevejobsarchive.com/newsletters/on-the-origin-of-make-something-wonderful), February 24, 2025
-* [Patrick Henry Winston](https://en.wikipedia.org/wiki/Patrick_Winston) 1943&mdash;2019, [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY), [IAP](https://elo.mit.edu/iap/) 2018
+* [Patrick Henry Winston](https://en.wikipedia.org/wiki/Patrick_Winston) 1943&mdash;2019, [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY), MIT Independent Activities Period [IAP](https://elo.mit.edu/iap/) 2018
 * [Science communication](https://en.wikipedia.org/wiki/Science_communication)
 ---
 * [The Pen Is Mightier Than the Keyboard: Advantages of Longhand Over Laptop Note Taking](https://www.jstor.org/stable/24543504)
