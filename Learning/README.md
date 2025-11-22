@@ -443,6 +443,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Mare Imbrium](https://en.wikipedia.org/wiki/Mare_Imbrium)
 ## Biology
 * [Aesculus glabra](https://en.wikipedia.org/wiki/Aesculus_glabra) as known as buckeye
+* [Astrocyte](https://en.wikipedia.org/wiki/Astrocyte)
 * [Biome](https://en.wikipedia.org/wiki/Biome)
   * [Fauna](https://en.wikipedia.org/wiki/Fauna)
   * [Flora](https://en.wikipedia.org/wiki/Flora)
