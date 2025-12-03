@@ -35,7 +35,8 @@ Life Senior Member\
 [IEEE vTools](https://vtools.ieee.org/)\
 [njSTEMlink](https://rdnj.org/program/njstemlink/)\
 [TryEngineering](https://tryengineering.org/)\
-[TryEngineering Global Classroom Visits](https://classroom-visits.tryengineering.org/)
+[TryEngineering Global Classroom Visits](https://classroom-visits.tryengineering.org/)\
+[Student 2 Science](https://www.students2science.org/)
 
 ![MB45](/MB45.png)
 
