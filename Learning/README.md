@@ -252,8 +252,9 @@
   * [Antoni Gaudí](https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD) 1852&mdash;1926
   * [Sedum acre](https://en.wikipedia.org/wiki/Sedum_acre)
 * [Skyway](https://en.wikipedia.org/wiki/Skyway)
-* [I. M. Pei](https://en.wikipedia.org/wiki/I._M._Pei)
+* [I. M. Pei](https://en.wikipedia.org/wiki/I._M._Pei) 1917&mdash;2019
   * [List of I. M. Pei projects](https://en.wikipedia.org/wiki/List_of_I._M._Pei_projects)
+* [Frank Gehry](https://en.wikipedia.org/wiki/Frank_Gehry) 1929&mdash;2025
 * [Ma Yansong](https://en.wikipedia.org/wiki/Ma_Yansong)
 ---
 * [Photography](https://en.wikipedia.org/wiki/Photography)
