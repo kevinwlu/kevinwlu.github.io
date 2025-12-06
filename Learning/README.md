@@ -1099,6 +1099,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Business case](https://en.wikipedia.org/wiki/Business_case)
   * [Quad chart](https://en.wikipedia.org/wiki/Quad_chart)
   * [White paper](https://en.wikipedia.org/wiki/White_paper)
+* [Paul W. Shumate](https://ieeexplore.ieee.org/document/8720128) 1941&mdash;2019
+  * [Fiber-to-the-Home: 1977–2007](https://ieeexplore.ieee.org/document/4542893)
 * [Institutional review board](https://en.wikipedia.org/wiki/Institutional_review_board) (IRB)
 * [Irving Herman](https://en.wikipedia.org/wiki/Irving_P._Herman), ["Following the law: A guide for the perplexed graduate student doing research,"](https://www.nature.com/articles/nj7124-228a) January 10, 2007
   * [Laws of Herman](https://www.irvingpherman.com/professional/)
