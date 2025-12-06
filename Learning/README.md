@@ -1099,6 +1099,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Business case](https://en.wikipedia.org/wiki/Business_case)
   * [Quad chart](https://en.wikipedia.org/wiki/Quad_chart)
   * [White paper](https://en.wikipedia.org/wiki/White_paper)
+* [Robert W. Lucky](https://en.wikipedia.org/wiki/Robert_W._Lucky) 1936&mdash;2022
 * [Paul W. Shumate Jr.](https://ieeexplore.ieee.org/document/8720128) 1941&mdash;2019
   * [Fiber-to-the-Home: 1977–2007](https://ieeexplore.ieee.org/document/4542893)
 * [Institutional review board](https://en.wikipedia.org/wiki/Institutional_review_board) (IRB)
