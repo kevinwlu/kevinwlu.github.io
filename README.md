@@ -36,7 +36,8 @@ Life Senior Member\
 [njSTEMlink](https://rdnj.org/program/njstemlink/)\
 [TryEngineering](https://tryengineering.org/)\
 [TryEngineering Global Classroom Visits](https://classroom-visits.tryengineering.org/)\
-[Student 2 Science](https://www.students2science.org/)
+[Student 2 Science](https://www.students2science.org/)\
+[IEEE Blended Learning Program](https://blp.ieee.org/)
 
 ![MB45](/MB45.png)
 
