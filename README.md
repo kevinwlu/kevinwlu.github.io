@@ -48,7 +48,7 @@ Life Senior Member\
 * [Telecom Expert Honored By IEEE Standards Association: Stevens professor was recognized for standards governance management](https://spectrum.ieee.org/telecom-kevin-lu-ieee-standards), June 12, 2025
 * IEEE SA Standards Board Distinguished Service Award (2024)
   * [2024 IEEE SA Awards](https://standards.ieee.org/beyond-standards/2024-ieee-sa-award-winners/)
-  * [2024 IEEE SA Awards Ceremony](https://standards.ieee.org/about/awards/ceremonies/)
+  * [IEEE SA Awards Ceremony](https://standards.ieee.org/about/awards/ceremonies/) [2024](https://standards.ieee.org/about/awards/ceremonies/#2024)
 * [IEEE SA Events](https://standards.ieee.org/events/)
 * Member (2016-2025), [Standards Board](https://standards.ieee.org/about/sasb/) (SASB)
 * Member (2016-2017), [Awards and Recognition Committee](https://standards.ieee.org/about/bog/arcom/) (ArCom)
