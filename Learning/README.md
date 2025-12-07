@@ -1096,6 +1096,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [1986-03-07 Bellcore Colloquium](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) transcribed by [James Frederick Kaiser](https://en.wikipedia.org/wiki/James_Kaiser) 1929&mdash;2020
   * [1995-06-06 Naval Postgraduate School](https://www.youtube.com/watch?v=a1zDuOPkMSw)
   * [A Reflection on Richard Hamming's "You and Your Research": Striving for Greatness](https://www.lesswrong.com/posts/kLRN3uZMawshPBL9D/a-reflection-on-richard-hamming-s-you-and-your-research)
+* [John Zaborszky](https://en.wikipedia.org/wiki/John_Zaborszky) 1914&mdash;2008
 * [Frank J. Gratzer](https://higginsfuneralhome.com/tribute/details/2252) 1944&mdash;2010
 * [Tingye Li](https://en.wikipedia.org/wiki/Tingye_Li) 1931&mdash;2012
 * [George H. Heilmeier](https://en.wikipedia.org/wiki/George_H._Heilmeier) 1936&mdash;2014, [Heilmeier's Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism)
@@ -1103,9 +1104,10 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Quad chart](https://en.wikipedia.org/wiki/Quad_chart)
   * [White paper](https://en.wikipedia.org/wiki/White_paper)
 * [Charles K. Kao](https://en.wikipedia.org/wiki/Charles_K._Kao) 1933&mdash;2018
-* [Robert W. Lucky](https://en.wikipedia.org/wiki/Robert_W._Lucky) 1936&mdash;2022
 * [Paul W. Shumate Jr.](https://ieeexplore.ieee.org/document/8720128) 1941&mdash;2019
   * [Fiber-to-the-Home: 1977–2007](https://ieeexplore.ieee.org/document/4542893)
+* [Ronald Graham](https://en.wikipedia.org/wiki/Ronald_Graham) 1935&mdash;2020
+* [Robert W. Lucky](https://en.wikipedia.org/wiki/Robert_W._Lucky) 1936&mdash;2022
 * [Institutional review board](https://en.wikipedia.org/wiki/Institutional_review_board) (IRB)
 * [Irving Herman](https://en.wikipedia.org/wiki/Irving_P._Herman), ["Following the law: A guide for the perplexed graduate student doing research,"](https://www.nature.com/articles/nj7124-228a) January 10, 2007
   * [Laws of Herman](https://www.irvingpherman.com/professional/)
