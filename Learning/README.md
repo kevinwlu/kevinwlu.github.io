@@ -1097,10 +1097,12 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [1995-06-06 Naval Postgraduate School](https://www.youtube.com/watch?v=a1zDuOPkMSw)
   * [A Reflection on Richard Hamming's "You and Your Research": Striving for Greatness](https://www.lesswrong.com/posts/kLRN3uZMawshPBL9D/a-reflection-on-richard-hamming-s-you-and-your-research)
 * [Frank J. Gratzer](https://higginsfuneralhome.com/tribute/details/2252) 1944&mdash;2010
+* [Tingye Li](https://en.wikipedia.org/wiki/Tingye_Li) 1931&mdash;2012
 * [George H. Heilmeier](https://en.wikipedia.org/wiki/George_H._Heilmeier) 1936&mdash;2014, [Heilmeier's Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism)
   * [Business case](https://en.wikipedia.org/wiki/Business_case)
   * [Quad chart](https://en.wikipedia.org/wiki/Quad_chart)
   * [White paper](https://en.wikipedia.org/wiki/White_paper)
+* [Charles K. Kao](https://en.wikipedia.org/wiki/Charles_K._Kao) 1933&mdash;2018
 * [Robert W. Lucky](https://en.wikipedia.org/wiki/Robert_W._Lucky) 1936&mdash;2022
 * [Paul W. Shumate Jr.](https://ieeexplore.ieee.org/document/8720128) 1941&mdash;2019
   * [Fiber-to-the-Home: 1977–2007](https://ieeexplore.ieee.org/document/4542893)
