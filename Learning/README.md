@@ -1097,6 +1097,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [1995-06-06 Naval Postgraduate School](https://www.youtube.com/watch?v=a1zDuOPkMSw)
   * [A Reflection on Richard Hamming's "You and Your Research": Striving for Greatness](https://www.lesswrong.com/posts/kLRN3uZMawshPBL9D/a-reflection-on-richard-hamming-s-you-and-your-research)
 * [John Zaborszky](https://en.wikipedia.org/wiki/John_Zaborszky) 1914&mdash;2008
+* [W. David Sincoskie](https://en.wikipedia.org/wiki/W._David_Sincoskie) 1954&mdash;2010
 * [Frank J. Gratzer](https://higginsfuneralhome.com/tribute/details/2252) 1944&mdash;2010
 * [Tingye Li](https://en.wikipedia.org/wiki/Tingye_Li) 1931&mdash;2012
 * [George H. Heilmeier](https://en.wikipedia.org/wiki/George_H._Heilmeier) 1936&mdash;2014, [Heilmeier's Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism)
