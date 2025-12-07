@@ -1096,6 +1096,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [1986-03-07 Bellcore Colloquium](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) transcribed by [James Frederick Kaiser](https://en.wikipedia.org/wiki/James_Kaiser) 1929&mdash;2020
   * [1995-06-06 Naval Postgraduate School](https://www.youtube.com/watch?v=a1zDuOPkMSw)
   * [A Reflection on Richard Hamming's "You and Your Research": Striving for Greatness](https://www.lesswrong.com/posts/kLRN3uZMawshPBL9D/a-reflection-on-richard-hamming-s-you-and-your-research)
+* [Frank J. Gratzer](https://higginsfuneralhome.com/tribute/details/2252) 1944&mdash;2010
 * [George H. Heilmeier](https://en.wikipedia.org/wiki/George_H._Heilmeier) 1936&mdash;2014, [Heilmeier's Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism)
   * [Business case](https://en.wikipedia.org/wiki/Business_case)
   * [Quad chart](https://en.wikipedia.org/wiki/Quad_chart)
