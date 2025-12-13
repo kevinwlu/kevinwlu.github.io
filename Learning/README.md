@@ -23,6 +23,8 @@
   * [List of academic fields](https://en.wikipedia.org/wiki/List_of_academic_fields)
   * [Outline of academic disciplines](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines)
 * [Academic freedom](https://en.wikipedia.org/wiki/Academic_freedom)
+* [Critical thinking](https://en.wikipedia.org/wiki/Critical_thinking)
+  * [A grain of salt](https://en.wikipedia.org/wiki/A_grain_of_salt)
 * [Eclecticism](https://en.wikipedia.org/wiki/Eclecticism)
   * [Syncretism](https://en.wikipedia.org/wiki/Syncretism)
 * [Lifelong learning](https://en.wikipedia.org/wiki/Lifelong_learning)
