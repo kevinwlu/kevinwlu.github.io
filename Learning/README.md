@@ -25,6 +25,8 @@
 * [Academic freedom](https://en.wikipedia.org/wiki/Academic_freedom)
 * [Critical thinking](https://en.wikipedia.org/wiki/Critical_thinking)
   * [A grain of salt](https://en.wikipedia.org/wiki/A_grain_of_salt)
+  * [*Jeopardy!*](https://en.wikipedia.org/wiki/Jeopardy!)
+  * [*The $64,000 Question*](https://en.wikipedia.org/wiki/The_$64,000_Question)
 * [Eclecticism](https://en.wikipedia.org/wiki/Eclecticism)
   * [Syncretism](https://en.wikipedia.org/wiki/Syncretism)
 * [Lifelong learning](https://en.wikipedia.org/wiki/Lifelong_learning)
