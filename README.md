@@ -42,7 +42,7 @@ Life Senior Member\
 
 ![MB45](/MB45.png)
 
-### [Communications Society](https://www.comsoc.org/) (ComSoc) 
+### [IEEE Communications Society](https://www.comsoc.org/) (IEEE ComSoc) 
 * [Standards Development Board](https://www.comsoc.org/about/boards/standards-development-board), Chair (2012-2013) and Advisor (2014-2017)
 * [Standardization Programs Development Board](https://www.comsoc.org/about/boards/standardization-programs-development-board), Member (2016-2022) and Non-Voting Member (2023-2025)
 
@@ -64,6 +64,9 @@ Life Senior Member\
 * [Awards and Recognition Committee](https://standards.ieee.org/about/bog/arcom/) (2016-2017)
 * [Standards Education Committee](https://www.standardsuniversity.org/standards-education-committee/) (2017-2020) 
 * [Strategic and Emerging Standards Committee](https://standards.ieee.org/wp-content/uploads/import/documents/other/SESCom-Operations_Manual.pdf) (2020-2026)
+
+### [IEEE Technical Activities Board](https://ta.ieee.org/) (IEEE TAB)
+* [IEEE TAB Committee on Standards](https://resourcecenter.tcos.ieee.org/) (TCOS) (2020-2023)
 
 ### [Wireless and Optical Communications Conference](https://www.wocc.org/) (WOCC)
 * Treasurer (2015-2025)
