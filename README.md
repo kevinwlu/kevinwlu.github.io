@@ -53,7 +53,7 @@ Life Senior Member\
   * [IEEE SA Awards Ceremony](https://standards.ieee.org/about/awards/ceremonies/) [2024](https://standards.ieee.org/about/awards/ceremonies/#2024)
 * [IEEE SA Events](https://standards.ieee.org/events/)
 * [Standards Board](https://standards.ieee.org/about/sasb/) (2016-2025)
-  * [Audit Committee](https://standards.ieee.org/about/sasb/audcom/) (2019-2025) and Chair (2021-2024)
+  * [Audit Committee](https://standards.ieee.org/about/sasb/audcom/) (2019-2026) and Chair (2021-2024)
   * [New Standards Committee](https://standards.ieee.org/about/sasb/nescom/) (2013-2016, 2018-2019)
   * [Patent Committee](https://standards.ieee.org/about/sasb/patcom/) (2023-2025)
   * [Procedures Committee](https://standards.ieee.org/about/sasb/procom/) (2020-2024)
