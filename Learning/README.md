@@ -116,6 +116,7 @@
   * [Hoboken, Antwerp](https://en.wikipedia.org/wiki/Hoboken,_Antwerp)
   * [Hoboken, New Jersey](https://en.wikipedia.org/wiki/Hoboken,_New_Jersey)
 * [njSTEMlink](https://rdnj.org/program/njstemlink/)
+* [Per Scholas](https://en.wikipedia.org/wiki/Per_Scholas)
 ---
 * [Samuel Ullman](https://en.wikipedia.org/wiki/Samuel_Ullman) 1840&mdash;1924, "[Youth](https://www.uab.edu/ullmanmuseum/)"
 * [John Dewey](https://en.wikipedia.org/wiki/John_Dewey) 1859&mdash;1952, "Education is not preparation for life; education is life itself."
@@ -446,8 +447,9 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Sprite (lightning)](https://en.wikipedia.org/wiki/Sprite_(lightning))
 * [Tropical cyclone naming](https://en.wikipedia.org/wiki/Tropical_cyclone_naming)
 * [List of highest mountains on Earth](https://en.wikipedia.org/wiki/List_of_highest_mountains_on_Earth)
----
-* [Mare Imbrium](https://en.wikipedia.org/wiki/Mare_Imbrium)
+* [Inge Lehmann](https://en.wikipedia.org/wiki/Inge_Lehmann) 1888&mdash;1993
+  * [Lehmann discontinuity](https://en.wikipedia.org/wiki/Lehmann_discontinuity)
+* [Mare Imbrium](https://en.wikipedia.org/wiki/Mare_Imbrium): Sea of Rains on the Moon
 ## Biology
 * [Aesculus glabra](https://en.wikipedia.org/wiki/Aesculus_glabra) as known as buckeye
 * [Astrocyte](https://en.wikipedia.org/wiki/Astrocyte)
