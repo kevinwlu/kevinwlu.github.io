@@ -114,7 +114,10 @@
   * [Shard](https://en.wikipedia.org/wiki/Shard_(database_))
 * [History of New Jersey](https://en.wikipedia.org/wiki/History_of_New_Jersey)
   * [Hoboken, Antwerp](https://en.wikipedia.org/wiki/Hoboken,_Antwerp)
-  * [Hoboken, New Jersey](https://en.wikipedia.org/wiki/Hoboken,_New_Jersey)
+    * [Hoboken, New Jersey](https://en.wikipedia.org/wiki/Hoboken,_New_Jersey)
+  * [Kearny, New Jersey](https://en.wikipedia.org/wiki/Kearny,_New_Jersey)
+    * [Philip Kearny](https://en.wikipedia.org/wiki/Philip_Kearny) 1815&mdash;1862
+  * [Weehawken, New Jersey](https://en.wikipedia.org/wiki/Weehawken,_New_Jersey)
 * [njSTEMlink](https://rdnj.org/program/njstemlink/)
 * [Per Scholas](https://en.wikipedia.org/wiki/Per_Scholas)
 ---
