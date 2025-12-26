@@ -65,6 +65,7 @@ Life Senior Member\
 * [Awards and Recognition Committee](https://standards.ieee.org/about/bog/arcom/) (2016-2017)
 * [Standards Education Committee](https://www.standardsuniversity.org/standards-education-committee/) (2017-2020) 
 * [Strategic and Emerging Standards Committee](https://standards.ieee.org/wp-content/uploads/import/documents/other/SESCom-Operations_Manual.pdf) (2020-2026)
+* [Global Standards Collaboration](https://en.wikipedia.org/wiki/Global_Standards_Collaboration) (GSC) Task Force on Emergency Communications (GSC19, Geneva, 15-16 July 2015)
 
 ### [IEEE Technical Activities Board](https://ta.ieee.org/) (IEEE TAB)
 * [IEEE TAB Committee on Standards](https://resourcecenter.tcos.ieee.org/) (TCOS) (2020-2023)
