@@ -9,15 +9,106 @@
 [Devpost](https://devpost.com/kevinwenlu)\
 Make lifelong [learning](/Learning) an everyday habit
 
-## [Stevens Institute of Technology](https://www.stevens.edu/)
-[Teaching Professor](https://www.stevens.edu/profile/klu2), [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering) (ECE) since  August 16, 2018 \
-Associate Dean for Undergraduate Studies, [Charles V. Schaefer, Jr. School of Engineering and Science](https://www.stevens.edu/school-engineering-science) (SES) since August 1, 2025 \
-Associate Chair for Undergraduate Studies (2021-2025), Department of Electrical and Computer Engineering \
-Adjunct Professor (2015-2018), Department of Electrical and Computer Engineering \
-[Order of the Engineer](https://en.wikipedia.org/wiki/Order_of_the_Engineer), May 20, 2025 \
-2023 ECE Outstanding Service Award for Faculty \
-2021 ECE Outstanding Teaching Award \
-2018-2019 [Henry Morton](https://en.wikipedia.org/wiki/Henry_Morton_(scientist)) Distinguished Teaching Professor Award
+## Education
+* D.Sc. (1984) and M.S. (1981), Systems Science and Mathematics, [Washington University in St. Louis](https://wustl.edu/)
+  * Advisors: Dr. John Zaborszky and Dr. Garng Huang
+  * Dissertation: *A Textured Model and Its Uses in Reactive Power Management and Control*
+* B.S. (1979), Control Engineering, [National Chiao Tung University](https://en.nycu.edu.tw/)
+
+## Experience
+* Associate Dean for Undergraduate Studies, [Charles V. Schaefer, Jr. School of Engineering and Science](https://www.stevens.edu/school-engineering-science) (SES), August 1, 2025 – present
+* [Teaching Professor](https://www.stevens.edu/profile/klu2), [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering) (ECE), August 16, 2018 – present
+* Associate Chair for Undergraduate Studies (2021-2025), Department of Electrical and Computer Engineering
+* Adjunct Professor (2015-2018), Department of Electrical and Computer Engineering
+* Senior Principal Scientist (2012-2013), [Broadcom](https://www.broadcom.com/)
+* Chief Scientist (2003-2012), Executive Director (1999-2003), Director (1995-1999), Member of Technical Staff (1984-1995), [Telcordia/Bellcore](https://en.wikipedia.org/wiki/Iconectiv) Applied Research
+  * [The Bellcore Applied Research Area Alumni Home Page](https://www.panix.com/~dfs/bellcore/Alumni.php)
+* Research Assistant (1979-1984), Department of Systems Science and Mathematics, Washington University in St. Louis
+
+## Courses
+* First Year Experience (PRV 101), Fall Semesters 2024 – present
+* Engineering Design VI (CPE/EE 322), Fall 2017 – Spring 2025
+* Engineering Design VII (CPE/EE 423), Fall Semesters 2017 – present
+* Engineering Design VIII (CPE/EE 424), Spring Semesters 2018 – present
+* Research Seminar (EE 820), Spring 2025
+  * Research Ethics, Fall 2022 – present
+* Digital System Design (CPE 487), Fall 2018 – Spring 2022
+* Internet of Things (EE 810), Spring 2015 – Fall 2016
+* Internet of Things (EE 629), Spring 2017 – Fall 2021
+* Research (CPE/EE 400), Fall 2022 – Fall 2023
+* Special Problems (AAI/CPE/EE 800), Spring 2016 – Spring 2019
+* Pre-College Programs, Exploring Career Options in Engineering and Science (ECOES), Summer 2018, Summer 2019, and Summer 2021
+* Pre-College Programs, Engineering Bootcamp, Summer 2020 and Summer 2021
+* Pre-College Programs, Discover Engineering Day, Spring 2019 and Spring 2022
+* Fiber Optic Subscriber Loop Architectures and Economics, Short Course SC6, SPIE OE/FIBERS, San Jose, California, September 17, 1990
+* Topics in Electrical and Computer Engineering, Columbia University, Fall 1989
+* Distributed Information Systems and Telecommunications, Rutgers Graduate School of Management, Spring 1989
+
+## Institutional Services
+* Admissions events including Visit Day, Early Decision Brunch, Admitted Student Friday, and Admitted Student Weekend/Meet and Greet, September 2018 – present
+* Benefits Advisory Committee Member, September 2020 – June 2024
+* Committee on the New Stevens Core “SUCCESS” Member and Facilitator for PRV 205 Frontiers of Technology Course – Quantum Technology, September 2022 – February 2024
+* Teaching Advisory Board Member, September 2024 – August 2025
+* School of Engineering and Science Promotion and Tenure Committee Member, September 2019 – December 2022
+* School of Engineering and Science Undergraduate Curriculum Committee Member, September 2021 – present
+* Department of Electrical and Computer Engineering Undergraduate Committee Chair (Curriculum, Recruitment, and ABET), September 2021 – present
+* Department of Electrical and Computer Engineering Faculty Advisory Council Member, September 2022 – present
+* Department of Electrical and Computer Engineering Outreach and Alumni Committee Member, September 2021 – present
+* Department of Electrical and Computer Engineering Student Success Committee, September 2021 – present
+* Department of Electrical and Computer Engineering Strategic Plan Committee Member, 2021 – present
+
+## Professional Societies and Services
+* [IEEE Communications Society](https://www.comsoc.org/) (IEEE ComSoc) 
+  * [Standards Development Board](https://www.comsoc.org/about/boards/standards-development-board), Chair (2012-2013) and Advisor (2014-2017)
+  * [Standardization Programs Development Board](https://www.comsoc.org/about/boards/standardization-programs-development-board), Member (2016-2022) and Non-Voting Member (2023-2025)
+* [IEEE Standards Association](https://standards.ieee.org/) (IEEE SA) 
+  * [Standards Board](https://standards.ieee.org/about/sasb/) (2016-2025)
+    * [Audit Committee](https://standards.ieee.org/about/sasb/audcom/) (2019-2026) and Chair (2021-2024)
+    * [New Standards Committee](https://standards.ieee.org/about/sasb/nescom/) (2013-2016, 2018-2019)
+    * [Patent Committee](https://standards.ieee.org/about/sasb/patcom/) (2023-2025)
+    * [Procedures Committee](https://standards.ieee.org/about/sasb/procom/) (2020-2024)
+    * [Standards Review Committee](https://standards.ieee.org/about/sasb/revcom/) (2017)
+    * Standards Coordinating Committee (SCC) Coordinator (2017-2018) 
+  * [Entity Collaborative Activities Governance Board](https://standards.ieee.org/about/bog/cag/) (2023-2025)
+    * [Industry Connections Committee](https://standards.ieee.org/about/bog/iccom/) (2016-2026) and Chair (2018-2025)
+  * [Awards and Recognition Committee](https://standards.ieee.org/about/bog/arcom/) (2016-2017)
+  * [Standards Education Committee](https://www.standardsuniversity.org/standards-education-committee/) (2017-2020) 
+  * [Strategic and Emerging Standards Committee](https://standards.ieee.org/wp-content/uploads/import/documents/other/SESCom-Operations_Manual.pdf) (2020-2026)
+  * [Global Standards Collaboration](https://en.wikipedia.org/wiki/Global_Standards_Collaboration) (GSC) Task Force on Emergency Communications (GSC19, Geneva, 15-16 July 2015)
+* [IEEE Technical Activities Board](https://ta.ieee.org/) (IEEE TAB)
+  * [IEEE TAB Committee on Standards](https://resourcecenter.tcos.ieee.org/) (TCOS) (2020-2023)
+* [Wireless and Optical Communications Conference](https://www.wocc.org/) (WOCC)
+  * Treasurer (2015-2025)
+  * Chair (2007-2008), Vice Chair (2006-2007), and Member (2005-2006), Board of Trustees
+  * President (2004-2005)
+* 3GPP Contributions
+  * RAN1 TR 36.873 "3D Channel Model," Deployment scenarios and path loss modeling for user equipment in multi-floor buildings: R1-130768, R1-130869, R1-131752, R1-131760, R1-131899, R1-131900, R1-132642, R1-132744, R1- 132748, R1-132904, R1-133880, R1-133912, R1-133969, R1-133974, R1- 133975, R1-134591, January to October 2013
+  * RAN4 TR 37.840 "Antenna Array Systems," Changerequests for Section 5.4.4: R4-133987, R4-134906, August to October 2013
+* [Alliance for Telecommunications Industry Solutions](https://www.atis.org/) (ATIS)
+  * Machine-to-Machine (M2M) Focus Group, 2011-2012
+  * Technology and Operations(TOPS) Council Land scape Team for M2M,Smart Grid, and Connected Vehicle, 2011
+* US Department of Transportation Intelligent Transportation Systems (ITS) Joint Program Office (JPO) Coordinating Working Group for ITS Standards Program 2011-2014 Strategic Plan, 2010 to 2011
+* Member, the ISO/TC204 US Technical Advisory Group (TAG) and Working Advisory Group (WAG) 17 on Nomadic and Portable Devices for ITS Services, 2009 to 2012
+* Member, North America Traffic Working Group (NATWG) of ITS America, 2009 to 2010
+* Liaison, the Society of Automotive Engineers (SAE) International Dedicated Short-Range Communication (DSRC) Technical Committee, 2008 to 2012
+* Founding Chair, the [Telecommunications Industry Association](https://tiaonline.org/) (TIA) Engineering Committee TR-48 on Vehicular Telematics, 2007 to 2010
+* NJIT ECE Industry Advisory Board, 2007-2022
+* Stevens ECE External Advisory Board, 2009-2018
+* NSF Integrative Graduate Education and Research Traineeship (IGERT) Review Panel, June 15-16, 2006
+* NYU ECE Industry Advisory Board, 2006
+
+## Honors and Awards
+* [Order of the Engineer](https://en.wikipedia.org/wiki/Order_of_the_Engineer), May 20, 2025
+* IEEE SA Standards Board Distinguished Service Award (2024) for “superior IEEE SA Governance leadership as the IEEE SA Standards Board Audit Committee Chair and as the IEEE SA Industry Connections Committee Chair”
+  * [2024 IEEE SA Awards](https://standards.ieee.org/beyond-standards/2024-ieee-sa-award-winners/)
+  * [IEEE SA Awards Ceremony](https://standards.ieee.org/about/awards/ceremonies/) [2024](https://standards.ieee.org/about/awards/ceremonies/#2024)
+* 2023 Stevens ECE Outstanding Service Award for Faculty
+* 2021 Stevens ECE Outstanding Teaching Award
+* 2018-2019 Stevens [Henry Morton](https://en.wikipedia.org/wiki/Henry_Morton_(scientist)) Distinguished Teaching Professor Award, May 21, 2019
+* 1987 Bellcore Award of Excellence
+
+## News Articles
+* [Telecom Expert Honored By IEEE Standards Association: Stevens professor was recognized for standards governance management](https://spectrum.ieee.org/telecom-kevin-lu-ieee-standards), June 12, 2025
 * [High School Students Broaden Their Futures Through Experiential Learning at Stevens](https://www.stevens.edu/news/high-school-students-experiential-learning), July 17, 2025
 * [Stevens Inducts Graduating Seniors into the Order of the Engineer at Spring 2025 Ceremony](https://www.stevens.edu/news/order-of-the-engineer-2025), July 10, 2025
 * [Alumni Panel Furthers Culture of Inclusion at Stevens](https://www.stevens.edu/news/alumni-panel-furthers-culture-of-inclusion-at-stevens), January 15, 2025
@@ -32,61 +123,6 @@ Adjunct Professor (2015-2018), Department of Electrical and Computer Engineering
 * [Stevens Honors Excellence in Research, Teaching During 2018-2019 Academic Year](https://www.stevens.edu/news/stevens-honors-excellence-research-teaching-during-2018-2019-academic-year), May 30, 2019
 * [Stevens Opens Doors to Record Number of New Faculty for Fall 2018](https://www.stevens.edu/news/stevens-opens-doors-record-number-new-faculty-fall-2018), September 7, 2018
 
-## [IEEE](https://www.ieee.org/)
-Life Senior Member\
-[IEEE vTools](https://vtools.ieee.org/)\
-[njSTEMlink](https://rdnj.org/program/njstemlink/)\
-[TryEngineering](https://tryengineering.org/)\
-[TryEngineering Global Classroom Visits](https://classroom-visits.tryengineering.org/)\
-[Student 2 Science](https://www.students2science.org/)\
-[IEEE Blended Learning Program](https://blp.ieee.org/)
-
-![MB45](/MB45.png)
-
-### [IEEE Communications Society](https://www.comsoc.org/) (IEEE ComSoc) 
-* [Standards Development Board](https://www.comsoc.org/about/boards/standards-development-board), Chair (2012-2013) and Advisor (2014-2017)
-* [Standardization Programs Development Board](https://www.comsoc.org/about/boards/standardization-programs-development-board), Member (2016-2022) and Non-Voting Member (2023-2025)
-
-### [IEEE Standards Association](https://standards.ieee.org/) (IEEE SA) 
-* [Telecom Expert Honored By IEEE Standards Association: Stevens professor was recognized for standards governance management](https://spectrum.ieee.org/telecom-kevin-lu-ieee-standards), June 12, 2025
-* IEEE SA Standards Board Distinguished Service Award (2024)
-  * [2024 IEEE SA Awards](https://standards.ieee.org/beyond-standards/2024-ieee-sa-award-winners/)
-  * [IEEE SA Awards Ceremony](https://standards.ieee.org/about/awards/ceremonies/) [2024](https://standards.ieee.org/about/awards/ceremonies/#2024)
-* [IEEE SA Events](https://standards.ieee.org/events/)
-* [Standards Board](https://standards.ieee.org/about/sasb/) (2016-2025)
-  * [Audit Committee](https://standards.ieee.org/about/sasb/audcom/) (2019-2026) and Chair (2021-2024)
-  * [New Standards Committee](https://standards.ieee.org/about/sasb/nescom/) (2013-2016, 2018-2019)
-  * [Patent Committee](https://standards.ieee.org/about/sasb/patcom/) (2023-2025)
-  * [Procedures Committee](https://standards.ieee.org/about/sasb/procom/) (2020-2024)
-  * [Standards Review Committee](https://standards.ieee.org/about/sasb/revcom/) (2017)
-  * Standards Coordinating Committee (SCC) Coordinator (2017-2018) 
-* [Entity Collaborative Activities Governance Board](https://standards.ieee.org/about/bog/cag/) (2023-2025)
-  * [Industry Connections Committee](https://standards.ieee.org/about/bog/iccom/) (2016-2026) and Chair (2018-2025)
-* [Awards and Recognition Committee](https://standards.ieee.org/about/bog/arcom/) (2016-2017)
-* [Standards Education Committee](https://www.standardsuniversity.org/standards-education-committee/) (2017-2020) 
-* [Strategic and Emerging Standards Committee](https://standards.ieee.org/wp-content/uploads/import/documents/other/SESCom-Operations_Manual.pdf) (2020-2026)
-* [Global Standards Collaboration](https://en.wikipedia.org/wiki/Global_Standards_Collaboration) (GSC) Task Force on Emergency Communications (GSC19, Geneva, 15-16 July 2015)
-
-### [IEEE Technical Activities Board](https://ta.ieee.org/) (IEEE TAB)
-* [IEEE TAB Committee on Standards](https://resourcecenter.tcos.ieee.org/) (TCOS) (2020-2023)
-
-### [Wireless and Optical Communications Conference](https://www.wocc.org/) (WOCC)
-* Treasurer (2015-2025)
-* Chair (2007-2008), Vice Chair (2006-2007), and Member (2005-2006), Board of Trustees
-* President (2004-2005)
-
-## Education
-D.Sc. (1984) and M.S. (1981), Systems Science and Mathematics, [Washington University in St. Louis](https://wustl.edu/) \
-Dissertation: *A Textured Model and Its Uses in Reactive Power Management and Control* \
-B.S. (1979), Control Engineering, [National Chiao Tung University](https://en.nycu.edu.tw/)
-
-## Experience
-* Senior Principal Scientist (2012-2013), [Broadcom](https://www.broadcom.com/)
-* Chief Scientist (2003-2012), Executive Director (1999-2003), Director (1995-1999), Member of Technical Staff (1984-1995), [Telcordia/Bellcore](https://en.wikipedia.org/wiki/Iconectiv) Applied Research
-  * [The Bellcore Applied Research Area Alumni Home Page](https://www.panix.com/~dfs/bellcore/Alumni.php)
-* Chair (2007–2010), [TIA](https://tiaonline.org/) [TR-48](https://tiaonline.org/standards-committees/tr-48/) Engineering Committee on Vehicular Telematics
-* Member (2011), [ATIS](https://www.atis.org/) Machine-to-Machine Focus Group
-* Member (2010), 2011–2014 Strategic Plan, [U.S. Department of Transportation (DOT) Intelligent Transportation Systems (ITS) Standards Program](https://www.standards.its.dot.gov/)
 
 ## Publications
 ### Conference Papers
@@ -169,5 +205,7 @@ B.S. (1979), Control Engineering, [National Chiao Tung University](https://en.ny
 * [Second Curve of Technology, Media, and Telecommunications](https://goo.gl/5wH7D7)
 
 ## Other
+* IEEE Future Networks, [IEEE 5G and Beyond Technology Roadmap White Paper](https://futurenetworks.ieee.org/images/files/pdf/ieee-5g-roadmap-white-paper.pdf), October 2017
 * National Research Council. 2002. [*Broadband: Bring Home the Bits*](https://nap.nationalacademies.org/read/10235/chapter/1#ix). Washington, DC: The National Academies Press. doi: https://doi.org/10.17226/10235
   > Kevin Lu, executive director of the Integrated Access and Operations Department, Telcordia, discussed fiber in the last mile (National Academies Broadband Access Workshop, Committee on Broadband Last Mile Technology of the National Research Council, Washington, D.C., June 19, 2000)
+* Guest Editor, Special Issue on Fiber in the Loop, International Journal of Digital and Analog Cabled Systems, 3 (1), January-March 1990
