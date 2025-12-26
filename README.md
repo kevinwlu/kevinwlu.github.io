@@ -83,7 +83,7 @@ Make lifelong [learning](/Learning) an everyday habit
   * President (2004-2005)
 * 3GPP Contributions
   * RAN1 TR 36.873 "3D Channel Model," Deployment scenarios and path loss modeling for user equipment in multi-floor buildings: R1-130768, R1-130869, R1-131752, R1-131760, R1-131899, R1-131900, R1-132642, R1-132744, R1- 132748, R1-132904, R1-133880, R1-133912, R1-133969, R1-133974, R1- 133975, R1-134591, January to October 2013
-  * RAN4 TR 37.840 "Antenna Array Systems," Changerequests for Section 5.4.4: R4-133987, R4-134906, August to October 2013
+  * RAN4 TR 37.840 "Antenna Array Systems," Change requests for Section 5.4.4: R4-133987, R4-134906, August to October 2013
 * [Alliance for Telecommunications Industry Solutions](https://www.atis.org/) (ATIS)
   * Machine-to-Machine (M2M) Focus Group, 2011-2012
   * Technology and Operations(TOPS) Council Land scape Team for M2M,Smart Grid, and Connected Vehicle, 2011
