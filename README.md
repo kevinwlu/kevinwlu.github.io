@@ -26,17 +26,19 @@ Make lifelong [learning](/Learning) an everyday habit
 * Research Assistant (1979-1984), Department of Systems Science and Mathematics, Washington University in St. Louis
 
 ## Courses
-* First Year Experience (PRV 101), Fall Semesters 2024 – present
-* Engineering Design VI (CPE/EE 322), Fall 2017 – Spring 2025
-* Engineering Design VII (CPE/EE 423), Fall Semesters 2017 – present
-* Engineering Design VIII (CPE/EE 424), Spring Semesters 2018 – present
+* PRV 101 First Year Experience, Fall Semesters 2024 – present
+* CPE/EE 322 [Engineering Design VI](https://sites.google.com/view/ece322), Fall 2017 – Spring 2025
+* CPE/EE 423 [Engineering Design VII](https://sites.google.com/view/ece423), Fall Semesters 2017 – present
+* CPE/EE 424 [Engineering Design VIII](https://sites.google.com/view/ece423), Spring Semesters 2018 – present
 * Research Seminar (EE 820), Spring 2025
   * Research Ethics, Fall 2022 – present
-* Digital System Design (CPE 487), Fall 2018 – Spring 2022
-* Internet of Things (EE 810), Spring 2015 – Fall 2016
-* Internet of Things (EE 629), Spring 2017 – Fall 2021
-* Research (CPE/EE 400), Fall 2022 – Fall 2023
-* Special Problems (AAI/CPE/EE 800), Spring 2016 – Spring 2019
+* CPE 487 [Digital System Design](https://sites.google.com/view/ece487), Fall 2018 – Spring 2022
+  * [GitHub repository](https://github.com/kevinwlu/dsd)
+* EE 810 [Internet of Things](https://sites.google.com/view/ece629), Spring 2015 – Fall 2016
+* EE 629 [Internet of Things](https://sites.google.com/view/ece629), Spring 2017 – Fall 2021
+  * [GitHub repository](https://github.com/kevinwlu/iot)
+* CPE/EE 400 Research, Fall 2022 – Fall 2023
+* AAI/CPE/EE 800 [Special Problems](https://sites.google.com/view/ece800), Spring 2016 – Spring 2019
 * Pre-College Programs, Exploring Career Options in Engineering and Science (ECOES), Summer 2018, Summer 2019, and Summer 2021
 * Pre-College Programs, Engineering Bootcamp, Summer 2020 and Summer 2021
 * Pre-College Programs, Discover Engineering Day, Spring 2019 and Spring 2022
@@ -123,6 +125,11 @@ Make lifelong [learning](/Learning) an everyday habit
 * [Stevens Honors Excellence in Research, Teaching During 2018-2019 Academic Year](https://www.stevens.edu/news/stevens-honors-excellence-research-teaching-during-2018-2019-academic-year), May 30, 2019
 * [Stevens Opens Doors to Record Number of New Faculty for Fall 2018](https://www.stevens.edu/news/stevens-opens-doors-record-number-new-faculty-fall-2018), September 7, 2018
 
+## Contributions
+* IEEE Future Networks, [IEEE 5G and Beyond Technology Roadmap White Paper](https://futurenetworks.ieee.org/images/files/pdf/ieee-5g-roadmap-white-paper.pdf), October 2017
+* National Research Council. 2002. [*Broadband: Bring Home the Bits*](https://nap.nationalacademies.org/read/10235/chapter/1#ix). Washington, DC: The National Academies Press. doi: https://doi.org/10.17226/10235
+  > Kevin Lu, executive director of the Integrated Access and Operations Department, Telcordia, discussed fiber in the last mile (National Academies Broadband Access Workshop, Committee on Broadband Last Mile Technology of the National Research Council, Washington, D.C., June 19, 2000)
+
 ## Journal Papers
 * [M. Ulema](https://manhattan.edu/campus-directory/mehmet.ulema), [A. Kaplan](https://www.cs.princeton.edu/people/profile/ak18), K. W. Lu, [N. Amogh](https://www.linkedin.com/in/niranth/), and [B. Kozbe](https://www.linkedin.com/in/barcinkozbe/), "[Critical communications and public safety networks, part 2: technical issues, security, and applications [Guest Editorial]](https://ieeexplore.ieee.org/document/7452260)," in *IEEE Communications Magazine*, vol. 54, no. 4, pp. 14-15, April 2016, doi: 10.1109/MCOM.2016.7452260.
 * M. Ulema, A. Kaplan, K. W. Lu, N. Amogh, and B. Kozbe, "[Critical communications and public safety networks part 1: Standards, spectrum policy, and economics](https://ieeexplore.ieee.org/document/7432141)," in *IEEE Communications Magazine*, vol. 54, no. 3, pp. 12-13, March 2016, doi: 10.1109/MCOM.2016.7432141.
@@ -180,19 +187,7 @@ Make lifelong [learning](/Learning) an everyday habit
 * J. C. Lee and K. W. Lu, “On a family of data-based transformed models useful in forecasting technological substitutions,” Proc. American Statistical Association Annual Meetings - Business and Economics Statistics Sec., pp. 52-59, Chicago, Illinois, August 18-21, 1986.
 * [G. Huang](https://scholars.library.tamu.edu/vivo/display/n8800928d/), K. W. Lu, and [J. Zaborszky](https://www.nae.edu/28317/Dr-John-Zaborszky), "[A texture model/algorithm for computationally efficient dispatch and control on the power system](https://ieeexplore.ieee.org/abstract/document/4048961)," *1986 25th IEEE Conference on Decision and Control*, Athens, Greece, 1986, pp. 1198-1205, doi: 10.1109/CDC.1986.267572.
 
-## Courses (Google Sites)
-* [Pre-College Program: Electrical and Computer Engineering (ECE)](https://sites.google.com/view/ece-ecoes)
-* [ECE Orientation](https://sites.google.com/view/ece-orientation/)
-* [Engineering Design VI](https://sites.google.com/view/ece322)
-* [Engineering Design VII-VIII](https://sites.google.com/view/ece423)
-* [Digital System Design](https://sites.google.com/view/ece487) (DSD)
-  * [GitHub repository](https://github.com/kevinwlu/dsd)
-* [Internet of Things](https://sites.google.com/view/ece629) (IoT)
-  * [GitHub repository](https://github.com/kevinwlu/iot)
-* [Special Problem](https://sites.google.com/view/ece800)
-* [Thesis](https://sites.google.com/view/ece900)
-
-## Presentations (Google Slides)
+## Presentations
 * [Balanced Skill Set](https://docs.google.com/presentation/d/153WdbX45X3mDv5xqPK3I9XluN-qWKLW9vqNKKk2y5kI)
 * [Careers in Industry](https://docs.google.com/presentation/d/106zGCupPAgWhLEW6l_BM_moIr_ZFnFw36kjqOi9m9q8)
 * [Ethics of Autonomous and Intelligent Systems](https://docs.google.com/presentation/d/1mvlRrR5tgnX2LDzR20_8J74wdCawYNp7Y1KuTh8QK3c)
@@ -202,9 +197,3 @@ Make lifelong [learning](/Learning) an everyday habit
 * [Professional Writing Workshop](https://docs.google.com/presentation/d/1MxA8BNXht-iZBCjvJ132hFw8NCFqIsytRd7-xZcuoo8)
 * [Research Ethics](https://docs.google.com/presentation/d/17tJUBG1FEAJRNnsOmk7I3pOiPmfpcyCJATd_FuNYrto)
 * [Second Curve of Technology, Media, and Telecommunications](https://goo.gl/5wH7D7)
-
-## Other
-* IEEE Future Networks, [IEEE 5G and Beyond Technology Roadmap White Paper](https://futurenetworks.ieee.org/images/files/pdf/ieee-5g-roadmap-white-paper.pdf), October 2017
-* National Research Council. 2002. [*Broadband: Bring Home the Bits*](https://nap.nationalacademies.org/read/10235/chapter/1#ix). Washington, DC: The National Academies Press. doi: https://doi.org/10.17226/10235
-  > Kevin Lu, executive director of the Integrated Access and Operations Department, Telcordia, discussed fiber in the last mile (National Academies Broadband Access Workshop, Committee on Broadband Last Mile Technology of the National Research Council, Washington, D.C., June 19, 2000)
-
