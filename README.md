@@ -110,7 +110,7 @@ Make lifelong [learning](/Learning) an everyday habit
 * 1987 Bellcore Award of Excellence
 
 ## News Articles
-* [Telecom Expert Honored By IEEE Standards Association: Stevens professor was recognized for standards governance management](https://spectrum.ieee.org/telecom-kevin-lu-ieee-standards), June 12, 2025
+* [Telecom Expert Honored By IEEE Standards Association: Stevens professor was recognized for standards governance management](https://spectrum.ieee.org/telecom-kevin-lu-ieee-standards), *The Institute*, June 12, 2025
 * [High School Students Broaden Their Futures Through Experiential Learning at Stevens](https://www.stevens.edu/news/high-school-students-experiential-learning), July 17, 2025
 * [Stevens Inducts Graduating Seniors into the Order of the Engineer at Spring 2025 Ceremony](https://www.stevens.edu/news/order-of-the-engineer-2025), July 10, 2025
 * [Alumni Panel Furthers Culture of Inclusion at Stevens](https://www.stevens.edu/news/alumni-panel-furthers-culture-of-inclusion-at-stevens), January 15, 2025
