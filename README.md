@@ -11,16 +11,16 @@ Make lifelong [learning](/Learning) an everyday habit
 
 ## Education
 * D.Sc. (1984) and M.S. (1981), Systems Science and Mathematics, [Washington University in St. Louis](https://wustl.edu/)
-  * Advisors: Dr. John Zaborszky and Dr. Garng Huang
+  * Advisors: Dr. [John Zaborszky](https://en.wikipedia.org/wiki/John_Zaborszky) and Dr. [Garng Huang](https://scholar.google.com/citations?user=7zk9wWYAAAAJ&hl=en)
   * Dissertation: *A Textured Model and Its Uses in Reactive Power Management and Control*
 * B.S. (1979), Control Engineering, [National Chiao Tung University](https://en.nycu.edu.tw/)
 
 ## Experience
-* Associate Dean for Undergraduate Studies, [Charles V. Schaefer, Jr. School of Engineering and Science](https://www.stevens.edu/school-engineering-science) (SES), August 1, 2025 – present
-* [Teaching Professor](https://www.stevens.edu/profile/klu2), [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering) (ECE), August 16, 2018 – present
-* Associate Chair for Undergraduate Studies (2021-2025), Department of Electrical and Computer Engineering
-* Adjunct Professor (2015-2018), Department of Electrical and Computer Engineering
-* Senior Principal Scientist (2012-2013), [Broadcom](https://www.broadcom.com/)
+* Associate Dean for Undergraduate Studies, [Charles V. Schaefer, Jr. School of Engineering and Science](https://www.stevens.edu/school-engineering-science) (SES), Stevens Institute of Technology, August 1, 2025 – present
+* [Teaching Professor](https://www.stevens.edu/profile/klu2), [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering) (ECE), Stevens Institute of Technology, August 16, 2018 – present
+* Associate Chair for Undergraduate Studies (2021-2025), Department of Electrical and Computer Engineering, Stevens Institute of Technology
+* Adjunct Professor (2015-2018), Department of Electrical and Computer Engineering, Stevens Institute of Technology
+* Senior Principal Scientist (2012-2013), [Broadcom](https://en.wikipedia.org/wiki/Broadcom)
 * Chief Scientist (2003-2012), Executive Director (1999-2003), Director (1995-1999), Member of Technical Staff (1984-1995), [Telcordia/Bellcore](https://en.wikipedia.org/wiki/Iconectiv) Applied Research
   * [The Bellcore Applied Research Area Alumni Home Page](https://www.panix.com/~dfs/bellcore/Alumni.php)
 * Research Assistant (1979-1984), Department of Systems Science and Mathematics, Washington University in St. Louis
@@ -154,6 +154,7 @@ Make lifelong [learning](/Learning) an everyday habit
 * M. Czurlanis, I. Plager, A. Aquino, S. Salem, S. Dalwadi, K. Lu, [S. Shady](https://www.stevens.edu/profile/sshady), “DensiSense: Artificial Intelligence-Powered At-Home Wearable Self-Exam for Dense Breasts,” BMES 2025 Annual Meeting, October 8-12, 2025, San Diego, CA.
 * [D. Miller](https://ieeexplore.ieee.org/author/615726636449383) and [K. W. Lu](https://ieeexplore.ieee.org/author/37085650111), "[Analyzing the Impact of Training Maritime UAV Object Detection Models on Synthetic and Real Data](https://ieeexplore.ieee.org/document/11082215)," 2025 IEEE 34th Wireless and Optical Communications Conference (WOCC), 20-22 May 2025, doi: 10.1109/WOCC63563.2025.11082215.
 * [J. S. Sadowsky](https://ieeexplore.ieee.org/author/38185179800), [S. L. Ariyavisitakul](https://ieeexplore.ieee.org/author/37349391000), [K. W. Lu](https://ieeexplore.ieee.org/author/37073296700), [E. R. Stauffer](https://ieeexplore.ieee.org/author/37296074200), [J. Wang](https://ieeexplore.ieee.org/author/37087155848), and [L. Zachararias](https://ieeexplore.ieee.org/author/37658945700), "[Interpolation distortion in large scale parameter maps for wireless system simulation](https://ieeexplore.ieee.org/document/6831691)," *2013 IEEE Global Communications Conference (GLOBECOM)*, Atlanta, GA, USA, 2013, pp. 3954-3958, doi: 10.1109/GLOCOM.2013.6831691.
+  * John Scott Sadowsky's [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is [2](https://sites.google.com/oakland.edu/grossman/home/the-erdoes-number-project/the-erdoes-number-project-data-files/erdos2)
 * [R. G. White](https://www.linkedin.com/in/robert-white-ph-d-32542911), [T. Zhang](https://www.linkedin.com/in/tao-zhang-ph-d-ieee-fellow-b5a6942), [P. Tukey](https://www.researchgate.net/scientific-contributions/Paul-A-Tukey-2182346238), K. W. Lu, and [D. McNamara](https://www.linkedin.com/in/davidmcnamaramtsllc/), “[Commercial Business Viability of IntelliDrive℠ Safety Applications](https://www.sae.org/publications/technical-papers/content/2010-01-2313/),” *SAE Technical Paper 2010-01-2313*, 2010, doi: 10.4271/2010-01-2313.
   * [Stevens Research Output](https://researchwith.stevens.edu/en/publications/commercial-business-viability-of-intellidrivesupsmsup-safety-appl/)
 * R. C. Menendez, F. J. Effenberger, M. A. Seely, M. I. Eiger, and K. W. Lu, “Cost Comparisons of FTTC and FTTH for Various Demands and Densities,” Proc. 8th International Workshop on Optical/Hybrid Access Networks, Paper 2.3, Atlanta, Georgia, March 2-5, 1997.
