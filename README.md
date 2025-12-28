@@ -202,13 +202,139 @@ Make lifelong [learning](/Learning) an everyday habit
 * [Second Curve of Technology, Media, and Telecommunications](https://goo.gl/5wH7D7)
 
 ## Doctoral Dissertation Committees
-•	Jeevanandha Ramanathan, “Exploring Temporal State Basis for Quantum Information Processing,” August 2025.
-•	Zhan Li, “High-Q Resonators and Single Photon Nonlinearity on Thin Film Lithium Niobate,” May 2024.
-•	Lac Nguyen, “A Practical Approach to Quantum Cryptography With Quantum Authentication,” May 2023.
-•	Prajnesh Vijay Kumar, “Photonic Reservoir Computing,” April 2023.
-•	Anwar Alruwaili, “Utilizing Pre-Validation, Hybrid-Trusted Parties, and Multiple Milestone Payment Systems in Improving Blockchain Transaction Security and Efficiency,” May 2020.
-•	Mohammad Suwaylih Alzaidi, “Physical Layer Techniques for Diffusion-Based Bio-Molecular Nano Communication Systems,” July 2019.
-•	Ghalib Alshammri, “Artificial Intelligence Techniques for Diffusion-Based Bio-Molecular Nano Communication Networks,” May 2019.
-•	Si Yin (NJIT), "A Novel Storage Area Network Extension Solution Over Passive Optical Networks (S-PONs)," January 2009.
-•	Yuanqiu Luo (NJIT), "Dynamic Bandwidth Management With Service Differentiation Over Ethernet Passive Optical Networks," May 2006.
-•	Fahd A. Alharbi (NJIT), "Congestion Control in the Resilient Packet Ring Networks," January 2005.
+*	Jeevanandha Ramanathan, “Exploring Temporal State Basis for Quantum Information Processing,” August 2025.
+*	Zhan Li, “High-Q Resonators and Single Photon Nonlinearity on Thin Film Lithium Niobate,” May 2024.
+*	Lac Nguyen, “A Practical Approach to Quantum Cryptography With Quantum Authentication,” May 2023.
+*	Prajnesh Vijay Kumar, “Photonic Reservoir Computing,” April 2023.
+*	Anwar Alruwaili, “Utilizing Pre-Validation, Hybrid-Trusted Parties, and Multiple Milestone Payment Systems in Improving Blockchain Transaction Security and Efficiency,” May 2020.
+*	Mohammad Suwaylih Alzaidi, “Physical Layer Techniques for Diffusion-Based Bio-Molecular Nano Communication Systems,” July 2019.
+*	Ghalib Alshammri, “Artificial Intelligence Techniques for Diffusion-Based Bio-Molecular Nano Communication Networks,” May 2019.
+*	Si Yin (NJIT), "A Novel Storage Area Network Extension Solution Over Passive Optical Networks (S-PONs)," January 2009.
+*	Yuanqiu Luo (NJIT), "Dynamic Bandwidth Management With Service Differentiation Over Ethernet Passive Optical Networks," May 2006.
+*	Fahd A. Alharbi (NJIT), "Congestion Control in the Resilient Packet Ring Networks," January 2005.
+
+## Master Thesis Committees
+*	Saurabh Raman Parkar, “Contactless Respiratory sensing Using mmWave FMCW Radar and 5G NR,” May 19, 2025.
+*	Jingyi Jia, “Machine Learning Approaches for Predicting Battery Cycle Life: A Study on Degradation Mechanisms and Model Comparisons,” December 2024.
+*	Serafin Fernandez, “Impact on New Jersey’s Electrical Grid and Emissions From Electrical Vehicle Usage by New York City Commuters,” December 2023.
+*	Yaoxi Kang, “Visual Question Answering With Attention,” May 2021.
+*	Yushu Yan, “Reinforcement Learning Based Decentralized Automotive Radar Spectrum Allocation,” May 2021.
+*	Xintong Li, “Reconstructing and Optimizing Natural Images Perceived by the Human Brain Based on Bayesian Deep Multi-View Learning,” April 2021.
+*	Xinru Zhang, “One Sentence Scene Prediction With Attention,” April 2020.
+*	Abrar Alam, “Analyses of Stock Price Predictions Using Deep Learning Techniques,” May 2019.
+*	Nagrajan Chandrasekaran, “Altitude Mapping by Using LiDAR-Mounted Jackal Robot,” December 2017.
+*	Touqeer Ahmad, “Indoor Localization Using Inertial Navigation Systems,” December 2017.
+*	Leyland George, “Impact of Regenerative Breaking on Railway Traction Power Systems,” May 2017.
+
+## Graduate Student Research Projects
+*	Lasya Addala, “NIRCam and MIRI Composite Imaging and Enhancement Using JWST Images,” May 2025.
+*	Prabal Sharma, “Low-Light Object Detection on ExDark via Joint Enhancement-Detection Pipelines,” May 2025.
+*	Daniel Yassa, “A Multi-Modal Aerial Object Detection Framework for Precision Agriculture,” May 2025.
+*	Qizhang Zhu, “Face Recognition Using a Combination of Real and Synthetic Faces,” May 2025.
+*	Dileep Vinay Bezawada, “Driver Distraction Detection and Monitoring,” December 2024.
+*	Rukmini Bugga, “Unveiling the Threat: Developing a Hybrid Surveillance System for Real-Time Detection,” December 2024.
+*	Lipi Karkar, “Comparison of Object Detection Models: YOLO, Faster R-CNN, and Mask R-CNN on the PennFudanPed Dataset,” December 2024.
+*	Hemanth Kurra, “Speed Versus Accuracy: a Comprehensive Evaluation of Object Detection Based on YOLOv8 and Faster R-CNN,” December 2024.
+*	Derick Miller, “Analyzing the Impact of Training Maritime UAV Object Detection Models on Synthetic and Real Data,” December 2024.
+*	Tianyu Sheng, “Machine Learning Approach on Face Recognition,” December 2024.
+*	Saroj Raj Amadala and Srikar Reddy Madireddy, “Autonomous Path Finding Using Object Detection and Teaching-Learning-Based Optimization (TLBO),” May 2024.
+*	Praveena Batta, “Route Guide: A Network Device Classifier,” May 2024.
+*	Ravikanth Gaddam, “Automated Parking AI System Using Computer Vision,” May 2024.
+*	Aakash Brijesh Shukla, “Animal Detection Using Deep Learning,” May 2024.
+*	Vindhya Umesh, “Recipe Recommendation System,” May 2024.
+*	Juncheng Zhou, “LGC-Based Inverse Residual Target Detection Algorithm,” May 2024.
+*	Harsha Tangirala, “Maximized Detection of Bees Using Deep Learning,” December 2023.
+*	Chenjie Jia, “Temporal Action Recognition in Videos,” May 2023.
+*	Wenchang Nie, “Building Recognition of UAV Remote Sensing Images Based on Mask R-CNN,” May 2023.
+*	Jirong Yi, “Helping HR Predict Employee Attrition,” May 2023.
+*	Lifeng Zhang, “Deepfake Video Detection Using CNN and RNN,” May 2023.
+*	Kirat Jadhav, “Wireless Online Shopping for Visually Impaired People Using Natural Language Processing and Face Recognition Mechanism,” December 2022.
+*	Keerthana Sharma Valluru, “Helmet Detection Using Mask R-CNN and Faster R-CNN,” December 2022.
+*	Zhaoxuan Jiang, “Object Detection by R-CNN and Faster R-CNN for Autonomous Driving,” May 2022.
+*	Qi Wu, “Disinformation Detection on the Internet,” May 2022.
+*	Dongfang Zhao, “Application of Optimized VGG Network in Face Recognition,” December 2021.
+*	Ghaith Arar, “Moving From Implicit Control to Explicit Feature Selection in GANs for Photo-Realistic Image Generation Through a GAN-Control on StyleGAN2 Architecture for Nature Images,” May 2021.
+*	Zhujie Li, “Face and Facial Landmark Detection Based on ResNet, GoogLeNet, and YOLO,” May 2021.
+*	Sicheng Zhao, “Picture Quality Enhancing and Style Conversion,” May 2021.
+*	Wuwei Zhu, “Mask Detection Using YOLOv3-SE,” May 2021.
+*	Seshasai Chaturvedula, “Gesture Recognition Using Deep Learning,” December 2020.
+*	Zhujie Li, “Object Detection Based on YOLO, Faster R-CNN and Mask R-CNN in Deep Learning,” December 2020.
+*	Jiahao Lu, “Voice Recognition in Access Systems,” December 2020.
+*	Raveena Mehta and Kishan Teli, “Face Recognition Using Deep Learning,” December 2020.
+*	Junrui Zhang, “Face Recognition Based on Deep Learning,” December 2020.
+*	Yarong Liu, “Research for Object Detection Based on Deep Learning,” May 2020.
+*	Jiahao Lu and Qihang Zhang, “Distinguishing Fake Face or Real Face by VGG,” May 2020.
+*	Jie Yang, “Object Detection Based on R-CNN,” May 2020.
+*	Xuelian Yu, “Object Detection Based on Faster R-CNN,” May 2020.
+*	Peize Yu, “Using Raspberry Pi to Make a Smart Lock With Face Recognition,” December 2019.
+
+## Undergraduate Student Research Projects
+*	Robert Plastina, “A New Model for Detecting Feral Cats Using Clipped Ears,” December 2023.
+*	Jonathan Amir, “Post Quantum Cryptography,” May 2023.
+*	Isaac Kupferschmid, “Implementing a Boat to Shore Communications System,” December 2022.
+*	Phuc Bui, “Analysis of Intermodulation Distortion Vulnerabilities in Current and Future Communications Standards,” December 2022.
+*	Kamen Kresnitchki, “Media Streaming and Icecast Report,” December 2022.
+
+## Senior Thesis Committee
+*	Justin DeTone, “A Spiking Neural Network Model in Python,” May 2020.
+
+## Senior Design Projects
+*	Ryan Connolly (CPE) and Moshe Moskowitz (CPE), “Armoire: Deep Learning-Integrated Sustainable Wardrobe Assistant,” Fall 2024 – Spring 2025.
+*	Seongjun An (CPE), Phineas Howell (CPE), Anthony Huang (CPE), Nicole McDermott (CPE), Brian Ong (EE), and Steve Serrano (EE), “BAM Monitoring,” Fall 2024 – Spring 2025.
+*	Danny Moss (SSW), Jamie Mwai (EE), Dylan Ramcharitar (CPE), Greyson Richards (EE), Ryan Tierney (EE), and Leor Yomtobian (EE), “DoseDoc,” Fall 2024 – Spring 2025.
+*	Abigail Izzo (EE), Jason McCauley (SSW), Atharva Shaligram (EE), Eli Shtindler (CPE), and Christopher Spadavecchia (CPE), “Green Robotics for Optimal Weeding (G.R.O.W.),” Fall 2024 – Spring 2025.
+*	Caroline Gomez (CPE), Adriana Lopez (CPE), and Gabriel Mendoza (EE), “Heatwave Safety,” Fall 2024 – Spring 2025.
+*	Andrew Anantharajah (CPE), Steven Aponte (EE), Christopher Cajamca (SSW), Ahmad Chaabane (SSW), William Chimbay (CPE), and William Valenzuela (EE), “LiveLong,” Fall 2024 – Spring 2025.
+*	Jarrett Aaronson (CPE), Ryan DeSantis (CPE), Elizabeth MacDonald (EE), Malik Tragna (EE), and Dominick Vovk (CPE), “Pathfinder,” Fall 2024 – Spring 2025.
+*	Nicholas Accardo (SSW), Owen Deem (EE), Cooper Foote (EE), and David Frost (SSW), “SYNC Orthotic Hand Exoskeleton,” Fall 2024 – Spring 2025.
+*	Adam Anikiej (CS), Christopher Bertuzzi (CPE), Dennis Bollettino (CS), Christopher Pucci (EE), and Matthew Schmitt (CS). “TygerTrax: Fitness Sensor and App,” Fall 2024 – Spring 2025.
+*	Brandon Boutin (CS), David Krauthammer (EE), and Robert Plastina (CPE), “C.A.T.S.,” Fall 2023 – Spring 2024.
+*	Adil Chaka (CPE), Zeyad Eltemsah (CPE), Sarah Erickson (EE), Teddy Nueva Espana (CPE), Maciej Pudlik (EE), Joy Son (CPE), and Juan Ocampo (SSW), “Clotoure,” Fall 2023 – Spring 2024.
+*	Dorzhi Denisov (EE) and Chiripol Sirikakan (CPE), “Farmguard,” Fall 2023 – Spring 2024.
+*	Jacob Agbata (EE), Ryan Alberti (EE), Cesar Espejo (EE), Terrence Meekins (EE), Caleb Romero (EE), and Piotr Zelazny (EE), “Flock Force,” Fall 2023 – Spring 2024.
+*	Arif Amzad (EE), Isaac Kupferschmid (CPE), Hunter Lederman (EE), Daniil Novikov (EE), Matthew Russo (EE), Riya Shrestha (CPE), Amanda Antico (ME), Nicholas Hennessy (ME), Mark Lapinski (ME), and Michael Polasek (ME), “ASNE PEP Team: Stevens RoBoat,” Fall 2022 – Spring 2023.
+*	Ahmed Abuharthieh (EE), Nihal Hossain (EE), and Osazee Nosa (EE), “Automated Greenhouse,” Fall 2022 – Spring 2023.
+*	Justin Ahn (CPE), Zachary Kermitz (CPE), Rhys Lee (CPE), and Nicholas Lim (CPE), “BUBBL,” Fall 2022 – Spring 2023.
+*	Cameron Kline (EE), Joseph Perez (CPE), and Eric Rudzin (CS), “Cuitt,” Fall 2022 – Spring 2023.
+*	Jon Kochanik (CPE), Jonah Kramer (CPE), Jacqueline Nesi (CPE), and Andrew Shamis (CPE), “Jabil DFE: Digital Front End,” Fall 2022 – Spring 2023.
+*	Phuc Bui (EE), Jonathan Cho (EE), Garrett Franckle (EE), and Samuel Noack (EE), “Jabil FPGA PIM: Passive Intermodulation,” Fall 2022 – Spring 2023.
+*	Joshua Kozohar (EE), Arbel Meta (EE), Shiddharath Patel (CPE), and Hardik Veguru (CPE), “V2G,” Fall 2022 – Spring 2023.
+*	Calvin Zheng (CPE), Michael Compagnino (EE), Jagnoor Gandhok (CPE), Jonathan Kubas (CPE), Jordan Fernandes (SSW), Ninghui Fang (EE), and Bailey McNamara (EE), “Clearvoyance,” Fall 2022 – Spring 2023.
+*	Elizabeth Samayoa (EE), Christian Diesen (EE), Jonathan Melamed (CPE), Tahrim Imon (CPE), Akash Rana (CPE), and Austin Hodges (SSW), “Soma,” Fall 2022 – Spring 2023.
+*	Kamen Kresnitchki (CPE) and Joseph Tsui (ME), “Metra,” Fall 2022 – Spring 2023.
+*	Jackie Fang (EE), Gabriel Garcia (CPE), Winston Lei (CPE), John Nugent (CPE), Roshan Soni (CPE), Anthony Mendo (ME), “NoteFinder,” Fall 2022 – Spring 2023.
+*	Matthew Petrin (EE), Drew Pearlstein (EE), Kenneth Kim (CPE), Benjamin Holko (EE), and John McAuliffe (ME), “Torrent,” Fall 2022 – Spring 2023.
+*	Julia Chung (CPE), Justis DiBattista (CPE), William Baltus (SSW), Jon Cucci (SSW), and Grace Miguel (SSW), “IntelliVeggie,” Fall 2021 – Spring 2022.
+*	Sutton Dole (CPE), Rui Fernandes (CPE), Abhishek Kakar (CPE), Hritesh Manda (CPE), Jakob Niglio (CPE), and Luis Ogaz (EE), “Joystik,” Fall 2021 – Spring 2022.
+*	Jon Cristobal (CPE) and Matthew Gaughan (CPE), “Stone Computing,” Fall 2021 – Spring 2022.
+*	Qingyao Fan (CPE), Mingyao Tang (EE), and Daren Tay (CPE), “VeggieCare,” Fall 2021 – Spring 2022.
+*	Andrew DeSanti (CPE), Joshua Hornilla (CPE), Alexei Nikiforov (CPE), Zachary Salisbury (CPE), and Anisha Shin (CPE), “TrackRabbit,” Fall 2021 – Spring 2022.
+*	Andrew Antonacci (CPE), Sarah Bertussi (ME), and Jennifer Lloyd (CPE), “BeatBot,” Fall 2020 – Spring 2021.
+*	Brandon Ip (CPE), Jason Raffone (EE), Sebastian Cano (CPE), and Isaiah Burgess (CPE), “FAST Relief,” Fall 2020 – Spring 2021.
+*	Matthew Bauer (EE), Chase Capron (CPE), and Trevor Dawideit (CPE), “GreenThumb,” Fall 2020 – Spring 2021.
+*	Alex Martorano (EE), Edward Gaskin (EE), and Jonathan Banks (Rutgers), “I.O.Clean,” Fall 2020 – Spring 2021.
+*	Stephan Abrimian (CPE) and Christopher Jamgotchian (CPE), “Oush Kisher: Smart Armenian Coffee Machine,” Fall 2020 – Spring 2021.
+*	Joseph Insalaco (CPE), Brian Ng (EE), Bernard Tran (CPE), Kayleen Chin (CPE), and William Zheng (CPE), “Common,” Fall 2020 – Spring 2021.
+*	Alexander Wurst (CPE), Shivam Sheth (CPE), Brian Flores (CPE), and Mohammed Elmzaghi (CPE), “Sensus: AI Tool That Derives Emotion and Intent From Written Communication,” Fall 2020 – Spring 2021.
+*	Anthony Donatelli (CPE), Jeriel Lao (EE), and David Li (CPE), “Project Synapse,” Fall 2020 – Spring 2021.
+*	Evan Binder (CPE), Nicholas Campbell (EE), and Jamie Shamilian (CPE), “POW: Python On Wii,” Fall 2020 – Spring 2021.
+*	David Lehman (CPE), Domenic Malfetano (EE), Jesse Priest (BT), Ryan Tom (BT), Justin Trugman (BT), Kirk Vasilas (CPE), and Samuel Young (CPE), “Free Space Optical Communication Linux Driver,” Fall 2019 – Spring 2020.
+*	Tyler Bryk (CPE), Michael Eng (CPE), Simas Glebavicius (CPE), James O'Brien (CPE), and Stephen Opet III (EE), “Luxtron Li-Fi,” Fall 2019 – Spring 2020.
+*	Roger Il Grande Jr. (EE), Daniel Bianchini (CPE), and Christopher Keenan (EE), “Rocket Flight Computer,” Fall 2019 – Spring 2020.
+*	Johnathan Aviles (CPE), Kevin Largacha (CPE), and Ireneusz Scieszka (CPE), “SEARH: Smart Emergency Accelerated Response Holster,” Fall 2019 – Spring 2020.
+*	Tyler McShea (EE), Lucas Payette (CPE), and Derek Schwoyer (EE), “Smart Lock,” Fall 2019 – Spring 2020.
+*	Justin Westley (CPE), Anthony Orrico II (CPE), and Zachary Strange (CPE), “Smart Parking,” Fall 2019 – Spring 2020.
+*	Andrew Barry (CPE), “Cryptophone,” Spring 2019 – Fall 2019.
+*	Marc Greenfield (EE), Brian Kim (EE), Tsz Wai Lam (EE), Nicolas Nuila (CPE), Andrew O’Brien (CS), “AirTrack: Personalized Image-Tracking Drone,” Fall 2018 – Spring 2019.
+*	Andrew Emery (EE), Frank Lenge (CPE), and Joshua Maldonado (CPE), “Crypto-Wallet: Secure Your Coins,” Fall 2018 – Spring 2019.
+*	Kyra DiFrancesco (EE), Diana Galarza (CPE), Eric Kim (CPE), and Kipsy Quevada (EE), “EVisualize: A Fully Integrated Electric Vehicle Charging Solution,” Fall 2018 – Spring 2019.
+*	Andrew Afflitto (CPE), Sean Jones (EE), and Samuel Yakovlev (CPE), “Free-Space Assistance Drone (Free-SAD): RockSat-X Prototype,” Fall 2018 – Spring 2019.
+*	Akshay Sampath (EE) and Steven Nichols (CPE), “Hoboken Recreation App,” Fall 2018 – Spring 2019.
+*	Brereton Conway (CPE), Daniel Pinto (CPE), and Joseph Puciloski (CPE), “Li-Fi: Visible Light Communications,” Fall 2018 – Spring 2019.
+*	George Amabile (EE), James Goldman (EE), Stanley Lin (CPE), and Clayton McLean Jr. (CPE), “Ludice: The Board Game Tablet,” Fall 2018 – Spring 2019.
+*	Yuhan Cai (EE), Kai Chen (CPE), Zhen Gong (CPE), and Jie Miao (CPE), “Machine Data Collecting System,” Fall 2018 – Spring 2019.
+*	Brian Bazergui (CPE), Shane Lynes (CPE), Nicholas Martella (EE), Mark Matthews (CPE), Shayna McCarthy (CPE), John Stabile (EE), and Sofia Zapata (EE), “Nano Health Solutions,” Fall 2018 – Spring 2019.
+*	Ryan Bloomgren (EE), Lawrence Elentukh (CPE), Anna Petruczynik (EE), Matthew Tomaro (CPE), Nicholas Tomaro (EE), and Scott Weitze (EE), “Urbonics: An Automated and Intelligent Planter System,” Fall 2018 – Spring 2019.
+*	Gary Marschuetz (CPE), “ContentButton,” Fall 2017 – Spring 2018.
+*	Matthew Sabatini (CPE) and Mike Wezyk (QF), “Diagnose.Me,” Fall 2017 – Spring 2018.
+*	Daniel Faulisi (CPE), David Gensheimer (CPE), and Matthew Lagarenne (CPE), “WalleTracc,” Fall 2017 – Spring 2018.
