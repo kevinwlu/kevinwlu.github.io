@@ -127,10 +127,12 @@ Make lifelong [learning](/Learning) an everyday habit
 
 ## Contributions
 * IEEE Future Networks, [IEEE 5G and Beyond Technology Roadmap White Paper](https://futurenetworks.ieee.org/images/files/pdf/ieee-5g-roadmap-white-paper.pdf), October 2017
+*	J. D. Margulici, W. Bachman, M. Lindsay, K.W. Lu, C. Scofield, and S. Turner, “North American Traffic Working Group (NATWG) Traffic Information Benchmarking Guidelines (TIBG),” Version 1.0, April 22, 2010
+*	J. Reilly, N. H. Cheng, and K. W. Lu, “IP Communications Implementation for Critical Infrastructure,” United Telecom Council (UTC) Research Report, September 2005
 * National Research Council. 2002. [*Broadband: Bring Home the Bits*](https://nap.nationalacademies.org/read/10235/chapter/1#ix). Washington, DC: The National Academies Press. doi: https://doi.org/10.17226/10235
   > Kevin Lu, executive director of the Integrated Access and Operations Department, Telcordia, discussed fiber in the last mile (National Academies Broadband Access Workshop, Committee on Broadband Last Mile Technology of the National Research Council, Washington, D.C., June 19, 2000)
 
-## Journal Papers
+## Journal Publications
 * [M. Ulema](https://manhattan.edu/campus-directory/mehmet.ulema), [A. Kaplan](https://www.cs.princeton.edu/people/profile/ak18), K. W. Lu, [N. Amogh](https://www.linkedin.com/in/niranth/), and [B. Kozbe](https://www.linkedin.com/in/barcinkozbe/), "[Critical communications and public safety networks, part 2: technical issues, security, and applications [Guest Editorial]](https://ieeexplore.ieee.org/document/7452260)," in *IEEE Communications Magazine*, vol. 54, no. 4, pp. 14-15, April 2016, doi: 10.1109/MCOM.2016.7452260.
 * M. Ulema, A. Kaplan, K. W. Lu, N. Amogh, and B. Kozbe, "[Critical communications and public safety networks part 1: Standards, spectrum policy, and economics](https://ieeexplore.ieee.org/document/7432141)," in *IEEE Communications Magazine*, vol. 54, no. 3, pp. 12-13, March 2016, doi: 10.1109/MCOM.2016.7432141.
 * [X. Wu](https://www.linkedin.com/in/xinzhouw), [S. Subramanian](https://www.linkedin.com/in/sundar-subramanian-aummw), [R. Guha](https://ieeexplore.ieee.org/author/37089124729), [R. G. White](https://ieeexplore.ieee.org/author/37272993300), [J. Li](https://ieeexplore.ieee.org/author/37715748500), K. W. Lu, [A. Bucceri](https://ieeexplore.ieee.org/author/37073303100), and [T. Zhang](https://www.nist.gov/people/tao-zhang), "[Vehicular communications using DSRC: challenges, enhancements, and evolution](https://ieeexplore.ieee.org/document/6550885)," in *IEEE Journal on Selected Areas in Communications*, vol. 31, no. 9, pp. 399-408, September 2013, doi: 10.1109/JSAC.2013.SUP.0513036.
@@ -150,6 +152,7 @@ Make lifelong [learning](/Learning) an everyday habit
 * J. Zaborszky, G. Huang, and K. W. Lu, "[A textured model for computationally efficient reactive power control and management](https://ieeexplore.ieee.org/document/4113290)," in *IEEE Transactions on Power Apparatus and Systems*, vol. PAS-104, no. 7, pp. 1718-1727, July 1985, doi: 10.1109/TPAS.1985.319204.
 
 ## Conference Papers
+* M. Czurlanis, I. Plager, A. Aquino, S. Salem, S. Dalwadi, K. Lu, [S. Shady](https://www.stevens.edu/profile/sshady), “DensiSense: Artificial Intelligence-Powered At-Home Wearable Self-Exam for Dense Breasts,” BMES 2025 Annual Meeting, October 8-12, 2025, San Diego, CA.
 * [D. Miller](https://ieeexplore.ieee.org/author/615726636449383) and [K. W. Lu](https://ieeexplore.ieee.org/author/37085650111), "[Analyzing the Impact of Training Maritime UAV Object Detection Models on Synthetic and Real Data](https://ieeexplore.ieee.org/document/11082215)," 2025 IEEE 34th Wireless and Optical Communications Conference (WOCC), 20-22 May 2025, doi: 10.1109/WOCC63563.2025.11082215.
 * [J. S. Sadowsky](https://ieeexplore.ieee.org/author/38185179800), [S. L. Ariyavisitakul](https://ieeexplore.ieee.org/author/37349391000), [K. W. Lu](https://ieeexplore.ieee.org/author/37073296700), [E. R. Stauffer](https://ieeexplore.ieee.org/author/37296074200), [J. Wang](https://ieeexplore.ieee.org/author/37087155848), and [L. Zachararias](https://ieeexplore.ieee.org/author/37658945700), "[Interpolation distortion in large scale parameter maps for wireless system simulation](https://ieeexplore.ieee.org/document/6831691)," *2013 IEEE Global Communications Conference (GLOBECOM)*, Atlanta, GA, USA, 2013, pp. 3954-3958, doi: 10.1109/GLOCOM.2013.6831691.
 * [R. G. White](https://www.linkedin.com/in/robert-white-ph-d-32542911), [T. Zhang](https://www.linkedin.com/in/tao-zhang-ph-d-ieee-fellow-b5a6942), [P. Tukey](https://www.researchgate.net/scientific-contributions/Paul-A-Tukey-2182346238), K. W. Lu, and [D. McNamara](https://www.linkedin.com/in/davidmcnamaramtsllc/), “[Commercial Business Viability of IntelliDrive℠ Safety Applications](https://www.sae.org/publications/technical-papers/content/2010-01-2313/),” *SAE Technical Paper 2010-01-2313*, 2010, doi: 10.4271/2010-01-2313.
@@ -197,3 +200,15 @@ Make lifelong [learning](/Learning) an everyday habit
 * [Professional Writing Workshop](https://docs.google.com/presentation/d/1MxA8BNXht-iZBCjvJ132hFw8NCFqIsytRd7-xZcuoo8)
 * [Research Ethics](https://docs.google.com/presentation/d/17tJUBG1FEAJRNnsOmk7I3pOiPmfpcyCJATd_FuNYrto)
 * [Second Curve of Technology, Media, and Telecommunications](https://goo.gl/5wH7D7)
+
+## Doctoral Dissertation Committees
+•	Jeevanandha Ramanathan, “Exploring Temporal State Basis for Quantum Information Processing,” August 2025.
+•	Zhan Li, “High-Q Resonators and Single Photon Nonlinearity on Thin Film Lithium Niobate,” May 2024.
+•	Lac Nguyen, “A Practical Approach to Quantum Cryptography With Quantum Authentication,” May 2023.
+•	Prajnesh Vijay Kumar, “Photonic Reservoir Computing,” April 2023.
+•	Anwar Alruwaili, “Utilizing Pre-Validation, Hybrid-Trusted Parties, and Multiple Milestone Payment Systems in Improving Blockchain Transaction Security and Efficiency,” May 2020.
+•	Mohammad Suwaylih Alzaidi, “Physical Layer Techniques for Diffusion-Based Bio-Molecular Nano Communication Systems,” July 2019.
+•	Ghalib Alshammri, “Artificial Intelligence Techniques for Diffusion-Based Bio-Molecular Nano Communication Networks,” May 2019.
+•	Si Yin (NJIT), "A Novel Storage Area Network Extension Solution Over Passive Optical Networks (S-PONs)," January 2009.
+•	Yuanqiu Luo (NJIT), "Dynamic Bandwidth Management With Service Differentiation Over Ethernet Passive Optical Networks," May 2006.
+•	Fahd A. Alharbi (NJIT), "Congestion Control in the Resilient Packet Ring Networks," January 2005.
