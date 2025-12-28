@@ -111,19 +111,18 @@ Make lifelong [learning](/Learning) an everyday habit
 
 ## News Articles
 * [Telecom Expert Honored By IEEE Standards Association: Stevens professor was recognized for standards governance management](https://spectrum.ieee.org/telecom-kevin-lu-ieee-standards), *The Institute*, June 12, 2025
-* [High School Students Broaden Their Futures Through Experiential Learning at Stevens](https://www.stevens.edu/news/high-school-students-experiential-learning), July 17, 2025
-* [Stevens Inducts Graduating Seniors into the Order of the Engineer at Spring 2025 Ceremony](https://www.stevens.edu/news/order-of-the-engineer-2025), July 10, 2025
-* [Alumni Panel Furthers Culture of Inclusion at Stevens](https://www.stevens.edu/news/alumni-panel-furthers-culture-of-inclusion-at-stevens), January 15, 2025
-* [Research Ethics and Writing: How to Ensure the Research Meets the Ethical Guidelines and Writing Style](/Seminar.md), September 13, 2023
-* [Circle Optics Company News](https://circleoptics.com/insight-from-stevens-institute-professor-kevin-lu/), June 15, 2023
-* [Rediscovering the Language of Family Connections](https://www.stevens.edu/news/rediscovering-the-language-of-family-connections), May 19, 2023
+* [High School Students Broaden Their Futures Through Experiential Learning at Stevens](https://www.stevens.edu/news/high-school-students-experiential-learning), *Stevens News*, July 17, 2025
+* [Stevens Inducts Graduating Seniors into the Order of the Engineer at Spring 2025 Ceremony](https://www.stevens.edu/news/order-of-the-engineer-2025), *Stevens News*, July 10, 2025
+* [Alumni Panel Furthers Culture of Inclusion at Stevens](https://www.stevens.edu/news/alumni-panel-furthers-culture-of-inclusion-at-stevens), *Stevens News*, January 15, 2025
+* [Insight From Stevens Institute Professor Kevin Lu](https://circleoptics.com/insight-from-stevens-institute-professor-kevin-lu/), *Circle Optics Company News*, June 15, 2023
+* [Rediscovering the Language of Family Connections](https://www.stevens.edu/news/rediscovering-the-language-of-family-connections), *Stevens News*, May 19, 2023
 * [Snapshots From The 2022 Innovation Expo](https://www.stevens.edu/indicator/fall-2022/snapshots-from-the-2022-innovation-expo), *Stevens Indicator*, Fall 2022
-* [Seniors Design Intelligent Greenhouse to Grow a More Sustainable Food Supply](https://www.stevens.edu/news/seniors-design-intelligent-greenhouse-grow-more-sustainable-food-supply), June 3, 2022
+* [Seniors Design Intelligent Greenhouse to Grow a More Sustainable Food Supply](https://www.stevens.edu/news/seniors-design-intelligent-greenhouse-grow-more-sustainable-food-supply), *Stevens News*, June 3, 2022
 * [Pick 6: Six Reasons You Need to Attend Stevens Institute of Technology’s 2022 Innovation Expo on April 29
-](https://www.stevens.edu/news/pick-6-six-reasons-you-need-attend-stevens-institute-technologys-2022-innovation-expo-april-29), April 23, 2022
-* [Stevens Seniors Code Smart Watch App to Monitor Panic Attacks and Foster Communication Between Patients and Therapists](https://www.stevens.edu/news/stevens-seniors-code-smart-watch-app-monitor-panic-attacks-and-foster-communication-between-patients), April 8, 2020
-* [Stevens Honors Excellence in Research, Teaching During 2018-2019 Academic Year](https://www.stevens.edu/news/stevens-honors-excellence-research-teaching-during-2018-2019-academic-year), May 30, 2019
-* [Stevens Opens Doors to Record Number of New Faculty for Fall 2018](https://www.stevens.edu/news/stevens-opens-doors-record-number-new-faculty-fall-2018), September 7, 2018
+](https://www.stevens.edu/news/pick-6-six-reasons-you-need-attend-stevens-institute-technologys-2022-innovation-expo-april-29), *Stevens News*, April 23, 2022
+* [Stevens Seniors Code Smart Watch App to Monitor Panic Attacks and Foster Communication Between Patients and Therapists](https://www.stevens.edu/news/stevens-seniors-code-smart-watch-app-monitor-panic-attacks-and-foster-communication-between-patients), *Stevens News*, April 8, 2020
+* [Stevens Honors Excellence in Research, Teaching During 2018-2019 Academic Year](https://www.stevens.edu/news/stevens-honors-excellence-research-teaching-during-2018-2019-academic-year), *Stevens News*, May 30, 2019
+* [Stevens Opens Doors to Record Number of New Faculty for Fall 2018](https://www.stevens.edu/news/stevens-opens-doors-record-number-new-faculty-fall-2018), *Stevens News*, September 7, 2018
 
 ## Contributions
 * IEEE Future Networks, [IEEE 5G and Beyond Technology Roadmap White Paper](https://futurenetworks.ieee.org/images/files/pdf/ieee-5g-roadmap-white-paper.pdf), October 2017
@@ -191,6 +190,7 @@ Make lifelong [learning](/Learning) an everyday habit
 * [G. Huang](https://scholars.library.tamu.edu/vivo/display/n8800928d/), K. W. Lu, and [J. Zaborszky](https://www.nae.edu/28317/Dr-John-Zaborszky), "[A texture model/algorithm for computationally efficient dispatch and control on the power system](https://ieeexplore.ieee.org/abstract/document/4048961)," *1986 25th IEEE Conference on Decision and Control*, Athens, Greece, 1986, pp. 1198-1205, doi: 10.1109/CDC.1986.267572.
 
 ## Presentations
+* [Research Ethics and Writing: How to Ensure the Research Meets the Ethical Guidelines and Writing Style](/Seminar.md), September 13, 2023
 * [Balanced Skill Set](https://docs.google.com/presentation/d/153WdbX45X3mDv5xqPK3I9XluN-qWKLW9vqNKKk2y5kI)
 * [Careers in Industry](https://docs.google.com/presentation/d/106zGCupPAgWhLEW6l_BM_moIr_ZFnFw36kjqOi9m9q8)
 * [Ethics of Autonomous and Intelligent Systems](https://docs.google.com/presentation/d/1mvlRrR5tgnX2LDzR20_8J74wdCawYNp7Y1KuTh8QK3c)
