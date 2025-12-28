@@ -127,7 +127,7 @@ Make lifelong [learning](/Learning) an everyday habit
 
 ## Contributions
 * IEEE Future Networks, [IEEE 5G and Beyond Technology Roadmap White Paper](https://futurenetworks.ieee.org/images/files/pdf/ieee-5g-roadmap-white-paper.pdf), October 2017
-*	J. D. Margulici, W. Bachman, M. Lindsay, K.W. Lu, C. Scofield, and S. Turner, “North American Traffic Working Group (NATWG) Traffic Information Benchmarking Guidelines (TIBG),” Version 1.0, April 22, 2010
+*	J. D. Margulici, W. Bachman, M. Lindsay, K. W. Lu, C. Scofield, and S. Turner, “North American Traffic Working Group (NATWG) Traffic Information Benchmarking Guidelines (TIBG),” Version 1.0, April 22, 2010
 *	J. Reilly, N. H. Cheng, and K. W. Lu, “IP Communications Implementation for Critical Infrastructure,” United Telecom Council (UTC) Research Report, September 2005
 * National Research Council. 2002. [*Broadband: Bring Home the Bits*](https://nap.nationalacademies.org/read/10235/chapter/1#ix). Washington, DC: The National Academies Press. doi: https://doi.org/10.17226/10235
   > Kevin Lu, executive director of the Integrated Access and Operations Department, Telcordia, discussed fiber in the last mile (National Academies Broadband Access Workshop, Committee on Broadband Last Mile Technology of the National Research Council, Washington, D.C., June 19, 2000)
