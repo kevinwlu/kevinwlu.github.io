@@ -523,6 +523,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Grimod de La Reynière](https://en.wikipedia.org/wiki/Grimod_de_La_Reyni%C3%A8re) 1758&mdash;1837
 * [Petrifaction](https://en.wikipedia.org/wiki/Petrifaction)
 * [Photosynthesis](https://en.wikipedia.org/wiki/Photosynthesis)
+* [Phyllanthus emblica](https://en.wikipedia.org/wiki/Phyllanthus_emblica)
+  * [Strait of Malacca](https://en.wikipedia.org/wiki/Strait_of_Malacca)
 * [Right whale](https://en.wikipedia.org/wiki/Right_whale)
 * [Saffron](https://en.wikipedia.org/wiki/Saffron)
 * [Saffron (color)](https://en.wikipedia.org/wiki/Saffron_(color))
