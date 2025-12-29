@@ -458,6 +458,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Mare Imbrium](https://en.wikipedia.org/wiki/Mare_Imbrium): Sea of Rains on the Moon
 ## Biology
 * [Aesculus glabra](https://en.wikipedia.org/wiki/Aesculus_glabra) as known as buckeye
+* [Areca catechu](https://en.wikipedia.org/wiki/Areca_catechu) 
+* [Areca nut](https://en.wikipedia.org/wiki/Areca_nut)
 * [Astrocyte](https://en.wikipedia.org/wiki/Astrocyte)
 * [Biome](https://en.wikipedia.org/wiki/Biome)
   * [Fauna](https://en.wikipedia.org/wiki/Fauna)
