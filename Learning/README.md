@@ -450,6 +450,9 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Sprite (lightning)](https://en.wikipedia.org/wiki/Sprite_(lightning))
 * [Tropical cyclone naming](https://en.wikipedia.org/wiki/Tropical_cyclone_naming)
 * [List of highest mountains on Earth](https://en.wikipedia.org/wiki/List_of_highest_mountains_on_Earth)
+* [Taklamakan Desert](https://en.wikipedia.org/wiki/Taklamakan_Desert)
+  * [Great Green Wall (China)](https://en.wikipedia.org/wiki/Great_Green_Wall_(China))
+* [Yarlung Tsangpo](https://en.wikipedia.org/wiki/Yarlung_Tsangpo)
 * [Inge Lehmann](https://en.wikipedia.org/wiki/Inge_Lehmann) 1888&mdash;1993
   * [Lehmann discontinuity](https://en.wikipedia.org/wiki/Lehmann_discontinuity)
 * [Mare Imbrium](https://en.wikipedia.org/wiki/Mare_Imbrium): Sea of Rains on the Moon
