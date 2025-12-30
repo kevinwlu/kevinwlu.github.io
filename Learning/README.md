@@ -668,6 +668,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 ## Chemistry
 * [AlphaFold](https://en.wikipedia.org/wiki/AlphaFold)
   * [The Nobel Prize in Chemistry 2024](https://www.nobelprize.org/prizes/chemistry/2024/summary/)
+* [BASF](https://en.wikipedia.org/wiki/BASF)
 * [Bromine](https://en.wikipedia.org/wiki/Bromine)
 * [Brominated flame retardant](https://en.wikipedia.org/wiki/Brominated_flame_retardant) (BFR)
 * [Dark oxygen](https://en.wikipedia.org/wiki/Dark_oxygen)
