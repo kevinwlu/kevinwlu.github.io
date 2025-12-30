@@ -684,6 +684,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [MolAR](https://mtzgroup.github.io/molar/)
   * [App](https://apps.apple.com/us/app/molar-augmented-reality/id1559504847?platform=iphone)
 * [Nigel Braun](https://arndtsen-group.mcgill.ca/nigel.html) | [Videos](https://www.youtube.com/@NileRed/videos)
+* [Phoenix Tailings](https://phoenixtailings.com/) rare earth refining
 * [ProFET](https://github.com/ddofer/ProFET) (Protein Feature Engineering Toolkit) for Machine Learning
 * [Radical (chemistry)](https://en.wikipedia.org/wiki/Radical_(chemistry))
   * [Liver spot](https://en.wikipedia.org/wiki/Liver_spot)
