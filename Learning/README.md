@@ -251,12 +251,14 @@
   * [Design–build](https://en.wikipedia.org/wiki/Design%E2%80%93build)
     * [David E. Sellers](https://en.wikipedia.org/wiki/David_E._Sellers) 1938&mdash;2025
 * [Ambulatory](https://en.wikipedia.org/wiki/Ambulatory)
+* [Angkor Wat](https://en.wikipedia.org/wiki/Angkor_Wat)
 * [Brick](https://en.wikipedia.org/wiki/Brick)
   * [Roman brick](https://en.wikipedia.org/wiki/Roman_brick)
 * [Bridge of Sighs](https://en.wikipedia.org/wiki/Bridge_of_Sighs)
   * [Bridge of Sighs, Cambridge](https://en.wikipedia.org/wiki/Bridge_of_Sighs,_Cambridge)
   * [Bridge of Sighs, Oxford](https://en.wikipedia.org/wiki/Bridge_of_Sighs,_Oxford)
 * [Passive house](https://en.wikipedia.org/wiki/Passive_house)
+* [Preah Vihear](https://en.wikipedia.org/wiki/Preah_Vihear)
 * [Sagrada Família](https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia)
   * [Antoni Gaudí](https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD) 1852&mdash;1926
   * [Sedum acre](https://en.wikipedia.org/wiki/Sedum_acre)
