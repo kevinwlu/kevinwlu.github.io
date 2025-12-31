@@ -689,6 +689,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Radical (chemistry)](https://en.wikipedia.org/wiki/Radical_(chemistry))
   * [Liver spot](https://en.wikipedia.org/wiki/Liver_spot)
 * [Radium Girls](https://en.wikipedia.org/wiki/Radium_Girls)
+* [Red mud](https://en.wikipedia.org/wiki/Red_mud) or [bauxite](https://en.wikipedia.org/wiki/Bauxite) residue
+  * [IB2](https://ib2.com/) 
 * [Samarium](https://en.wikipedia.org/wiki/Samarium) is a chemical element with the symbol Sm and atomic number 62
   * [Samarium–cobalt magnet](https://en.wikipedia.org/wiki/Samarium%E2%80%93cobalt_magnet)
 * [Single-molecule electric motor](https://en.wikipedia.org/wiki/Single-molecule_electric_motor)
