@@ -190,17 +190,22 @@ Make lifelong [learning](/Learning) an everyday habit
 * J. C. Lee and K. W. Lu, “On a family of data-based transformed models useful in forecasting technological substitutions,” Proc. American Statistical Association Annual Meetings - Business and Economics Statistics Sec., pp. 52-59, Chicago, Illinois, August 18-21, 1986.
 * [G. Huang](https://scholars.library.tamu.edu/vivo/display/n8800928d/), K. W. Lu, and [J. Zaborszky](https://www.nae.edu/28317/Dr-John-Zaborszky), "[A texture model/algorithm for computationally efficient dispatch and control on the power system](https://ieeexplore.ieee.org/abstract/document/4048961)," *1986 25th IEEE Conference on Decision and Control*, Athens, Greece, 1986, pp. 1198-1205, doi: 10.1109/CDC.1986.267572.
 
-## Presentations
-* [Research Ethics and Writing: How to Ensure the Research Meets the Ethical Guidelines and Writing Style](/Seminar.md), September 13, 2023
-* [Balanced Skill Set](https://docs.google.com/presentation/d/153WdbX45X3mDv5xqPK3I9XluN-qWKLW9vqNKKk2y5kI)
-* [Careers in Industry](https://docs.google.com/presentation/d/106zGCupPAgWhLEW6l_BM_moIr_ZFnFw36kjqOi9m9q8)
-* [Ethics of Autonomous and Intelligent Systems](https://docs.google.com/presentation/d/1mvlRrR5tgnX2LDzR20_8J74wdCawYNp7Y1KuTh8QK3c)
-* [Hands-on Approach to Internet of Things](https://docs.google.com/presentation/d/1nW76PppJbi9WeeJnl-cxk0Al-DEN9r5vw4FR4d0fkYI)
-* [IEEE Writing Style](https://docs.google.com/presentation/d/1TIWfYpBYfumA1rgMLDP6UkM7fC9rC8EK4up3Q28t6MQ)
-* [Necessity and Serendipity of Invention and Innovation](https://docs.google.com/presentation/d/1hLaVNikDvlXs1PCG4ikN8zXegfyOYcp04XByzQSG864)
-* [Professional Writing Workshop](https://docs.google.com/presentation/d/1MxA8BNXht-iZBCjvJ132hFw8NCFqIsytRd7-xZcuoo8)
-* [Research Ethics](https://docs.google.com/presentation/d/17tJUBG1FEAJRNnsOmk7I3pOiPmfpcyCJATd_FuNYrto)
-* [Second Curve of Technology, Media, and Telecommunications](https://goo.gl/5wH7D7)
+## Invited Presentations
+*	“Ten Steps to Designing IoT Prototype,” the IEEE North Jersey Section, FDU, Teaneck, NJ, December 8, 2016, and NJIT, September 22, 2016
+*	“Teaching the Internet of Things: From STEM to STEAM,” Hughes Network Systems, Gaithersburg, MD, April 22, 2016
+*	“The Internet of Things,” NJIT ECE 101, 2015 and 2016
+*	“The Internet of Things: Advances and Applications,” the IEEE North Jersey Advanced Communications Symposium, Stevens, December 5, 2015
+*	“The Internet of Things,” the New York IEEE Education Committee and the New York Chapter of the IEEE Systems, Man, and Cybernetics (SMC) Society, Long Island University, Brooklyn Campus, New York, November 20, 2015
+*	“The Internet of Things,” the IEEE Consultants' Network of Northern NJ (CNNNJ), Morristown, NJ, April 9, 2015
+*	“An Overview of Standards,” NJIT ECE 414, November 20, 2014
+*	“Co-operative Systems,” Closing Panel on ICT Revolutionizing the World of Transport, ETSI Business Innovation Summit, London, October 5-6, 2010
+*	“Vehicular Safety Message Sets,” NENA 2010, Indianapolis, June 9, 2010
+*	“Network Values,” NJIT 414, November 7, 2006
+*	“Ubiquitous Broadband Access: A Roadmap to Growth,” the IEEE NJ Coast Section, Eatontown, NJ, May 26, 2005
+*	“Lighting Up the Last Mile: Perspectives on FTTH and FTTx,” National Academies Broadband Access Workshop, Committee on Broadband Last Mile Technology of the National Research Council, Washington, D.C., June 19, 2000
+*	“Directly Comparing Cable Modems and ADSL for Delivering Broadband,” Access Technologies, Vision in Business Ltd., London, April 28-29, 1998
+*	“Fiber to the Home,” OSA OFC, San Jose, CA, February 28, 1996
+*	“Survivability of Fiber Loop Architectures,” Telecommunications Network Survivability Symposium, St. Louis, Missouri, September 5-6, 1990
 
 ## Doctoral Dissertation Committees
 *	Jeevanandha Ramanathan, “Exploring Temporal State Basis for Quantum Information Processing,” August 2025.
@@ -339,3 +344,15 @@ Make lifelong [learning](/Learning) an everyday habit
 *	Gary Marschuetz (CPE), “ContentButton,” Fall 2017 – Spring 2018.
 *	Matthew Sabatini (CPE) and Mike Wezyk (QF), “Diagnose.Me,” Fall 2017 – Spring 2018.
 *	Daniel Faulisi (CPE), David Gensheimer (CPE), and Matthew Lagarenne (CPE), “WalleTracc,” Fall 2017 – Spring 2018.
+
+## Presentations
+* [Research Ethics and Writing: How to Ensure the Research Meets the Ethical Guidelines and Writing Style](/Seminar.md), September 13, 2023
+* [Balanced Skill Set](https://docs.google.com/presentation/d/153WdbX45X3mDv5xqPK3I9XluN-qWKLW9vqNKKk2y5kI)
+* [Careers in Industry](https://docs.google.com/presentation/d/106zGCupPAgWhLEW6l_BM_moIr_ZFnFw36kjqOi9m9q8)
+* [Ethics of Autonomous and Intelligent Systems](https://docs.google.com/presentation/d/1mvlRrR5tgnX2LDzR20_8J74wdCawYNp7Y1KuTh8QK3c)
+* [Hands-on Approach to Internet of Things](https://docs.google.com/presentation/d/1nW76PppJbi9WeeJnl-cxk0Al-DEN9r5vw4FR4d0fkYI)
+* [IEEE Writing Style](https://docs.google.com/presentation/d/1TIWfYpBYfumA1rgMLDP6UkM7fC9rC8EK4up3Q28t6MQ)
+* [Necessity and Serendipity of Invention and Innovation](https://docs.google.com/presentation/d/1hLaVNikDvlXs1PCG4ikN8zXegfyOYcp04XByzQSG864)
+* [Professional Writing Workshop](https://docs.google.com/presentation/d/1MxA8BNXht-iZBCjvJ132hFw8NCFqIsytRd7-xZcuoo8)
+* [Research Ethics](https://docs.google.com/presentation/d/17tJUBG1FEAJRNnsOmk7I3pOiPmfpcyCJATd_FuNYrto)
+* [Second Curve of Technology, Media, and Telecommunications](https://goo.gl/5wH7D7)
