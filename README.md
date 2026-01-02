@@ -11,8 +11,9 @@ Make lifelong [learning](/Learning) an everyday habit
 
 ## Education
 * D.Sc. (1984) and M.S. (1981), Systems Science and Mathematics, [Washington University in St. Louis](https://wustl.edu/)
-  * Advisors: Dr. [John Zaborszky](https://en.wikipedia.org/wiki/John_Zaborszky) and Dr. [Garng Huang](https://scholar.google.com/citations?user=7zk9wWYAAAAJ&hl=en)
   * Dissertation: *A Textured Model and Its Uses in Reactive Power Management and Control*
+  * Advisor: Dr. [John Zaborszky](https://en.wikipedia.org/wiki/John_Zaborszky) 1914&mdash;2008
+  * Committee: Dr. [David LeRoy Elliott](https://isr.umd.edu/news/story/david-l-elliott-an-appreciation) &mdash;2020, Dr. [Garng Huang](https://scholar.google.com/citations?user=7zk9wWYAAAAJ&hl=en)
 * B.S. (1979), Control Engineering, [National Chiao Tung University](https://en.nycu.edu.tw/)
 
 ## Experience
