@@ -27,7 +27,7 @@ Make lifelong [learning](/Learning) an everyday habit
 * Research Assistant (1979-1984), Department of Systems Science and Mathematics, Washington University in St. Louis
 
 ## Courses Taught
-* PRV 101 First Year Experience, Fall Semesters 2024 – present
+* PRV 101 [First Year Experience](/fye), Fall Semesters 2024 – present
 * CPE/EE 322 [Engineering Design VI](https://sites.google.com/view/ece322), Fall 2017 – Spring 2025
 * CPE/EE 423 [Engineering Design VII](https://sites.google.com/view/ece423), Fall Semesters 2017 – present
 * CPE/EE 424 [Engineering Design VIII](https://sites.google.com/view/ece423), Spring Semesters 2018 – present
