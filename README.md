@@ -32,7 +32,7 @@ Make lifelong [learning](/Learning) an everyday habit
 * CPE/EE 423 [Engineering Design VII](https://sites.google.com/view/ece423), Fall Semesters 2017 – present
 * CPE/EE 424 [Engineering Design VIII](https://sites.google.com/view/ece423), Spring Semesters 2018 – present
 * Research Seminar (EE 820), Spring 2025
-  * Research Ethics, Fall 2022 – present
+  * [Research Ethics](/Seminar.md), Fall 2022 – present
 * CPE 487 [Digital System Design](https://sites.google.com/view/ece487), Fall 2018 – Spring 2022
   * [GitHub repository](https://github.com/kevinwlu/dsd)
 * EE 810 [Internet of Things](https://sites.google.com/view/ece629), Spring 2015 – Fall 2016
@@ -48,17 +48,21 @@ Make lifelong [learning](/Learning) an everyday habit
 * Distributed Information Systems and Telecommunications, Rutgers Graduate School of Management, Spring 1989
 
 ## Institutional Services
-* Admissions events including Visit Day, Early Decision Brunch, Admitted Student Friday, and Admitted Student Weekend/Meet and Greet, September 2018 – present
-* Benefits Advisory Committee Member, September 2020 – June 2024
-* Committee on the New Stevens Core “SUCCESS” Member and Facilitator for PRV 205 Frontiers of Technology Course – Quantum Technology, September 2022 – February 2024
-* Teaching Advisory Board Member, September 2024 – August 2025
-* School of Engineering and Science Promotion and Tenure Committee Member, September 2019 – December 2022
-* School of Engineering and Science Undergraduate Curriculum Committee Member, September 2021 – present
-* Department of Electrical and Computer Engineering Undergraduate Committee Chair (Curriculum, Recruitment, and ABET), September 2021 – present
-* Department of Electrical and Computer Engineering Faculty Advisory Council Member, September 2022 – present
-* Department of Electrical and Computer Engineering Outreach and Alumni Committee Member, September 2021 – present
-* Department of Electrical and Computer Engineering Student Success Committee, September 2021 – present
-* Department of Electrical and Computer Engineering Strategic Plan Committee Member, 2021 – present
+* Stevens Admissions events including Visit Day, Early Decision Brunch, Admitted Student Friday, and Admitted Student Weekend/Meet and Greet, September 2018 – present
+* Stevens Benefits Advisory Committee Member, September 2020 – June 2024
+* Stevens Committee on the New Core “SUCCESS” Member and Facilitator for PRV 205 Frontiers of Technology Course – Quantum Technology, September 2022 – February 2024
+* Stevens Teaching Advisory Board Member, September 2024 – August 2025
+* Stevens SES Promotion and Tenure Committee Member, September 2019 – December 2022
+* Stevens SES Undergraduate Curriculum Committee Member, September 2021 – present
+* Stevens ECE Undergraduate Committee Chair (Curriculum, Recruitment, and ABET), September 2021 – present
+* Stevens ECE Faculty Advisory Council Member, September 2022 – present
+* Stevens ECE Outreach and Alumni Committee Member, September 2021 – present
+* Stevens ECE Student Success Committee, September 2021 – present
+* Stevens ECE Strategic Plan Committee Member, 2021 – present
+* NJIT ECE Industry Advisory Board, 2007-2022
+* Stevens ECE External Advisory Board, 2009-2018
+* NSF Integrative Graduate Education and Research Traineeship (IGERT) Review Panel, June 15-16, 2006
+* NYU ECE Industry Advisory Board, 2006
 
 ## Professional Societies and Services
 * [IEEE Communications Society](https://www.comsoc.org/) (IEEE ComSoc) 
@@ -95,10 +99,6 @@ Make lifelong [learning](/Learning) an everyday habit
 * Member, North America Traffic Working Group (NATWG) of ITS America, 2009 to 2010
 * Liaison, the Society of Automotive Engineers (SAE) International Dedicated Short-Range Communication (DSRC) Technical Committee, 2008 to 2012
 * Founding Chair, the [Telecommunications Industry Association](https://tiaonline.org/) (TIA) Engineering Committee TR-48 on Vehicular Telematics, 2007 to 2010
-* NJIT ECE Industry Advisory Board, 2007-2022
-* Stevens ECE External Advisory Board, 2009-2018
-* NSF Integrative Graduate Education and Research Traineeship (IGERT) Review Panel, June 15-16, 2006
-* NYU ECE Industry Advisory Board, 2006
 
 ## Honors and Awards
 * [Order of the Engineer](https://en.wikipedia.org/wiki/Order_of_the_Engineer), May 20, 2025
@@ -347,7 +347,6 @@ Make lifelong [learning](/Learning) an everyday habit
 *	Daniel Faulisi (CPE), David Gensheimer (CPE), and Matthew Lagarenne (CPE), “WalleTracc,” Fall 2017 – Spring 2018.
 
 ## Presentations
-* [Research Ethics and Writing: How to Ensure the Research Meets the Ethical Guidelines and Writing Style](/Seminar.md), September 13, 2023
 * [Balanced Skill Set](https://docs.google.com/presentation/d/153WdbX45X3mDv5xqPK3I9XluN-qWKLW9vqNKKk2y5kI)
 * [Careers in Industry](https://docs.google.com/presentation/d/106zGCupPAgWhLEW6l_BM_moIr_ZFnFw36kjqOi9m9q8)
 * [Ethics of Autonomous and Intelligent Systems](https://docs.google.com/presentation/d/1mvlRrR5tgnX2LDzR20_8J74wdCawYNp7Y1KuTh8QK3c)
