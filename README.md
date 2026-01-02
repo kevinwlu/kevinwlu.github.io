@@ -26,7 +26,7 @@ Make lifelong [learning](/Learning) an everyday habit
   * [The Bellcore Applied Research Area Alumni Home Page](https://www.panix.com/~dfs/bellcore/Alumni.php)
 * Research Assistant (1979-1984), Department of Systems Science and Mathematics, Washington University in St. Louis
 
-## Courses
+## Courses Taught
 * PRV 101 First Year Experience, Fall Semesters 2024 – present
 * CPE/EE 322 [Engineering Design VI](https://sites.google.com/view/ece322), Fall 2017 – Spring 2025
 * CPE/EE 423 [Engineering Design VII](https://sites.google.com/view/ece423), Fall Semesters 2017 – present
