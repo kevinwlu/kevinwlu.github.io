@@ -286,6 +286,12 @@ Make lifelong [learning](/Learning) an everyday habit
 *	Justin DeTone, “A Spiking Neural Network Model in Python,” May 2020.
 
 ## Senior Design Projects
+* Jacqueline Castro (CPE), Alison Dutton (CPE), Mariam Elnaggar (CPE), Gianina Maldonado (EE), Alyssa Pavone (EE), and Jernique Richardson (EE), "DensiSense 2.0," Fall 2025 – Spring 2026.
+* Bryan Barzola (CPE), Corinthian Bray (CPE), Samuel Franco (EE), Nolan Hatchell-McNeil (CPE), and Owusu Kwaku (CPE), "LiDAR Threat Detection System," Fall 2025 – Spring 2026.
+* Anthony Callegari (EE), Jaelin Robinson (EE), and Salvatore Scotto Di Vetta (CPE), "TygerTrax Fitness Sensor," Fall 2025 – Spring 2026.
+* Kieran Corson (CS), Matthew Kemenosh (CPE), Michael Preziosi (CyS), Austin Schlake (CPE), Aaron Sprigle (CPE), and Clayton Yun (PEP), "Crop Tech v2.app," Fall 2025 – Spring 2026.
+* Aayush Gunjal (CPE), James Kaddissi (CPE), Joshua Marino (CPE), Raymond Neff (PEP), and Matthew Suh (CPE), "Redefine Lighting," Fall 2025 – Spring 2026.
+* Mason Brewster (CPE), Andrew McKeever (ME), and Sre Krishna Subrahamanian (CPE), "Smart Access Mailbox," Fall 2025 – Spring 2026.
 *	Ryan Connolly (CPE) and Moshe Moskowitz (CPE), “Armoire: Deep Learning-Integrated Sustainable Wardrobe Assistant,” Fall 2024 – Spring 2025.
 *	Seongjun An (CPE), Phineas Howell (CPE), Anthony Huang (CPE), Nicole McDermott (CPE), Brian Ong (EE), and Steve Serrano (EE), “BAM Monitoring,” Fall 2024 – Spring 2025.
 *	Danny Moss (SSW), Jamie Mwai (EE), Dylan Ramcharitar (CPE), Greyson Richards (EE), Ryan Tierney (EE), and Leor Yomtobian (EE), “DoseDoc,” Fall 2024 – Spring 2025.
