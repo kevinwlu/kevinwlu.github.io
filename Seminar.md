@@ -1,4 +1,4 @@
-# ECE Department Seminar Talk
+# Stevens ECE Seminar
 September 13, 2023 \
 2:00 PM - 2:50 PM \
 Burchard 714
