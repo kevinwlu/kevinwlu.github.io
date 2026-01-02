@@ -29,17 +29,17 @@ Make lifelong [learning](/Learning) an everyday habit
 ## Courses Taught
 * PRV 101 [First Year Experience](https://github.com/kevinwlu/fye), Fall Semesters 2024 – present
 * CPE/EE 322 [Engineering Design VI](https://sites.google.com/view/ece322), Fall 2017 – Spring 2025
+* CPE/EE 400 Research, Fall 2022 – Fall 2023
 * CPE/EE 423 [Engineering Design VII](https://sites.google.com/view/ece423), Fall Semesters 2017 – present
 * CPE/EE 424 [Engineering Design VIII](https://sites.google.com/view/ece423), Spring Semesters 2018 – present
-* Research Seminar (EE 820), Spring 2025
-  * [Research Ethics](/Seminar.md), Fall 2022 – present
 * CPE 487 [Digital System Design](https://sites.google.com/view/ece487), Fall 2018 – Spring 2022
   * [GitHub repository](https://github.com/kevinwlu/dsd)
-* EE 810 [Internet of Things](https://sites.google.com/view/ece629), Spring 2015 – Fall 2016
 * EE 629 [Internet of Things](https://sites.google.com/view/ece629), Spring 2017 – Fall 2021
   * [GitHub repository](https://github.com/kevinwlu/iot)
-* CPE/EE 400 Research, Fall 2022 – Fall 2023
 * AAI/CPE/EE 800 [Special Problems](https://sites.google.com/view/ece800), Spring 2016 – Spring 2019
+* EE 810 [Internet of Things](https://sites.google.com/view/ece629), Spring 2015 – Fall 2016
+* EE 820 Research Seminar, Spring 2025
+  * [Research Ethics](/Seminar.md), Fall 2022 – present
 * Pre-College Programs, Exploring Career Options in Engineering and Science (ECOES), Summer 2018, Summer 2019, and Summer 2021
 * Pre-College Programs, Engineering Bootcamp, Summer 2020 and Summer 2021
 * Pre-College Programs, Discover Engineering Day, Spring 2019 and Spring 2022
