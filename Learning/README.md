@@ -583,7 +583,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Norman Lazarus](https://www.thelazarusstrategy.com/)
 * [*The 5 A.M. Club: Own Your Morning. Elevate Your Life*](https://share.libbyapp.com/title/3877579) 2018 by [Robin Sharma](https://en.wikipedia.org/wiki/Robin_Sharma)
 * [Anima and animus](https://en.wikipedia.org/wiki/Anima_and_animus)
-  * [Carl Jung](https://en.wikipedia.org/wiki/Carl_Jung) 1875&mdash1961
+  * [Carl Jung](https://en.wikipedia.org/wiki/Carl_Jung) 1875&mdash;1961
 * [*Be Here Now*](https://en.wikipedia.org/wiki/Be_Here_Now_(book)) by [Ram Dass](https://en.wikipedia.org/wiki/Ram_Dass) 1931&mdash;2019
 * [Bodymind](https://en.wikipedia.org/wiki/Bodymind)
 * [Algospeak](https://en.wikipedia.org/wiki/Algospeak)
@@ -631,7 +631,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
       * [Straw man](https://en.wikipedia.org/wiki/Straw_man)
     * [Formal fallacy](https://en.wikipedia.org/wiki/Formal_fallacy)
 * [Verisimilitude](https://en.wikipedia.org/wiki/Verisimilitude)
-  * [Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper) 1902&mdash1994
+  * [Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper) 1902&mdash;1994
 ---
 * [Substance Abuse and Mental Health Services Administration](https://en.wikipedia.org/wiki/Substance_Abuse_and_Mental_Health_Services_Administration) (SAMHSA)
   * [Antisocial personality disorder](https://en.wikipedia.org/wiki/Antisocial_personality_disorder) (ASPD)
@@ -878,7 +878,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Googolplex](https://en.wikipedia.org/wiki/Googolplex)
 * [*Seven Pillars of Wisdom*](https://en.wikipedia.org/wiki/Seven_Pillars_of_Wisdom) 1926 by [Thomas Edward Lawrence](https://en.wikipedia.org/wiki/T._E._Lawrence) 1888&mdash;1935
   * [The Project Gutenberg of Australia eBook 0100111h](https://gutenberg.net.au/ebooks01/0100111h.html)
-  * [Brough Superior](https://en.wikipedia.org/wiki/Brough_Superior) by [George Brough](https://en.wikipedia.org/wiki/George_Brough) 1890&mdash1970
+  * [Brough Superior](https://en.wikipedia.org/wiki/Brough_Superior) by [George Brough](https://en.wikipedia.org/wiki/George_Brough) 1890&mdash;1970
 * [*War Is a Racket*](https://en.wikipedia.org/wiki/War_Is_a_Racket) 1935 by [Smedley Butler](https://en.wikipedia.org/wiki/Smedley_Butler) 1881&mdash;1940
   * [The Project Gutenberg Canada Ebook](https://gutenberg.ca/ebooks/butlersd-warisaracket/butlersd-warisaracket-00-e.html)
 * [*The Grapes of Wrath*](https://en.wikipedia.org/wiki/The_Grapes_of_Wrath) 1939 by [John Steinbeck](https://en.wikipedia.org/wiki/John_Steinbeck) 1902&mdash;1968
