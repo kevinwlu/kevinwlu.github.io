@@ -46,10 +46,10 @@ Make lifelong [learning](/Learning) an everyday habit
   * [Research Ethics](/Seminar.md), Fall 2022 – present
 * Pre-College Programs, Exploring Career Options in Engineering and Science (ECOES), Summer 2018, Summer 2019, and Summer 2021
 * Pre-College Programs, Engineering Bootcamp, Summer 2020 and Summer 2021
-* Pre-College Programs, Discover Engineering Day, Spring 2019 and Spring 2022
-* Fiber Optic Subscriber Loop Architectures and Economics, Short Course SC6, SPIE OE/FIBERS, San Jose, California, September 17, 1990
+* Pre-College Programs, Discover Engineering Day, 23 February 2019, 22 February 2020, 24 February 2021, and 26 February 26 2022
+* Fiber Optic Subscriber Loop Architectures and Economics, Short Course SC6, [SPIE](https://en.wikipedia.org/wiki/SPIE) OE/FIBERS, San Jose, California, September 17, 1990
 * Topics in Electrical and Computer Engineering, Columbia University, Fall 1989
-* Distributed Information Systems and Telecommunications, Rutgers Graduate School of Management, Spring 1989
+* Distributed Information Systems and Telecommunications, Rutgers Graduate School of Management (now Rutgers Business School), Spring 1989
 
 ## Institutional Services
 * Stevens Admissions events including Visit Day, Early Decision Brunch, Admitted Student Friday, and Admitted Student Weekend/Meet and Greet, September 2018 – present
