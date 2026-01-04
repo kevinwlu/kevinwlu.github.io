@@ -290,7 +290,7 @@ John Scott Sadowsky's [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_n
 *	Justin DeTone, “A Spiking Neural Network Model in Python,” May 2020.
 
 ## Senior Design Projects
-1 Jacqueline Castro (CPE), Alison Dutton (CPE), Mariam Elnaggar (CPE), Gianina Maldonado (EE), Alyssa Pavone (EE), and Jernique Richardson (EE), "DensiSense 2.0," Fall 2025 – Spring 2026.
+1. Jacqueline Castro (CPE), Alison Dutton (CPE), Mariam Elnaggar (CPE), Gianina Maldonado (EE), Alyssa Pavone (EE), and Jernique Richardson (EE), "DensiSense 2.0," Fall 2025 – Spring 2026.
 1. Bryan Barzola (CPE), Corinthian Bray (CPE), Samuel Franco (EE), Nolan Hatchell-McNeil (CPE), and Owusu Kwaku (CPE), "LiDAR Threat Detection System," Fall 2025 – Spring 2026.
 1. Anthony Callegari (EE), Jaelin Robinson (EE), and Salvatore Scotto Di Vetta (CPE), "TygerTrax Fitness Sensor," Fall 2025 – Spring 2026.
 1. Kieran Corson (CS), Matthew Kemenosh (CPE), Michael Preziosi (CyS), Austin Schlake (CPE), Aaron Sprigle (CPE), and Clayton Yun (PEP), "Crop Tech v2.app," Fall 2025 – Spring 2026.
