@@ -276,6 +276,10 @@ Make lifelong [learning](/Learning) an everyday habit
 *	Peize Yu, “Using Raspberry Pi to Make a Smart Lock With Face Recognition,” December 2019.
 
 ## Undergraduate Student Research Projects
+* Leland Quaynor, "Exploring Animal Physiological Adaptations to Microgravity," Fall 2024 - Spring 2025.
+* Nataly Jimenez-Cruz, "Predicting Hazardous Near-Earth Objects With Random-Forest and Class Imbalance Techniques," Summer 2024.
+* Prerana Putrevu, "Optimizing Exoplanet Signal Retrieval and Analysis Utilizing Bayesian Deep Learning," Summer 2024.
+* Shashankk Shekar Chaturvedi, "Predicting Stars, Galaxies, and Quasars With ML Model," Summer 2024.
 *	Robert Plastina, “A New Model for Detecting Feral Cats Using Clipped Ears,” December 2023.
 *	Jonathan Amir, “Post Quantum Cryptography,” May 2023.
 *	Isaac Kupferschmid, “Implementing a Boat to Shore Communications System,” December 2022.
