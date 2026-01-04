@@ -10,15 +10,15 @@
 Make lifelong [learning](/Learning) an everyday habit
 
 ## Education
-* [DSc](https://en.wikipedia.org/wiki/Doctor_of_Science) in Systems Science and Mathematics, [Washington University in St. Louis](https://wustl.edu/), August 1984
+* [DSc](https://en.wikipedia.org/wiki/Doctor_of_Science) in Systems Science and Mathematics, [Washington University in St. Louis]([https://wustl.edu/](https://en.wikipedia.org/wiki/Washington_University_in_St._Louis)), August 1984
   * Dissertation: *A Textured Model and Its Uses in Reactive Power Management and Control*
   * Advisor: Dr. [John Zaborszky](https://en.wikipedia.org/wiki/John_Zaborszky) 1914&mdash;2008
   * Committee Members: Dr. [David LeRoy Elliott](https://isr.umd.edu/news/story/david-l-elliott-an-appreciation) &mdash;2020, Dr. [Garng Huang](https://scholar.google.com/citations?user=7zk9wWYAAAAJ&hl=en)
 * MS in Systems Science and Mathematics, Washington University in St. Louis, May 1981
-* BS in Control Engineering, [National Chiao Tung University](https://en.nycu.edu.tw/), Hsinchu, Taiwan, June 1979
+* BS in Control Engineering, [National Chiao Tung University](https://en.wikipedia.org/wiki/National_Chiao_Tung_University) (NCTU), Hsinchu, Taiwan, June 1979
 
 ## Experience
-* Associate Dean for Undergraduate Studies, [Charles V. Schaefer, Jr. School of Engineering and Science](https://www.stevens.edu/school-engineering-science) (SES), Stevens Institute of Technology, Hoboken, NJ, August 1, 2025 – present
+* Associate Dean for Undergraduate Studies, [Charles V. Schaefer, Jr. School of Engineering and Science](https://www.stevens.edu/school-engineering-science) (SES), [Stevens Institute of Technology](https://en.wikipedia.org/wiki/Stevens_Institute_of_Technology), Hoboken, NJ, August 1, 2025 – present
 * [Teaching Professor](https://www.stevens.edu/profile/klu2), [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering) (ECE), Stevens Institute of Technology, Hoboken, NJ, August 16, 2018 – present
 * Associate Chair for Undergraduate Studies, Department of Electrical and Computer Engineering, Stevens Institute of Technology, Hoboken, NJ, September 2021 - August 2025
 * Adjunct Professor, Department of Electrical and Computer Engineering, Stevens Institute of Technology, Hoboken, NJ, January 2015 - May 2018
@@ -31,23 +31,29 @@ Make lifelong [learning](/Learning) an everyday habit
 * Research Assistant, Department of Systems Science and Mathematics, Washington University in St. Louis, August 1979 - August 1984
 
 ## Courses Taught
-* PRV 101 [First Year Experience](https://github.com/kevinwlu/fye), Fall Semesters 2024 – present
-* CPE/EE 322 [Engineering Design VI](https://sites.google.com/view/ece322), Fall 2017 – Spring 2025
-* CPE/EE 400 Research, Fall 2022 – Fall 2023
-* CPE/EE 423 [Engineering Design VII](https://sites.google.com/view/ece423), Fall Semesters 2017 – present
-* CPE/EE 424 [Engineering Design VIII](https://sites.google.com/view/ece423), Spring Semesters 2018 – present
-* CPE 487 [Digital System Design](https://sites.google.com/view/ece487), Fall 2018 – Spring 2022
+* Stevens PRV 101 [First Year Experience](https://github.com/kevinwlu/fye), Fall Semesters 2024 – present
+* Stevens CPE/EE 322 [Engineering Design VI](https://sites.google.com/view/ece322), Fall 2017 – Spring 2025
+* Stevens CPE/EE 400 Research, Fall 2022 – Fall 2023
+* Stevens CPE/EE 423 [Engineering Design VII](https://sites.google.com/view/ece423), Fall Semesters 2017 – present
+* Stevens CPE/EE 424 [Engineering Design VIII](https://sites.google.com/view/ece423), Spring Semesters 2018 – present
+* Stevens CPE 487 [Digital System Design](https://sites.google.com/view/ece487), Fall 2018 – Spring 2022
   * [GitHub repository](https://github.com/kevinwlu/dsd)
-* EE 629 [Internet of Things](https://sites.google.com/view/ece629), Spring 2017 – Fall 2021
+* Stevens EE 629 [Internet of Things](https://sites.google.com/view/ece629), Spring 2017 – Fall 2021
   * [GitHub repository](https://github.com/kevinwlu/iot)
-* AAI/CPE/EE 800 [Special Problems](https://sites.google.com/view/ece800), Spring 2016 – Spring 2019
-* EE 810 [Internet of Things](https://sites.google.com/view/ece629), Spring 2015 – Fall 2016
-* EE 820 Research Seminar, Spring 2025
+* Stevens AAI/CPE/EE 800 [Special Problems](https://sites.google.com/view/ece800), Spring 2016 – Spring 2019
+* Stevens EE 810 [Internet of Things](https://sites.google.com/view/ece629), Spring 2015 – Fall 2016
+* Stevens EE 820 Research Seminar, Spring 2025
   * [Research Ethics](/Seminar.md), Fall 2022 – present
-* Pre-College Programs, Exploring Career Options in Engineering and Science (ECOES), Summer 2018, Summer 2019, and Summer 2021
-* Pre-College Programs, Engineering Bootcamp, Summer 2020 and Summer 2021
-* Pre-College Programs, Discover Engineering Day, 23 February 2019, 22 February 2020, 24 February 2021, and 26 February 26 2022
+* Stevens Pre-College Programs, Exploring Career Options in Engineering and Science (ECOES), Summer 2018, Summer 2019, and Summer 2021
+* Stevens Pre-College Programs, Engineering Bootcamp, Summer 2020 and Summer 2021
+* Stevens Pre-College Programs, Discover Engineering Day, 23 February 2019, 22 February 2020, 24 February 2021, and 26 February 26 2022
+* Hands-on Approach to the IoT, Machine Learning, and Blockchain, NCTU, December 19, 2019
+* Hands-on Approach to the IoT, Machine Learning, and Blockchain, NCTU, January 14, 2019
+* Hands-on Approach to the IoT, NCTU, December 20-21, 2017
+* Hands-on Approach to the IoT, NCTU, January 19-20, 2016
 * Fiber Optic Subscriber Loop Architectures and Economics, Short Course SC6, [SPIE](https://en.wikipedia.org/wiki/SPIE) OE/FIBERS, San Jose, California, September 17, 1990
+* Fiber-Optic Subscriber Loop Architectures and Economics, Directorate General of Telecommunications (DGT) Telecommunication Training Institute, Kaohsiung Branch, July 20-21, 1989
+* Fiber-Optic Subscriber Loop Architectures and Economics, NCTU, July 24-28, 1989
 * Topics in Electrical and Computer Engineering, Columbia University, Fall 1989
 * Distributed Information Systems and Telecommunications, Rutgers Graduate School of Management (now Rutgers Business School), Spring 1989
 
@@ -206,21 +212,51 @@ John Scott Sadowsky's [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_n
 1. [G. Huang](https://scholars.library.tamu.edu/vivo/display/n8800928d/), K. W. Lu, and [J. Zaborszky](https://www.nae.edu/28317/Dr-John-Zaborszky), "[A texture model/algorithm for computationally efficient dispatch and control on the power system](https://ieeexplore.ieee.org/abstract/document/4048961)," *1986 25th IEEE Conference on Decision and Control*, Athens, Greece, 1986, pp. 1198-1205, doi: 10.1109/CDC.1986.267572.
 
 ## Invited Presentations
-1.	“Ten Steps to Designing IoT Prototype,” the IEEE North Jersey Section, FDU, Teaneck, NJ, December 8, 2016, and NJIT, September 22, 2016
-1.	“Teaching the Internet of Things: From STEM to STEAM,” Hughes Network Systems, Gaithersburg, MD, April 22, 2016
+1. “The Second Curve of Technology, Media, and Telecommunications,” [Chunghwa Telecom](https://en.wikipedia.org/wiki/Chunghwa_Telecom) and NCTU, December 20, 2017
+1.	“Ten Steps to Designing IoT Prototype,” the IEEE North Jersey Section, [Fairleigh Dickinson University](https://en.wikipedia.org/wiki/Fairleigh_Dickinson_University) (FDU), Teaneck, NJ, December 8, 2016, and NJIT, September 22, 2016
+1.	“Teaching the Internet of Things: From STEM to STEAM,” [Hughes Network Systems](https://en.wikipedia.org/wiki/Hughes_Network_Systems), Gaithersburg, MD, April 22, 2016
 1.	“The Internet of Things,” NJIT ECE 101, 2015 and 2016
 1.	“The Internet of Things: Advances and Applications,” the IEEE North Jersey Advanced Communications Symposium, Stevens, December 5, 2015
-1.	“The Internet of Things,” the New York IEEE Education Committee and the New York Chapter of the IEEE Systems, Man, and Cybernetics (SMC) Society, Long Island University, Brooklyn Campus, New York, November 20, 2015
+1.	“The Internet of Things,” the New York IEEE Education Committee and the New York Chapter of the IEEE Systems, Man, and Cybernetics (SMC) Society, [Long Island University](https://en.wikipedia.org/wiki/Long_Island_University) (LIU), Brooklyn Campus, New York, November 20, 2015
+1. "IEEE Standards on Transportation," Telematics Taiwan 2015, Taipei, October 22, 2015
+1. "Global Standards Collaboration (GSC) on Critical Communications," [National Science and Technology Center for Diaster Reduction](https://en.wikipedia.org/wiki/National_Science_and_Technology_Center_for_Disaster_Reduction) (NCDR), October 21, 2015
+1. "5G Standards Activities by IEEE Communications Society (ComSoc)," [Ministry of Economic Affairs](https://en.wikipedia.org/wiki/Ministry_of_Economic_Affairs_(Taiwan)) (MOEA) Department of Industrial Technology (DoIT) 5G Technology Program Office, October 19, 2015
 1.	“The Internet of Things,” the IEEE Consultants' Network of Northern NJ (CNNNJ), Morristown, NJ, April 9, 2015
 1.	“An Overview of Standards,” NJIT ECE 414, November 20, 2014
+1. “Smart Living: Advances and Applications,” Foxconn, Taipei, March 11, 2014
+1. “International Business Models for Telematics Services,” the 1st Telematics Services Industry Summit of Telematics Industry Applications Alliance, Shanghai, January 13-14, 2011
 1.	“Co-operative Systems,” Closing Panel on ICT Revolutionizing the World of Transport, ETSI Business Innovation Summit, London, October 5-6, 2010
 1.	“Vehicular Safety Message Sets,” NENA 2010, Indianapolis, June 9, 2010
-1.	“Network Values,” NJIT 414, November 7, 2006
+1. “Vehicular Telematics and Intelligent Transportation Systems: Applications and Standards,” Sino-American Technology and Engineering Conference (SATEC) 2010, Beijing, China, April 16-18, 2010
+1. “Passion for Life: From Connectivity to Safety,” Panel on Make a Difference through an Engineering Career at 2010 Asian American Engineers of the Year Award Program, Hyatt Regency New Brunswick, February 27, 2010
+1. “An Overview of Incident Management Systems,” [Chinese Institute of Engineers USA](https://en.wikipedia.org/wiki/Chinese_Institute_of_Engineers_USA) (CIE-USA) Greater New York Chapter (GNYC) Annual Convention, Newark Airport Marriott, October 31, 2009
+1. “An Overview of Incident Management Systems,” [Industrial Technology Research Institute](https://en.wikipedia.org/wiki/Industrial_Technology_Research_Institute) (ITRI), Hsinchu, Taiwan, October 27, 2009
+1. “Vehicular Telematics Standards,” Telematics Standard and Application Workshop, Taipei Nankang Software Park, December 16, 2008
+1. “Perimeter Security Systems,” Intelligent Video Surveillance Systems and Technology Applications Workshop, Taipei, December 12, 2008
+1. “Vehicular Telematics Standards,” CIE-USA GNYC Annual Convention, Newark Airport Marriott, November 8, 2008
+1. “Communication Systems for Safe and Secure Buildings,” , and CIE-USA GNYC Annual Convention, Newark Airport Marriott, November 10, 2007
+1. “Communication Systems for Safe and Secure Buildings,” Intelligent Building Telecom Platform (IB-TP) and e-Applications Workshop, [National Taiwan University of Science and Technology](https://en.wikipedia.org/wiki/National_Taiwan_University_of_Science_and_Technology) (NTUST), November 1, 2007
+1. “Technologies, Economics, and Deployment of Optical Access Networks,” 16th WOCC, NJIT, April 27, 2007
+1.	“Network Values,” NJIT ECE 414, November 7, 2006
+1. “Optical Access Networks: Technologies, Economics, and Deployment,” SATEC 2006, Beijing, China, October 23-24, 2006
+1. “Ubiquitous Broadband Access for Connection, Collaboration, and Competition,” SPIE APOC Network Architectures, Management, and Applications, 6022-01, Shanghai, China, November 6-10, 2005
 1.	“Ubiquitous Broadband Access: A Roadmap to Growth,” the IEEE NJ Coast Section, Eatontown, NJ, May 26, 2005
+1. “Broadband: the Means and the Ends,” CIE-USA GNYC Annual Meeting, Newark, NJ, September 18, 2004
+1. “Delivering IP-Based Services to Edge Networks,” SATEC 2004, Beijing, China, April 27-28, 2004
+1. “Current Trends in Optical Communications,” 2004 International Optical Networking and Communication Forum, Taipei, Taiwan, April 9, 2004
+1. “Broadband and Its Healthcare Applications,” [Asia University](https://en.wikipedia.org/wiki/Asia_University_(Taiwan)), Taichung, Taiwan, March 11, 2004
+1. “Building Demand for Widespread Broadband Deployment,” the 13th Annual WOCC, Taipei, Taiwan, March 8-9, 2004
+1. “Broadband Demand and Deployment,” ITRI CCL/STC Technical Advisory Committee (TAC) Meeting, Ta Shee, Taiwan, October 26-28, 2003
 1.	“Lighting Up the Last Mile: Perspectives on FTTH and FTTx,” National Academies Broadband Access Workshop, Committee on Broadband Last Mile Technology of the National Research Council, Washington, D.C., June 19, 2000
+1. “Comparing Broadband Access Technologies and Markets,” 23rd Annual Convention of Chinese American Academic & Professional Society, New York, September 12-13, 1998
 1.	“Directly Comparing Cable Modems and ADSL for Delivering Broadband,” Access Technologies, Vision in Business Ltd., London, April 28-29, 1998
+1. “From ADSL to FSAN,” New Telecommunications Technology Conference cosponsored by [National Science and Technology Council](https://en.wikipedia.org/wiki/National_Science_and_Technology_Council_(Taiwan)) (NSTC) and [Ministry of Economic Affairs](https://en.wikipedia.org/wiki/Ministry_of_Economic_Affairs_(Taiwan)) (MOEA), Taipei, Taiwan, May 20-22, 1997
 1.	“Fiber to the Home,” OSA OFC, San Jose, CA, February 28, 1996
+1. “Maintenance and Provisioning Cost Savings for Access Network Alternatives,” Bellcore Topical Review on Broadband Technology, Morristown, NJ, August 2, 1994
+1. “Fiber-in-the-Loop Architectures and Economics,” Workshop on Fiber in the Loop, DGT Telecommunication Labs, Taiwan, July 14, 1992
+1. “Fiber-in-the-Loop Architectures and Evolutions,” CIE-USA Modern Engineering and Technology Seminar (METS) 1990, Taipei, Taiwan, December 12, 1990
 1.	“Survivability of Fiber Loop Architectures,” Telecommunications Network Survivability Symposium, St. Louis, Missouri, September 5-6, 1990
+1. “Algorithm and Practice of Forecasting Technological Substitutions,” DGT and Telecommunications Laboratories, Taiwan, July 1, 1987
 
 ## Doctoral Dissertation Committees
 1.	Jeevanandha Ramanathan, “Exploring Temporal State Basis for Quantum Information Processing,” August 2025.
