@@ -121,11 +121,18 @@ Make lifelong [learning](/Learning) an everyday habit
 * [Alliance for Telecommunications Industry Solutions](https://en.wikipedia.org/wiki/Alliance_for_Telecommunications_Industry_Solutions) (ATIS)
   * Machine-to-Machine (M2M) Focus Group, 2011-2012
   * Technology and Operations(TOPS) Council Land scape Team for M2M,Smart Grid, and Connected Vehicle, 2011
+* [Telecommunications Industry Association](https://tiaonline.org/) (TIA) Engineering Committee TR-48 on Vehicular Telematics
+  * “Connected Vehicle Applications,” TIA TR48-20110825-003, August 25, 2011
+  * “Overview of US ITS Standards,” TIA TR48-20110630-004, June 30, 2011
+  * “TR-48: Vehicular Telematics,” TIA 2010-11 Standards and Technology Annual Report (STAR), pp. 36-38
+  * “TR-48: Vehicular Telematics,” TIA 2009-10 STAR, pp. 36-38
+  * “TR-48: Vehicular Telematics,” TIA 2008-09 STAR, pp. 38-40
 * [US Department of Transportation](https://en.wikipedia.org/wiki/United_States_Department_of_Transportation) Intelligent Transportation Systems (ITS) Joint Program Office (JPO) Coordinating Working Group for ITS Standards Program 2011-2014 Strategic Plan, 2010 to 2011
 *	J. D. Margulici, W. Bachman, M. Lindsay, K. W. Lu, C. Scofield, and S. Turner, “North American Traffic Working Group (NATWG) Traffic Information Benchmarking Guidelines (TIBG),” Version 1.0, April 22, 2010
 *	J. Reilly, N. H. Cheng, and K. W. Lu, “IP Communications Implementation for Critical Infrastructure,” United Telecom Council (UTC) Research Report, September 2005
 * [National Research Council](https://en.wikipedia.org/wiki/National_Academies_of_Sciences,_Engineering,_and_Medicine). 2002. [*Broadband: Bring Home the Bits*](https://nap.nationalacademies.org/read/10235/chapter/1#ix). Washington, DC: The National Academies Press. doi: https://doi.org/10.17226/10235
   > Kevin Lu, executive director of the Integrated Access and Operations Department, Telcordia, discussed fiber in the last mile (National Academies Broadband Access Workshop, Committee on Broadband Last Mile Technology of the National Research Council, Washington, D.C., June 19, 2000)
+* “Switched Digital Video – An Outlook for 1997 and Beyond,” Phillips 1997 Fiber Source Book, pp. 21-23
 
 ## Honors and Awards
 * [Order of the Engineer](https://en.wikipedia.org/wiki/Order_of_the_Engineer), May 20, 2025
@@ -136,6 +143,9 @@ Make lifelong [learning](/Learning) an everyday habit
 * 2021 Stevens ECE Outstanding Teaching Award
 * 2018-2019 Stevens [Henry Morton](https://en.wikipedia.org/wiki/Henry_Morton_(scientist)) Distinguished Teaching Professor Award, May 21, 2019
 * 1987 Bellcore Award of Excellence
+
+## Patent Disclosure
+*	Sally Shady, Kevin Lu, Frank Castello, and Sean Pelcher, “TrachAlert: AI Driven Tracheostomy Monitoring Device,” March 25, 2024
 
 ## News Articles
 1. [Telecom Expert Honored By IEEE Standards Association: Stevens professor was recognized for standards governance management](https://spectrum.ieee.org/telecom-kevin-lu-ieee-standards), *The Institute*, June 12, 2025
@@ -223,7 +233,7 @@ John Scott Sadowsky's [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_n
 1. "5G Standards Activities by IEEE Communications Society (ComSoc)," [Ministry of Economic Affairs](https://en.wikipedia.org/wiki/Ministry_of_Economic_Affairs_(Taiwan)) (MOEA) Department of Industrial Technology (DoIT) 5G Technology Program Office, October 19, 2015
 1.	“The Internet of Things,” the IEEE Consultants' Network of Northern NJ (CNNNJ), Morristown, NJ, April 9, 2015
 1.	“An Overview of Standards,” NJIT ECE 414, November 20, 2014
-1. “Smart Living: Advances and Applications,” Foxconn, Taipei, March 11, 2014
+1. “Smart Living: Advances and Applications,” [Foxconn](https://en.wikipedia.org/wiki/Foxconn), Taipei, March 11, 2014
 1. “International Business Models for Telematics Services,” the 1st Telematics Services Industry Summit of Telematics Industry Applications Alliance, Shanghai, January 13-14, 2011
 1.	“Co-operative Systems,” Closing Panel on ICT Revolutionizing the World of Transport, ETSI Business Innovation Summit, London, October 5-6, 2010
 1.	“Vehicular Safety Message Sets,” NENA 2010, Indianapolis, June 9, 2010
