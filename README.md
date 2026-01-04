@@ -104,14 +104,14 @@ Make lifelong [learning](/Learning) an everyday habit
   * Organizer and Chair, the Future of Broadband Access Panel, the Broadband Access Technologies Session for the 2000 IEEE/LEOS Summer Topical Meetings, July 27, 2000, Aventura, Florida
 * [IEEE Technical Activities Board](https://ta.ieee.org/) (IEEE TAB)
   * [IEEE TAB Committee on Standards](https://resourcecenter.tcos.ieee.org/) (TCOS) (2020-2023)
+* Member, the ISO/TC204 US Technical Advisory Group (TAG) and Working Advisory Group (WAG) 17 on Nomadic and Portable Devices for ITS Services, 2009 to 2012
+* Member, North America Traffic Working Group (NATWG) of ITS America, 2009 to 2010
+* Liaison, [SAE International](https://en.wikipedia.org/wiki/SAE_International) [Dedicated Short-Range Communication](https://en.wikipedia.org/wiki/Dedicated_short-range_communications) (DSRC) Technical Committee, 2008 to 2012
+* Founding Chair, [Telecommunications Industry Association](https://en.wikipedia.org/wiki/Telecommunications_Industry_Association) (TIA) Engineering Committee TR-48 on Vehicular Telematics, 2007 to 2010
 * [Wireless and Optical Communications Conference](https://www.wocc.org/) (WOCC)
   * Treasurer (2015-2025)
   * Chair (2007-2008), Vice Chair (2006-2007), and Member (2005-2006), Board of Trustees
   * President (2004-2005)
-* Member, the ISO/TC204 US Technical Advisory Group (TAG) and Working Advisory Group (WAG) 17 on Nomadic and Portable Devices for ITS Services, 2009 to 2012
-* Member, North America Traffic Working Group (NATWG) of ITS America, 2009 to 2010
-* Liaison, the Society of Automotive Engineers (SAE) International Dedicated Short-Range Communication (DSRC) Technical Committee, 2008 to 2012
-* Founding Chair, the [Telecommunications Industry Association](https://tiaonline.org/) (TIA) Engineering Committee TR-48 on Vehicular Telematics, 2007 to 2010
 
 ## Contributions
 * IEEE Future Networks, [IEEE 5G and Beyond Technology Roadmap White Paper](https://futurenetworks.ieee.org/images/files/pdf/ieee-5g-roadmap-white-paper.pdf), October 2017
@@ -124,9 +124,9 @@ Make lifelong [learning](/Learning) an everyday habit
 * [Telecommunications Industry Association](https://tiaonline.org/) (TIA) Engineering Committee TR-48 on Vehicular Telematics
   * “Connected Vehicle Applications,” TIA TR48-20110825-003, August 25, 2011
   * “Overview of US ITS Standards,” TIA TR48-20110630-004, June 30, 2011
-  * “TR-48: Vehicular Telematics,” TIA 2010-11 Standards and Technology Annual Report (STAR), pp. 36-38
-  * “TR-48: Vehicular Telematics,” TIA 2009-10 STAR, pp. 36-38
-  * “TR-48: Vehicular Telematics,” TIA 2008-09 STAR, pp. 38-40
+  * “TR-48: Vehicular Telematics,” TIA [2010-2011 Standards and Technology Annual Report (STAR)](/StarReport_2010-2011), pp. 36-38
+  * “TR-48: Vehicular Telematics,” TIA [2009-2010 STAR](/StarReport_2009-2010), pp. 36-38
+  * “TR-48: Vehicular Telematics,” TIA [2008-2009 STAR](/StarReport_2008-2009), pp. 38-40
 * [US Department of Transportation](https://en.wikipedia.org/wiki/United_States_Department_of_Transportation) Intelligent Transportation Systems (ITS) Joint Program Office (JPO) Coordinating Working Group for ITS Standards Program 2011-2014 Strategic Plan, 2010 to 2011
 *	J. D. Margulici, W. Bachman, M. Lindsay, K. W. Lu, C. Scofield, and S. Turner, “North American Traffic Working Group (NATWG) Traffic Information Benchmarking Guidelines (TIBG),” Version 1.0, April 22, 2010
 *	J. Reilly, N. H. Cheng, and K. W. Lu, “IP Communications Implementation for Critical Infrastructure,” United Telecom Council (UTC) Research Report, September 2005
