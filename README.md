@@ -25,7 +25,7 @@ Make lifelong [learning](/Learning) an everyday habit
 * Chief Scientist, Energing echnologies and Services, [Telcordia Technologies](https://en.wikipedia.org/wiki/Iconectiv), Piscataway, NJ, January 2003 - March 2012
 * Executive Director, Integrated Access and Operations, Telcordia Technologies, Morristown, NJ, March 1999 - January 2003
 * Director, Broadband Access Engineering and Operations, Bellcore, Morristown, NJ, September 1995 - March 1999
-* Member of Technical Staff, Local Access Network Architecture and Technology, Bell Communications Research, Morristown, NJ, August 1984 - September 1995
+* Member of Technical Staff (MTS), Local Access Network Architecture and Technology, Bellcore (also know as Bell Communications Research), Morristown, NJ, August 1984 - September 1995
   * [The Bellcore Applied Research Area Alumni Home Page](https://www.panix.com/~dfs/bellcore/Alumni.php)
 * Research Assistant, Department of Systems Science and Mathematics, Washington University in St. Louis, August 1979 - August 1984
 
