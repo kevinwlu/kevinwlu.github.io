@@ -124,9 +124,9 @@ Make lifelong [learning](/Learning) an everyday habit
 * [Telecommunications Industry Association](https://tiaonline.org/) (TIA) Engineering Committee TR-48 on Vehicular Telematics
   * “Connected Vehicle Applications,” TIA TR48-20110825-003, August 25, 2011
   * “Overview of US ITS Standards,” TIA TR48-20110630-004, June 30, 2011
-  * “TR-48: Vehicular Telematics,” TIA [2010-2011 Standards and Technology Annual Report (STAR)](/StarReport_2010-2011), pp. 36-38
-  * “TR-48: Vehicular Telematics,” TIA [2009-2010 STAR](/StarReport_2009-2010), pp. 36-38
-  * “TR-48: Vehicular Telematics,” TIA [2008-2009 STAR](/StarReport_2008-2009), pp. 38-40
+  * “TR-48: Vehicular Telematics,” TIA [2010-2011 Standards and Technology Annual Report (STAR)](/StarReport_2010-2011.pdf), pp. 36-38
+  * “TR-48: Vehicular Telematics,” TIA [2009-2010 STAR](/StarReport_2009-2010.pdf), pp. 36-38
+  * “TR-48: Vehicular Telematics,” TIA [2008-2009 STAR](/StarReport_2008-2009.pdf), pp. 38-40
 * [US Department of Transportation](https://en.wikipedia.org/wiki/United_States_Department_of_Transportation) Intelligent Transportation Systems (ITS) Joint Program Office (JPO) Coordinating Working Group for ITS Standards Program 2011-2014 Strategic Plan, 2010 to 2011
 *	J. D. Margulici, W. Bachman, M. Lindsay, K. W. Lu, C. Scofield, and S. Turner, “North American Traffic Working Group (NATWG) Traffic Information Benchmarking Guidelines (TIBG),” Version 1.0, April 22, 2010
 *	J. Reilly, N. H. Cheng, and K. W. Lu, “IP Communications Implementation for Critical Infrastructure,” United Telecom Council (UTC) Research Report, September 2005
