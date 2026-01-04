@@ -118,19 +118,19 @@ Make lifelong [learning](/Learning) an everyday habit
 * 1987 Bellcore Award of Excellence
 
 ## News Articles
-- [Telecom Expert Honored By IEEE Standards Association: Stevens professor was recognized for standards governance management](https://spectrum.ieee.org/telecom-kevin-lu-ieee-standards), *The Institute*, June 12, 2025
-- [High School Students Broaden Their Futures Through Experiential Learning at Stevens](https://www.stevens.edu/news/high-school-students-experiential-learning), *Stevens News*, July 17, 2025
-- [Stevens Inducts Graduating Seniors into the Order of the Engineer at Spring 2025 Ceremony](https://www.stevens.edu/news/order-of-the-engineer-2025), *Stevens News*, July 10, 2025
-- [Alumni Panel Furthers Culture of Inclusion at Stevens](https://www.stevens.edu/news/alumni-panel-furthers-culture-of-inclusion-at-stevens), *Stevens News*, January 15, 2025
-- [Insight From Stevens Institute Professor Kevin Lu](https://circleoptics.com/insight-from-stevens-institute-professor-kevin-lu/), *Circle Optics Company News*, June 15, 2023
-- [Rediscovering the Language of Family Connections](https://www.stevens.edu/news/rediscovering-the-language-of-family-connections), *Stevens News*, May 19, 2023
-- [Snapshots From The 2022 Innovation Expo](https://www.stevens.edu/indicator/fall-2022/snapshots-from-the-2022-innovation-expo), *Stevens Indicator*, Fall 2022
-- [Seniors Design Intelligent Greenhouse to Grow a More Sustainable Food Supply](https://www.stevens.edu/news/seniors-design-intelligent-greenhouse-grow-more-sustainable-food-supply), *Stevens News*, June 3, 2022
-- [Pick 6: Six Reasons You Need to Attend Stevens Institute of Technology’s 2022 Innovation Expo on April 29
+1. [Telecom Expert Honored By IEEE Standards Association: Stevens professor was recognized for standards governance management](https://spectrum.ieee.org/telecom-kevin-lu-ieee-standards), *The Institute*, June 12, 2025
+1. [High School Students Broaden Their Futures Through Experiential Learning at Stevens](https://www.stevens.edu/news/high-school-students-experiential-learning), *Stevens News*, July 17, 2025
+1. [Stevens Inducts Graduating Seniors into the Order of the Engineer at Spring 2025 Ceremony](https://www.stevens.edu/news/order-of-the-engineer-2025), *Stevens News*, July 10, 2025
+1. [Alumni Panel Furthers Culture of Inclusion at Stevens](https://www.stevens.edu/news/alumni-panel-furthers-culture-of-inclusion-at-stevens), *Stevens News*, January 15, 2025
+1. [Insight From Stevens Institute Professor Kevin Lu](https://circleoptics.com/insight-from-stevens-institute-professor-kevin-lu/), *Circle Optics Company News*, June 15, 2023
+1. [Rediscovering the Language of Family Connections](https://www.stevens.edu/news/rediscovering-the-language-of-family-connections), *Stevens News*, May 19, 2023
+1. [Snapshots From The 2022 Innovation Expo](https://www.stevens.edu/indicator/fall-2022/snapshots-from-the-2022-innovation-expo), *Stevens Indicator*, Fall 2022
+1. [Seniors Design Intelligent Greenhouse to Grow a More Sustainable Food Supply](https://www.stevens.edu/news/seniors-design-intelligent-greenhouse-grow-more-sustainable-food-supply), *Stevens News*, June 3, 2022
+1. [Pick 6: Six Reasons You Need to Attend Stevens Institute of Technology’s 2022 Innovation Expo on April 29
 ](https://www.stevens.edu/news/pick-6-six-reasons-you-need-attend-stevens-institute-technologys-2022-innovation-expo-april-29), *Stevens News*, April 23, 2022
-- [Stevens Seniors Code Smart Watch App to Monitor Panic Attacks and Foster Communication Between Patients and Therapists](https://www.stevens.edu/news/stevens-seniors-code-smart-watch-app-monitor-panic-attacks-and-foster-communication-between-patients), *Stevens News*, April 8, 2020
-- [Stevens Honors Excellence in Research, Teaching During 2018-2019 Academic Year](https://www.stevens.edu/news/stevens-honors-excellence-research-teaching-during-2018-2019-academic-year), *Stevens News*, May 30, 2019
-- [Stevens Opens Doors to Record Number of New Faculty for Fall 2018](https://www.stevens.edu/news/stevens-opens-doors-record-number-new-faculty-fall-2018), *Stevens News*, September 7, 2018
+1. [Stevens Seniors Code Smart Watch App to Monitor Panic Attacks and Foster Communication Between Patients and Therapists](https://www.stevens.edu/news/stevens-seniors-code-smart-watch-app-monitor-panic-attacks-and-foster-communication-between-patients), *Stevens News*, April 8, 2020
+1. [Stevens Honors Excellence in Research, Teaching During 2018-2019 Academic Year](https://www.stevens.edu/news/stevens-honors-excellence-research-teaching-during-2018-2019-academic-year), *Stevens News*, May 30, 2019
+1 [Stevens Opens Doors to Record Number of New Faculty for Fall 2018](https://www.stevens.edu/news/stevens-opens-doors-record-number-new-faculty-fall-2018), *Stevens News*, September 7, 2018
 
 ## Journal Publications
 1. [M. Ulema](https://manhattan.edu/campus-directory/mehmet.ulema), [A. Kaplan](https://www.cs.princeton.edu/people/profile/ak18), K. W. Lu, [N. Amogh](https://www.linkedin.com/in/niranth/), and [B. Kozbe](https://www.linkedin.com/in/barcinkozbe/), "[Critical communications and public safety networks, part 2: technical issues, security, and applications [Guest Editorial]](https://ieeexplore.ieee.org/document/7452260)," in *IEEE Communications Magazine*, vol. 54, no. 4, pp. 14-15, April 2016, doi: 10.1109/MCOM.2016.7452260.
