@@ -251,7 +251,7 @@ John Scott Sadowsky's [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_n
 1.	Vindhya Umesh, “Recipe Recommendation System,” May 2024.
 1.	Juncheng Zhou, “LGC-Based Inverse Residual Target Detection Algorithm,” May 2024.
 1.	Harsha Tangirala, “Maximized Detection of Bees Using Deep Learning,” December 2023.
-1.Chenjie Jia, “Temporal Action Recognition in Videos,” May 2023.
+1. Chenjie Jia, “Temporal Action Recognition in Videos,” May 2023.
 1.	Wenchang Nie, “Building Recognition of UAV Remote Sensing Images Based on Mask R-CNN,” May 2023.
 1.	Jirong Yi, “Helping HR Predict Employee Attrition,” May 2023.
 1.	Lifeng Zhang, “Deepfake Video Detection Using CNN and RNN,” May 2023.
