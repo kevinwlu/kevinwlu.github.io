@@ -17,14 +17,17 @@ Make lifelong [learning](/Learning) an everyday habit
 * B.S. (1979), Control Engineering, [National Chiao Tung University](https://en.nycu.edu.tw/)
 
 ## Experience
-* Associate Dean for Undergraduate Studies, [Charles V. Schaefer, Jr. School of Engineering and Science](https://www.stevens.edu/school-engineering-science) (SES), Stevens Institute of Technology, August 1, 2025 – present
-* [Teaching Professor](https://www.stevens.edu/profile/klu2), [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering) (ECE), Stevens Institute of Technology, August 16, 2018 – present
-* Associate Chair for Undergraduate Studies (2021-2025), Department of Electrical and Computer Engineering, Stevens Institute of Technology
-* Adjunct Professor (2015-2018), Department of Electrical and Computer Engineering, Stevens Institute of Technology
-* Senior Principal Scientist (2012-2013), [Broadcom](https://en.wikipedia.org/wiki/Broadcom)
-* Chief Scientist (2003-2012), Executive Director (1999-2003), Director (1995-1999), Member of Technical Staff (1984-1995), [Telcordia/Bellcore](https://en.wikipedia.org/wiki/Iconectiv) Applied Research
+* Associate Dean for Undergraduate Studies, [Charles V. Schaefer, Jr. School of Engineering and Science](https://www.stevens.edu/school-engineering-science) (SES), Stevens Institute of Technology, Hoboken, NJ, August 1, 2025 – present
+* [Teaching Professor](https://www.stevens.edu/profile/klu2), [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering) (ECE), Stevens Institute of Technology, Hoboken, NJ, August 16, 2018 – present
+* Associate Chair for Undergraduate Studies, Department of Electrical and Computer Engineering, Stevens Institute of Technology, Hoboken, NJ, September 2021 - August 2025
+* Adjunct Professor, Department of Electrical and Computer Engineering, Stevens Institute of Technology, Hoboken, NJ, January 2015 - May 2018
+* Senior Principal Scientist, Mobile and Wireless Systems Design Engineering, [Broadcom](https://en.wikipedia.org/wiki/Broadcom), Matawan, NJ, April 2012 - December 2013
+* Chief Scientist, Energing echnologies and Services, [Telcordia Technologies](https://en.wikipedia.org/wiki/Iconectiv), Piscataway, NJ, January 2003 - March 2012
+* Executive Director, Integrated Access and Operations, Telcordia Technologies, Morristown, NJ, March 1999 - January 2003
+* Director, Broadband Access Engineering and Operations, Bellcore, Morristown, NJ, September 1995 - March 1999
+* Member of Technical Staff, Local Access Network Architecture and Technology, Bell Communications Research, Morristown, NJ, August 1984 - September 1995
   * [The Bellcore Applied Research Area Alumni Home Page](https://www.panix.com/~dfs/bellcore/Alumni.php)
-* Research Assistant (1979-1984), Department of Systems Science and Mathematics, Washington University in St. Louis
+* Research Assistant, Department of Systems Science and Mathematics, Washington University in St. Louis, August 1979 - August 1984
 
 ## Courses Taught
 * PRV 101 [First Year Experience](https://github.com/kevinwlu/fye), Fall Semesters 2024 – present
