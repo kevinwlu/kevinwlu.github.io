@@ -134,22 +134,22 @@ Make lifelong [learning](/Learning) an everyday habit
 
 ## Journal Publications
 1. [M. Ulema](https://manhattan.edu/campus-directory/mehmet.ulema), [A. Kaplan](https://www.cs.princeton.edu/people/profile/ak18), K. W. Lu, [N. Amogh](https://www.linkedin.com/in/niranth/), and [B. Kozbe](https://www.linkedin.com/in/barcinkozbe/), "[Critical communications and public safety networks, part 2: technical issues, security, and applications [Guest Editorial]](https://ieeexplore.ieee.org/document/7452260)," in *IEEE Communications Magazine*, vol. 54, no. 4, pp. 14-15, April 2016, doi: 10.1109/MCOM.2016.7452260.
-2. M. Ulema, A. Kaplan, K. W. Lu, N. Amogh, and B. Kozbe, "[Critical communications and public safety networks part 1: Standards, spectrum policy, and economics](https://ieeexplore.ieee.org/document/7432141)," in *IEEE Communications Magazine*, vol. 54, no. 3, pp. 12-13, March 2016, doi: 10.1109/MCOM.2016.7432141.
-3. [X. Wu](https://www.linkedin.com/in/xinzhouw), [S. Subramanian](https://www.linkedin.com/in/sundar-subramanian-aummw), [R. Guha](https://ieeexplore.ieee.org/author/37089124729), [R. G. White](https://ieeexplore.ieee.org/author/37272993300), [J. Li](https://ieeexplore.ieee.org/author/37715748500), K. W. Lu, [A. Bucceri](https://ieeexplore.ieee.org/author/37073303100), and [T. Zhang](https://www.nist.gov/people/tao-zhang), "[Vehicular communications using DSRC: challenges, enhancements, and evolution](https://ieeexplore.ieee.org/document/6550885)," in *IEEE Journal on Selected Areas in Communications*, vol. 31, no. 9, pp. 399-408, September 2013, doi: 10.1109/JSAC.2013.SUP.0513036.
-4. [V. Bhargava](https://people.ece.ubc.ca/vijayb/), "[Raising ComSoc standards activities to new heights [President's Page],](https://ieeexplore.ieee.org/abstract/document/6194375)" in *IEEE Communications Magazine*, vol. 50, no. 5, pp. 6-10, May 2012, doi: 10.1109/MCOM.2012.6194375.
-5. K. W. Lu, “[All-in-one: making connected vehicles possible](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISO%20Focus%2b%20(2010-2013)/en/2012/ISO%20Focus%2b%2c%20February%202012.pdf),” in *ISO Focus+*, vol. 3, no. 2, February 2012, pp. 23-25, [ISSN 2226-1095](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso-focusplus_2-12_content.pdf).
-6. S. C. Liew and K. W. Lu, "[A Framework for Characterizing Disaster-Based Network Survivability](https://ieeexplore.ieee.org/document/265704)," in *IEEE Journal on Selected Areas in Communications*, vol. 12, no. 1, pp. 52-58, Jan. 1994, doi: 10.1109/49.265704.
-7. [M. Goodman](https://patents.justia.com/inventor/matthew-s-goodman), K. W. Lu, [W. Sharkey](https://www.linkedin.com/in/bill-sharkey-7202a759/), [P. Srinagesh](https://www.litinomics.com/expert_detail.php?exp_id=40), and [N. Stolleman](https://www.linkedin.com/in/neal-stolleman-774b0b40/), "[Telephone company entry into cable television: A re-evaluation](https://www.sciencedirect.com/science/article/abs/pii/0308596193900639)," *Telecommunications Policy*, vol. 17, no. 2, 1993, pp. 158-162, ISSN 0308-5961, doi: 10.1016/0308-5961(93)90063-9.
-8. [J. C. Lee](https://www.semanticscholar.org/author/Jack-C.-Lee/2108598936), K. W. Lu, and S. C. Horng, "[Technological forecasting with nonlinear models](https://onlinelibrary.wiley.com/doi/abs/10.1002/for.3980110303)," in *J. Forecast.*, vol. 11, no. 3, pp. 195-206, April 1992, doi: 10.1002/for.3980110303.
-9. [S. C. Liew](https://en.wikipedia.org/wiki/Soung_Chang_Liew) and K. W. Lu, "[Comparison of buffer strategies for asymmetric packet switch modules](https://ieeexplore.ieee.org/document/76642)," in *IEEE Journal on Selected Areas in Communications*, vol. 9, no. 3, pp. 428-438, April 1991, doi: 10.1109/49.76642.
-10. K. W. Lu, M. I. Eiger, and H. L. Lemberg, "[System and cost analyses of broad-band fiber loop architectures](https://ieeexplore.ieee.org/document/57809)," in *IEEE Journal on Selected Areas in Communications*, vol. 8, no. 6, pp. 1058-1067, Aug. 1990, doi: 10.1109/49.57809.
-11. M. Kerner and K. W. Lu, [Editorial](https://onlinelibrary.wiley.com/doi/epdf/10.1002/dac.4510030103), Special Issue on Fiber in the Loop, [*International Journal of Digital and Analog Cabled Systems*](https://onlinelibrary.wiley.com/toc/10991131a/1990/3/1), 3 (1), p. 3, January-March 1990, doi: 10.1002/dac.4510030103.
-12. S. C. Liew and K. W. Lu, "[New architectures for diversity in fiber loop networks](https://ieeexplore.ieee.org/document/41419)," in *IEEE Communications Magazine*, vol. 27, no. 12, pp. 31-37, Dec. 1989, doi: 10.1109/35.41419.
-13. S. C. Liew and K. W. Lu, "[A three-stage architecture for very large packet switches](https://onlinelibrary.wiley.com/doi/10.1002/dac.4520020413)," in *International Journal of Digital & Analog Cabled Systems*, 2 (4), pp. 303-316, 1989, doi: 10.1002/dac.4520020413.
-14. [J. C. Lee](https://stat.nycu.edu.tw/en/members/teacher/Jack-C-Lee-11321348) and K. W. Lu, "[Algorithm and practice of forecasting technological substitutions with data-based transformed models](https://www.sciencedirect.com/science/article/abs/pii/0040162589900310)," in *Technological Forecasting and Social Change*, vol. 36, no. 4, pp. 401-414, December 1989, doi: 10.1016/0040-1625(89)90031-0.
-15. K. W. Lu and R. S. Wolff, "[Cost analysis for switched star broadband access](https://onlinelibrary.wiley.com/doi/10.1002/dac.4520010306)," in *International Journal of Digital & Analog Cabled Systems*, 1 (3), pp. 139-147, July-September 1988, doi: 10.1002/dac.4520010306.
-16. J. C. Lee and K. W. Lu, "[On a family of data-based transformed models useful in forecasting technological substitutions](https://www.sciencedirect.com/science/article/abs/pii/0040162587900230)," in *Technological Forecasting and Social Change*, vol. 31, no. 1, pp. 61-78, March 1987, doi: 10.1016/0040-1625(87)90023-0.
-17. J. Zaborszky, G. Huang, and K. W. Lu, "[A textured model for computationally efficient reactive power control and management](https://ieeexplore.ieee.org/document/4113290)," in *IEEE Transactions on Power Apparatus and Systems*, vol. PAS-104, no. 7, pp. 1718-1727, July 1985, doi: 10.1109/TPAS.1985.319204.
+1. M. Ulema, A. Kaplan, K. W. Lu, N. Amogh, and B. Kozbe, "[Critical communications and public safety networks part 1: Standards, spectrum policy, and economics](https://ieeexplore.ieee.org/document/7432141)," in *IEEE Communications Magazine*, vol. 54, no. 3, pp. 12-13, March 2016, doi: 10.1109/MCOM.2016.7432141.
+1. [X. Wu](https://www.linkedin.com/in/xinzhouw), [S. Subramanian](https://www.linkedin.com/in/sundar-subramanian-aummw), [R. Guha](https://ieeexplore.ieee.org/author/37089124729), [R. G. White](https://ieeexplore.ieee.org/author/37272993300), [J. Li](https://ieeexplore.ieee.org/author/37715748500), K. W. Lu, [A. Bucceri](https://ieeexplore.ieee.org/author/37073303100), and [T. Zhang](https://www.nist.gov/people/tao-zhang), "[Vehicular communications using DSRC: challenges, enhancements, and evolution](https://ieeexplore.ieee.org/document/6550885)," in *IEEE Journal on Selected Areas in Communications*, vol. 31, no. 9, pp. 399-408, September 2013, doi: 10.1109/JSAC.2013.SUP.0513036.
+1. [V. Bhargava](https://people.ece.ubc.ca/vijayb/), "[Raising ComSoc standards activities to new heights [President's Page],](https://ieeexplore.ieee.org/abstract/document/6194375)" in *IEEE Communications Magazine*, vol. 50, no. 5, pp. 6-10, May 2012, doi: 10.1109/MCOM.2012.6194375.
+1. K. W. Lu, “[All-in-one: making connected vehicles possible](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISO%20Focus%2b%20(2010-2013)/en/2012/ISO%20Focus%2b%2c%20February%202012.pdf),” in *ISO Focus+*, vol. 3, no. 2, February 2012, pp. 23-25, [ISSN 2226-1095](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso-focusplus_2-12_content.pdf).
+1. S. C. Liew and K. W. Lu, "[A Framework for Characterizing Disaster-Based Network Survivability](https://ieeexplore.ieee.org/document/265704)," in *IEEE Journal on Selected Areas in Communications*, vol. 12, no. 1, pp. 52-58, Jan. 1994, doi: 10.1109/49.265704.
+1. [M. Goodman](https://patents.justia.com/inventor/matthew-s-goodman), K. W. Lu, [W. Sharkey](https://www.linkedin.com/in/bill-sharkey-7202a759/), [P. Srinagesh](https://www.litinomics.com/expert_detail.php?exp_id=40), and [N. Stolleman](https://www.linkedin.com/in/neal-stolleman-774b0b40/), "[Telephone company entry into cable television: A re-evaluation](https://www.sciencedirect.com/science/article/abs/pii/0308596193900639)," *Telecommunications Policy*, vol. 17, no. 2, 1993, pp. 158-162, ISSN 0308-5961, doi: 10.1016/0308-5961(93)90063-9.
+1. [J. C. Lee](https://www.semanticscholar.org/author/Jack-C.-Lee/2108598936), K. W. Lu, and S. C. Horng, "[Technological forecasting with nonlinear models](https://onlinelibrary.wiley.com/doi/abs/10.1002/for.3980110303)," in *J. Forecast.*, vol. 11, no. 3, pp. 195-206, April 1992, doi: 10.1002/for.3980110303.
+1. [S. C. Liew](https://en.wikipedia.org/wiki/Soung_Chang_Liew) and K. W. Lu, "[Comparison of buffer strategies for asymmetric packet switch modules](https://ieeexplore.ieee.org/document/76642)," in *IEEE Journal on Selected Areas in Communications*, vol. 9, no. 3, pp. 428-438, April 1991, doi: 10.1109/49.76642.
+1. K. W. Lu, M. I. Eiger, and H. L. Lemberg, "[System and cost analyses of broad-band fiber loop architectures](https://ieeexplore.ieee.org/document/57809)," in *IEEE Journal on Selected Areas in Communications*, vol. 8, no. 6, pp. 1058-1067, Aug. 1990, doi: 10.1109/49.57809.
+1. M. Kerner and K. W. Lu, [Editorial](https://onlinelibrary.wiley.com/doi/epdf/10.1002/dac.4510030103), Special Issue on Fiber in the Loop, [*International Journal of Digital and Analog Cabled Systems*](https://onlinelibrary.wiley.com/toc/10991131a/1990/3/1), 3 (1), p. 3, January-March 1990, doi: 10.1002/dac.4510030103.
+1. S. C. Liew and K. W. Lu, "[New architectures for diversity in fiber loop networks](https://ieeexplore.ieee.org/document/41419)," in *IEEE Communications Magazine*, vol. 27, no. 12, pp. 31-37, Dec. 1989, doi: 10.1109/35.41419.
+1. S. C. Liew and K. W. Lu, "[A three-stage architecture for very large packet switches](https://onlinelibrary.wiley.com/doi/10.1002/dac.4520020413)," in *International Journal of Digital & Analog Cabled Systems*, 2 (4), pp. 303-316, 1989, doi: 10.1002/dac.4520020413.
+1. [J. C. Lee](https://stat.nycu.edu.tw/en/members/teacher/Jack-C-Lee-11321348) and K. W. Lu, "[Algorithm and practice of forecasting technological substitutions with data-based transformed models](https://www.sciencedirect.com/science/article/abs/pii/0040162589900310)," in *Technological Forecasting and Social Change*, vol. 36, no. 4, pp. 401-414, December 1989, doi: 10.1016/0040-1625(89)90031-0.
+1. K. W. Lu and R. S. Wolff, "[Cost analysis for switched star broadband access](https://onlinelibrary.wiley.com/doi/10.1002/dac.4520010306)," in *International Journal of Digital & Analog Cabled Systems*, 1 (3), pp. 139-147, July-September 1988, doi: 10.1002/dac.4520010306.
+1. J. C. Lee and K. W. Lu, "[On a family of data-based transformed models useful in forecasting technological substitutions](https://www.sciencedirect.com/science/article/abs/pii/0040162587900230)," in *Technological Forecasting and Social Change*, vol. 31, no. 1, pp. 61-78, March 1987, doi: 10.1016/0040-1625(87)90023-0.
+1. J. Zaborszky, G. Huang, and K. W. Lu, "[A textured model for computationally efficient reactive power control and management](https://ieeexplore.ieee.org/document/4113290)," in *IEEE Transactions on Power Apparatus and Systems*, vol. PAS-104, no. 7, pp. 1718-1727, July 1985, doi: 10.1109/TPAS.1985.319204.
 
 ## Conference Papers
 1. M. Czurlanis, I. Plager, A. Aquino, S. Salem, S. Dalwadi, K. Lu, [S. Shady](https://www.stevens.edu/profile/sshady), “DensiSense: Artificial Intelligence-Powered At-Home Wearable Self-Exam for Dense Breasts,” BMES 2025 Annual Meeting, October 8-12, 2025, San Diego, CA.
@@ -192,216 +192,216 @@ John Scott Sadowsky's [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_n
 1. [G. Huang](https://scholars.library.tamu.edu/vivo/display/n8800928d/), K. W. Lu, and [J. Zaborszky](https://www.nae.edu/28317/Dr-John-Zaborszky), "[A texture model/algorithm for computationally efficient dispatch and control on the power system](https://ieeexplore.ieee.org/abstract/document/4048961)," *1986 25th IEEE Conference on Decision and Control*, Athens, Greece, 1986, pp. 1198-1205, doi: 10.1109/CDC.1986.267572.
 
 ## Invited Presentations
-15.	“Ten Steps to Designing IoT Prototype,” the IEEE North Jersey Section, FDU, Teaneck, NJ, December 8, 2016, and NJIT, September 22, 2016
-14.	“Teaching the Internet of Things: From STEM to STEAM,” Hughes Network Systems, Gaithersburg, MD, April 22, 2016
-13.	“The Internet of Things,” NJIT ECE 101, 2015 and 2016
-12.	“The Internet of Things: Advances and Applications,” the IEEE North Jersey Advanced Communications Symposium, Stevens, December 5, 2015
-11.	“The Internet of Things,” the New York IEEE Education Committee and the New York Chapter of the IEEE Systems, Man, and Cybernetics (SMC) Society, Long Island University, Brooklyn Campus, New York, November 20, 2015
-10.	“The Internet of Things,” the IEEE Consultants' Network of Northern NJ (CNNNJ), Morristown, NJ, April 9, 2015
-9.	“An Overview of Standards,” NJIT ECE 414, November 20, 2014
-8.	“Co-operative Systems,” Closing Panel on ICT Revolutionizing the World of Transport, ETSI Business Innovation Summit, London, October 5-6, 2010
-7.	“Vehicular Safety Message Sets,” NENA 2010, Indianapolis, June 9, 2010
-6.	“Network Values,” NJIT 414, November 7, 2006
-5.	“Ubiquitous Broadband Access: A Roadmap to Growth,” the IEEE NJ Coast Section, Eatontown, NJ, May 26, 2005
-4.	“Lighting Up the Last Mile: Perspectives on FTTH and FTTx,” National Academies Broadband Access Workshop, Committee on Broadband Last Mile Technology of the National Research Council, Washington, D.C., June 19, 2000
-3.	“Directly Comparing Cable Modems and ADSL for Delivering Broadband,” Access Technologies, Vision in Business Ltd., London, April 28-29, 1998
-2.	“Fiber to the Home,” OSA OFC, San Jose, CA, February 28, 1996
+1.	“Ten Steps to Designing IoT Prototype,” the IEEE North Jersey Section, FDU, Teaneck, NJ, December 8, 2016, and NJIT, September 22, 2016
+1.	“Teaching the Internet of Things: From STEM to STEAM,” Hughes Network Systems, Gaithersburg, MD, April 22, 2016
+1.	“The Internet of Things,” NJIT ECE 101, 2015 and 2016
+1.	“The Internet of Things: Advances and Applications,” the IEEE North Jersey Advanced Communications Symposium, Stevens, December 5, 2015
+1.	“The Internet of Things,” the New York IEEE Education Committee and the New York Chapter of the IEEE Systems, Man, and Cybernetics (SMC) Society, Long Island University, Brooklyn Campus, New York, November 20, 2015
+1.	“The Internet of Things,” the IEEE Consultants' Network of Northern NJ (CNNNJ), Morristown, NJ, April 9, 2015
+1.	“An Overview of Standards,” NJIT ECE 414, November 20, 2014
+1.	“Co-operative Systems,” Closing Panel on ICT Revolutionizing the World of Transport, ETSI Business Innovation Summit, London, October 5-6, 2010
+1.	“Vehicular Safety Message Sets,” NENA 2010, Indianapolis, June 9, 2010
+1.	“Network Values,” NJIT 414, November 7, 2006
+1.	“Ubiquitous Broadband Access: A Roadmap to Growth,” the IEEE NJ Coast Section, Eatontown, NJ, May 26, 2005
+1.	“Lighting Up the Last Mile: Perspectives on FTTH and FTTx,” National Academies Broadband Access Workshop, Committee on Broadband Last Mile Technology of the National Research Council, Washington, D.C., June 19, 2000
+1.	“Directly Comparing Cable Modems and ADSL for Delivering Broadband,” Access Technologies, Vision in Business Ltd., London, April 28-29, 1998
+1.	“Fiber to the Home,” OSA OFC, San Jose, CA, February 28, 1996
 1.	“Survivability of Fiber Loop Architectures,” Telecommunications Network Survivability Symposium, St. Louis, Missouri, September 5-6, 1990
 
 ## Doctoral Dissertation Committees
-10.	Jeevanandha Ramanathan, “Exploring Temporal State Basis for Quantum Information Processing,” August 2025.
-9.	Zhan Li, “High-Q Resonators and Single Photon Nonlinearity on Thin Film Lithium Niobate,” May 2024.
-8.	Lac Nguyen, “A Practical Approach to Quantum Cryptography With Quantum Authentication,” May 2023.
-7.	Prajnesh Vijay Kumar, “Photonic Reservoir Computing,” April 2023.
-6.	Anwar Alruwaili, “Utilizing Pre-Validation, Hybrid-Trusted Parties, and Multiple Milestone Payment Systems in Improving Blockchain Transaction Security and Efficiency,” May 2020.
-5.	Mohammad Suwaylih Alzaidi, “Physical Layer Techniques for Diffusion-Based Bio-Molecular Nano Communication Systems,” July 2019.
-4.	Ghalib Alshammri, “Artificial Intelligence Techniques for Diffusion-Based Bio-Molecular Nano Communication Networks,” May 2019.
-3. Si Yin (NJIT), "A Novel Storage Area Network Extension Solution Over Passive Optical Networks (S-PONs)," January 2009.
-2.	Yuanqiu Luo (NJIT), "Dynamic Bandwidth Management With Service Differentiation Over Ethernet Passive Optical Networks," May 2006.
+1.	Jeevanandha Ramanathan, “Exploring Temporal State Basis for Quantum Information Processing,” August 2025.
+1.	Zhan Li, “High-Q Resonators and Single Photon Nonlinearity on Thin Film Lithium Niobate,” May 2024.
+1.	Lac Nguyen, “A Practical Approach to Quantum Cryptography With Quantum Authentication,” May 2023.
+1.	Prajnesh Vijay Kumar, “Photonic Reservoir Computing,” April 2023.
+1.	Anwar Alruwaili, “Utilizing Pre-Validation, Hybrid-Trusted Parties, and Multiple Milestone Payment Systems in Improving Blockchain Transaction Security and Efficiency,” May 2020.
+1.	Mohammad Suwaylih Alzaidi, “Physical Layer Techniques for Diffusion-Based Bio-Molecular Nano Communication Systems,” July 2019.
+1.	Ghalib Alshammri, “Artificial Intelligence Techniques for Diffusion-Based Bio-Molecular Nano Communication Networks,” May 2019.
+1. Si Yin (NJIT), "A Novel Storage Area Network Extension Solution Over Passive Optical Networks (S-PONs)," January 2009.
+1.	Yuanqiu Luo (NJIT), "Dynamic Bandwidth Management With Service Differentiation Over Ethernet Passive Optical Networks," May 2006.
 1.	Fahd A. Alharbi (NJIT), "Congestion Control in the Resilient Packet Ring Networks," January 2005.
 
 ## Master Thesis Committees
-11.	Saurabh Raman Parkar, “Contactless Respiratory sensing Using mmWave FMCW Radar and 5G NR,” May 19, 2025.
-10.	Jingyi Jia, “Machine Learning Approaches for Predicting Battery Cycle Life: A Study on Degradation Mechanisms and Model Comparisons,” December 2024.
-9.	Serafin Fernandez, “Impact on New Jersey’s Electrical Grid and Emissions From Electrical Vehicle Usage by New York City Commuters,” December 2023.
-8.	Yaoxi Kang, “Visual Question Answering With Attention,” May 2021.
-7.	Yushu Yan, “Reinforcement Learning Based Decentralized Automotive Radar Spectrum Allocation,” May 2021.
-6.	Xintong Li, “Reconstructing and Optimizing Natural Images Perceived by the Human Brain Based on Bayesian Deep Multi-View Learning,” April 2021.
-5.	Xinru Zhang, “One Sentence Scene Prediction With Attention,” April 2020.
-4.	Abrar Alam, “Analyses of Stock Price Predictions Using Deep Learning Techniques,” May 2019.
-3.	Nagrajan Chandrasekaran, “Altitude Mapping by Using LiDAR-Mounted Jackal Robot,” December 2017.
-2.	Touqeer Ahmad, “Indoor Localization Using Inertial Navigation Systems,” December 2017.
+1.	Saurabh Raman Parkar, “Contactless Respiratory sensing Using mmWave FMCW Radar and 5G NR,” May 19, 2025.
+1.	Jingyi Jia, “Machine Learning Approaches for Predicting Battery Cycle Life: A Study on Degradation Mechanisms and Model Comparisons,” December 2024.
+1.	Serafin Fernandez, “Impact on New Jersey’s Electrical Grid and Emissions From Electrical Vehicle Usage by New York City Commuters,” December 2023.
+1.	Yaoxi Kang, “Visual Question Answering With Attention,” May 2021.
+1.	Yushu Yan, “Reinforcement Learning Based Decentralized Automotive Radar Spectrum Allocation,” May 2021.
+1.	Xintong Li, “Reconstructing and Optimizing Natural Images Perceived by the Human Brain Based on Bayesian Deep Multi-View Learning,” April 2021.
+1.	Xinru Zhang, “One Sentence Scene Prediction With Attention,” April 2020.
+1.	Abrar Alam, “Analyses of Stock Price Predictions Using Deep Learning Techniques,” May 2019.
+1.	Nagrajan Chandrasekaran, “Altitude Mapping by Using LiDAR-Mounted Jackal Robot,” December 2017.
+1.	Touqeer Ahmad, “Indoor Localization Using Inertial Navigation Systems,” December 2017.
 1.	Leyland George, “Impact of Regenerative Breaking on Railway Traction Power Systems,” May 2017.
 
 ## Graduate Student Research Projects
-40.	Lasya Addala, “NIRCam and MIRI Composite Imaging and Enhancement Using JWST Images,” May 2025.
-39.	Prabal Sharma, “Low-Light Object Detection on ExDark via Joint Enhancement-Detection Pipelines,” May 2025.
-38.	Daniel Yassa, “A Multi-Modal Aerial Object Detection Framework for Precision Agriculture,” May 2025.
-37.	Qizhang Zhu, “Face Recognition Using a Combination of Real and Synthetic Faces,” May 2025.
-36.	Dileep Vinay Bezawada, “Driver Distraction Detection and Monitoring,” December 2024.
-35.	Rukmini Bugga, “Unveiling the Threat: Developing a Hybrid Surveillance System for Real-Time Detection,” December 2024.
-34.	Lipi Karkar, “Comparison of Object Detection Models: YOLO, Faster R-CNN, and Mask R-CNN on the PennFudanPed Dataset,” December 2024.
-33.	Hemanth Kurra, “Speed Versus Accuracy: a Comprehensive Evaluation of Object Detection Based on YOLOv8 and Faster R-CNN,” December 2024.
-32.	Derick Miller, “Analyzing the Impact of Training Maritime UAV Object Detection Models on Synthetic and Real Data,” December 2024.
-31.	Tianyu Sheng, “Machine Learning Approach on Face Recognition,” December 2024.
-30.	Saroj Raj Amadala and Srikar Reddy Madireddy, “Autonomous Path Finding Using Object Detection and Teaching-Learning-Based Optimization (TLBO),” May 2024.
-29.	Praveena Batta, “Route Guide: A Network Device Classifier,” May 2024.
-28.	Ravikanth Gaddam, “Automated Parking AI System Using Computer Vision,” May 2024.
-27.	Aakash Brijesh Shukla, “Animal Detection Using Deep Learning,” May 2024.
-26.	Vindhya Umesh, “Recipe Recommendation System,” May 2024.
-25.	Juncheng Zhou, “LGC-Based Inverse Residual Target Detection Algorithm,” May 2024.
-24.	Harsha Tangirala, “Maximized Detection of Bees Using Deep Learning,” December 2023.
-23.Chenjie Jia, “Temporal Action Recognition in Videos,” May 2023.
-22.	Wenchang Nie, “Building Recognition of UAV Remote Sensing Images Based on Mask R-CNN,” May 2023.
-21.	Jirong Yi, “Helping HR Predict Employee Attrition,” May 2023.
-20.	Lifeng Zhang, “Deepfake Video Detection Using CNN and RNN,” May 2023.
-19.	Kirat Jadhav, “Wireless Online Shopping for Visually Impaired People Using Natural Language Processing and Face Recognition Mechanism,” December 2022.
-18.	Keerthana Sharma Valluru, “Helmet Detection Using Mask R-CNN and Faster R-CNN,” December 2022.
-17.	Zhaoxuan Jiang, “Object Detection by R-CNN and Faster R-CNN for Autonomous Driving,” May 2022.
-16.	Qi Wu, “Disinformation Detection on the Internet,” May 2022.
-15.	Dongfang Zhao, “Application of Optimized VGG Network in Face Recognition,” December 2021.
-14.	Ghaith Arar, “Moving From Implicit Control to Explicit Feature Selection in GANs for Photo-Realistic Image Generation Through a GAN-Control on StyleGAN2 Architecture for Nature Images,” May 2021.
-13.	Zhujie Li, “Face and Facial Landmark Detection Based on ResNet, GoogLeNet, and YOLO,” May 2021.
-12.	Sicheng Zhao, “Picture Quality Enhancing and Style Conversion,” May 2021.
-11.	Wuwei Zhu, “Mask Detection Using YOLOv3-SE,” May 2021.
-10.	Seshasai Chaturvedula, “Gesture Recognition Using Deep Learning,” December 2020.
-9.	Zhujie Li, “Object Detection Based on YOLO, Faster R-CNN and Mask R-CNN in Deep Learning,” December 2020.
-8.	Jiahao Lu, “Voice Recognition in Access Systems,” December 2020.
-7.	Raveena Mehta and Kishan Teli, “Face Recognition Using Deep Learning,” December 2020.
-6.	Junrui Zhang, “Face Recognition Based on Deep Learning,” December 2020.
-5.	Yarong Liu, “Research for Object Detection Based on Deep Learning,” May 2020.
-4.	Jiahao Lu and Qihang Zhang, “Distinguishing Fake Face or Real Face by VGG,” May 2020.
-3.	Jie Yang, “Object Detection Based on R-CNN,” May 2020.
-2.	Xuelian Yu, “Object Detection Based on Faster R-CNN,” May 2020.
+1.	Lasya Addala, “NIRCam and MIRI Composite Imaging and Enhancement Using JWST Images,” May 2025.
+1.	Prabal Sharma, “Low-Light Object Detection on ExDark via Joint Enhancement-Detection Pipelines,” May 2025.
+1.	Daniel Yassa, “A Multi-Modal Aerial Object Detection Framework for Precision Agriculture,” May 2025.
+1.	Qizhang Zhu, “Face Recognition Using a Combination of Real and Synthetic Faces,” May 2025.
+1.	Dileep Vinay Bezawada, “Driver Distraction Detection and Monitoring,” December 2024.
+1.	Rukmini Bugga, “Unveiling the Threat: Developing a Hybrid Surveillance System for Real-Time Detection,” December 2024.
+1.	Lipi Karkar, “Comparison of Object Detection Models: YOLO, Faster R-CNN, and Mask R-CNN on the PennFudanPed Dataset,” December 2024.
+1.	Hemanth Kurra, “Speed Versus Accuracy: a Comprehensive Evaluation of Object Detection Based on YOLOv8 and Faster R-CNN,” December 2024.
+1.	Derick Miller, “Analyzing the Impact of Training Maritime UAV Object Detection Models on Synthetic and Real Data,” December 2024.
+1.	Tianyu Sheng, “Machine Learning Approach on Face Recognition,” December 2024.
+1.	Saroj Raj Amadala and Srikar Reddy Madireddy, “Autonomous Path Finding Using Object Detection and Teaching-Learning-Based Optimization (TLBO),” May 2024.
+1.	Praveena Batta, “Route Guide: A Network Device Classifier,” May 2024.
+1.	Ravikanth Gaddam, “Automated Parking AI System Using Computer Vision,” May 2024.
+1.	Aakash Brijesh Shukla, “Animal Detection Using Deep Learning,” May 2024.
+1.	Vindhya Umesh, “Recipe Recommendation System,” May 2024.
+1.	Juncheng Zhou, “LGC-Based Inverse Residual Target Detection Algorithm,” May 2024.
+1.	Harsha Tangirala, “Maximized Detection of Bees Using Deep Learning,” December 2023.
+1.Chenjie Jia, “Temporal Action Recognition in Videos,” May 2023.
+1.	Wenchang Nie, “Building Recognition of UAV Remote Sensing Images Based on Mask R-CNN,” May 2023.
+1.	Jirong Yi, “Helping HR Predict Employee Attrition,” May 2023.
+1.	Lifeng Zhang, “Deepfake Video Detection Using CNN and RNN,” May 2023.
+1.	Kirat Jadhav, “Wireless Online Shopping for Visually Impaired People Using Natural Language Processing and Face Recognition Mechanism,” December 2022.
+1.	Keerthana Sharma Valluru, “Helmet Detection Using Mask R-CNN and Faster R-CNN,” December 2022.
+1.	Zhaoxuan Jiang, “Object Detection by R-CNN and Faster R-CNN for Autonomous Driving,” May 2022.
+1.	Qi Wu, “Disinformation Detection on the Internet,” May 2022.
+1.	Dongfang Zhao, “Application of Optimized VGG Network in Face Recognition,” December 2021.
+1.	Ghaith Arar, “Moving From Implicit Control to Explicit Feature Selection in GANs for Photo-Realistic Image Generation Through a GAN-Control on StyleGAN2 Architecture for Nature Images,” May 2021.
+1.	Zhujie Li, “Face and Facial Landmark Detection Based on ResNet, GoogLeNet, and YOLO,” May 2021.
+1.	Sicheng Zhao, “Picture Quality Enhancing and Style Conversion,” May 2021.
+1.	Wuwei Zhu, “Mask Detection Using YOLOv3-SE,” May 2021.
+1.	Seshasai Chaturvedula, “Gesture Recognition Using Deep Learning,” December 2020.
+1.	Zhujie Li, “Object Detection Based on YOLO, Faster R-CNN and Mask R-CNN in Deep Learning,” December 2020.
+1.	Jiahao Lu, “Voice Recognition in Access Systems,” December 2020.
+1.	Raveena Mehta and Kishan Teli, “Face Recognition Using Deep Learning,” December 2020.
+1.	Junrui Zhang, “Face Recognition Based on Deep Learning,” December 2020.
+1.	Yarong Liu, “Research for Object Detection Based on Deep Learning,” May 2020.
+1.	Jiahao Lu and Qihang Zhang, “Distinguishing Fake Face or Real Face by VGG,” May 2020.
+1.	Jie Yang, “Object Detection Based on R-CNN,” May 2020.
+1.	Xuelian Yu, “Object Detection Based on Faster R-CNN,” May 2020.
 1.	Peize Yu, “Using Raspberry Pi to Make a Smart Lock With Face Recognition,” December 2019.
 
 ## Undergraduate Student Research Projects
-9. Leland Quaynor, "Exploring Animal Physiological Adaptations to Microgravity," Fall 2024 - Spring 2025.
-8. Nataly Jimenez-Cruz, "Predicting Hazardous Near-Earth Objects With Random-Forest and Class Imbalance Techniques," Summer 2024.
-7. Prerana Putrevu, "Optimizing Exoplanet Signal Retrieval and Analysis Utilizing Bayesian Deep Learning," Summer 2024.
-6. Shashankk Shekar Chaturvedi, "Predicting Stars, Galaxies, and Quasars With ML Model," Summer 2024.
-5.	Robert Plastina, “A New Model for Detecting Feral Cats Using Clipped Ears,” December 2023.
-4.	Jonathan Amir, “Post Quantum Cryptography,” May 2023.
-3.	Isaac Kupferschmid, “Implementing a Boat to Shore Communications System,” December 2022.
-2.	Phuc Bui, “Analysis of Intermodulation Distortion Vulnerabilities in Current and Future Communications Standards,” December 2022.
+1. Leland Quaynor, "Exploring Animal Physiological Adaptations to Microgravity," Fall 2024 - Spring 2025.
+1. Nataly Jimenez-Cruz, "Predicting Hazardous Near-Earth Objects With Random-Forest and Class Imbalance Techniques," Summer 2024.
+1. Prerana Putrevu, "Optimizing Exoplanet Signal Retrieval and Analysis Utilizing Bayesian Deep Learning," Summer 2024.
+1. Shashankk Shekar Chaturvedi, "Predicting Stars, Galaxies, and Quasars With ML Model," Summer 2024.
+1.	Robert Plastina, “A New Model for Detecting Feral Cats Using Clipped Ears,” December 2023.
+1.	Jonathan Amir, “Post Quantum Cryptography,” May 2023.
+1.	Isaac Kupferschmid, “Implementing a Boat to Shore Communications System,” December 2022.
+1.	Phuc Bui, “Analysis of Intermodulation Distortion Vulnerabilities in Current and Future Communications Standards,” December 2022.
 1.	Kamen Kresnitchki, “Media Streaming and Icecast Report,” December 2022.
 
 ## Senior Thesis Committee
 *	Justin DeTone, “A Spiking Neural Network Model in Python,” May 2020.
 
 ## Senior Design Projects
-65 Jacqueline Castro (CPE), Alison Dutton (CPE), Mariam Elnaggar (CPE), Gianina Maldonado (EE), Alyssa Pavone (EE), and Jernique Richardson (EE), "DensiSense 2.0," Fall 2025 – Spring 2026.
-64. Bryan Barzola (CPE), Corinthian Bray (CPE), Samuel Franco (EE), Nolan Hatchell-McNeil (CPE), and Owusu Kwaku (CPE), "LiDAR Threat Detection System," Fall 2025 – Spring 2026.
-63. Anthony Callegari (EE), Jaelin Robinson (EE), and Salvatore Scotto Di Vetta (CPE), "TygerTrax Fitness Sensor," Fall 2025 – Spring 2026.
-62. Kieran Corson (CS), Matthew Kemenosh (CPE), Michael Preziosi (CyS), Austin Schlake (CPE), Aaron Sprigle (CPE), and Clayton Yun (PEP), "Crop Tech v2.app," Fall 2025 – Spring 2026.
-61. Aayush Gunjal (CPE), James Kaddissi (CPE), Joshua Marino (CPE), Raymond Neff (PEP), and Matthew Suh (CPE), "Redefine Lighting," Fall 2025 – Spring 2026.
-60. Mason Brewster (CPE), Andrew McKeever (ME), and Sre Krishna Subrahamanian (CPE), "Smart Access Mailbox," Fall 2025 – Spring 2026.
-59.	Ryan Connolly (CPE) and Moshe Moskowitz (CPE), “Armoire: Deep Learning-Integrated Sustainable Wardrobe Assistant,” Fall 2024 – Spring 2025.
-58.	Seongjun An (CPE), Phineas Howell (CPE), Anthony Huang (CPE), Nicole McDermott (CPE), Brian Ong (EE), and Steve Serrano (EE), “BAM Monitoring,” Fall 2024 – Spring 2025.
-57.	Danny Moss (SSW), Jamie Mwai (EE), Dylan Ramcharitar (CPE), Greyson Richards (EE), Ryan Tierney (EE), and Leor Yomtobian (EE), “DoseDoc,” Fall 2024 – Spring 2025.
-56.	Abigail Izzo (EE), Jason McCauley (SSW), Atharva Shaligram (EE), Eli Shtindler (CPE), and Christopher Spadavecchia (CPE), “Green Robotics for Optimal Weeding (G.R.O.W.),” Fall 2024 – Spring 2025.
-55.	Caroline Gomez (CPE), Adriana Lopez (CPE), and Gabriel Mendoza (EE), “Heatwave Safety,” Fall 2024 – Spring 2025.
-54.	Andrew Anantharajah (CPE), Steven Aponte (EE), Christopher Cajamca (SSW), Ahmad Chaabane (SSW), William Chimbay (CPE), and William Valenzuela (EE), “LiveLong,” Fall 2024 – Spring 2025.
-53.	Jarrett Aaronson (CPE), Ryan DeSantis (CPE), Elizabeth MacDonald (EE), Malik Tragna (EE), and Dominick Vovk (CPE), “Pathfinder,” Fall 2024 – Spring 2025.
-52.	Nicholas Accardo (SSW), Owen Deem (EE), Cooper Foote (EE), and David Frost (SSW), “SYNC Orthotic Hand Exoskeleton,” Fall 2024 – Spring 2025.
-51.	Adam Anikiej (CS), Christopher Bertuzzi (CPE), Dennis Bollettino (CS), Christopher Pucci (EE), and Matthew Schmitt (CS). “TygerTrax: Fitness Sensor and App,” Fall 2024 – Spring 2025.
-50.	Brandon Boutin (CS), David Krauthammer (EE), and Robert Plastina (CPE), “C.A.T.S.,” Fall 2023 – Spring 2024.
-49.	Adil Chaka (CPE), Zeyad Eltemsah (CPE), Sarah Erickson (EE), Teddy Nueva Espana (CPE), Maciej Pudlik (EE), Joy Son (CPE), and Juan Ocampo (SSW), “Clotoure,” Fall 2023 – Spring 2024.
-48.	Dorzhi Denisov (EE) and Chiripol Sirikakan (CPE), “Farmguard,” Fall 2023 – Spring 2024.
-47.	Jacob Agbata (EE), Ryan Alberti (EE), Cesar Espejo (EE), Terrence Meekins (EE), Caleb Romero (EE), and Piotr Zelazny (EE), “Flock Force,” Fall 2023 – Spring 2024.
-46.	Arif Amzad (EE), Isaac Kupferschmid (CPE), Hunter Lederman (EE), Daniil Novikov (EE), Matthew Russo (EE), Riya Shrestha (CPE), Amanda Antico (ME), Nicholas Hennessy (ME), Mark Lapinski (ME), and Michael Polasek (ME), “ASNE PEP Team: Stevens RoBoat,” Fall 2022 – Spring 2023.
-45.	Ahmed Abuharthieh (EE), Nihal Hossain (EE), and Osazee Nosa (EE), “Automated Greenhouse,” Fall 2022 – Spring 2023.
-44.	Justin Ahn (CPE), Zachary Kermitz (CPE), Rhys Lee (CPE), and Nicholas Lim (CPE), “BUBBL,” Fall 2022 – Spring 2023.
-43.	Cameron Kline (EE), Joseph Perez (CPE), and Eric Rudzin (CS), “Cuitt,” Fall 2022 – Spring 2023.
-42.	Jon Kochanik (CPE), Jonah Kramer (CPE), Jacqueline Nesi (CPE), and Andrew Shamis (CPE), “Jabil DFE: Digital Front End,” Fall 2022 – Spring 2023.
-41.	Phuc Bui (EE), Jonathan Cho (EE), Garrett Franckle (EE), and Samuel Noack (EE), “Jabil FPGA PIM: Passive Intermodulation,” Fall 2022 – Spring 2023.
-40.	Joshua Kozohar (EE), Arbel Meta (EE), Shiddharath Patel (CPE), and Hardik Veguru (CPE), “V2G,” Fall 2022 – Spring 2023.
-39.	Calvin Zheng (CPE), Michael Compagnino (EE), Jagnoor Gandhok (CPE), Jonathan Kubas (CPE), Jordan Fernandes (SSW), Ninghui Fang (EE), and Bailey McNamara (EE), “Clearvoyance,” Fall 2022 – Spring 2023.
-38.	Elizabeth Samayoa (EE), Christian Diesen (EE), Jonathan Melamed (CPE), Tahrim Imon (CPE), Akash Rana (CPE), and Austin Hodges (SSW), “Soma,” Fall 2022 – Spring 2023.
-37.	Kamen Kresnitchki (CPE) and Joseph Tsui (ME), “Metra,” Fall 2022 – Spring 2023.
-36.	Jackie Fang (EE), Gabriel Garcia (CPE), Winston Lei (CPE), John Nugent (CPE), Roshan Soni (CPE), Anthony Mendo (ME), “NoteFinder,” Fall 2022 – Spring 2023.
-35.	Matthew Petrin (EE), Drew Pearlstein (EE), Kenneth Kim (CPE), Benjamin Holko (EE), and John McAuliffe (ME), “Torrent,” Fall 2022 – Spring 2023.
-34.	Julia Chung (CPE), Justis DiBattista (CPE), William Baltus (SSW), Jon Cucci (SSW), and Grace Miguel (SSW), “IntelliVeggie,” Fall 2021 – Spring 2022.
-33.	Sutton Dole (CPE), Rui Fernandes (CPE), Abhishek Kakar (CPE), Hritesh Manda (CPE), Jakob Niglio (CPE), and Luis Ogaz (EE), “Joystik,” Fall 2021 – Spring 2022.
-32.	Jon Cristobal (CPE) and Matthew Gaughan (CPE), “Stone Computing,” Fall 2021 – Spring 2022.
-31.	Qingyao Fan (CPE), Mingyao Tang (EE), and Daren Tay (CPE), “VeggieCare,” Fall 2021 – Spring 2022.
-30.	Andrew DeSanti (CPE), Joshua Hornilla (CPE), Alexei Nikiforov (CPE), Zachary Salisbury (CPE), and Anisha Shin (CPE), “TrackRabbit,” Fall 2021 – Spring 2022.
-29.	Andrew Antonacci (CPE), Sarah Bertussi (ME), and Jennifer Lloyd (CPE), “BeatBot,” Fall 2020 – Spring 2021.
-28.	Brandon Ip (CPE), Jason Raffone (EE), Sebastian Cano (CPE), and Isaiah Burgess (CPE), “FAST Relief,” Fall 2020 – Spring 2021.
-27.	Matthew Bauer (EE), Chase Capron (CPE), and Trevor Dawideit (CPE), “GreenThumb,” Fall 2020 – Spring 2021.
-26.	Alex Martorano (EE), Edward Gaskin (EE), and Jonathan Banks (Rutgers), “I.O.Clean,” Fall 2020 – Spring 2021.
-25.	Stephan Abrimian (CPE) and Christopher Jamgotchian (CPE), “Oush Kisher: Smart Armenian Coffee Machine,” Fall 2020 – Spring 2021.
-24.	Joseph Insalaco (CPE), Brian Ng (EE), Bernard Tran (CPE), Kayleen Chin (CPE), and William Zheng (CPE), “Common,” Fall 2020 – Spring 2021.
-23.	Alexander Wurst (CPE), Shivam Sheth (CPE), Brian Flores (CPE), and Mohammed Elmzaghi (CPE), “Sensus: AI Tool That Derives Emotion and Intent From Written Communication,” Fall 2020 – Spring 2021.
-22.	Anthony Donatelli (CPE), Jeriel Lao (EE), and David Li (CPE), “Project Synapse,” Fall 2020 – Spring 2021.
-21.	Evan Binder (CPE), Nicholas Campbell (EE), and Jamie Shamilian (CPE), “POW: Python On Wii,” Fall 2020 – Spring 2021.
-20.	David Lehman (CPE), Domenic Malfetano (EE), Jesse Priest (BT), Ryan Tom (BT), Justin Trugman (BT), Kirk Vasilas (CPE), and Samuel Young (CPE), “Free Space Optical Communication Linux Driver,” Fall 2019 – Spring 2020.
-19.	Tyler Bryk (CPE), Michael Eng (CPE), Simas Glebavicius (CPE), James O'Brien (CPE), and Stephen Opet III (EE), “Luxtron Li-Fi,” Fall 2019 – Spring 2020.
-18.	Roger Il Grande Jr. (EE), Daniel Bianchini (CPE), and Christopher Keenan (EE), “Rocket Flight Computer,” Fall 2019 – Spring 2020.
-17.	Johnathan Aviles (CPE), Kevin Largacha (CPE), and Ireneusz Scieszka (CPE), “SEARH: Smart Emergency Accelerated Response Holster,” Fall 2019 – Spring 2020.
-16.	Tyler McShea (EE), Lucas Payette (CPE), and Derek Schwoyer (EE), “Smart Lock,” Fall 2019 – Spring 2020.
-15.	Justin Westley (CPE), Anthony Orrico II (CPE), and Zachary Strange (CPE), “Smart Parking,” Fall 2019 – Spring 2020.
-14.	Andrew Barry (CPE), “Cryptophone,” Spring 2019 – Fall 2019.
-13.	Marc Greenfield (EE), Brian Kim (EE), Tsz Wai Lam (EE), Nicolas Nuila (CPE), Andrew O’Brien (CS), “AirTrack: Personalized Image-Tracking Drone,” Fall 2018 – Spring 2019.
-12.	Andrew Emery (EE), Frank Lenge (CPE), and Joshua Maldonado (CPE), “Crypto-Wallet: Secure Your Coins,” Fall 2018 – Spring 2019.
-11.	Kyra DiFrancesco (EE), Diana Galarza (CPE), Eric Kim (CPE), and Kipsy Quevada (EE), “EVisualize: A Fully Integrated Electric Vehicle Charging Solution,” Fall 2018 – Spring 2019.
-10.	Andrew Afflitto (CPE), Sean Jones (EE), and Samuel Yakovlev (CPE), “Free-Space Assistance Drone (Free-SAD): RockSat-X Prototype,” Fall 2018 – Spring 2019.
-9.	Akshay Sampath (EE) and Steven Nichols (CPE), “Hoboken Recreation App,” Fall 2018 – Spring 2019.
-8.	Brereton Conway (CPE), Daniel Pinto (CPE), and Joseph Puciloski (CPE), “Li-Fi: Visible Light Communications,” Fall 2018 – Spring 2019.
-7.	George Amabile (EE), James Goldman (EE), Stanley Lin (CPE), and Clayton McLean Jr. (CPE), “Ludice: The Board Game Tablet,” Fall 2018 – Spring 2019.
-6.	Yuhan Cai (EE), Kai Chen (CPE), Zhen Gong (CPE), and Jie Miao (CPE), “Machine Data Collecting System,” Fall 2018 – Spring 2019.
-5.	Brian Bazergui (CPE), Shane Lynes (CPE), Nicholas Martella (EE), Mark Matthews (CPE), Shayna McCarthy (CPE), John Stabile (EE), and Sofia Zapata (EE), “Nano Health Solutions,” Fall 2018 – Spring 2019.
-4.	Ryan Bloomgren (EE), Lawrence Elentukh (CPE), Anna Petruczynik (EE), Matthew Tomaro (CPE), Nicholas Tomaro (EE), and Scott Weitze (EE), “Urbonics: An Automated and Intelligent Planter System,” Fall 2018 – Spring 2019.
-3.	Gary Marschuetz (CPE), “ContentButton,” Fall 2017 – Spring 2018.
-2.	Matthew Sabatini (CPE) and Mike Wezyk (QF), “Diagnose.Me,” Fall 2017 – Spring 2018.
+1 Jacqueline Castro (CPE), Alison Dutton (CPE), Mariam Elnaggar (CPE), Gianina Maldonado (EE), Alyssa Pavone (EE), and Jernique Richardson (EE), "DensiSense 2.0," Fall 2025 – Spring 2026.
+1. Bryan Barzola (CPE), Corinthian Bray (CPE), Samuel Franco (EE), Nolan Hatchell-McNeil (CPE), and Owusu Kwaku (CPE), "LiDAR Threat Detection System," Fall 2025 – Spring 2026.
+1. Anthony Callegari (EE), Jaelin Robinson (EE), and Salvatore Scotto Di Vetta (CPE), "TygerTrax Fitness Sensor," Fall 2025 – Spring 2026.
+1. Kieran Corson (CS), Matthew Kemenosh (CPE), Michael Preziosi (CyS), Austin Schlake (CPE), Aaron Sprigle (CPE), and Clayton Yun (PEP), "Crop Tech v2.app," Fall 2025 – Spring 2026.
+1. Aayush Gunjal (CPE), James Kaddissi (CPE), Joshua Marino (CPE), Raymond Neff (PEP), and Matthew Suh (CPE), "Redefine Lighting," Fall 2025 – Spring 2026.
+1. Mason Brewster (CPE), Andrew McKeever (ME), and Sre Krishna Subrahamanian (CPE), "Smart Access Mailbox," Fall 2025 – Spring 2026.
+1.	Ryan Connolly (CPE) and Moshe Moskowitz (CPE), “Armoire: Deep Learning-Integrated Sustainable Wardrobe Assistant,” Fall 2024 – Spring 2025.
+1.	Seongjun An (CPE), Phineas Howell (CPE), Anthony Huang (CPE), Nicole McDermott (CPE), Brian Ong (EE), and Steve Serrano (EE), “BAM Monitoring,” Fall 2024 – Spring 2025.
+1.	Danny Moss (SSW), Jamie Mwai (EE), Dylan Ramcharitar (CPE), Greyson Richards (EE), Ryan Tierney (EE), and Leor Yomtobian (EE), “DoseDoc,” Fall 2024 – Spring 2025.
+1.	Abigail Izzo (EE), Jason McCauley (SSW), Atharva Shaligram (EE), Eli Shtindler (CPE), and Christopher Spadavecchia (CPE), “Green Robotics for Optimal Weeding (G.R.O.W.),” Fall 2024 – Spring 2025.
+1.	Caroline Gomez (CPE), Adriana Lopez (CPE), and Gabriel Mendoza (EE), “Heatwave Safety,” Fall 2024 – Spring 2025.
+1.	Andrew Anantharajah (CPE), Steven Aponte (EE), Christopher Cajamca (SSW), Ahmad Chaabane (SSW), William Chimbay (CPE), and William Valenzuela (EE), “LiveLong,” Fall 2024 – Spring 2025.
+1.	Jarrett Aaronson (CPE), Ryan DeSantis (CPE), Elizabeth MacDonald (EE), Malik Tragna (EE), and Dominick Vovk (CPE), “Pathfinder,” Fall 2024 – Spring 2025.
+1.	Nicholas Accardo (SSW), Owen Deem (EE), Cooper Foote (EE), and David Frost (SSW), “SYNC Orthotic Hand Exoskeleton,” Fall 2024 – Spring 2025.
+1.	Adam Anikiej (CS), Christopher Bertuzzi (CPE), Dennis Bollettino (CS), Christopher Pucci (EE), and Matthew Schmitt (CS). “TygerTrax: Fitness Sensor and App,” Fall 2024 – Spring 2025.
+1.	Brandon Boutin (CS), David Krauthammer (EE), and Robert Plastina (CPE), “C.A.T.S.,” Fall 2023 – Spring 2024.
+1.	Adil Chaka (CPE), Zeyad Eltemsah (CPE), Sarah Erickson (EE), Teddy Nueva Espana (CPE), Maciej Pudlik (EE), Joy Son (CPE), and Juan Ocampo (SSW), “Clotoure,” Fall 2023 – Spring 2024.
+1.	Dorzhi Denisov (EE) and Chiripol Sirikakan (CPE), “Farmguard,” Fall 2023 – Spring 2024.
+1.	Jacob Agbata (EE), Ryan Alberti (EE), Cesar Espejo (EE), Terrence Meekins (EE), Caleb Romero (EE), and Piotr Zelazny (EE), “Flock Force,” Fall 2023 – Spring 2024.
+1.	Arif Amzad (EE), Isaac Kupferschmid (CPE), Hunter Lederman (EE), Daniil Novikov (EE), Matthew Russo (EE), Riya Shrestha (CPE), Amanda Antico (ME), Nicholas Hennessy (ME), Mark Lapinski (ME), and Michael Polasek (ME), “ASNE PEP Team: Stevens RoBoat,” Fall 2022 – Spring 2023.
+1.	Ahmed Abuharthieh (EE), Nihal Hossain (EE), and Osazee Nosa (EE), “Automated Greenhouse,” Fall 2022 – Spring 2023.
+1.	Justin Ahn (CPE), Zachary Kermitz (CPE), Rhys Lee (CPE), and Nicholas Lim (CPE), “BUBBL,” Fall 2022 – Spring 2023.
+1.	Cameron Kline (EE), Joseph Perez (CPE), and Eric Rudzin (CS), “Cuitt,” Fall 2022 – Spring 2023.
+1.	Jon Kochanik (CPE), Jonah Kramer (CPE), Jacqueline Nesi (CPE), and Andrew Shamis (CPE), “Jabil DFE: Digital Front End,” Fall 2022 – Spring 2023.
+1.	Phuc Bui (EE), Jonathan Cho (EE), Garrett Franckle (EE), and Samuel Noack (EE), “Jabil FPGA PIM: Passive Intermodulation,” Fall 2022 – Spring 2023.
+1.	Joshua Kozohar (EE), Arbel Meta (EE), Shiddharath Patel (CPE), and Hardik Veguru (CPE), “V2G,” Fall 2022 – Spring 2023.
+1.	Calvin Zheng (CPE), Michael Compagnino (EE), Jagnoor Gandhok (CPE), Jonathan Kubas (CPE), Jordan Fernandes (SSW), Ninghui Fang (EE), and Bailey McNamara (EE), “Clearvoyance,” Fall 2022 – Spring 2023.
+1.	Elizabeth Samayoa (EE), Christian Diesen (EE), Jonathan Melamed (CPE), Tahrim Imon (CPE), Akash Rana (CPE), and Austin Hodges (SSW), “Soma,” Fall 2022 – Spring 2023.
+1.	Kamen Kresnitchki (CPE) and Joseph Tsui (ME), “Metra,” Fall 2022 – Spring 2023.
+1.	Jackie Fang (EE), Gabriel Garcia (CPE), Winston Lei (CPE), John Nugent (CPE), Roshan Soni (CPE), Anthony Mendo (ME), “NoteFinder,” Fall 2022 – Spring 2023.
+1.	Matthew Petrin (EE), Drew Pearlstein (EE), Kenneth Kim (CPE), Benjamin Holko (EE), and John McAuliffe (ME), “Torrent,” Fall 2022 – Spring 2023.
+1.	Julia Chung (CPE), Justis DiBattista (CPE), William Baltus (SSW), Jon Cucci (SSW), and Grace Miguel (SSW), “IntelliVeggie,” Fall 2021 – Spring 2022.
+1.	Sutton Dole (CPE), Rui Fernandes (CPE), Abhishek Kakar (CPE), Hritesh Manda (CPE), Jakob Niglio (CPE), and Luis Ogaz (EE), “Joystik,” Fall 2021 – Spring 2022.
+1.	Jon Cristobal (CPE) and Matthew Gaughan (CPE), “Stone Computing,” Fall 2021 – Spring 2022.
+1.	Qingyao Fan (CPE), Mingyao Tang (EE), and Daren Tay (CPE), “VeggieCare,” Fall 2021 – Spring 2022.
+1.	Andrew DeSanti (CPE), Joshua Hornilla (CPE), Alexei Nikiforov (CPE), Zachary Salisbury (CPE), and Anisha Shin (CPE), “TrackRabbit,” Fall 2021 – Spring 2022.
+1.	Andrew Antonacci (CPE), Sarah Bertussi (ME), and Jennifer Lloyd (CPE), “BeatBot,” Fall 2020 – Spring 2021.
+1.	Brandon Ip (CPE), Jason Raffone (EE), Sebastian Cano (CPE), and Isaiah Burgess (CPE), “FAST Relief,” Fall 2020 – Spring 2021.
+1.	Matthew Bauer (EE), Chase Capron (CPE), and Trevor Dawideit (CPE), “GreenThumb,” Fall 2020 – Spring 2021.
+1.	Alex Martorano (EE), Edward Gaskin (EE), and Jonathan Banks (Rutgers), “I.O.Clean,” Fall 2020 – Spring 2021.
+1.	Stephan Abrimian (CPE) and Christopher Jamgotchian (CPE), “Oush Kisher: Smart Armenian Coffee Machine,” Fall 2020 – Spring 2021.
+1.	Joseph Insalaco (CPE), Brian Ng (EE), Bernard Tran (CPE), Kayleen Chin (CPE), and William Zheng (CPE), “Common,” Fall 2020 – Spring 2021.
+1.	Alexander Wurst (CPE), Shivam Sheth (CPE), Brian Flores (CPE), and Mohammed Elmzaghi (CPE), “Sensus: AI Tool That Derives Emotion and Intent From Written Communication,” Fall 2020 – Spring 2021.
+1.	Anthony Donatelli (CPE), Jeriel Lao (EE), and David Li (CPE), “Project Synapse,” Fall 2020 – Spring 2021.
+1.	Evan Binder (CPE), Nicholas Campbell (EE), and Jamie Shamilian (CPE), “POW: Python On Wii,” Fall 2020 – Spring 2021.
+1.	David Lehman (CPE), Domenic Malfetano (EE), Jesse Priest (BT), Ryan Tom (BT), Justin Trugman (BT), Kirk Vasilas (CPE), and Samuel Young (CPE), “Free Space Optical Communication Linux Driver,” Fall 2019 – Spring 2020.
+1.	Tyler Bryk (CPE), Michael Eng (CPE), Simas Glebavicius (CPE), James O'Brien (CPE), and Stephen Opet III (EE), “Luxtron Li-Fi,” Fall 2019 – Spring 2020.
+1.	Roger Il Grande Jr. (EE), Daniel Bianchini (CPE), and Christopher Keenan (EE), “Rocket Flight Computer,” Fall 2019 – Spring 2020.
+1.	Johnathan Aviles (CPE), Kevin Largacha (CPE), and Ireneusz Scieszka (CPE), “SEARH: Smart Emergency Accelerated Response Holster,” Fall 2019 – Spring 2020.
+1.	Tyler McShea (EE), Lucas Payette (CPE), and Derek Schwoyer (EE), “Smart Lock,” Fall 2019 – Spring 2020.
+1.	Justin Westley (CPE), Anthony Orrico II (CPE), and Zachary Strange (CPE), “Smart Parking,” Fall 2019 – Spring 2020.
+1.	Andrew Barry (CPE), “Cryptophone,” Spring 2019 – Fall 2019.
+1.	Marc Greenfield (EE), Brian Kim (EE), Tsz Wai Lam (EE), Nicolas Nuila (CPE), Andrew O’Brien (CS), “AirTrack: Personalized Image-Tracking Drone,” Fall 2018 – Spring 2019.
+1.	Andrew Emery (EE), Frank Lenge (CPE), and Joshua Maldonado (CPE), “Crypto-Wallet: Secure Your Coins,” Fall 2018 – Spring 2019.
+1.	Kyra DiFrancesco (EE), Diana Galarza (CPE), Eric Kim (CPE), and Kipsy Quevada (EE), “EVisualize: A Fully Integrated Electric Vehicle Charging Solution,” Fall 2018 – Spring 2019.
+1.	Andrew Afflitto (CPE), Sean Jones (EE), and Samuel Yakovlev (CPE), “Free-Space Assistance Drone (Free-SAD): RockSat-X Prototype,” Fall 2018 – Spring 2019.
+1.	Akshay Sampath (EE) and Steven Nichols (CPE), “Hoboken Recreation App,” Fall 2018 – Spring 2019.
+1.	Brereton Conway (CPE), Daniel Pinto (CPE), and Joseph Puciloski (CPE), “Li-Fi: Visible Light Communications,” Fall 2018 – Spring 2019.
+1.	George Amabile (EE), James Goldman (EE), Stanley Lin (CPE), and Clayton McLean Jr. (CPE), “Ludice: The Board Game Tablet,” Fall 2018 – Spring 2019.
+1.	Yuhan Cai (EE), Kai Chen (CPE), Zhen Gong (CPE), and Jie Miao (CPE), “Machine Data Collecting System,” Fall 2018 – Spring 2019.
+1.	Brian Bazergui (CPE), Shane Lynes (CPE), Nicholas Martella (EE), Mark Matthews (CPE), Shayna McCarthy (CPE), John Stabile (EE), and Sofia Zapata (EE), “Nano Health Solutions,” Fall 2018 – Spring 2019.
+1.	Ryan Bloomgren (EE), Lawrence Elentukh (CPE), Anna Petruczynik (EE), Matthew Tomaro (CPE), Nicholas Tomaro (EE), and Scott Weitze (EE), “Urbonics: An Automated and Intelligent Planter System,” Fall 2018 – Spring 2019.
+1.	Gary Marschuetz (CPE), “ContentButton,” Fall 2017 – Spring 2018.
+1.	Matthew Sabatini (CPE) and Mike Wezyk (QF), “Diagnose.Me,” Fall 2017 – Spring 2018.
 1.	Daniel Faulisi (CPE), David Gensheimer (CPE), and Matthew Lagarenne (CPE), “WalleTracc,” Fall 2017 – Spring 2018.
 
 ## Bellcore/Telcordia Technical Reports
-46.	F. J. Effenberger and K. W. Lu, “IFC comparisons of FTTH/C access architectures,” TM-25594, 9/20/1996.
-45.	F. J. Effenberger and K. W. Lu, “Installed-first-cost analysis of FTTH architectures,” TM-25555, 7/24/1996.
-44.	F. J. Effenberger and K. W. Lu, “Overview and comparisons of FTTH architectures,” TM-25474, 5/20/1996.
-43.	W. Y. Chen, K. W. Lu, and T. R. Hsing, "Architectural alternatives of wireless access through hybrid fiber/coax distribution plant: initial results," TM-ARH-024589, 2/1995.
-42.	K. W. Lu, H. R. Manns, D. S. Wilson, "Analysis of estimated installed first costs for video dial tone transport using ADSL-3 and HFC systems in suburban and urban scenarios for Copper Development Association," SR-TSV-003351, 12/30/1994.
-41.	K. W. Lu, S. K. Malhotra, and D. S. Wilson, "Operations cost analysis for loop networks delivering telephony and video," TM-TSV-023316, 2/2/1994.
-40.	K. W. Lu, T. E. Chapuran, M. A. Seely, and D. S. Wilson, "Comparison of FTTC and FTTH networks using TDM for telephony and video," TM-TSV-023513, 11/9/1993.
-39.	T. E. Chapuran and K. W. Lu, "Optimization of fiber/coax upgrades for fiber-in-the-loop with hybrid analog/digital video transmission," TM-ARH-023102, 11/8/1993.
-38.	A. M. Gottlieb, K. W. Lu, V. K. Malhotra, K. M. Mistry, R. N. S. Rathore, and D. S. Wilson, "Impacts of new loop access technologies on serving area guidelines," SR-TSV-002876, 10/14/1993.
-37.	H. B. Bosch, T. E. Chapuran, K. W. Lu, and M. A. Seely, "Evolution studies for providing video services over FITL systems," SR-TSV-002715, 9/1993.
-36.	T. E. Chapuran, H. L. Lemberg, K. W. Lu, S. K. Malhotra, R. C. Menendez, S. S. Wagner, T. P. Amatulli, N. J. Bananno, and M. L. O'Toole, "Analysis and comparison of alternative fiber access architectures for video," SR-TSV-002826, 9/23/1993.
-35.	K. W. Lu, T. E. Chapuran, and S. S. Wagner, "Comparisons of fiber-to-the-curb upgrade alternatives for multichannel digital video," TM-ARH-023177, 7/15/1993.
-34.	T. P. Amatulli, K. W. Lu, M. I. Eiger, and H. L. Lemberg, "Installed first costs of fiber-for-copper loop rehabilitation," TM-ARH-023003, 5/14/1993.
-33.	D. S. Wilson, et al., "Loop access evolution study: VDT entry options, architectural alternatives and technological foundations," SR-TSV-002453, 12/1992.
-32.	H. B. Bosch, et al., "Upgrade and evolution considerations for the basic FITL platform," SR-TSV-002408, 11/92.
-31.	T. E. Chapuran, S. S. Wagner, and K. W. Lu, "Cost comparisons of fiber-to-the-curb WDM upgrade options for multichannel digital video," TM-ARH-022164, 10/29/1992.
-30.	K. W. Lu and S. S. Wagner, "Cost comparisons of fiber/coax networks delivering both telephony and video," TM-ARH-022151, 10/27/1992.
-29.	S. S. Wagner, K. W. Lu, and T. E. Chapuran," Economic analysis of a digital video-distribution system using fiber and coaxial-cable transmission," TM-ARH-021833, 9/4/1992.
-28.	M. A. Seely, T. E. Chapuran, K. W. Lu, V. K. Malhotra, R. C. Menendez, and K. M. Mistry, "Fiber-in-the-loop economics – installed-first-cost modeling," TM-TSV-020532, 7/31/1992.
-27.	K. W. Lu, H. L. Lemberg, M. A. Seely, R. C. Menendez, and V. K. Malhotra, "Fiber-in-the-loop economics – installed-first-cost sensitivity study," TM-TSV-020302, 7/1/1992.
-26.	R. J. D'Accardi, K. W. Lu, V. K. Malhotra, C. A. Personick, and M. A. Seely, "Fiber-in-the-loop economics – initial life-cycle cost analysis," TM-TSV-020345, 1/29/1992.
-25.	K. M. Mistry, K. W. Lu, W. J. Cook, and S. C. Liew, "A framework for the design of ring topologies for centralized powering networks," TM-ARH-019992, 1/24/1992.
-24.	S. L. Kraght, R. C. Menendez, K. W. Lu, and H. L. Lemberg, "Preliminary installed-first-cost estimates of asymmetric 1.5-Mb/s services via fiber-to-the-curb systems," TM-ARH-020585, 12/5/1991.
-23.	S. C. Liew and K. W. Lu, "A framework for network survivability characterization," TM-ARH-018720, 3/1/1991.
-22.	A. Rizzo, K. W. Lu, R. C. Menendez, and H. L. Lemberg, "Preliminary economics study for FTTC to FTTH evolution," TM-ARH-016861, 6/22/1990.
-21.	K. W. Lu and S. C. Liew, "Analysis and applications of r-for-N protection systems," TM-ARH-016288, 6/19/1990.
-20.	S. C. Liew and K. W. Lu, "Comparison of buffering strategies for asymmetric packet switch modules," TM-ARH-017038, 6/18/1990.
-19.	K. W. Lu, M. I. Eiger, and H. L. Lemberg, "System and cost analyses of broadband fiber loop architectures," TM-ARH-014216, 1/5/1990.
-18.	S. C. Liew and K. W. Lu, "Technologies and approaches for diversity in fiber loop networks," TM-ARH-014918, 9/19/1989.
-17.	A. Gelman, M. Kerner, S. Lee, K. W. Lu, and E. Tsai, "Models for near-term residential video services," TM-TSV-014850, 9/14/1989.
-16.	S. C. Liew and K. W. Lu, "Performance analysis of asymmetric packet-switch modules with channel grouping," TM-ARH-014842, 8/31/1989.
-15.	S. S. Wagner and K. W. Lu, "Comparative video distribution techniques for broadband fiber-optic subscriber loops," TM-ARH-014852, 8/21/1989.
-14.	M. I. Eiger, H. L. Lemberg, K. W. Lu, and S. S. Wagner, "Cost analyses of emerging broadband fiber loop architectures," TM-ARH-013630, 2/15/1989.
-13.	M. Kerner, K. W. Lu, and R. S. Wolff, "Final report on the broadband NYNEX metro area study," TM-ARH-013472, 2/15/191989.
-12.	K. W. Lu and S. S. Wagner, "Cost comparisons of emerging broadband fiber loop architectures," TM-ARH-013638, 2/13/1989.
-11.	J. C. Lee and K. W. Lu, "Technological forecasting with nonlinear models," TM-ARH-013499, 1/16/1989.
-10.	W. O. Covington, K. W. Lu, M. Kerner, R. S. Wolff, "A model for broadband ATM network economic analysis with an application to a large customer," TM-TSV-012910, 12/12/1988.
-9.	W. O. Covington, L. F. Garbanati, K. W. Lu, M. A. Seely, M. O. Vogel, "Fiber to the home: first cost of alternatives," TM-TSV-011938, 7/6/1988.
-8.	K. W. Lu and R. S. Wolff, "A first cost economic analysis of the ERP system," TM-ARH-011214, 4/8/1988.
-7.	K. A. Bishop, K. W. Lu, and R. S. Wolff, "Fiber in the loop: a first cost analysis for a central office area," TM-ARH-011038, 2/22/1988.
-6.	K. W. Lu and R. S. Wolff, "A first cost economic model for a broadband local access system," TM-ARH-010909, 2/22/1988.
-5.	J. C. Lee and K. W. Lu, "Algorithm and practice of forecasting technological substitutions with data-based transformed models," TM-ARH-010834, 2/16/1988.
-4.	G. C. Cruz, R. S. Hisiger, and K. W. Lu, "A FORTRAN implementation of the economic life and depreciation model," TM-ARH-009918, 8/12/1987.
-3.	K. W. Lu, "Applications of life cycle forecasting to capital recovery," TM-ARH-009311, 5/12/1987.
-2.	J. C. Lee and K. W. Lu, "On a family of data-based transformed models useful in forecasting technological substitutions", TM-ARH-004015, 7/11/1986.
+1.	F. J. Effenberger and K. W. Lu, “IFC comparisons of FTTH/C access architectures,” TM-25594, 9/20/1996.
+1.	F. J. Effenberger and K. W. Lu, “Installed-first-cost analysis of FTTH architectures,” TM-25555, 7/24/1996.
+1.	F. J. Effenberger and K. W. Lu, “Overview and comparisons of FTTH architectures,” TM-25474, 5/20/1996.
+1.	W. Y. Chen, K. W. Lu, and T. R. Hsing, "Architectural alternatives of wireless access through hybrid fiber/coax distribution plant: initial results," TM-ARH-024589, 2/1995.
+1.	K. W. Lu, H. R. Manns, D. S. Wilson, "Analysis of estimated installed first costs for video dial tone transport using ADSL-3 and HFC systems in suburban and urban scenarios for Copper Development Association," SR-TSV-003351, 12/30/1994.
+1.	K. W. Lu, S. K. Malhotra, and D. S. Wilson, "Operations cost analysis for loop networks delivering telephony and video," TM-TSV-023316, 2/2/1994.
+1.	K. W. Lu, T. E. Chapuran, M. A. Seely, and D. S. Wilson, "Comparison of FTTC and FTTH networks using TDM for telephony and video," TM-TSV-023513, 11/9/1993.
+1.	T. E. Chapuran and K. W. Lu, "Optimization of fiber/coax upgrades for fiber-in-the-loop with hybrid analog/digital video transmission," TM-ARH-023102, 11/8/1993.
+1.	A. M. Gottlieb, K. W. Lu, V. K. Malhotra, K. M. Mistry, R. N. S. Rathore, and D. S. Wilson, "Impacts of new loop access technologies on serving area guidelines," SR-TSV-002876, 10/14/1993.
+1.	H. B. Bosch, T. E. Chapuran, K. W. Lu, and M. A. Seely, "Evolution studies for providing video services over FITL systems," SR-TSV-002715, 9/1993.
+1.	T. E. Chapuran, H. L. Lemberg, K. W. Lu, S. K. Malhotra, R. C. Menendez, S. S. Wagner, T. P. Amatulli, N. J. Bananno, and M. L. O'Toole, "Analysis and comparison of alternative fiber access architectures for video," SR-TSV-002826, 9/23/1993.
+1.	K. W. Lu, T. E. Chapuran, and S. S. Wagner, "Comparisons of fiber-to-the-curb upgrade alternatives for multichannel digital video," TM-ARH-023177, 7/15/1993.
+1.	T. P. Amatulli, K. W. Lu, M. I. Eiger, and H. L. Lemberg, "Installed first costs of fiber-for-copper loop rehabilitation," TM-ARH-023003, 5/14/1993.
+1.	D. S. Wilson, et al., "Loop access evolution study: VDT entry options, architectural alternatives and technological foundations," SR-TSV-002453, 12/1992.
+1.	H. B. Bosch, et al., "Upgrade and evolution considerations for the basic FITL platform," SR-TSV-002408, 11/92.
+1.	T. E. Chapuran, S. S. Wagner, and K. W. Lu, "Cost comparisons of fiber-to-the-curb WDM upgrade options for multichannel digital video," TM-ARH-022164, 10/29/1992.
+1.	K. W. Lu and S. S. Wagner, "Cost comparisons of fiber/coax networks delivering both telephony and video," TM-ARH-022151, 10/27/1992.
+1.	S. S. Wagner, K. W. Lu, and T. E. Chapuran," Economic analysis of a digital video-distribution system using fiber and coaxial-cable transmission," TM-ARH-021833, 9/4/1992.
+1.	M. A. Seely, T. E. Chapuran, K. W. Lu, V. K. Malhotra, R. C. Menendez, and K. M. Mistry, "Fiber-in-the-loop economics – installed-first-cost modeling," TM-TSV-020532, 7/31/1992.
+1.	K. W. Lu, H. L. Lemberg, M. A. Seely, R. C. Menendez, and V. K. Malhotra, "Fiber-in-the-loop economics – installed-first-cost sensitivity study," TM-TSV-020302, 7/1/1992.
+1.	R. J. D'Accardi, K. W. Lu, V. K. Malhotra, C. A. Personick, and M. A. Seely, "Fiber-in-the-loop economics – initial life-cycle cost analysis," TM-TSV-020345, 1/29/1992.
+1.	K. M. Mistry, K. W. Lu, W. J. Cook, and S. C. Liew, "A framework for the design of ring topologies for centralized powering networks," TM-ARH-019992, 1/24/1992.
+1.	S. L. Kraght, R. C. Menendez, K. W. Lu, and H. L. Lemberg, "Preliminary installed-first-cost estimates of asymmetric 1.5-Mb/s services via fiber-to-the-curb systems," TM-ARH-020585, 12/5/1991.
+1.	S. C. Liew and K. W. Lu, "A framework for network survivability characterization," TM-ARH-018720, 3/1/1991.
+1.	A. Rizzo, K. W. Lu, R. C. Menendez, and H. L. Lemberg, "Preliminary economics study for FTTC to FTTH evolution," TM-ARH-016861, 6/22/1990.
+1.	K. W. Lu and S. C. Liew, "Analysis and applications of r-for-N protection systems," TM-ARH-016288, 6/19/1990.
+1.	S. C. Liew and K. W. Lu, "Comparison of buffering strategies for asymmetric packet switch modules," TM-ARH-017038, 6/18/1990.
+1.	K. W. Lu, M. I. Eiger, and H. L. Lemberg, "System and cost analyses of broadband fiber loop architectures," TM-ARH-014216, 1/5/1990.
+1.	S. C. Liew and K. W. Lu, "Technologies and approaches for diversity in fiber loop networks," TM-ARH-014918, 9/19/1989.
+1.	A. Gelman, M. Kerner, S. Lee, K. W. Lu, and E. Tsai, "Models for near-term residential video services," TM-TSV-014850, 9/14/1989.
+1.	S. C. Liew and K. W. Lu, "Performance analysis of asymmetric packet-switch modules with channel grouping," TM-ARH-014842, 8/31/1989.
+1.	S. S. Wagner and K. W. Lu, "Comparative video distribution techniques for broadband fiber-optic subscriber loops," TM-ARH-014852, 8/21/1989.
+1.	M. I. Eiger, H. L. Lemberg, K. W. Lu, and S. S. Wagner, "Cost analyses of emerging broadband fiber loop architectures," TM-ARH-013630, 2/15/1989.
+1.	M. Kerner, K. W. Lu, and R. S. Wolff, "Final report on the broadband NYNEX metro area study," TM-ARH-013472, 2/15/191989.
+1.	K. W. Lu and S. S. Wagner, "Cost comparisons of emerging broadband fiber loop architectures," TM-ARH-013638, 2/13/1989.
+1.	J. C. Lee and K. W. Lu, "Technological forecasting with nonlinear models," TM-ARH-013499, 1/16/1989.
+1.	W. O. Covington, K. W. Lu, M. Kerner, R. S. Wolff, "A model for broadband ATM network economic analysis with an application to a large customer," TM-TSV-012910, 12/12/1988.
+1.	W. O. Covington, L. F. Garbanati, K. W. Lu, M. A. Seely, M. O. Vogel, "Fiber to the home: first cost of alternatives," TM-TSV-011938, 7/6/1988.
+1.	K. W. Lu and R. S. Wolff, "A first cost economic analysis of the ERP system," TM-ARH-011214, 4/8/1988.
+1.	K. A. Bishop, K. W. Lu, and R. S. Wolff, "Fiber in the loop: a first cost analysis for a central office area," TM-ARH-011038, 2/22/1988.
+1.	K. W. Lu and R. S. Wolff, "A first cost economic model for a broadband local access system," TM-ARH-010909, 2/22/1988.
+1.	J. C. Lee and K. W. Lu, "Algorithm and practice of forecasting technological substitutions with data-based transformed models," TM-ARH-010834, 2/16/1988.
+1.	G. C. Cruz, R. S. Hisiger, and K. W. Lu, "A FORTRAN implementation of the economic life and depreciation model," TM-ARH-009918, 8/12/1987.
+1.	K. W. Lu, "Applications of life cycle forecasting to capital recovery," TM-ARH-009311, 5/12/1987.
+1.	J. C. Lee and K. W. Lu, "On a family of data-based transformed models useful in forecasting technological substitutions", TM-ARH-004015, 7/11/1986.
 1.	A. A. Bergh, P. S. Brandon, W. C. Cowing, H. L. Lemberg, K. W. Lu, S. D. Personick and P. E. White, "Technological and market obsolescence of telephone network equipment", ST-BEL-000029, 6/1986.
 
 ## Presentations
