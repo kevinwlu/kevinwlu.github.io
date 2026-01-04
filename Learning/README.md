@@ -833,6 +833,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [The Project Gutenberg eBook 46333](https://www.gutenberg.org/ebooks/46333)
 * [*Frankenstein; Or, The Modern Prometheus*](https://en.wikipedia.org/wiki/Frankenstein) 1818 by [Mary Shelley](https://en.wikipedia.org/wiki/Mary_Shelley) 1797&mdash;1851
   * [The Project Gutenberg eBook 84](https://www.gutenberg.org/ebooks/84)
+  * [Midas](https://en.wikipedia.org/wiki/Midas)
+  * [*Frankenstein* (2025 film)](https://en.wikipedia.org/wiki/Frankenstein_(2025_film))
 * [*The Count of Monte Cristo*](https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo) 1844 by [Alexandre Dumas](https://en.wikipedia.org/wiki/Alexandre_Dumas) 1802&mdash&1870
   * [The Project Gutenberg eBook 1184](https://www.gutenberg.org/ebooks/1184)
   * [Château d'If](https://en.wikipedia.org/wiki/Ch%C3%A2teau_d%27If)
