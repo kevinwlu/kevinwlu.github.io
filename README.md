@@ -10,11 +10,12 @@
 Make lifelong [learning](/Learning) an everyday habit
 
 ## Education
-* D.Sc. (1984) and M.S. (1981), Systems Science and Mathematics, [Washington University in St. Louis](https://wustl.edu/)
+* [DSc](https://en.wikipedia.org/wiki/Doctor_of_Science) in Systems Science and Mathematics, [Washington University in St. Louis](https://wustl.edu/), August 1984
   * Dissertation: *A Textured Model and Its Uses in Reactive Power Management and Control*
   * Advisor: Dr. [John Zaborszky](https://en.wikipedia.org/wiki/John_Zaborszky) 1914&mdash;2008
   * Committee: Dr. [David LeRoy Elliott](https://isr.umd.edu/news/story/david-l-elliott-an-appreciation) &mdash;2020, Dr. [Garng Huang](https://scholar.google.com/citations?user=7zk9wWYAAAAJ&hl=en)
-* B.S. (1979), Control Engineering, [National Chiao Tung University](https://en.nycu.edu.tw/)
+* MS in Systems Science and Mathematics, Washington University in St. Louis, May 1981
+* BS in Control Engineering, [National Chiao Tung University](https://en.nycu.edu.tw/), Hsinchu, Taiwan, June 1979
 
 ## Experience
 * Associate Dean for Undergraduate Studies, [Charles V. Schaefer, Jr. School of Engineering and Science](https://www.stevens.edu/school-engineering-science) (SES), Stevens Institute of Technology, Hoboken, NJ, August 1, 2025 – present
