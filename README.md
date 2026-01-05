@@ -127,7 +127,9 @@ Make lifelong [learning](/Learning) an everyday habit
   * “TR-48: Vehicular Telematics,” TIA [2010-2011 Standards and Technology Annual Report (STAR)](/StarReport_2010-2011.pdf), pp. 36-38
   * “TR-48: Vehicular Telematics,” TIA [2009-2010 STAR](/StarReport_2009-2010.pdf), pp. 36-38
   * “TR-48: Vehicular Telematics,” TIA [2008-2009 STAR](/StarReport_2008-2009.pdf), pp. 38-40
-* [US Department of Transportation](https://en.wikipedia.org/wiki/United_States_Department_of_Transportation) Intelligent Transportation Systems (ITS) Joint Program Office (JPO) Coordinating Working Group for ITS Standards Program 2011-2014 Strategic Plan, 2010 to 2011
+  * “TR-48: Vehicular Telematics,” TIA [2007-2008 STAR](/StarReport_2007-2008.pdf), pp. 30-31
+* [US Department of Transportation](https://en.wikipedia.org/wiki/United_States_Department_of_Transportation) Intelligent Transportation Systems (ITS) Joint Program Office (JPO) Coordinating Working Group for ITS Standards Program, 2010-2011
+  * [ITS Standards Program Strategic Plan for 2011-2014](stds_strat_plan.pdf) FHWA-JPO-11-052, Version 1.01, April 2011
 *	J. D. Margulici, W. Bachman, M. Lindsay, K. W. Lu, C. Scofield, and S. Turner, “North American Traffic Working Group (NATWG) Traffic Information Benchmarking Guidelines (TIBG),” Version 1.0, April 22, 2010
 *	J. Reilly, N. H. Cheng, and K. W. Lu, “IP Communications Implementation for Critical Infrastructure,” United Telecom Council (UTC) Research Report, September 2005
 * [National Research Council](https://en.wikipedia.org/wiki/National_Academies_of_Sciences,_Engineering,_and_Medicine). 2002. [*Broadband: Bring Home the Bits*](https://nap.nationalacademies.org/read/10235/chapter/1#ix). Washington, DC: The National Academies Press. doi: https://doi.org/10.17226/10235
