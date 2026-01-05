@@ -126,10 +126,11 @@ Make lifelong [learning](/Learning) an everyday habit
   * “TR-48: Vehicular Telematics,” TIA [2007-2008 STAR](/StarReport_2007-2008.pdf), pp. 30-31
 * ISO/TC204 US Technical Advisory Group (TAG) and Working Advisory Group (WAG) 17 on Nomadic and Portable Devices for ITS Services, 2009 to 2012
 * [SAE International](https://en.wikipedia.org/wiki/SAE_International) [Dedicated Short-Range Communication](https://en.wikipedia.org/wiki/Dedicated_short-range_communications) (DSRC) Technical Committee, 2008 to 2012
-* [US Department of Transportation](https://en.wikipedia.org/wiki/United_States_Department_of_Transportation) Intelligent Transportation Systems (ITS) Joint Program Office (JPO) Coordinating Working Group for ITS Standards Program, 2010-2011
+* [US Department of Transportation](https://en.wikipedia.org/wiki/United_States_Department_of_Transportation) (USDOT) Intelligent Transportation Systems (ITS) Joint Program Office (JPO) Coordinating Working Group for ITS Standards Program, 2010-2011
   * [ITS Standards Program Strategic Plan for 2011-2014](stds_strat_plan.pdf) FHWA-JPO-11-052, Version 1.01, April 2011
 * North America Traffic Working Group (NATWG) of [ITS America](https://en.wikipedia.org/wiki/ITS_America), 2009 to 2010
   *	J. D. Margulici, W. Bachman, M. Lindsay, K. W. Lu, C. Scofield, and S. Turner, [Traffic Information Benchmarking Guidelines (TIBG), Version 1.0](/TIBG.pdf), North American Traffic Working Group (NATWG), April 22, 2010
+* USDOT Innovation Roundtable on Advanced Wireless Communication for the Transportation Network, Washington, D.C., May 23, 2008
 *	J. Reilly, N. H. Cheng, and K. W. Lu, “IP Communications Implementation for Critical Infrastructure,” United Telecom Council (UTC) Research Report, September 2005
 * [National Research Council](https://en.wikipedia.org/wiki/National_Academies_of_Sciences,_Engineering,_and_Medicine). 2002. [*Broadband: Bring Home the Bits*](https://nap.nationalacademies.org/read/10235/chapter/1#ix). Washington, DC: The National Academies Press. doi: https://doi.org/10.17226/10235
   > Kevin Lu, executive director of the Integrated Access and Operations Department, Telcordia, discussed fiber in the last mile (National Academies Broadband Access Workshop, Committee on Broadband Last Mile Technology of the National Research Council, Washington, D.C., June 19, 2000)
@@ -245,6 +246,7 @@ John Scott Sadowsky's [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_n
 1. “Vehicular Telematics Standards,” Telematics Standard and Application Workshop, Taipei Nankang Software Park, December 16, 2008
 1. “Perimeter Security Systems,” Intelligent Video Surveillance Systems and Technology Applications Workshop, Taipei, December 12, 2008
 1. “Vehicular Telematics Standards,” CIE-USA GNYC Annual Convention, Newark Airport Marriott, November 8, 2008
+1.	“Vehicular Telematics Overview,” [Mitsubishi Electric Research Laboratories](https://en.wikipedia.org/wiki/Mitsubishi_Electric_Research_Laboratories) (MERL), Boston, November 6, 2008
 1. “Communication Systems for Safe and Secure Buildings,” CIE-USA GNYC Annual Convention, Newark Airport Marriott, November 10, 2007
 1. “Communication Systems for Safe and Secure Buildings,” Intelligent Building Telecom Platform (IB-TP) and e-Applications Workshop, [National Taiwan University of Science and Technology](https://en.wikipedia.org/wiki/National_Taiwan_University_of_Science_and_Technology) (NTUST), November 1, 2007
 1. “Technologies, Economics, and Deployment of Optical Access Networks,” 16th WOCC, NJIT, April 27, 2007
