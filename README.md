@@ -237,16 +237,16 @@ John Scott Sadowsky's [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_n
 1.	“An Overview of Standards,” NJIT ECE 414, November 20, 2014
 1. “Smart Living: Advances and Applications,” [Foxconn](https://en.wikipedia.org/wiki/Foxconn), Taipei, March 11, 2014
 1. “International Business Models for Telematics Services,” the 1st Telematics Services Industry Summit of Telematics Industry Applications Alliance, Shanghai, January 13-14, 2011
-1.	“Co-operative Systems,” Closing Panel on ICT Revolutionizing the World of Transport, ETSI Business Innovation Summit, London, October 5-6, 2010
-1.	“Vehicular Safety Message Sets,” NENA 2010, Indianapolis, June 9, 2010
-1. “Vehicular Telematics and Intelligent Transportation Systems: Applications and Standards,” Sino-American Technology and Engineering Conference (SATEC) 2010, Beijing, China, April 16-18, 2010
+1.	“Co-operative Systems,” Closing Panel on ICT Revolutionizing the World of Transport, [European Telecommunications Standards Institute](https://en.wikipedia.org/wiki/European_Telecommunications_Standards_Institute) (ETSI) Business Innovation Summit, London, October 5-6, 2010
+1.	“Vehicular Safety Message Sets,” [National Emergency Number Association](https://en.wikipedia.org/wiki/National_Emergency_Number_Association) (NENA) 2010, Indianapolis, June 9, 2010
+1. “Vehicular Telematics and Intelligent Transportation Systems: Applications and Standards,” [Chinese Institute of Engineers USA](https://en.wikipedia.org/wiki/Chinese_Institute_of_Engineers_USA) (CIE-USA) Sino-American Technology and Engineering Conference (SATEC) 2010, Beijing, China, April 16-18, 2010
 1. “Passion for Life: From Connectivity to Safety,” Panel on Make a Difference through an Engineering Career at 2010 Asian American Engineers of the Year Award Program, Hyatt Regency New Brunswick, February 27, 2010
-1. “An Overview of Incident Management Systems,” [Chinese Institute of Engineers USA](https://en.wikipedia.org/wiki/Chinese_Institute_of_Engineers_USA) (CIE-USA) Greater New York Chapter (GNYC) Annual Convention, Newark Airport Marriott, October 31, 2009
+1. “An Overview of Incident Management Systems,” CIE-USA Greater New York Chapter (GNYC) Annual Convention, Newark Airport Marriott, October 31, 2009
 1. “An Overview of Incident Management Systems,” [Industrial Technology Research Institute](https://en.wikipedia.org/wiki/Industrial_Technology_Research_Institute) (ITRI), Hsinchu, Taiwan, October 27, 2009
 1. “Vehicular Telematics Standards,” Telematics Standard and Application Workshop, Taipei Nankang Software Park, December 16, 2008
 1. “Perimeter Security Systems,” Intelligent Video Surveillance Systems and Technology Applications Workshop, Taipei, December 12, 2008
 1. “Vehicular Telematics Standards,” CIE-USA GNYC Annual Convention, Newark Airport Marriott, November 8, 2008
-1. “Communication Systems for Safe and Secure Buildings,” , and CIE-USA GNYC Annual Convention, Newark Airport Marriott, November 10, 2007
+1. “Communication Systems for Safe and Secure Buildings,” CIE-USA GNYC Annual Convention, Newark Airport Marriott, November 10, 2007
 1. “Communication Systems for Safe and Secure Buildings,” Intelligent Building Telecom Platform (IB-TP) and e-Applications Workshop, [National Taiwan University of Science and Technology](https://en.wikipedia.org/wiki/National_Taiwan_University_of_Science_and_Technology) (NTUST), November 1, 2007
 1. “Technologies, Economics, and Deployment of Optical Access Networks,” 16th WOCC, NJIT, April 27, 2007
 1.	“Network Values,” NJIT ECE 414, November 7, 2006
@@ -254,7 +254,7 @@ John Scott Sadowsky's [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_n
 1. “Ubiquitous Broadband Access for Connection, Collaboration, and Competition,” SPIE APOC Network Architectures, Management, and Applications, 6022-01, Shanghai, China, November 6-10, 2005
 1.	“Ubiquitous Broadband Access: A Roadmap to Growth,” the IEEE NJ Coast Section, Eatontown, NJ, May 26, 2005
 1. “Broadband: the Means and the Ends,” CIE-USA GNYC Annual Meeting, Newark, NJ, September 18, 2004
-1. “Delivering IP-Based Services to Edge Networks,” SATEC 2004, Beijing, China, April 27-28, 2004
+1. “Delivering IP-Based Services to Edge Networks,” CIE-USA SATEC 2004, Beijing, China, April 27-28, 2004
 1. “Current Trends in Optical Communications,” 2004 International Optical Networking and Communication Forum, Taipei, Taiwan, April 9, 2004
 1. “Broadband and Its Healthcare Applications,” [Asia University](https://en.wikipedia.org/wiki/Asia_University_(Taiwan)), Taichung, Taiwan, March 11, 2004
 1. “Building Demand for Widespread Broadband Deployment,” the 13th Annual WOCC, Taipei, Taiwan, March 8-9, 2004
