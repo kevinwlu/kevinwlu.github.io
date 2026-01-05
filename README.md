@@ -270,6 +270,17 @@ John Scott Sadowsky's [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_n
 1.	“Survivability of Fiber Loop Architectures,” Telecommunications Network Survivability Symposium, St. Louis, Missouri, September 5-6, 1990
 1. “Algorithm and Practice of Forecasting Technological Substitutions,” DGT and Telecommunications Laboratories, Taiwan, July 1, 1987
 
+## Updated Presentations
+* [Balanced Skill Set](https://docs.google.com/presentation/d/153WdbX45X3mDv5xqPK3I9XluN-qWKLW9vqNKKk2y5kI)
+* [Careers in Industry](https://docs.google.com/presentation/d/106zGCupPAgWhLEW6l_BM_moIr_ZFnFw36kjqOi9m9q8)
+* [Ethics of Autonomous and Intelligent Systems](https://docs.google.com/presentation/d/1mvlRrR5tgnX2LDzR20_8J74wdCawYNp7Y1KuTh8QK3c)
+* [Hands-on Approach to Internet of Things](https://docs.google.com/presentation/d/1nW76PppJbi9WeeJnl-cxk0Al-DEN9r5vw4FR4d0fkYI)
+* [IEEE Writing Style](https://docs.google.com/presentation/d/1TIWfYpBYfumA1rgMLDP6UkM7fC9rC8EK4up3Q28t6MQ)
+* [Necessity and Serendipity of Invention and Innovation](https://docs.google.com/presentation/d/1hLaVNikDvlXs1PCG4ikN8zXegfyOYcp04XByzQSG864)
+* [Professional Writing Workshop](https://docs.google.com/presentation/d/1MxA8BNXht-iZBCjvJ132hFw8NCFqIsytRd7-xZcuoo8)
+* [Research Ethics](https://docs.google.com/presentation/d/17tJUBG1FEAJRNnsOmk7I3pOiPmfpcyCJATd_FuNYrto)
+* [Second Curve of Technology, Media, and Telecommunications](https://goo.gl/5wH7D7)
+
 ## Doctoral Dissertation Committees
 1.	Jeevanandha Ramanathan, “Exploring Temporal State Basis for Quantum Information Processing,” August 2025.
 1.	Zhan Li, “High-Q Resonators and Single Photon Nonlinearity on Thin Film Lithium Niobate,” May 2024.
@@ -465,14 +476,3 @@ John Scott Sadowsky's [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_n
 1.	K. W. Lu, "Applications of life cycle forecasting to capital recovery," TM-ARH-009311, 5/12/1987.
 1.	J. C. Lee and K. W. Lu, "On a family of data-based transformed models useful in forecasting technological substitutions", TM-ARH-004015, 7/11/1986.
 1.	A. A. Bergh, P. S. Brandon, W. C. Cowing, H. L. Lemberg, K. W. Lu, S. D. Personick and P. E. White, "Technological and market obsolescence of telephone network equipment", ST-BEL-000029, 6/1986.
-
-## Presentations
-* [Balanced Skill Set](https://docs.google.com/presentation/d/153WdbX45X3mDv5xqPK3I9XluN-qWKLW9vqNKKk2y5kI)
-* [Careers in Industry](https://docs.google.com/presentation/d/106zGCupPAgWhLEW6l_BM_moIr_ZFnFw36kjqOi9m9q8)
-* [Ethics of Autonomous and Intelligent Systems](https://docs.google.com/presentation/d/1mvlRrR5tgnX2LDzR20_8J74wdCawYNp7Y1KuTh8QK3c)
-* [Hands-on Approach to Internet of Things](https://docs.google.com/presentation/d/1nW76PppJbi9WeeJnl-cxk0Al-DEN9r5vw4FR4d0fkYI)
-* [IEEE Writing Style](https://docs.google.com/presentation/d/1TIWfYpBYfumA1rgMLDP6UkM7fC9rC8EK4up3Q28t6MQ)
-* [Necessity and Serendipity of Invention and Innovation](https://docs.google.com/presentation/d/1hLaVNikDvlXs1PCG4ikN8zXegfyOYcp04XByzQSG864)
-* [Professional Writing Workshop](https://docs.google.com/presentation/d/1MxA8BNXht-iZBCjvJ132hFw8NCFqIsytRd7-xZcuoo8)
-* [Research Ethics](https://docs.google.com/presentation/d/17tJUBG1FEAJRNnsOmk7I3pOiPmfpcyCJATd_FuNYrto)
-* [Second Curve of Technology, Media, and Telecommunications](https://goo.gl/5wH7D7)
