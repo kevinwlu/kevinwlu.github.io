@@ -244,7 +244,7 @@ John Scott Sadowsky's [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_n
 1. “An Overview of Incident Management Systems,” CIE-USA Greater New York Chapter (GNYC) Annual Convention, Newark Airport Marriott, October 31, 2009
 1. “An Overview of Incident Management Systems,” [Industrial Technology Research Institute](https://en.wikipedia.org/wiki/Industrial_Technology_Research_Institute) (ITRI), Hsinchu, Taiwan, October 27, 2009
 1. “Vehicular Telematics Standards,” Telematics Standard and Application Workshop, Taipei Nankang Software Park, December 16, 2008
-1. “Perimeter Security Systems,” Intelligent Video Surveillance Systems and Technology Applications Workshop, [Institute for Information Industry](https://en.wikipedia.org/wiki/Institute_for_Information_Industry) (III), Taipei, December 12, 2008
+1. “Perimeter Security Systems,” Intelligent Video Surveillance Systems and Technology Applications Workshop, Taipei, December 12, 2008
 1. “Vehicular Telematics Standards,” CIE-USA GNYC Annual Convention, Newark Airport Marriott, November 8, 2008
 1. “Communication Systems for Safe and Secure Buildings,” CIE-USA GNYC Annual Convention, Newark Airport Marriott, November 10, 2007
 1. “Communication Systems for Safe and Secure Buildings,” Intelligent Building Telecom Platform (IB-TP) and e-Applications Workshop, [National Taiwan University of Science and Technology](https://en.wikipedia.org/wiki/National_Taiwan_University_of_Science_and_Technology) (NTUST), November 1, 2007
