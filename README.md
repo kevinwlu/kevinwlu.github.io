@@ -104,8 +104,8 @@ Make lifelong [learning](/Learning) an everyday habit
   * Organizer and Chair, the Future of Broadband Access Panel, the Broadband Access Technologies Session for the 2000 IEEE/LEOS Summer Topical Meetings, July 27, 2000, Aventura, Florida
 * [IEEE Technical Activities Board](https://ta.ieee.org/) (IEEE TAB)
   * [IEEE TAB Committee on Standards](https://resourcecenter.tcos.ieee.org/) (TCOS) (2020-2023)
-* Member, the ISO/TC204 US Technical Advisory Group (TAG) and Working Advisory Group (WAG) 17 on Nomadic and Portable Devices for ITS Services, 2009 to 2012
-* Member, North America Traffic Working Group (NATWG) of ITS America, 2009 to 2010
+* Member, ISO/TC204 US Technical Advisory Group (TAG) and Working Advisory Group (WAG) 17 on Nomadic and Portable Devices for ITS Services, 2009 to 2012
+* Member, North America Traffic Working Group (NATWG) of [ITS America](https://en.wikipedia.org/wiki/ITS_America), 2009 to 2010
 * Liaison, [SAE International](https://en.wikipedia.org/wiki/SAE_International) [Dedicated Short-Range Communication](https://en.wikipedia.org/wiki/Dedicated_short-range_communications) (DSRC) Technical Committee, 2008 to 2012
 * Founding Chair, [Telecommunications Industry Association](https://en.wikipedia.org/wiki/Telecommunications_Industry_Association) (TIA) Engineering Committee TR-48 on Vehicular Telematics, 2007 to 2010
 * [Wireless and Optical Communications Conference](https://www.wocc.org/) (WOCC)
@@ -130,7 +130,7 @@ Make lifelong [learning](/Learning) an everyday habit
   * “TR-48: Vehicular Telematics,” TIA [2007-2008 STAR](/StarReport_2007-2008.pdf), pp. 30-31
 * [US Department of Transportation](https://en.wikipedia.org/wiki/United_States_Department_of_Transportation) Intelligent Transportation Systems (ITS) Joint Program Office (JPO) Coordinating Working Group for ITS Standards Program, 2010-2011
   * [ITS Standards Program Strategic Plan for 2011-2014](stds_strat_plan.pdf) FHWA-JPO-11-052, Version 1.01, April 2011
-*	J. D. Margulici, W. Bachman, M. Lindsay, K. W. Lu, C. Scofield, and S. Turner, “North American Traffic Working Group (NATWG) Traffic Information Benchmarking Guidelines (TIBG),” Version 1.0, April 22, 2010
+*	J. D. Margulici, W. Bachman, M. Lindsay, K. W. Lu, C. Scofield, and S. Turner, [Traffic Information Benchmarking Guidelines (TIBG), Version 1.0](/NATWG Traffic Information Benchmarking Guildlines TIBG version 1.0 RELEASED 4-22-101.pdf), North American Traffic Working Group (NATWG), April 22, 2010
 *	J. Reilly, N. H. Cheng, and K. W. Lu, “IP Communications Implementation for Critical Infrastructure,” United Telecom Council (UTC) Research Report, September 2005
 * [National Research Council](https://en.wikipedia.org/wiki/National_Academies_of_Sciences,_Engineering,_and_Medicine). 2002. [*Broadband: Bring Home the Bits*](https://nap.nationalacademies.org/read/10235/chapter/1#ix). Washington, DC: The National Academies Press. doi: https://doi.org/10.17226/10235
   > Kevin Lu, executive director of the Integrated Access and Operations Department, Telcordia, discussed fiber in the last mile (National Academies Broadband Access Workshop, Committee on Broadband Last Mile Technology of the National Research Council, Washington, D.C., June 19, 2000)
