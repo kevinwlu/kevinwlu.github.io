@@ -99,38 +99,37 @@ Make lifelong [learning](/Learning) an everyday habit
   * [Awards and Recognition Committee](https://standards.ieee.org/about/bog/arcom/) (2016-2017)
   * [Standards Education Committee](https://www.standardsuniversity.org/standards-education-committee/) (2017-2020) 
   * [Strategic and Emerging Standards Committee](https://standards.ieee.org/wp-content/uploads/import/documents/other/SESCom-Operations_Manual.pdf) (2020-2026)
-  * [Global Standards Collaboration](https://en.wikipedia.org/wiki/Global_Standards_Collaboration) (GSC) Task Force on Emergency Communications (GSC19, Geneva, 15-16 July 2015)
 * [IEEE Photonics Society](https://en.wikipedia.org/wiki/IEEE_Photonics_Society)
   * Organizer and Chair, the Future of Broadband Access Panel, the Broadband Access Technologies Session for the 2000 IEEE/LEOS Summer Topical Meetings, July 27, 2000, Aventura, Florida
 * [IEEE Technical Activities Board](https://ta.ieee.org/) (IEEE TAB)
   * [IEEE TAB Committee on Standards](https://resourcecenter.tcos.ieee.org/) (TCOS) (2020-2023)
-* Member, ISO/TC204 US Technical Advisory Group (TAG) and Working Advisory Group (WAG) 17 on Nomadic and Portable Devices for ITS Services, 2009 to 2012
-* Member, North America Traffic Working Group (NATWG) of [ITS America](https://en.wikipedia.org/wiki/ITS_America), 2009 to 2010
-* Liaison, [SAE International](https://en.wikipedia.org/wiki/SAE_International) [Dedicated Short-Range Communication](https://en.wikipedia.org/wiki/Dedicated_short-range_communications) (DSRC) Technical Committee, 2008 to 2012
-* Founding Chair, [Telecommunications Industry Association](https://en.wikipedia.org/wiki/Telecommunications_Industry_Association) (TIA) Engineering Committee TR-48 on Vehicular Telematics, 2007 to 2010
 * [Wireless and Optical Communications Conference](https://www.wocc.org/) (WOCC)
   * Treasurer (2015-2025)
   * Chair (2007-2008), Vice Chair (2006-2007), and Member (2005-2006), Board of Trustees
   * President (2004-2005)
 
-## Contributions
+## Technical Contributions
 * IEEE Future Networks, [IEEE 5G and Beyond Technology Roadmap White Paper](https://futurenetworks.ieee.org/images/files/pdf/ieee-5g-roadmap-white-paper.pdf), October 2017
+* [Global Standards Collaboration](https://en.wikipedia.org/wiki/Global_Standards_Collaboration) (GSC) Task Force on Emergency Communications, GSC19, Geneva, 15-16 July 2015
 * [3GPP](https://en.wikipedia.org/wiki/3GPP) Contributions
-  * RAN1 TR 36.873 "3D Channel Model," Deployment scenarios and path loss modeling for user equipment in multi-floor buildings: R1-130768, R1-130869, R1-131752, R1-131760, R1-131899, R1-131900, R1-132642, R1-132744, R1- 132748, R1-132904, R1-133880, R1-133912, R1-133969, R1-133974, R1- 133975, R1-134591, January to October 2013
-  * RAN4 TR 37.840 "Antenna Array Systems," Change requests for Section 5.4.4: R4-133987, R4-134906, August to October 2013
+  * RAN1 TR 36.873 "3D Channel Model," Deployment scenarios and path loss modeling for user equipment in multi-floor buildings: R1-130768, R1-130869, R1-131752, R1-131760, R1-131899, R1-131900, R1-132642, R1-132744, R1- 132748, R1-132904, R1-133880, R1-133912, R1-133969, R1-133974, R1-133975, R1-134591, January 2013 to October 2013
+  * RAN4 TR 37.840 "Antenna Array Systems," Change requests for Section 5.4.4: R4-133987, R4-134906, August 2013 to October 2013
 * [Alliance for Telecommunications Industry Solutions](https://en.wikipedia.org/wiki/Alliance_for_Telecommunications_Industry_Solutions) (ATIS)
   * Machine-to-Machine (M2M) Focus Group, 2011-2012
   * Technology and Operations(TOPS) Council Land scape Team for M2M,Smart Grid, and Connected Vehicle, 2011
-* [Telecommunications Industry Association](https://tiaonline.org/) (TIA) Engineering Committee TR-48 on Vehicular Telematics
+* Founding Chair, [Telecommunications Industry Association](https://en.wikipedia.org/wiki/Telecommunications_Industry_Association) (TIA) Engineering Committee TR-48 on Vehicular Telematics, 2007 to 2010
   * “Connected Vehicle Applications,” TIA TR48-20110825-003, August 25, 2011
   * “Overview of US ITS Standards,” TIA TR48-20110630-004, June 30, 2011
   * “TR-48: Vehicular Telematics,” TIA [2010-2011 Standards and Technology Annual Report (STAR)](/StarReport_2010-2011.pdf), pp. 36-38
   * “TR-48: Vehicular Telematics,” TIA [2009-2010 STAR](/StarReport_2009-2010.pdf), pp. 36-38
   * “TR-48: Vehicular Telematics,” TIA [2008-2009 STAR](/StarReport_2008-2009.pdf), pp. 38-40
   * “TR-48: Vehicular Telematics,” TIA [2007-2008 STAR](/StarReport_2007-2008.pdf), pp. 30-31
+* ISO/TC204 US Technical Advisory Group (TAG) and Working Advisory Group (WAG) 17 on Nomadic and Portable Devices for ITS Services, 2009 to 2012
+* [SAE International](https://en.wikipedia.org/wiki/SAE_International) [Dedicated Short-Range Communication](https://en.wikipedia.org/wiki/Dedicated_short-range_communications) (DSRC) Technical Committee, 2008 to 2012
 * [US Department of Transportation](https://en.wikipedia.org/wiki/United_States_Department_of_Transportation) Intelligent Transportation Systems (ITS) Joint Program Office (JPO) Coordinating Working Group for ITS Standards Program, 2010-2011
   * [ITS Standards Program Strategic Plan for 2011-2014](stds_strat_plan.pdf) FHWA-JPO-11-052, Version 1.01, April 2011
-*	J. D. Margulici, W. Bachman, M. Lindsay, K. W. Lu, C. Scofield, and S. Turner, [Traffic Information Benchmarking Guidelines (TIBG), Version 1.0](/TIBG.pdf), North American Traffic Working Group (NATWG), April 22, 2010
+* North America Traffic Working Group (NATWG) of [ITS America](https://en.wikipedia.org/wiki/ITS_America), 2009 to 2010
+  *	J. D. Margulici, W. Bachman, M. Lindsay, K. W. Lu, C. Scofield, and S. Turner, [Traffic Information Benchmarking Guidelines (TIBG), Version 1.0](/TIBG.pdf), North American Traffic Working Group (NATWG), April 22, 2010
 *	J. Reilly, N. H. Cheng, and K. W. Lu, “IP Communications Implementation for Critical Infrastructure,” United Telecom Council (UTC) Research Report, September 2005
 * [National Research Council](https://en.wikipedia.org/wiki/National_Academies_of_Sciences,_Engineering,_and_Medicine). 2002. [*Broadband: Bring Home the Bits*](https://nap.nationalacademies.org/read/10235/chapter/1#ix). Washington, DC: The National Academies Press. doi: https://doi.org/10.17226/10235
   > Kevin Lu, executive director of the Integrated Access and Operations Department, Telcordia, discussed fiber in the last mile (National Academies Broadband Access Workshop, Committee on Broadband Last Mile Technology of the National Research Council, Washington, D.C., June 19, 2000)
