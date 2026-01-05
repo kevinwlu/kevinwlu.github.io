@@ -240,11 +240,11 @@ John Scott Sadowsky's [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_n
 1.	“Co-operative Systems,” Closing Panel on ICT Revolutionizing the World of Transport, [European Telecommunications Standards Institute](https://en.wikipedia.org/wiki/European_Telecommunications_Standards_Institute) (ETSI) Business Innovation Summit, London, October 5-6, 2010
 1.	“Vehicular Safety Message Sets,” [National Emergency Number Association](https://en.wikipedia.org/wiki/National_Emergency_Number_Association) (NENA) 2010, Indianapolis, June 9, 2010
 1. “Vehicular Telematics and Intelligent Transportation Systems: Applications and Standards,” [Chinese Institute of Engineers USA](https://en.wikipedia.org/wiki/Chinese_Institute_of_Engineers_USA) (CIE-USA) Sino-American Technology and Engineering Conference (SATEC) 2010, Beijing, China, April 16-18, 2010
-1. “Passion for Life: From Connectivity to Safety,” Panel on Make a Difference through an Engineering Career at 2010 Asian American Engineers of the Year Award Program, Hyatt Regency New Brunswick, February 27, 2010
+1. “Passion for Life: From Connectivity to Safety,” Panel on Make a Difference Through an Engineering Career at 2010 Asian American Engineers of the Year (AAEY) Award Program, Hyatt Regency New Brunswick, February 27, 2010
 1. “An Overview of Incident Management Systems,” CIE-USA Greater New York Chapter (GNYC) Annual Convention, Newark Airport Marriott, October 31, 2009
 1. “An Overview of Incident Management Systems,” [Industrial Technology Research Institute](https://en.wikipedia.org/wiki/Industrial_Technology_Research_Institute) (ITRI), Hsinchu, Taiwan, October 27, 2009
 1. “Vehicular Telematics Standards,” Telematics Standard and Application Workshop, Taipei Nankang Software Park, December 16, 2008
-1. “Perimeter Security Systems,” Intelligent Video Surveillance Systems and Technology Applications Workshop, Taipei, December 12, 2008
+1. “Perimeter Security Systems,” Intelligent Video Surveillance Systems and Technology Applications Workshop, [Institute for Information Industry](https://en.wikipedia.org/wiki/Institute_for_Information_Industry) (III), Taipei, December 12, 2008
 1. “Vehicular Telematics Standards,” CIE-USA GNYC Annual Convention, Newark Airport Marriott, November 8, 2008
 1. “Communication Systems for Safe and Secure Buildings,” CIE-USA GNYC Annual Convention, Newark Airport Marriott, November 10, 2007
 1. “Communication Systems for Safe and Secure Buildings,” Intelligent Building Telecom Platform (IB-TP) and e-Applications Workshop, [National Taiwan University of Science and Technology](https://en.wikipedia.org/wiki/National_Taiwan_University_of_Science_and_Technology) (NTUST), November 1, 2007
@@ -258,12 +258,12 @@ John Scott Sadowsky's [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_n
 1. “Current Trends in Optical Communications,” 2004 International Optical Networking and Communication Forum, Taipei, Taiwan, April 9, 2004
 1. “Broadband and Its Healthcare Applications,” [Asia University](https://en.wikipedia.org/wiki/Asia_University_(Taiwan)), Taichung, Taiwan, March 11, 2004
 1. “Building Demand for Widespread Broadband Deployment,” the 13th Annual WOCC, Taipei, Taiwan, March 8-9, 2004
-1. “Broadband Demand and Deployment,” ITRI CCL/STC Technical Advisory Committee (TAC) Meeting, Ta Shee, Taiwan, October 26-28, 2003
+1. “Broadband Demand and Deployment,” ITRI Computer and Communications Research Laboratories (CCL) and Systom-on-Chip (SoC) Technology Center (STC) Technical Advisory Committee (TAC) Meeting, Ta Shee, Taiwan, October 26-28, 2003
 1.	“Lighting Up the Last Mile: Perspectives on FTTH and FTTx,” National Academies Broadband Access Workshop, Committee on Broadband Last Mile Technology of the National Research Council, Washington, D.C., June 19, 2000
 1. “Comparing Broadband Access Technologies and Markets,” 23rd Annual Convention of Chinese American Academic & Professional Society, New York, September 12-13, 1998
 1.	“Directly Comparing Cable Modems and ADSL for Delivering Broadband,” Access Technologies, Vision in Business Ltd., London, April 28-29, 1998
 1. “From ADSL to FSAN,” New Telecommunications Technology Conference cosponsored by [National Science and Technology Council](https://en.wikipedia.org/wiki/National_Science_and_Technology_Council_(Taiwan)) (NSTC) and [Ministry of Economic Affairs](https://en.wikipedia.org/wiki/Ministry_of_Economic_Affairs_(Taiwan)) (MOEA), Taipei, Taiwan, May 20-22, 1997
-1.	“Fiber to the Home,” OSA OFC, San Jose, CA, February 28, 1996
+1.	“Fiber to the Home,” Optical Society of America (OSA) now [Optica](https://en.wikipedia.org/wiki/Optica_(society)) OFC, San Jose, CA, February 28, 1996
 1. “Maintenance and Provisioning Cost Savings for Access Network Alternatives,” Bellcore Topical Review on Broadband Technology, Morristown, NJ, August 2, 1994
 1. “Fiber-in-the-Loop Architectures and Economics,” Workshop on Fiber in the Loop, DGT Telecommunication Labs, Taiwan, July 14, 1992
 1. “Fiber-in-the-Loop Architectures and Evolutions,” CIE-USA Modern Engineering and Technology Seminar (METS) 1990, Taipei, Taiwan, December 12, 1990
