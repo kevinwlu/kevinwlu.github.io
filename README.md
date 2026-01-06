@@ -225,6 +225,7 @@ John Scott Sadowsky's [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_n
 1. [G. Huang](https://scholars.library.tamu.edu/vivo/display/n8800928d/), K. W. Lu, and [J. Zaborszky](https://www.nae.edu/28317/Dr-John-Zaborszky), "[A texture model/algorithm for computationally efficient dispatch and control on the power system](https://ieeexplore.ieee.org/abstract/document/4048961)," *1986 25th IEEE Conference on Decision and Control*, Athens, Greece, 1986, pp. 1198-1205, doi: 10.1109/CDC.1986.267572.
 
 ## Invited Presentations
+1.	"Ethics of Autonomous and Intelligent Systems," 28th Wireless and Optical Communications Conference (WOCC), Beijing, China, May 10, 2019
 1. “The Second Curve of Technology, Media, and Telecommunications,” [Chunghwa Telecom](https://en.wikipedia.org/wiki/Chunghwa_Telecom) and NCTU, December 20, 2017
 1.	“Ten Steps to Designing IoT Prototype,” the IEEE North Jersey Section, [Fairleigh Dickinson University](https://en.wikipedia.org/wiki/Fairleigh_Dickinson_University) (FDU), Teaneck, NJ, December 8, 2016, and NJIT, September 22, 2016
 1.	“Teaching the Internet of Things: From STEM to STEAM,” [Hughes Network Systems](https://en.wikipedia.org/wiki/Hughes_Network_Systems), Gaithersburg, MD, April 22, 2016
