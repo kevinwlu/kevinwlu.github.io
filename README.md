@@ -139,7 +139,7 @@ Make lifelong [learning](/Learning) an everyday habit
 
 ## Honors and Awards
 * [Order of the Engineer](https://en.wikipedia.org/wiki/Order_of_the_Engineer), May 20, 2025
-* IEEE SA Standards Board Distinguished Service Award (2024) for “superior IEEE SA Governance leadership as the IEEE SA Standards Board Audit Committee Chair and as the IEEE SA Industry Connections Committee Chair”
+* 2024 IEEE SA Standards Board Distinguished Service Award for “superior IEEE SA Governance leadership as the IEEE SA Standards Board Audit Committee Chair and as the IEEE SA Industry Connections Committee Chair”
   * [2024 IEEE SA Awards](https://standards.ieee.org/beyond-standards/2024-ieee-sa-award-winners/)
   * [IEEE SA Awards Ceremony](https://standards.ieee.org/about/awards/ceremonies/) [2024](https://standards.ieee.org/about/awards/ceremonies/#2024)
 * 2023 Stevens ECE Outstanding Service Award for Faculty
