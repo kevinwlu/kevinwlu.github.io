@@ -1034,7 +1034,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis): strengths, weaknesses, opportunities, threats
 * [Taxonomy](https://en.wikipedia.org/wiki/Taxonomy)
 * [TL;DR](https://en.wikipedia.org/wiki/TL;DR)
-* [TRIZ](https://en.wikipedia.org/wiki/TRIZ) theory of inventive problem solving
+* [TRIZ](https://en.wikipedia.org/wiki/TRIZ) theory of inventive [problem solving](https://en.wikipedia.org/wiki/Problem_solving)
   * [Genrikh Altshuller](https://en.wikipedia.org/wiki/Genrikh_Altshuller) 1926&mdash;1998
   * [40 principles of invention](https://en.wikipedia.org/wiki/40_principles_of_invention)
   * [Laws of technical systems evolution](https://en.wikipedia.org/wiki/Laws_of_technical_systems_evolution)
