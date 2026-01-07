@@ -70,7 +70,7 @@
     * [Scrum (software development)](https://en.wikipedia.org/wiki/Scrum_(software_development))
   * [Bloom's taxonomy](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy)
   * [Unified theory of acceptance and use of technology](https://en.wikipedia.org/wiki/Unified_theory_of_acceptance_and_use_of_technology) (UTAUT)
-    * Performance Expectancy, Effort Expectancy, Social Influence, Facilitating Conditions, Hedonic Motivation, Price Value, and Habit
+    * Performance Expectancy, Effort Expectancy, Social Influence, Facilitating Conditions, Hedonic Motivation, Price Value (or Personal Innovativeness), and Habit
   * [Classification of Instructional Programs](https://en.wikipedia.org/wiki/Classification_of_Instructional_Programs) (CIP)
     > 14.1001 Electrical and Electronics Engineering: A program that prepares individuals to apply mathematical and scientific principles to the design, development, and operational evaluation of electrical and electronic systems and their components, including electrical power generation systems; and the analysis of problems such as superconductor, wave propagation, energy storage and retrieval, and reception and amplification.\
     > 14.0901 Computer Engineering, General: A program that generally prepares individuals to apply mathematical and scientific principles to the design, development, and operational evaluation of computer hardware and software systems and related equipment and facilities; and the analysis of specific problems of computer applications to various tasks. 
