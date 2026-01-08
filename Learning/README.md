@@ -450,6 +450,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
   * [Ravine](https://en.wikipedia.org/wiki/Ravine)
 * [Pangaea](https://en.wikipedia.org/wiki/Pangaea)
 * [Ring of Fire](https://en.wikipedia.org/wiki/Ring_of_Fire)
+* [Sedna (mythology)](https://en.wikipedia.org/wiki/Sedna_(mythology)) is the goddess of the sea and marine animals in Inuit religion
 * [Upper-atmospheric lightning](https://en.wikipedia.org/wiki/Upper-atmospheric_lightning)
 * [Sprite (lightning)](https://en.wikipedia.org/wiki/Sprite_(lightning))
 * [Tropical cyclone naming](https://en.wikipedia.org/wiki/Tropical_cyclone_naming)
