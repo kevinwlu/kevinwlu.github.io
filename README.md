@@ -320,6 +320,7 @@ John Scott Sadowsky's [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_n
 1.	Hemanth Kurra, “Speed Versus Accuracy: a Comprehensive Evaluation of Object Detection Based on YOLOv8 and Faster R-CNN,” December 2024.
 1.	Derick Miller, “Analyzing the Impact of Training Maritime UAV Object Detection Models on Synthetic and Real Data,” December 2024.
 1.	Tianyu Sheng, “Machine Learning Approach on Face Recognition,” December 2024.
+1. Shashankk Shekar Chaturvedi, "Predicting Stars, Galaxies, and Quasars With ML Model," Summer 2024.
 1.	Saroj Raj Amadala and Srikar Reddy Madireddy, “Autonomous Path Finding Using Object Detection and Teaching-Learning-Based Optimization (TLBO),” May 2024.
 1.	Praveena Batta, “Route Guide: A Network Device Classifier,” May 2024.
 1.	Ravikanth Gaddam, “Automated Parking AI System Using Computer Vision,” May 2024.
@@ -355,7 +356,6 @@ John Scott Sadowsky's [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_n
 1. Leland Quaynor, "Exploring Animal Physiological Adaptations to Microgravity," Fall 2024 - Spring 2025.
 1. Nataly Jimenez-Cruz, "Predicting Hazardous Near-Earth Objects With Random-Forest and Class Imbalance Techniques," Summer 2024.
 1. Prerana Putrevu, "Optimizing Exoplanet Signal Retrieval and Analysis Utilizing Bayesian Deep Learning," Summer 2024.
-1. Shashankk Shekar Chaturvedi, "Predicting Stars, Galaxies, and Quasars With ML Model," Summer 2024.
 1.	Robert Plastina, “A New Model for Detecting Feral Cats Using Clipped Ears,” December 2023.
 1.	Jonathan Amir, “Post Quantum Cryptography,” May 2023.
 1.	Isaac Kupferschmid, “Implementing a Boat to Shore Communications System,” December 2022.
