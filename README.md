@@ -23,7 +23,7 @@ Make lifelong [learning](/Learning) an everyday habit
 * Associate Chair for Undergraduate Studies, Department of Electrical and Computer Engineering, Stevens Institute of Technology, Hoboken, NJ, September 2021 - August 2025
 * Adjunct Professor, Department of Electrical and Computer Engineering, Stevens Institute of Technology, Hoboken, NJ, January 2015 - May 2018
 * Senior Principal Scientist, Mobile and Wireless Systems Design Engineering, [Broadcom](https://en.wikipedia.org/wiki/Broadcom), Matawan, NJ, April 2012 - December 2013
-* Chief Scientist, Energing echnologies and Services, [Telcordia Technologies](https://en.wikipedia.org/wiki/Iconectiv), Piscataway, NJ, January 2003 - March 2012
+* Chief Scientist, Emerging Technologies and Services, [Telcordia Technologies](https://en.wikipedia.org/wiki/Iconectiv), Piscataway, NJ, January 2003 - March 2012
 * Executive Director, Integrated Access and Operations, Telcordia Technologies, Morristown, NJ, March 1999 - January 2003
 * Director, Broadband Access Engineering and Operations, Bellcore, Morristown, NJ, September 1995 - March 1999
 * Member of Technical Staff (MTS), Local Access Network Architecture and Technology, Bellcore (also know as Bell Communications Research), Morristown, NJ, August 1984 - September 1995
