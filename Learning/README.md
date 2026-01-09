@@ -357,6 +357,8 @@
   * [List of plasma physics articles](https://en.wikipedia.org/wiki/List_of_plasma_physics_articles)
     * [Stellarator](https://en.wikipedia.org/wiki/Stellarator)
 * [Quantum gravity](https://en.wikipedia.org/wiki/Quantum_gravity)
+* [RELHIC](https://en.wikipedia.org/wiki/RELHIC)
+  * [Cloud-9 (RELHIC)](https://en.wikipedia.org/wiki/Cloud-9_(RELHIC))
 * [String theory](https://en.wikipedia.org/wiki/String_theory)
   * [Lee Smolin](https://en.wikipedia.org/wiki/Lee_Smolin)
   * [Peter Woit](https://en.wikipedia.org/wiki/Peter_Woit)
