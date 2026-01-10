@@ -145,6 +145,7 @@ Make lifelong [learning](/Learning) an everyday habit
 * 2023 Stevens ECE Outstanding Service Award for Faculty
 * 2021 Stevens ECE Outstanding Teaching Award
 * 2018-2019 Stevens [Henry Morton](https://en.wikipedia.org/wiki/Henry_Morton_(scientist)) Distinguished Teaching Professor Award, May 21, 2019
+* 2011 WOCC Outstanding Contribution Award, April 15, 2011
 * 1987 Bellcore Award of Excellence
 
 ## Patent Disclosure
