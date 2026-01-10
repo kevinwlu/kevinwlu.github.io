@@ -116,7 +116,7 @@ Make lifelong [learning](/Learning) an everyday habit
   * RAN4 TR 37.840 "Antenna Array Systems," Change requests for Section 5.4.4: R4-133987, R4-134906, August 2013 to October 2013
 * [Alliance for Telecommunications Industry Solutions](https://en.wikipedia.org/wiki/Alliance_for_Telecommunications_Industry_Solutions) (ATIS)
   * [Machine-to-Machine](https://en.wikipedia.org/wiki/Machine_to_machine) (M2M) Focus Group, 2011-2012
-  * Technology and Operations(TOPS) Council Land scape Team for M2M,Smart Grid, and Connected Vehicle, 2011
+  * Technology and Operations(TOPS) Council Land scape Team for M2M, [Smart Grid](https://en.wikipedia.org/wiki/Smart_grid), and [Connected Vehicle](https://en.wikipedia.org/wiki/Connected_car), 2011
 * Founding Chair, [Telecommunications Industry Association](https://en.wikipedia.org/wiki/Telecommunications_Industry_Association) (TIA) Engineering Committee TR-48 on Vehicular [Telematics](https://en.wikipedia.org/wiki/Telematics), 2007 to 2010
   * “Connected Vehicle Applications,” TIA TR48-20110825-003, August 25, 2011
   * “Overview of US [ITS](https://en.wikipedia.org/wiki/Intelligent_transportation_system) Standards,” TIA TR48-20110630-004, June 30, 2011
