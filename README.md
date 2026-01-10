@@ -132,7 +132,7 @@ Make lifelong [learning](/Learning) an everyday habit
 * North America Traffic Working Group (NATWG) of [ITS America](https://en.wikipedia.org/wiki/ITS_America), 2009 to 2010
   *	J. D. Margulici, W. Bachman, M. Lindsay, K. W. Lu, C. Scofield, and S. Turner, [Traffic Information Benchmarking Guidelines (TIBG), Version 1.0](/TIBG.pdf), North American Traffic Working Group (NATWG), April 22, 2010
 * USDOT Innovation Roundtable on Advanced Wireless Communication for the Transportation Network, Washington, D.C., May 23, 2008
-*	J. Reilly, N. H. Cheng, and K. W. Lu, “IP Communications Implementation for Critical Infrastructure,” United Telecom Council (UTC) Research Report, September 2005
+*	J. T. Reilly, N. H. Cheng, and K. W. Lu, “IP Communications Implementation for Critical Infrastructure,” [Utilities Technology Council](https://utc.org/) (UTC) Research Report, September 2005
 * [National Research Council](https://en.wikipedia.org/wiki/National_Academies_of_Sciences,_Engineering,_and_Medicine). 2002. [*Broadband: Bring Home the Bits*](https://nap.nationalacademies.org/read/10235/chapter/1#ix). Washington, DC: The National Academies Press. doi: https://doi.org/10.17226/10235
   > Kevin Lu, executive director of the Integrated Access and Operations Department, Telcordia, discussed fiber in the last mile (National Academies Broadband Access Workshop, Committee on Broadband Last Mile Technology of the National Research Council, Washington, D.C., June 19, 2000)
 * “Switched Digital Video – An Outlook for 1997 and Beyond,” Phillips 1997 Fiber Source Book, pp. 21-23
