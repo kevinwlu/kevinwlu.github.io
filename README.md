@@ -117,9 +117,9 @@ Make lifelong [learning](/Learning) an everyday habit
 * [Alliance for Telecommunications Industry Solutions](https://en.wikipedia.org/wiki/Alliance_for_Telecommunications_Industry_Solutions) (ATIS)
   * Machine-to-Machine (M2M) Focus Group, 2011-2012
   * Technology and Operations(TOPS) Council Land scape Team for M2M,Smart Grid, and Connected Vehicle, 2011
-* Founding Chair, [Telecommunications Industry Association](https://en.wikipedia.org/wiki/Telecommunications_Industry_Association) (TIA) Engineering Committee TR-48 on Vehicular Telematics, 2007 to 2010
+* Founding Chair, [Telecommunications Industry Association](https://en.wikipedia.org/wiki/Telecommunications_Industry_Association) (TIA) Engineering Committee TR-48 on Vehicular [Telematics](https://en.wikipedia.org/wiki/Telematics), 2007 to 2010
   * “Connected Vehicle Applications,” TIA TR48-20110825-003, August 25, 2011
-  * “Overview of US ITS Standards,” TIA TR48-20110630-004, June 30, 2011
+  * “Overview of US [ITS](https://en.wikipedia.org/wiki/Intelligent_transportation_system) Standards,” TIA TR48-20110630-004, June 30, 2011
   * “TR-48: Vehicular Telematics,” TIA [2010-2011 Standards and Technology Annual Report (STAR)](/StarReport_2010-2011.pdf), pp. 36-38
   * “TR-48: Vehicular Telematics,” TIA [2009-2010 STAR](/StarReport_2009-2010.pdf), pp. 36-38
   * “TR-48: Vehicular Telematics,” TIA [2008-2009 STAR](/StarReport_2008-2009.pdf), pp. 38-40
