@@ -187,8 +187,8 @@ Make lifelong [learning](/Learning) an everyday habit
 1. J. Zaborszky, G. Huang, and K. W. Lu, "[A textured model for computationally efficient reactive power control and management](https://ieeexplore.ieee.org/document/4113290)," in *IEEE Transactions on Power Apparatus and Systems*, vol. PAS-104, no. 7, pp. 1718-1727, July 1985, doi: 10.1109/TPAS.1985.319204.
 
 ## Conference Papers
-1. M. Czurlanis, I. Plager, A. Aquino, S. Salem, S. Dalwadi, K. Lu, [S. Shady](https://www.stevens.edu/profile/sshady), “DensiSense: Artificial Intelligence-Powered At-Home Wearable Self-Exam for Dense Breasts,” BMES 2025 Annual Meeting, October 8-12, 2025, San Diego, CA.
-1. [D. Miller](https://ieeexplore.ieee.org/author/615726636449383) and [K. W. Lu](https://ieeexplore.ieee.org/author/37085650111), "[Analyzing the Impact of Training Maritime UAV Object Detection Models on Synthetic and Real Data](https://ieeexplore.ieee.org/document/11082215)," 2025 IEEE 34th Wireless and Optical Communications Conference (WOCC), 20-22 May 2025, doi: 10.1109/WOCC63563.2025.11082215.
+1. M. Czurlanis, I. Plager, A. Aquino, S. Salem, S. Dalwadi, K. Lu, [S. Shady](https://www.stevens.edu/profile/sshady), “DensiSense: Artificial Intelligence-Powered At-Home Wearable Self-Exam for Dense Breasts,” BMES 2025 Annual Meeting, San Diego, CA, October 8-12, 2025.
+1. [D. Miller](https://ieeexplore.ieee.org/author/615726636449383) and [K. W. Lu](https://ieeexplore.ieee.org/author/37085650111), "[Analyzing the Impact of Training Maritime UAV Object Detection Models on Synthetic and Real Data](https://ieeexplore.ieee.org/document/11082215)," 2025 IEEE 34th Wireless and Optical Communications Conference (WOCC), Macau, May 20-22, 2025, doi: 10.1109/WOCC63563.2025.11082215.
 1. [J. S. Sadowsky](https://ieeexplore.ieee.org/author/38185179800), [S. L. Ariyavisitakul](https://ieeexplore.ieee.org/author/37349391000), [K. W. Lu](https://ieeexplore.ieee.org/author/37073296700), [E. R. Stauffer](https://ieeexplore.ieee.org/author/37296074200), [J. Wang](https://ieeexplore.ieee.org/author/37087155848), and [L. Zachararias](https://ieeexplore.ieee.org/author/37658945700), "[Interpolation distortion in large scale parameter maps for wireless system simulation](https://ieeexplore.ieee.org/document/6831691)," *2013 IEEE Global Communications Conference (GLOBECOM)*, Atlanta, GA, USA, 2013, pp. 3954-3958, doi: 10.1109/GLOCOM.2013.6831691.\
 John Scott Sadowsky's [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is [2](https://sites.google.com/oakland.edu/grossman/home/the-erdoes-number-project/the-erdoes-number-project-data-files/erdos2)
 1. [R. G. White](https://www.linkedin.com/in/robert-white-ph-d-32542911), [T. Zhang](https://www.linkedin.com/in/tao-zhang-ph-d-ieee-fellow-b5a6942), [P. Tukey](https://www.researchgate.net/scientific-contributions/Paul-A-Tukey-2182346238), K. W. Lu, and [D. McNamara](https://www.linkedin.com/in/davidmcnamaramtsllc/), “[Commercial Business Viability of IntelliDrive℠ Safety Applications](https://www.sae.org/publications/technical-papers/content/2010-01-2313/),” *SAE Technical Paper 2010-01-2313*, 2010, doi: 10.4271/2010-01-2313.\
@@ -227,53 +227,53 @@ John Scott Sadowsky's [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_n
 1. [G. Huang](https://scholars.library.tamu.edu/vivo/display/n8800928d/), K. W. Lu, and [J. Zaborszky](https://www.nae.edu/28317/Dr-John-Zaborszky), "[A texture model/algorithm for computationally efficient dispatch and control on the power system](https://ieeexplore.ieee.org/abstract/document/4048961)," *1986 25th IEEE Conference on Decision and Control*, Athens, Greece, 1986, pp. 1198-1205, doi: 10.1109/CDC.1986.267572.
 
 ## Invited Presentations
-1.	"Ethics of Autonomous and Intelligent Systems," 28th Wireless and Optical Communications Conference (WOCC), Beijing, China, May 10, 2019
-1. “The Second Curve of Technology, Media, and Telecommunications,” [Chunghwa Telecom](https://en.wikipedia.org/wiki/Chunghwa_Telecom) and NCTU, December 20, 2017
+1.	"Ethics of Autonomous and Intelligent Systems," 28th Wireless and Optical Communications Conference (WOCC), Beijing, May 10, 2019
+1. “The Second Curve of Technology, Media, and Telecommunications,” [Chunghwa Telecom](https://en.wikipedia.org/wiki/Chunghwa_Telecom), Taipei, December 20, 2017
 1.	“Ten Steps to Designing IoT Prototype,” the IEEE North Jersey Section, [Fairleigh Dickinson University](https://en.wikipedia.org/wiki/Fairleigh_Dickinson_University) (FDU), Teaneck, NJ, December 8, 2016, and NJIT, September 22, 2016
 1.	“Teaching the Internet of Things: From STEM to STEAM,” [Hughes Network Systems](https://en.wikipedia.org/wiki/Hughes_Network_Systems), Gaithersburg, MD, April 22, 2016
 1.	“The Internet of Things,” NJIT ECE 101, 2015 and 2016
 1.	“The Internet of Things: Advances and Applications,” the IEEE North Jersey Advanced Communications Symposium, Stevens, December 5, 2015
 1.	“The Internet of Things,” the New York IEEE Education Committee and the New York Chapter of the IEEE Systems, Man, and Cybernetics (SMC) Society, [Long Island University](https://en.wikipedia.org/wiki/Long_Island_University) (LIU), Brooklyn Campus, New York, November 20, 2015
 1. "IEEE Standards on Transportation," Telematics Taiwan 2015, Taipei, October 22, 2015
-1. "Global Standards Collaboration (GSC) on Critical Communications," [National Science and Technology Center for Diaster Reduction](https://en.wikipedia.org/wiki/National_Science_and_Technology_Center_for_Disaster_Reduction) (NCDR), October 21, 2015
-1. "5G Standards Activities by IEEE Communications Society (ComSoc)," [Ministry of Economic Affairs](https://en.wikipedia.org/wiki/Ministry_of_Economic_Affairs_(Taiwan)) (MOEA) Department of Industrial Technology (DoIT) 5G Technology Program Office, October 19, 2015
+1. "Global Standards Collaboration (GSC) on Critical Communications," [National Science and Technology Center for Diaster Reduction](https://en.wikipedia.org/wiki/National_Science_and_Technology_Center_for_Disaster_Reduction) (NCDR), Taipei, October 21, 2015
+1. "5G Standards Activities by IEEE Communications Society (ComSoc)," [Ministry of Economic Affairs](https://en.wikipedia.org/wiki/Ministry_of_Economic_Affairs_(Taiwan)) (MOEA) Department of Industrial Technology (DoIT) 5G Technology Program Office, Taipei, October 19, 2015
 1.	“The Internet of Things,” the IEEE Consultants' Network of Northern NJ (CNNNJ), Morristown, NJ, April 9, 2015
 1.	“An Overview of Standards,” NJIT ECE 414, November 20, 2014
 1. “Smart Living: Advances and Applications,” [Foxconn](https://en.wikipedia.org/wiki/Foxconn), Taipei, March 11, 2014
 1. “International Business Models for Telematics Services,” the 1st Telematics Services Industry Summit of Telematics Industry Applications Alliance, Shanghai, January 13-14, 2011
 1.	“Co-operative Systems,” Closing Panel on ICT Revolutionizing the World of Transport, [European Telecommunications Standards Institute](https://en.wikipedia.org/wiki/European_Telecommunications_Standards_Institute) (ETSI) Business Innovation Summit, London, October 5-6, 2010
 1.	“Vehicular Safety Message Sets,” [National Emergency Number Association](https://en.wikipedia.org/wiki/National_Emergency_Number_Association) (NENA) 2010, Indianapolis, June 9, 2010
-1. “Vehicular Telematics and Intelligent Transportation Systems: Applications and Standards,” [Chinese Institute of Engineers USA](https://en.wikipedia.org/wiki/Chinese_Institute_of_Engineers_USA) (CIE-USA) Sino-American Technology and Engineering Conference (SATEC) 2010, Beijing, China, April 16-18, 2010
-1. “Passion for Life: From Connectivity to Safety,” Panel on Make a Difference Through an Engineering Career at 2010 Asian American Engineers of the Year (AAEY) Award Program, Hyatt Regency New Brunswick, February 27, 2010
-1. “An Overview of Incident Management Systems,” CIE-USA Greater New York Chapter (GNYC) Annual Convention, Newark Airport Marriott, October 31, 2009
-1. “An Overview of Incident Management Systems,” [Industrial Technology Research Institute](https://en.wikipedia.org/wiki/Industrial_Technology_Research_Institute) (ITRI), Hsinchu, Taiwan, October 27, 2009
+1. “Vehicular Telematics and Intelligent Transportation Systems: Applications and Standards,” [Chinese Institute of Engineers USA](https://en.wikipedia.org/wiki/Chinese_Institute_of_Engineers_USA) (CIE-USA) Sino-American Technology and Engineering Conference (SATEC) 2010, Beijing, April 16-18, 2010
+1. “Passion for Life: From Connectivity to Safety,” Panel on Make a Difference Through an Engineering Career at 2010 Asian American Engineers of the Year (AAEY) Award Program, New Brunswick, NJ, February 27, 2010
+1. “An Overview of Incident Management Systems,” CIE-USA Greater New York Chapter (GNYC) Annual Convention, Newark, October 31, 2009
+1. “An Overview of Incident Management Systems,” [Industrial Technology Research Institute](https://en.wikipedia.org/wiki/Industrial_Technology_Research_Institute) (ITRI), Hsinchu, October 27, 2009
 1. “Vehicular Telematics Standards,” Telematics Standard and Application Workshop, Taipei Nankang Software Park, December 16, 2008
 1. “Perimeter Security Systems,” Intelligent Video Surveillance Systems and Technology Applications Workshop, Taipei, December 12, 2008
-1. “Vehicular Telematics Standards,” CIE-USA GNYC Annual Convention, Newark Airport Marriott, November 8, 2008
+1. “Vehicular Telematics Standards,” CIE-USA GNYC Annual Convention, Newark, NJ, November 8, 2008
 1.	“Vehicular Telematics Overview,” [Mitsubishi Electric Research Laboratories](https://en.wikipedia.org/wiki/Mitsubishi_Electric_Research_Laboratories) (MERL), Boston, November 6, 2008
-1. “Communication Systems for Safe and Secure Buildings,” CIE-USA GNYC Annual Convention, Newark Airport Marriott, November 10, 2007
-1. “Communication Systems for Safe and Secure Buildings,” Intelligent Building Telecom Platform (IB-TP) and e-Applications Workshop, [National Taiwan University of Science and Technology](https://en.wikipedia.org/wiki/National_Taiwan_University_of_Science_and_Technology) (NTUST), November 1, 2007
+1. “Communication Systems for Safe and Secure Buildings,” CIE-USA GNYC Annual Convention, Newark, NJ, November 10, 2007
+1. “Communication Systems for Safe and Secure Buildings,” Intelligent Building Telecom Platform (IB-TP) and e-Applications Workshop, [National Taiwan University of Science and Technology](https://en.wikipedia.org/wiki/National_Taiwan_University_of_Science_and_Technology) (NTUST), Taipei, November 1, 2007
 1. “Technologies, Economics, and Deployment of Optical Access Networks,” 16th WOCC, NJIT, April 27, 2007
 1.	“Network Values,” NJIT ECE 414, November 7, 2006
-1. “Optical Access Networks: Technologies, Economics, and Deployment,” SATEC 2006, Beijing, China, October 23-24, 2006
-1. “Ubiquitous Broadband Access for Connection, Collaboration, and Competition,” SPIE APOC Network Architectures, Management, and Applications, 6022-01, Shanghai, China, November 6-10, 2005
+1. “Optical Access Networks: Technologies, Economics, and Deployment,” SATEC 2006, Beijing, October 23-24, 2006
+1. “Ubiquitous Broadband Access for Connection, Collaboration, and Competition,” SPIE APOC Network Architectures, Management, and Applications, 6022-01, Shanghai, November 6-10, 2005
 1.	“Ubiquitous Broadband Access: A Roadmap to Growth,” the IEEE NJ Coast Section, Eatontown, NJ, May 26, 2005
 1. “Broadband: the Means and the Ends,” CIE-USA GNYC Annual Meeting, Newark, NJ, September 18, 2004
-1. “Delivering IP-Based Services to Edge Networks,” CIE-USA SATEC 2004, Beijing, China, April 27-28, 2004
-1. “Current Trends in Optical Communications,” 2004 International Optical Networking and Communication Forum, Taipei, Taiwan, April 9, 2004
-1. “Broadband and Its Healthcare Applications,” [Asia University](https://en.wikipedia.org/wiki/Asia_University_(Taiwan)), Taichung, Taiwan, March 11, 2004
-1. “Building Demand for Widespread Broadband Deployment,” the 13th Annual WOCC, Taipei, Taiwan, March 8-9, 2004
+1. “Delivering IP-Based Services to Edge Networks,” CIE-USA SATEC 2004, Beijing, April 27-28, 2004
+1. “Current Trends in Optical Communications,” 2004 International Optical Networking and Communication Forum, Taipei, April 9, 2004
+1. “Broadband and Its Healthcare Applications,” [Asia University](https://en.wikipedia.org/wiki/Asia_University_(Taiwan)), Taichung, March 11, 2004
+1. “Building Demand for Widespread Broadband Deployment,” the 13th Annual WOCC, Taipei, March 8-9, 2004
 1. “Broadband Demand and Deployment,” ITRI Computer and Communications Research Laboratories (CCL) and Systom-on-Chip (SoC) Technology Center (STC) Technical Advisory Committee (TAC) Meeting, Ta Shee, Taiwan, October 26-28, 2003
 1.	“Lighting Up the Last Mile: Perspectives on FTTH and FTTx,” National Academies Broadband Access Workshop, Committee on Broadband Last Mile Technology of the National Research Council, Washington, D.C., June 19, 2000
 1. “Comparing Broadband Access Technologies and Markets,” 23rd Annual Convention of Chinese American Academic & Professional Society, New York, September 12-13, 1998
 1.	“Directly Comparing Cable Modems and ADSL for Delivering Broadband,” Access Technologies, Vision in Business Ltd., London, April 28-29, 1998
-1. “From ADSL to FSAN,” New Telecommunications Technology Conference cosponsored by [National Science and Technology Council](https://en.wikipedia.org/wiki/National_Science_and_Technology_Council_(Taiwan)) (NSTC) and [Ministry of Economic Affairs](https://en.wikipedia.org/wiki/Ministry_of_Economic_Affairs_(Taiwan)) (MOEA), Taipei, Taiwan, May 20-22, 1997
+1. “From ADSL to FSAN,” New Telecommunications Technology Conference cosponsored by [National Science and Technology Council](https://en.wikipedia.org/wiki/National_Science_and_Technology_Council_(Taiwan)) (NSTC) and [Ministry of Economic Affairs](https://en.wikipedia.org/wiki/Ministry_of_Economic_Affairs_(Taiwan)) (MOEA), Taipei, May 20-22, 1997
 1.	“Fiber to the Home,” Optical Society of America (OSA) now [Optica](https://en.wikipedia.org/wiki/Optica_(society)) OFC, San Jose, CA, February 28, 1996
 1. “Maintenance and Provisioning Cost Savings for Access Network Alternatives,” Bellcore Topical Review on Broadband Technology, Morristown, NJ, August 2, 1994
-1. “Fiber-in-the-Loop Architectures and Economics,” Workshop on Fiber in the Loop, DGT Telecommunication Labs, Taiwan, July 14, 1992
-1. “Fiber-in-the-Loop Architectures and Evolutions,” CIE-USA Modern Engineering and Technology Seminar (METS) 1990, Taipei, Taiwan, December 12, 1990
+1. “Fiber-in-the-Loop Architectures and Economics,” Workshop on Fiber in the Loop, Chunghwa Telecom Training Institute, Kaohsiung, July 14, 1992
+1. “Fiber-in-the-Loop Architectures and Evolutions,” CIE-USA Modern Engineering and Technology Seminar (METS) 1990, Taipei, December 12, 1990
 1.	“Survivability of Fiber Loop Architectures,” Telecommunications Network Survivability Symposium, St. Louis, Missouri, September 5-6, 1990
-1. “Algorithm and Practice of Forecasting Technological Substitutions,” DGT and Telecommunications Laboratories, Taiwan, July 1, 1987
+1. “Algorithm and Practice of Forecasting Technological Substitutions,” Chunghwa Telecom, Taipei and Chunghwa Telecom Laboratories, Taoyuan City, July 1, 1987
 
 ## Updated Presentations
 * [Balanced Skill Set](https://docs.google.com/presentation/d/153WdbX45X3mDv5xqPK3I9XluN-qWKLW9vqNKKk2y5kI)
