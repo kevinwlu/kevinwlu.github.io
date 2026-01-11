@@ -164,7 +164,7 @@ Make lifelong [learning](/Learning) an everyday habit
 ](https://www.stevens.edu/news/pick-6-six-reasons-you-need-attend-stevens-institute-technologys-2022-innovation-expo-april-29), *Stevens News*, April 23, 2022
 1. [Stevens Seniors Code Smart Watch App to Monitor Panic Attacks and Foster Communication Between Patients and Therapists](https://www.stevens.edu/news/stevens-seniors-code-smart-watch-app-monitor-panic-attacks-and-foster-communication-between-patients), *Stevens News*, April 8, 2020
 1. [Stevens Honors Excellence in Research, Teaching During 2018-2019 Academic Year](https://www.stevens.edu/news/stevens-honors-excellence-research-teaching-during-2018-2019-academic-year), *Stevens News*, May 30, 2019
-1 [Stevens Opens Doors to Record Number of New Faculty for Fall 2018](https://www.stevens.edu/news/stevens-opens-doors-record-number-new-faculty-fall-2018), *Stevens News*, September 7, 2018
+1. [Stevens Opens Doors to Record Number of New Faculty for Fall 2018](https://www.stevens.edu/news/stevens-opens-doors-record-number-new-faculty-fall-2018), *Stevens News*, September 7, 2018
 
 ## Journal Publications
 1. [M. Ulema](https://manhattan.edu/campus-directory/mehmet.ulema), [A. Kaplan](https://www.cs.princeton.edu/people/profile/ak18), K. W. Lu, [N. Amogh](https://www.linkedin.com/in/niranth/), and [B. Kozbe](https://www.linkedin.com/in/barcinkozbe/), "[Critical communications and public safety networks, part 2: technical issues, security, and applications [Guest Editorial]](https://ieeexplore.ieee.org/document/7452260)," in *IEEE Communications Magazine*, vol. 54, no. 4, pp. 14-15, April 2016, doi: 10.1109/MCOM.2016.7452260.
