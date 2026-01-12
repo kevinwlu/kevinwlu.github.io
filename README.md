@@ -52,7 +52,7 @@ Make lifelong [learning](/Learning) an everyday habit
 * Hands-on Approach to the IoT, NCTU, December 20-21, 2017
 * Hands-on Approach to the IoT, NCTU, January 19-20, 2016
 * Fiber Optic Subscriber Loop Architectures and Economics, Short Course SC6, [SPIE](https://en.wikipedia.org/wiki/SPIE) OE/FIBERS, San Jose, California, September 17, 1990
-* Fiber-Optic Subscriber Loop Architectures and Economics, Directorate General of Telecommunications (DGT) Telecommunication Training Institute, Kaohsiung Branch, July 20-21, 1989
+* Fiber-Optic Subscriber Loop Architectures and Economics, Directorate General of Telecommunications (DGT, now Chunghwa Telecom) Telecommunication Training Institute, Kaohsiung Branch, July 20-21, 1989
 * Fiber-Optic Subscriber Loop Architectures and Economics, NCTU, July 24-28, 1989
 * Topics in Electrical and Computer Engineering, Columbia University, Fall 1989
 * Distributed Information Systems and Telecommunications, Rutgers Graduate School of Management (now Rutgers Business School), Spring 1989
@@ -270,10 +270,10 @@ John Scott Sadowsky's [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_n
 1. “From ADSL to FSAN,” New Telecommunications Technology Conference cosponsored by [National Science and Technology Council](https://en.wikipedia.org/wiki/National_Science_and_Technology_Council_(Taiwan)) (NSTC) and [Ministry of Economic Affairs](https://en.wikipedia.org/wiki/Ministry_of_Economic_Affairs_(Taiwan)) (MOEA), Taipei, May 20-22, 1997
 1.	“Fiber to the Home,” Optical Society of America (OSA) now [Optica](https://en.wikipedia.org/wiki/Optica_(society)) OFC, San Jose, CA, February 28, 1996
 1. “Maintenance and Provisioning Cost Savings for Access Network Alternatives,” Bellcore Topical Review on Broadband Technology, Morristown, NJ, August 2, 1994
-1. “Fiber-in-the-Loop Architectures and Economics,” Workshop on Fiber in the Loop, Chunghwa Telecom Training Institute, Kaohsiung, July 14, 1992
+1. “Fiber-in-the-Loop Architectures and Economics,” Workshop on Fiber in the Loop, Chunghwa Telecom Training Institute, Taipei, July 14, 1992
 1. “Fiber-in-the-Loop Architectures and Evolutions,” CIE-USA Modern Engineering and Technology Seminar (METS) 1990, Taipei, December 12, 1990
 1.	“Survivability of Fiber Loop Architectures,” Telecommunications Network Survivability Symposium, St. Louis, Missouri, September 5-6, 1990
-1. “Algorithm and Practice of Forecasting Technological Substitutions,” Chunghwa Telecom, Taipei and Chunghwa Telecom Laboratories, Taoyuan City, July 1, 1987
+1. “Algorithm and Practice of Forecasting Technological Substitutions,” Chunghwa Telecom, Taipei and Chunghwa Telecom Laboratories, Taoyuan, July 1, 1987
 
 ## Updated Presentations
 * [Balanced Skill Set](https://docs.google.com/presentation/d/153WdbX45X3mDv5xqPK3I9XluN-qWKLW9vqNKKk2y5kI)
