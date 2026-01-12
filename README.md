@@ -52,10 +52,10 @@ Make lifelong [learning](/Learning) an everyday habit
 * Hands-on Approach to the IoT, NCTU, December 20-21, 2017
 * Hands-on Approach to the IoT, NCTU, January 19-20, 2016
 * Fiber Optic Subscriber Loop Architectures and Economics, Short Course SC6, [SPIE](https://en.wikipedia.org/wiki/SPIE) OE/FIBERS, San Jose, California, September 17, 1990
-* Fiber-Optic Subscriber Loop Architectures and Economics, Directorate General of Telecommunications (DGT, now Chunghwa Telecom) Telecommunication Training Institute, Kaohsiung Branch, July 20-21, 1989
+* Fiber-Optic Subscriber Loop Architectures and Economics, Chunghwa Telecom Training Institute, Kaohsiung, July 20-21, 1989
 * Fiber-Optic Subscriber Loop Architectures and Economics, NCTU, July 24-28, 1989
 * Topics in Electrical and Computer Engineering, Columbia University, Fall 1989
-* Distributed Information Systems and Telecommunications, Rutgers Graduate School of Management (now Rutgers Business School), Spring 1989
+* Distributed Information Systems and Telecommunications, Rutgers Business School (formerly Rutgers Graduate School of Management), Spring 1989
 
 ## Institutional Services
 * Stevens Admissions events including Visit Day, Early Decision Brunch, Admitted Student Friday, and Admitted Student Weekend/Meet and Greet, September 2018 – present
