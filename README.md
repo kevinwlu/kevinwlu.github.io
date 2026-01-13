@@ -482,4 +482,4 @@ John Scott Sadowsky's [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_n
 1.	G. C. Cruz, R. S. Hisiger, and K. W. Lu, "A FORTRAN implementation of the economic life and depreciation model," TM-ARH-009918, 8/12/1987.
 1.	K. W. Lu, "Applications of life cycle forecasting to capital recovery," TM-ARH-009311, 5/12/1987.
 1.	J. C. Lee and K. W. Lu, "On a family of data-based transformed models useful in forecasting technological substitutions", TM-ARH-004015, 7/11/1986.
-1.	A. A. Bergh, P. S. Brandon, W. C. Cowing, H. L. Lemberg, K. W. Lu, S. D. Personick and P. E. White, "Technological and market obsolescence of telephone network equipment", ST-BEL-000029, 6/1986.
+1.	A. A. Bergh, P. S. Brandon, W. C. Cowing, H. L. Lemberg, K. W. Lu, [S. D. Personick](https://en.wikipedia.org/wiki/Stewart_D._Personick), and P. E. White, "Technological and market obsolescence of telephone network equipment", ST-BEL-000029, 6/1986.
