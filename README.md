@@ -134,6 +134,7 @@ Make lifelong [learning](/Learning) an everyday habit
   > Kevin Lu, executive director of the Integrated Access and Operations Department, Telcordia, discussed fiber in the last mile (National Academies Broadband Access Workshop, Committee on Broadband Last Mile Technology of the National Research Council, Washington, D.C., June 19, 2000)
 * “Switched Digital Video – An Outlook for 1997 and Beyond,” Phillips 1997 Fiber Source Book, pp. 21-23
 * Bellcore bold new initiative on lights out network, 1995
+* Bellcore technological and market obsolescence of telephone network equipment, 1986
 
 ## Honors and Awards
 * [Order of the Engineer](https://en.wikipedia.org/wiki/Order_of_the_Engineer), May 20, 2025
