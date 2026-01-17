@@ -133,7 +133,7 @@ Make lifelong [learning](/Learning) an everyday habit
 * [National Research Council](https://en.wikipedia.org/wiki/National_Academies_of_Sciences,_Engineering,_and_Medicine). 2002. [*Broadband: Bring Home the Bits*](https://nap.nationalacademies.org/read/10235/chapter/1#ix). Washington, DC: The National Academies Press. doi: https://doi.org/10.17226/10235
   > Kevin Lu, executive director of the Integrated Access and Operations Department, Telcordia, discussed fiber in the last mile (National Academies Broadband Access Workshop, Committee on Broadband Last Mile Technology of the National Research Council, Washington, D.C., June 19, 2000)
 * “Switched Digital Video – An Outlook for 1997 and Beyond,” Phillips 1997 Fiber Source Book, pp. 21-23
-* Bellcore bold new initiative on lights out network, 1995
+* Bellcore Bold New Initiative on Lights-Out Network, 1994-1995
 * Bellcore technological and market obsolescence of telephone network equipment, 1986
 
 ## Honors and Awards
@@ -147,6 +147,9 @@ Make lifelong [learning](/Learning) an everyday habit
 * 2012-2013 IEEE Communications Society Appreciation for Contributions Made in Furthering the Objectives of the Society as Director - Standards Development
 * 2011 NJIT ECE Department Industry Advisory Board Recognition and Appreciation of Commitment, Support, and Contributions, May 3, 2011
 * 2011 WOCC Outstanding Contribution Award, April 15, 2011
+* 1997-1999 Bellcore Pipeline Development Program and Telcordia Corporate Succession Program Certificate of Achievement
+* 1997 BellSouth HORIZONS Program Award
+* 1996 Bellcore Recognition Award
 * 1994 Team Bellcore Award
 * 1987 Bellcore Award of Excellence
 
