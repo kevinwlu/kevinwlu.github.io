@@ -147,6 +147,7 @@ Make lifelong [learning](/Learning) an everyday habit
 * 2012-2013 IEEE Communications Society Appreciation for Contributions Made in Furthering the Objectives of the Society as Director - Standards Development
 * 2011 NJIT ECE Department Industry Advisory Board Recognition and Appreciation of Commitment, Support, and Contributions, May 3, 2011
 * 2011 WOCC Outstanding Contribution Award, April 15, 2011
+* 1994 Team Bellcore Award
 * 1987 Bellcore Award of Excellence
 
 ## Patent Disclosure
