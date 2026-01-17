@@ -186,6 +186,7 @@ Make lifelong [learning](/Learning) an everyday habit
 1. [J. C. Lee](https://stat.nycu.edu.tw/en/members/teacher/Jack-C-Lee-11321348) and K. W. Lu, "[Algorithm and practice of forecasting technological substitutions with data-based transformed models](https://www.sciencedirect.com/science/article/abs/pii/0040162589900310)," in *Technological Forecasting and Social Change*, vol. 36, no. 4, pp. 401-414, December 1989, doi: 10.1016/0040-1625(89)90031-0.
 1. K. W. Lu and R. S. Wolff, "[Cost analysis for switched star broadband access](https://onlinelibrary.wiley.com/doi/10.1002/dac.4520010306)," in *International Journal of Digital & Analog Cabled Systems*, 1 (3), pp. 139-147, July-September 1988, doi: 10.1002/dac.4520010306.
 1. J. C. Lee and K. W. Lu, "[On a family of data-based transformed models useful in forecasting technological substitutions](https://www.sciencedirect.com/science/article/abs/pii/0040162587900230)," in *Technological Forecasting and Social Change*, vol. 31, no. 1, pp. 61-78, March 1987, doi: 10.1016/0040-1625(87)90023-0.
+1. J. Zaborszky, G. Huang, and K. W. Lu, "[A textured model for computationally efficient reactive power control and management](https://ieeexplore.ieee.org/document/5528464)," in *IEEE Power Engineering Review*, vol. PER-5, issue 7, pp. 35-36, July 1985, doi: 10.1109/MPER.1985.5528464.
 1. J. Zaborszky, G. Huang, and K. W. Lu, "[A textured model for computationally efficient reactive power control and management](https://ieeexplore.ieee.org/document/4113290)," in *IEEE Transactions on Power Apparatus and Systems*, vol. PAS-104, no. 7, pp. 1718-1727, July 1985, doi: 10.1109/TPAS.1985.319204.
 
 ## Conference Papers
@@ -227,6 +228,7 @@ John Scott Sadowsky's [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_n
 1. K. W. Lu and J. C. Lee, “Algorithm and practice of forecasting technological substitutions,” Proc. National Forecasting Conference, New Orleans, Louisiana, April 28 to May 1, 1987.
 1. J. C. Lee and K. W. Lu, “On a family of data-based transformed models useful in forecasting technological substitutions,” Proc. American Statistical Association Annual Meetings - Business and Economics Statistics Sec., pp. 52-59, Chicago, Illinois, August 18-21, 1986.
 1. [G. Huang](https://scholars.library.tamu.edu/vivo/display/n8800928d/), K. W. Lu, and [J. Zaborszky](https://www.nae.edu/28317/Dr-John-Zaborszky), "[A texture model/algorithm for computationally efficient dispatch and control on the power system](https://ieeexplore.ieee.org/abstract/document/4048961)," *1986 25th IEEE Conference on Decision and Control*, Athens, Greece, 1986, pp. 1198-1205, doi: 10.1109/CDC.1986.267572.
+1. J. Zaborszky, G. Huang, and K. W. Lu, "A textured model for computationally efficient reactive power control and management," in Proceedings of the IEEE Power Engineering Society (PES) Summer Meeting, Seattle, Washington, July 15-20, 1984.
 
 ## Invited Presentations
 1.	"Ethics of Autonomous and Intelligent Systems," 28th Wireless and Optical Communications Conference (WOCC), Beijing, May 10, 2019
