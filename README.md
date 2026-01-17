@@ -137,11 +137,12 @@ Make lifelong [learning](/Learning) an everyday habit
 * Bellcore technological and market obsolescence of telephone network equipment, 1986
 
 ## Honors and Awards
-* [Order of the Engineer](https://en.wikipedia.org/wiki/Order_of_the_Engineer), May 20, 2025
+* 2025 [Order of the Engineer](https://en.wikipedia.org/wiki/Order_of_the_Engineer), May 20, 2025
 * 2024 IEEE SA Standards Board Distinguished Service Award for “superior IEEE SA Governance leadership as the IEEE SA Standards Board Audit Committee Chair and as the IEEE SA Industry Connections Committee Chair”
   * [2024 IEEE SA Awards](https://standards.ieee.org/beyond-standards/2024-ieee-sa-award-winners/)
   * [IEEE SA Awards Ceremony](https://standards.ieee.org/about/awards/ceremonies/) [2024](https://standards.ieee.org/about/awards/ceremonies/#2024)
 * 2023 Stevens ECE Outstanding Service Award for Faculty
+* 2023 IEEE Life Senior Member, January 1, 2023
 * 2021 Stevens ECE Outstanding Teaching Award
 * 2018-2019 Stevens [Henry Morton](https://en.wikipedia.org/wiki/Henry_Morton_(scientist)) Distinguished Teaching Professor Award, May 21, 2019
 * 2015 North Jersey Advanced Communications Symposium Outstanding Contributions Award, December 5, 2015
