@@ -144,14 +144,15 @@ Make lifelong [learning](/Learning) an everyday habit
 * 2023 Stevens ECE Outstanding Service Award for Faculty
 * 2021 Stevens ECE Outstanding Teaching Award
 * 2018-2019 Stevens [Henry Morton](https://en.wikipedia.org/wiki/Henry_Morton_(scientist)) Distinguished Teaching Professor Award, May 21, 2019
+* 2015 North Jersey Advanced Communications Symposium Outstanding Contributions Award, December 5, 2015
 * 2012-2013 IEEE Communications Society Appreciation for Contributions Made in Furthering the Objectives of the Society as Director - Standards Development
 * 2011 IEEE Senior Member. June 18, 2011
 * 2011 NJIT ECE Department Industry Advisory Board Recognition and Appreciation of Commitment, Support, and Contributions, May 3, 2011
 * 2011 WOCC Outstanding Contribution Award, April 15, 2011
 * 1997-1999 Bellcore Pipeline Development Program and Telcordia Corporate Succession Program Certificate of Achievement
-* 1997 Bellcore Horizons Program Award
-* 1996 Bellcore Recognition Award
-* 1994 Team Bellcore Award
+* 1997 Bellcore Horizons Program Awards, June 13 and December 12, 1997
+* 1996 Bellcore Recognition Awards, February 1, September 1, and October 10, 1996
+* 1994 Team Bellcore Awards, Auggust 31, 1994
 * 1987 Bellcore Award of Excellence
 
 ## Patent Disclosure
