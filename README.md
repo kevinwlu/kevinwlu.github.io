@@ -148,7 +148,7 @@ Make lifelong [learning](/Learning) an everyday habit
 * 2011 NJIT ECE Department Industry Advisory Board Recognition and Appreciation of Commitment, Support, and Contributions, May 3, 2011
 * 2011 WOCC Outstanding Contribution Award, April 15, 2011
 * 1997-1999 Bellcore Pipeline Development Program and Telcordia Corporate Succession Program Certificate of Achievement
-* 1997 BellSouth HORIZONS Program Award
+* 1997 Bellcore Horizons Program Award
 * 1996 Bellcore Recognition Award
 * 1994 Team Bellcore Award
 * 1987 Bellcore Award of Excellence
