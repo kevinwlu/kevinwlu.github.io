@@ -75,6 +75,7 @@ Make lifelong [learning](/Learning) an everyday habit
 * [IEEE Communications Society](https://www.comsoc.org/) (IEEE ComSoc) 
   * [Standards Development Board](https://www.comsoc.org/about/boards/standards-development-board), Chair (2012-2013) and Advisor (2014-2017)
   * [Standardization Programs Development Board](https://www.comsoc.org/about/boards/standardization-programs-development-board), Member (2016-2022) and Non-Voting Member (2023-2025)
+  * [IEEE Conference on Standards for Communications and Networking (CSCN)](https://dblp.org/db/conf/cscn/index.html) technical program committee, 2021-present
   * Organizer and Chair, IEEE Globecom Session on Multi-Wavelength Optical Networks, San Francisco, California, December 1, 1994
   * Organizer, IEEE SUPERCOMM/ICC Session on Broadband Optical Transport Systems and Networks, New Orleans, Louisiana, May 3, 1994
   * Chair, ComSoc/OFC Coordinating Committee, IEEE Communications Society, 1993 to 1994
@@ -104,6 +105,8 @@ Make lifelong [learning](/Learning) an everyday habit
   * Treasurer (2015-2025)
   * Chair (2007-2008), Vice Chair (2006-2007), and Member (2005-2006), Board of Trustees
   * President (2004-2005)
+* [embedded world North America Conference](https://embedded-world-na.com/) program committee, 2023-present
+* [Terra North Jersey STEM Fair](https://tnjsf.org/) Judge, 2025-present
 
 ## Technical Contributions
 * IEEE Future Networks, [IEEE 5G and Beyond Technology Roadmap White Paper](https://futurenetworks.ieee.org/images/files/pdf/ieee-5g-roadmap-white-paper.pdf), October 2017
@@ -164,6 +167,7 @@ Make lifelong [learning](/Learning) an everyday habit
 1. [High School Students Broaden Their Futures Through Experiential Learning at Stevens](https://www.stevens.edu/news/high-school-students-experiential-learning), *Stevens News*, July 17, 2025
 1. [Stevens Inducts Graduating Seniors into the Order of the Engineer at Spring 2025 Ceremony](https://www.stevens.edu/news/order-of-the-engineer-2025), *Stevens News*, July 10, 2025
 1. [Alumni Panel Furthers Culture of Inclusion at Stevens](https://www.stevens.edu/news/alumni-panel-furthers-culture-of-inclusion-at-stevens), *Stevens News*, January 15, 2025
+1. [IEEE SA Industry Connections Program Cultivates Collaboration](https://standards.ieee.org/beyond-standards/industry-connections-spotlight/), February 27, 2025
 1. [Insight From Stevens Institute Professor Kevin Lu](https://circleoptics.com/insight-from-stevens-institute-professor-kevin-lu/), *Circle Optics Company News*, June 15, 2023
 1. [Rediscovering the Language of Family Connections](https://www.stevens.edu/news/rediscovering-the-language-of-family-connections), *Stevens News*, May 19, 2023
 1. [Snapshots From The 2022 Innovation Expo](https://www.stevens.edu/indicator/fall-2022/snapshots-from-the-2022-innovation-expo), *Stevens Indicator*, Fall 2022
