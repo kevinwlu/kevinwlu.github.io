@@ -256,8 +256,8 @@ Citation: G. Lyons, "Evolving from FSA to passive cable networks," [CED](https:/
 1.	T. E. Chapuran, H. L. Lemberg, K. W. Lu, S. K. Malhotra, R. C. Menendez, S. S. Wagner, T. P. Amatulli, N. J. Bananno, and M. L. O'Toole, "Analysis and comparison of alternative fiber access architectures for video," SR-TSV-002826, 9/23/1993.
 1.	K. W. Lu, T. E. Chapuran, and S. S. Wagner, "Comparisons of fiber-to-the-curb upgrade alternatives for multichannel digital video," TM-ARH-023177, 7/15/1993.
 1.	T. P. Amatulli, K. W. Lu, M. I. Eiger, and H. L. Lemberg, "Installed first costs of fiber-for-copper loop rehabilitation," TM-ARH-023003, 5/14/1993.
-1.	D. S. Wilson, et al., "Loop access evolution study: VDT entry options, architectural alternatives and technological foundations," SR-TSV-002453, 12/1992.
-1.	H. B. Bosch, et al., "Upgrade and evolution considerations for the basic FITL platform," SR-TSV-002408, 11/92.
+1.	T. E. Chapuran, M. S. Goodman, H. L. Lemberg, K. W. Lu, R. C. Menendez, D. Sills, S. S. Wagner, and D. S. Wilson, "Loop access evolution study: VDT entry options, architectural alternatives and technological foundations," Chapter 1. Introduction and Chapter 2. VDT Entry Options, SR-TSV-002453, 12/1992.
+1.	H. B. Bosch, T. E. Chapuran, M. I. Eiger, D. L. Gray, R. S. Koelbl, H. L. Lemberg, K. W. Lu, V. K. Malhotra, C. A. Personick, M. A. Seely, and S. S. Wagner, "Upgrade and evolution considerations for the basic FITL platform," SR-TSV-002408, 11/92.
 1.	T. E. Chapuran, S. S. Wagner, and K. W. Lu, "Cost comparisons of fiber-to-the-curb WDM upgrade options for multichannel digital video," TM-ARH-022164, 10/29/1992.
 1.	K. W. Lu and S. S. Wagner, "Cost comparisons of fiber/coax networks delivering both telephony and video," TM-ARH-022151, 10/27/1992.
 1.	S. S. Wagner, K. W. Lu, and T. E. Chapuran," Economic analysis of a digital video-distribution system using fiber and coaxial-cable transmission," TM-ARH-021833, 9/4/1992.
