@@ -280,7 +280,7 @@ John Scott Sadowsky's [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_n
 1. “Broadband Demand and Deployment,” ITRI Computer and Communications Research Laboratories (CCL) and Systom-on-Chip (SoC) Technology Center (STC) Technical Advisory Committee (TAC) Meeting, Ta Shee, Taiwan, October 26-28, 2003
 1.	“Lighting Up the Last Mile: Perspectives on FTTH and FTTx,” National Academies Broadband Access Workshop, Committee on Broadband Last Mile Technology of the National Research Council, Washington, D.C., June 19, 2000
 1. “Comparing Broadband Access Technologies and Markets,” 23rd Annual Convention of Chinese American Academic & Professional Society, New York, September 12-13, 1998
-1.	“Directly Comparing Cable Modems and [ADSL](https://en.wikipedia.org/wiki/ADSL) for Delivering Broadband,” Access Technologies, Vision in Business Ltd., London, April 28-29, 1998
+1.	“Directly Comparing [Cable Modems](https://en.wikipedia.org/wiki/Cable_modem) and [ADSL](https://en.wikipedia.org/wiki/ADSL) for Delivering Broadband,” Access Technologies, Vision in Business Ltd., London, April 28-29, 1998
 1. “From ADSL to [FSAN](https://www.fsan.org/),” New Telecommunications Technology Conference cosponsored by [National Science and Technology Council](https://en.wikipedia.org/wiki/National_Science_and_Technology_Council_(Taiwan)) (NSTC) and [Ministry of Economic Affairs](https://en.wikipedia.org/wiki/Ministry_of_Economic_Affairs_(Taiwan)) (MOEA), Taipei, May 20-22, 1997
 1.	“Fiber to the Home,” Optical Society of America (OSA) now [Optica](https://en.wikipedia.org/wiki/Optica_(society)) OFC, San Jose, CA, February 28, 1996
 1. “Maintenance and Provisioning Cost Savings for Access Network Alternatives,” Bellcore Topical Review on Broadband Technology, Morristown, NJ, August 2, 1994
@@ -452,7 +452,7 @@ John Scott Sadowsky's [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_n
 1.	F. J. Effenberger and K. W. Lu, “IFC comparisons of FTTH/C access architectures,” TM-25594, 9/20/1996.
 1.	F. J. Effenberger and K. W. Lu, “Installed-first-cost analysis of FTTH architectures,” TM-25555, 7/24/1996.
 1.	F. J. Effenberger and K. W. Lu, “Overview and comparisons of FTTH architectures,” TM-25474, 5/20/1996.
-1.	W. Y. Chen, K. W. Lu, and T. R. Hsing, "Architectural alternatives of wireless access through hybrid fiber/coax distribution plant: initial results," TM-ARH-024589, 2/1995.
+1.	W. Y. Chen, K. W. Lu, and T. R. Hsing, "Architectural alternatives of wireless access through [hybrid fiber/coax](https://en.wikipedia.org/wiki/Hybrid_fiber-coaxial) distribution plant: initial results," TM-ARH-024589, 2/1995.
 1.	K. W. Lu, H. R. Manns, D. S. Wilson, "Analysis of estimated installed first costs for video dial tone transport using ADSL-3 and [HFC](https://en.wikipedia.org/wiki/Hybrid_fiber-coaxial) systems in suburban and urban scenarios for Copper Development Association," SR-TSV-003351, 12/30/1994.
 1.	K. W. Lu, S. K. Malhotra, and D. S. Wilson, "Operations cost analysis for loop networks delivering telephony and video," TM-TSV-023316, 2/2/1994.
 1.	K. W. Lu, T. E. Chapuran, M. A. Seely, and D. S. Wilson, "Comparison of FTTC and FTTH networks using TDM for telephony and video," TM-TSV-023513, 11/9/1993.
