@@ -240,6 +240,54 @@ John Scott Sadowsky's [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_n
 1. [G. Huang](https://scholars.library.tamu.edu/vivo/display/n8800928d/), K. W. Lu, and [J. Zaborszky](https://www.nae.edu/28317/Dr-John-Zaborszky), "[A texture model/algorithm for computationally efficient dispatch and control on the power system](https://ieeexplore.ieee.org/abstract/document/4048961)," *1986 25th IEEE Conference on Decision and Control*, Athens, Greece, 1986, pp. 1198-1205, doi: 10.1109/CDC.1986.267572.
 1. J. Zaborszky, G. Huang, and K. W. Lu, "A textured model for computationally efficient reactive power control and management," in Proceedings of the IEEE Power Engineering Society (PES) Summer Meeting, Seattle, Washington, July 15-20, 1984.
 
+## Bellcore/Telcordia Technical Reports
+1.	F. J. Effenberger and K. W. Lu, “IFC comparisons of FTTH/C access architectures,” TM-25594, 9/20/1996.
+1.	F. J. Effenberger and K. W. Lu, “Installed-first-cost analysis of FTTH architectures,” TM-25555, 7/24/1996.
+1.	F. J. Effenberger and K. W. Lu, “Overview and comparisons of FTTH architectures,” TM-25474, 5/20/1996.
+1.	W. Y. Chen, K. W. Lu, and T. R. Hsing, "Architectural alternatives of wireless access through [hybrid fiber/coax](https://en.wikipedia.org/wiki/Hybrid_fiber-coaxial) distribution plant: initial results," TM-ARH-024589, 2/1995.
+1.	K. W. Lu, H. R. Manns, D. S. Wilson, "Analysis of estimated installed first costs for video dial tone transport using ADSL-3 and [HFC](https://en.wikipedia.org/wiki/Hybrid_fiber-coaxial) systems in suburban and urban scenarios for Copper Development Association," SR-TSV-003351, 12/30/1994.
+1.	K. W. Lu, S. K. Malhotra, and D. S. Wilson, "Operations cost analysis for loop networks delivering telephony and video," TM-TSV-023316, 2/2/1994.
+1.	K. W. Lu, T. E. Chapuran, M. A. Seely, and D. S. Wilson, "Comparison of FTTC and FTTH networks using TDM for telephony and video," TM-TSV-023513, 11/9/1993.
+1.	T. E. Chapuran and K. W. Lu, "Optimization of fiber/coax upgrades for fiber-in-the-loop with hybrid analog/digital video transmission," TM-ARH-023102, 11/8/1993.
+1.	A. M. Gottlieb, K. W. Lu, V. K. Malhotra, K. M. Mistry, R. N. S. Rathore, and D. S. Wilson, "Impacts of new loop access technologies on serving area guidelines," SR-TSV-002876, 10/14/1993.
+1.	H. B. Bosch, T. E. Chapuran, K. W. Lu, and M. A. Seely, "Evolution studies for providing video services over FITL systems," SR-TSV-002715, 9/1993.
+1.	T. E. Chapuran, H. L. Lemberg, K. W. Lu, S. K. Malhotra, R. C. Menendez, S. S. Wagner, T. P. Amatulli, N. J. Bananno, and M. L. O'Toole, "Analysis and comparison of alternative fiber access architectures for video," SR-TSV-002826, 9/23/1993.
+1.	K. W. Lu, T. E. Chapuran, and S. S. Wagner, "Comparisons of fiber-to-the-curb upgrade alternatives for multichannel digital video," TM-ARH-023177, 7/15/1993.
+1.	T. P. Amatulli, K. W. Lu, M. I. Eiger, and H. L. Lemberg, "Installed first costs of fiber-for-copper loop rehabilitation," TM-ARH-023003, 5/14/1993.
+1.	D. S. Wilson, et al., "Loop access evolution study: VDT entry options, architectural alternatives and technological foundations," SR-TSV-002453, 12/1992.
+1.	H. B. Bosch, et al., "Upgrade and evolution considerations for the basic FITL platform," SR-TSV-002408, 11/92.
+1.	T. E. Chapuran, S. S. Wagner, and K. W. Lu, "Cost comparisons of fiber-to-the-curb WDM upgrade options for multichannel digital video," TM-ARH-022164, 10/29/1992.
+1.	K. W. Lu and S. S. Wagner, "Cost comparisons of fiber/coax networks delivering both telephony and video," TM-ARH-022151, 10/27/1992.
+1.	S. S. Wagner, K. W. Lu, and T. E. Chapuran," Economic analysis of a digital video-distribution system using fiber and coaxial-cable transmission," TM-ARH-021833, 9/4/1992.
+1.	M. A. Seely, T. E. Chapuran, K. W. Lu, V. K. Malhotra, R. C. Menendez, and K. M. Mistry, "Fiber-in-the-loop economics – installed-first-cost modeling," TM-TSV-020532, 7/31/1992.
+1.	K. W. Lu, H. L. Lemberg, M. A. Seely, R. C. Menendez, and V. K. Malhotra, "Fiber-in-the-loop economics – installed-first-cost sensitivity study," TM-TSV-020302, 7/1/1992.
+1.	R. J. D'Accardi, K. W. Lu, V. K. Malhotra, C. A. Personick, and M. A. Seely, "Fiber-in-the-loop economics – initial life-cycle cost analysis," TM-TSV-020345, 1/29/1992.
+1.	K. M. Mistry, K. W. Lu, W. J. Cook, and S. C. Liew, "A framework for the design of ring topologies for centralized powering networks," TM-ARH-019992, 1/24/1992.
+1.	S. L. Kraght, R. C. Menendez, K. W. Lu, and H. L. Lemberg, "Preliminary installed-first-cost estimates of asymmetric 1.5-Mb/s services via fiber-to-the-curb systems," TM-ARH-020585, 12/5/1991.
+1.	S. C. Liew and K. W. Lu, "A framework for network survivability characterization," TM-ARH-018720, 3/1/1991.
+1.	A. Rizzo, K. W. Lu, R. C. Menendez, and H. L. Lemberg, "Preliminary economics study for FTTC to FTTH evolution," TM-ARH-016861, 6/22/1990.
+1.	K. W. Lu and S. C. Liew, "Analysis and applications of r-for-N protection systems," TM-ARH-016288, 6/19/1990.
+1.	S. C. Liew and K. W. Lu, "Comparison of buffering strategies for asymmetric packet switch modules," TM-ARH-017038, 6/18/1990.
+1.	K. W. Lu, M. I. Eiger, and H. L. Lemberg, "System and cost analyses of broadband fiber loop architectures," TM-ARH-014216, 1/5/1990.
+1.	S. C. Liew and K. W. Lu, "Technologies and approaches for diversity in fiber loop networks," TM-ARH-014918, 9/19/1989.
+1.	A. Gelman, M. Kerner, S. Lee, K. W. Lu, and E. Tsai, "Models for near-term residential video services," TM-TSV-014850, 9/14/1989.
+1.	S. C. Liew and K. W. Lu, "Performance analysis of asymmetric packet-switch modules with channel grouping," TM-ARH-014842, 8/31/1989.
+1.	S. S. Wagner and K. W. Lu, "Comparative video distribution techniques for broadband fiber-optic subscriber loops," TM-ARH-014852, 8/21/1989.
+1.	M. I. Eiger, H. L. Lemberg, K. W. Lu, and S. S. Wagner, "Cost analyses of emerging broadband fiber loop architectures," TM-ARH-013630, 2/15/1989.
+1.	M. Kerner, K. W. Lu, and R. S. Wolff, "Final report on the broadband NYNEX metro area study," TM-ARH-013472, 2/15/191989.
+1.	K. W. Lu and S. S. Wagner, "Cost comparisons of emerging broadband fiber loop architectures," TM-ARH-013638, 2/13/1989.
+1.	J. C. Lee and K. W. Lu, "Technological forecasting with nonlinear models," TM-ARH-013499, 1/16/1989.
+1.	W. O. Covington, K. W. Lu, M. Kerner, R. S. Wolff, "A model for broadband ATM network economic analysis with an application to a large customer," TM-TSV-012910, 12/12/1988.
+1.	W. O. Covington, L. F. Garbanati, K. W. Lu, M. A. Seely, M. O. Vogel, "Fiber to the home: first cost of alternatives," TM-TSV-011938, 7/6/1988.
+1.	K. W. Lu and R. S. Wolff, "A first cost economic analysis of the ERP system," TM-ARH-011214, 4/8/1988.
+1.	K. A. Bishop, K. W. Lu, and R. S. Wolff, "Fiber in the loop: a first cost analysis for a central office area," TM-ARH-011038, 2/22/1988.
+1.	K. W. Lu and R. S. Wolff, "A first cost economic model for a broadband local access system," TM-ARH-010909, 2/22/1988.
+1.	J. C. Lee and K. W. Lu, "Algorithm and practice of forecasting technological substitutions with data-based transformed models," TM-ARH-010834, 2/16/1988.
+1.	G. C. Cruz, R. S. Hisiger, and K. W. Lu, "A FORTRAN implementation of the economic life and depreciation model," TM-ARH-009918, 8/12/1987.
+1.	K. W. Lu, "Applications of life cycle forecasting to capital recovery," TM-ARH-009311, 5/12/1987.
+1.	J. C. Lee and K. W. Lu, "On a family of data-based transformed models useful in forecasting technological substitutions", TM-ARH-004015, 7/11/1986.
+1.	A. A. Bergh, P. S. Brandon, W. C. Cowing, H. L. Lemberg, K. W. Lu, [S. D. Personick](https://en.wikipedia.org/wiki/Stewart_D._Personick), and P. E. White, "Technological and market obsolescence of telephone network equipment", ST-BEL-000029, 6/1986.
+
 ## Invited Presentations
 1.	"Ethics of Autonomous and Intelligent Systems," 28th Wireless and Optical Communications Conference (WOCC), Beijing, May 10, 2019
 1. “The Second Curve of Technology, Media, and Telecommunications,” [Chunghwa Telecom](https://en.wikipedia.org/wiki/Chunghwa_Telecom), Taipei, December 20, 2017
@@ -447,51 +495,3 @@ John Scott Sadowsky's [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_n
 1.	Gary Marschuetz (CPE), “ContentButton,” Fall 2017 – Spring 2018.
 1.	Matthew Sabatini (CPE) and Mike Wezyk (QF), “Diagnose.Me,” Fall 2017 – Spring 2018.
 1.	Daniel Faulisi (CPE), David Gensheimer (CPE), and Matthew Lagarenne (CPE), “WalleTracc,” Fall 2017 – Spring 2018.
-
-## Bellcore/Telcordia Technical Reports
-1.	F. J. Effenberger and K. W. Lu, “IFC comparisons of FTTH/C access architectures,” TM-25594, 9/20/1996.
-1.	F. J. Effenberger and K. W. Lu, “Installed-first-cost analysis of FTTH architectures,” TM-25555, 7/24/1996.
-1.	F. J. Effenberger and K. W. Lu, “Overview and comparisons of FTTH architectures,” TM-25474, 5/20/1996.
-1.	W. Y. Chen, K. W. Lu, and T. R. Hsing, "Architectural alternatives of wireless access through [hybrid fiber/coax](https://en.wikipedia.org/wiki/Hybrid_fiber-coaxial) distribution plant: initial results," TM-ARH-024589, 2/1995.
-1.	K. W. Lu, H. R. Manns, D. S. Wilson, "Analysis of estimated installed first costs for video dial tone transport using ADSL-3 and [HFC](https://en.wikipedia.org/wiki/Hybrid_fiber-coaxial) systems in suburban and urban scenarios for Copper Development Association," SR-TSV-003351, 12/30/1994.
-1.	K. W. Lu, S. K. Malhotra, and D. S. Wilson, "Operations cost analysis for loop networks delivering telephony and video," TM-TSV-023316, 2/2/1994.
-1.	K. W. Lu, T. E. Chapuran, M. A. Seely, and D. S. Wilson, "Comparison of FTTC and FTTH networks using TDM for telephony and video," TM-TSV-023513, 11/9/1993.
-1.	T. E. Chapuran and K. W. Lu, "Optimization of fiber/coax upgrades for fiber-in-the-loop with hybrid analog/digital video transmission," TM-ARH-023102, 11/8/1993.
-1.	A. M. Gottlieb, K. W. Lu, V. K. Malhotra, K. M. Mistry, R. N. S. Rathore, and D. S. Wilson, "Impacts of new loop access technologies on serving area guidelines," SR-TSV-002876, 10/14/1993.
-1.	H. B. Bosch, T. E. Chapuran, K. W. Lu, and M. A. Seely, "Evolution studies for providing video services over FITL systems," SR-TSV-002715, 9/1993.
-1.	T. E. Chapuran, H. L. Lemberg, K. W. Lu, S. K. Malhotra, R. C. Menendez, S. S. Wagner, T. P. Amatulli, N. J. Bananno, and M. L. O'Toole, "Analysis and comparison of alternative fiber access architectures for video," SR-TSV-002826, 9/23/1993.
-1.	K. W. Lu, T. E. Chapuran, and S. S. Wagner, "Comparisons of fiber-to-the-curb upgrade alternatives for multichannel digital video," TM-ARH-023177, 7/15/1993.
-1.	T. P. Amatulli, K. W. Lu, M. I. Eiger, and H. L. Lemberg, "Installed first costs of fiber-for-copper loop rehabilitation," TM-ARH-023003, 5/14/1993.
-1.	D. S. Wilson, et al., "Loop access evolution study: VDT entry options, architectural alternatives and technological foundations," SR-TSV-002453, 12/1992.
-1.	H. B. Bosch, et al., "Upgrade and evolution considerations for the basic FITL platform," SR-TSV-002408, 11/92.
-1.	T. E. Chapuran, S. S. Wagner, and K. W. Lu, "Cost comparisons of fiber-to-the-curb WDM upgrade options for multichannel digital video," TM-ARH-022164, 10/29/1992.
-1.	K. W. Lu and S. S. Wagner, "Cost comparisons of fiber/coax networks delivering both telephony and video," TM-ARH-022151, 10/27/1992.
-1.	S. S. Wagner, K. W. Lu, and T. E. Chapuran," Economic analysis of a digital video-distribution system using fiber and coaxial-cable transmission," TM-ARH-021833, 9/4/1992.
-1.	M. A. Seely, T. E. Chapuran, K. W. Lu, V. K. Malhotra, R. C. Menendez, and K. M. Mistry, "Fiber-in-the-loop economics – installed-first-cost modeling," TM-TSV-020532, 7/31/1992.
-1.	K. W. Lu, H. L. Lemberg, M. A. Seely, R. C. Menendez, and V. K. Malhotra, "Fiber-in-the-loop economics – installed-first-cost sensitivity study," TM-TSV-020302, 7/1/1992.
-1.	R. J. D'Accardi, K. W. Lu, V. K. Malhotra, C. A. Personick, and M. A. Seely, "Fiber-in-the-loop economics – initial life-cycle cost analysis," TM-TSV-020345, 1/29/1992.
-1.	K. M. Mistry, K. W. Lu, W. J. Cook, and S. C. Liew, "A framework for the design of ring topologies for centralized powering networks," TM-ARH-019992, 1/24/1992.
-1.	S. L. Kraght, R. C. Menendez, K. W. Lu, and H. L. Lemberg, "Preliminary installed-first-cost estimates of asymmetric 1.5-Mb/s services via fiber-to-the-curb systems," TM-ARH-020585, 12/5/1991.
-1.	S. C. Liew and K. W. Lu, "A framework for network survivability characterization," TM-ARH-018720, 3/1/1991.
-1.	A. Rizzo, K. W. Lu, R. C. Menendez, and H. L. Lemberg, "Preliminary economics study for FTTC to FTTH evolution," TM-ARH-016861, 6/22/1990.
-1.	K. W. Lu and S. C. Liew, "Analysis and applications of r-for-N protection systems," TM-ARH-016288, 6/19/1990.
-1.	S. C. Liew and K. W. Lu, "Comparison of buffering strategies for asymmetric packet switch modules," TM-ARH-017038, 6/18/1990.
-1.	K. W. Lu, M. I. Eiger, and H. L. Lemberg, "System and cost analyses of broadband fiber loop architectures," TM-ARH-014216, 1/5/1990.
-1.	S. C. Liew and K. W. Lu, "Technologies and approaches for diversity in fiber loop networks," TM-ARH-014918, 9/19/1989.
-1.	A. Gelman, M. Kerner, S. Lee, K. W. Lu, and E. Tsai, "Models for near-term residential video services," TM-TSV-014850, 9/14/1989.
-1.	S. C. Liew and K. W. Lu, "Performance analysis of asymmetric packet-switch modules with channel grouping," TM-ARH-014842, 8/31/1989.
-1.	S. S. Wagner and K. W. Lu, "Comparative video distribution techniques for broadband fiber-optic subscriber loops," TM-ARH-014852, 8/21/1989.
-1.	M. I. Eiger, H. L. Lemberg, K. W. Lu, and S. S. Wagner, "Cost analyses of emerging broadband fiber loop architectures," TM-ARH-013630, 2/15/1989.
-1.	M. Kerner, K. W. Lu, and R. S. Wolff, "Final report on the broadband NYNEX metro area study," TM-ARH-013472, 2/15/191989.
-1.	K. W. Lu and S. S. Wagner, "Cost comparisons of emerging broadband fiber loop architectures," TM-ARH-013638, 2/13/1989.
-1.	J. C. Lee and K. W. Lu, "Technological forecasting with nonlinear models," TM-ARH-013499, 1/16/1989.
-1.	W. O. Covington, K. W. Lu, M. Kerner, R. S. Wolff, "A model for broadband ATM network economic analysis with an application to a large customer," TM-TSV-012910, 12/12/1988.
-1.	W. O. Covington, L. F. Garbanati, K. W. Lu, M. A. Seely, M. O. Vogel, "Fiber to the home: first cost of alternatives," TM-TSV-011938, 7/6/1988.
-1.	K. W. Lu and R. S. Wolff, "A first cost economic analysis of the ERP system," TM-ARH-011214, 4/8/1988.
-1.	K. A. Bishop, K. W. Lu, and R. S. Wolff, "Fiber in the loop: a first cost analysis for a central office area," TM-ARH-011038, 2/22/1988.
-1.	K. W. Lu and R. S. Wolff, "A first cost economic model for a broadband local access system," TM-ARH-010909, 2/22/1988.
-1.	J. C. Lee and K. W. Lu, "Algorithm and practice of forecasting technological substitutions with data-based transformed models," TM-ARH-010834, 2/16/1988.
-1.	G. C. Cruz, R. S. Hisiger, and K. W. Lu, "A FORTRAN implementation of the economic life and depreciation model," TM-ARH-009918, 8/12/1987.
-1.	K. W. Lu, "Applications of life cycle forecasting to capital recovery," TM-ARH-009311, 5/12/1987.
-1.	J. C. Lee and K. W. Lu, "On a family of data-based transformed models useful in forecasting technological substitutions", TM-ARH-004015, 7/11/1986.
-1.	A. A. Bergh, P. S. Brandon, W. C. Cowing, H. L. Lemberg, K. W. Lu, [S. D. Personick](https://en.wikipedia.org/wiki/Stewart_D._Personick), and P. E. White, "Technological and market obsolescence of telephone network equipment", ST-BEL-000029, 6/1986.
