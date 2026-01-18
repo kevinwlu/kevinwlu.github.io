@@ -453,7 +453,7 @@ John Scott Sadowsky's [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_n
 1.	F. J. Effenberger and K. W. Lu, “Installed-first-cost analysis of FTTH architectures,” TM-25555, 7/24/1996.
 1.	F. J. Effenberger and K. W. Lu, “Overview and comparisons of FTTH architectures,” TM-25474, 5/20/1996.
 1.	W. Y. Chen, K. W. Lu, and T. R. Hsing, "Architectural alternatives of wireless access through hybrid fiber/coax distribution plant: initial results," TM-ARH-024589, 2/1995.
-1.	K. W. Lu, H. R. Manns, D. S. Wilson, "Analysis of estimated installed first costs for video dial tone transport using ADSL-3 and HFC systems in suburban and urban scenarios for Copper Development Association," SR-TSV-003351, 12/30/1994.
+1.	K. W. Lu, H. R. Manns, D. S. Wilson, "Analysis of estimated installed first costs for video dial tone transport using ADSL-3 and [HFC](https://en.wikipedia.org/wiki/Hybrid_fiber-coaxial) systems in suburban and urban scenarios for Copper Development Association," SR-TSV-003351, 12/30/1994.
 1.	K. W. Lu, S. K. Malhotra, and D. S. Wilson, "Operations cost analysis for loop networks delivering telephony and video," TM-TSV-023316, 2/2/1994.
 1.	K. W. Lu, T. E. Chapuran, M. A. Seely, and D. S. Wilson, "Comparison of FTTC and FTTH networks using TDM for telephony and video," TM-TSV-023513, 11/9/1993.
 1.	T. E. Chapuran and K. W. Lu, "Optimization of fiber/coax upgrades for fiber-in-the-loop with hybrid analog/digital video transmission," TM-ARH-023102, 11/8/1993.
