@@ -148,7 +148,7 @@ Make lifelong [learning](/Learning) an everyday habit
 * 2023 IEEE Life Senior Member, January 1, 2023
 * 2021 Stevens ECE Outstanding Teaching Award
 * 2018-2019 Stevens [Henry Morton](https://en.wikipedia.org/wiki/Henry_Morton_(scientist)) Distinguished Teaching Professor Award, May 21, 2019
-* 2015 North Jersey Advanced Communications Symposium Outstanding Contributions Award, December 5, 2015
+* 2015 IEEE North Jersey Advanced Communications Symposium Outstanding Contributions Award, December 5, 2015
 * 2012-2013 IEEE Communications Society Appreciation for Contributions Made in Furthering the Objectives of the Society as Director - Standards Development
 * 2011 IEEE Senior Member. June 18, 2011
 * 2011 NJIT ECE Department Industry Advisory Board Recognition and Appreciation of Commitment, Support, and Contributions, May 3, 2011
