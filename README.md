@@ -299,7 +299,7 @@ Citation: G. Lyons, "Evolving from FSA to passive cable networks," [CED](https:/
 1.	“The Internet of Things: Advances and Applications,” the IEEE North Jersey Advanced Communications Symposium, Stevens, December 5, 2015
 1.	“The Internet of Things,” the New York IEEE Education Committee and the New York Chapter of the IEEE Systems, Man, and Cybernetics (SMC) Society, [Long Island University](https://en.wikipedia.org/wiki/Long_Island_University) (LIU), Brooklyn Campus, New York, November 20, 2015
 1. "IEEE Standards on Transportation," Telematics Taiwan 2015, Taipei, October 22, 2015
-1. "Global Standards Collaboration (GSC) on Critical Communications," [National Science and Technology Center for Diaster Reduction](https://en.wikipedia.org/wiki/National_Science_and_Technology_Center_for_Disaster_Reduction) (NCDR), Taipei, October 21, 2015
+1. "Global Standards Collaboration (GSC) on Critical Communications," [National Science and Technology Center for Disaster Reduction](https://en.wikipedia.org/wiki/National_Science_and_Technology_Center_for_Disaster_Reduction) (NCDR), Taipei, October 21, 2015
 1. "5G Standards Activities by IEEE Communications Society (ComSoc)," [Ministry of Economic Affairs](https://en.wikipedia.org/wiki/Ministry_of_Economic_Affairs_(Taiwan)) (MOEA) Department of Industrial Technology (DoIT) 5G Technology Program Office, Taipei, October 19, 2015
 1.	“The Internet of Things,” the IEEE Consultants' Network of Northern NJ (CNNNJ), Morristown, NJ, April 9, 2015
 1.	“An Overview of Standards,” NJIT ECE 414, November 20, 2014
