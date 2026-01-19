@@ -304,7 +304,7 @@ Citation: G. Lyons, "Evolving from FSA to passive cable networks," [CED](https:/
 1.	“The Internet of Things,” the IEEE Consultants' Network of Northern NJ (CNNNJ), Morristown, NJ, April 9, 2015
 1.	“An Overview of Standards,” NJIT ECE 414, November 20, 2014
 1. “Smart Living: Advances and Applications,” [Foxconn](https://en.wikipedia.org/wiki/Foxconn), Taipei, March 11, 2014
-1. “International Business Models for Telematics Services,” the 1st Telematics Services Industry Summit of Telematics Industry Applications Alliance, Shanghai, January 13-14, 2011
+1. “International Business Models for Telematics Services,” 1st Telematics Services Industry Summit of Telematics Industry Applications Alliance, Shanghai, January 13-14, 2011
 1.	“Co-operative Systems,” Closing Panel on ICT Revolutionizing the World of Transport, [European Telecommunications Standards Institute](https://en.wikipedia.org/wiki/European_Telecommunications_Standards_Institute) (ETSI) Business Innovation Summit, London, October 5-6, 2010
 1.	“Vehicular Safety Message Sets,” [National Emergency Number Association](https://en.wikipedia.org/wiki/National_Emergency_Number_Association) (NENA) 2010, Indianapolis, June 9, 2010
 1. “Vehicular Telematics and Intelligent Transportation Systems: Applications and Standards,” [Chinese Institute of Engineers USA](https://en.wikipedia.org/wiki/Chinese_Institute_of_Engineers_USA) (CIE-USA) Sino-American Technology and Engineering Conference (SATEC) 2010, Beijing, April 16-18, 2010
