@@ -156,7 +156,7 @@ Make lifelong [learning](/Learning) an everyday habit
 * 1997-1999 Bellcore Pipeline Development Program and Telcordia Corporate Succession Program Certificate of Achievement
 * 1997 Bellcore Horizons Program Awards, June 13 and December 12, 1997
 * 1996 Bellcore Recognition Awards, February 1, September 1, and October 10, 1996
-* 1994 Team Bellcore Awards, August 31, 1994
+* 1994 Team Bellcore Award, August 31, 1994
 * 1987 Bellcore Award of Excellence
 
 ## Patent Disclosure
