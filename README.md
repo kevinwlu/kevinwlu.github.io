@@ -125,7 +125,7 @@ Make lifelong [learning](/Learning) an everyday habit
   * “TR-48: Vehicular Telematics,” TIA [2008-2009 STAR](/StarReport_2008-2009.pdf), pp. 38-40
   * “TR-48: Vehicular Telematics,” TIA [2007-2008 STAR](/StarReport_2007-2008.pdf), pp. 30-31
 * ISO/TC204 US Technical Advisory Group (TAG) and Working Advisory Group (WAG) 17 on Nomadic and Portable Devices for ITS Services, 2009 to 2012
-* [SAE International](https://en.wikipedia.org/wiki/SAE_International) [Dedicated-Range Communication](https://en.wikipedia.org/wiki/Dedicated_-range_communications) (DSRC) Technical Committee, 2008 to 2012
+* [SAE International](https://en.wikipedia.org/wiki/SAE_International) [Dedicated Short-Range Communication](https://en.wikipedia.org/wiki/Dedicated_short-range_communications) (DSRC) Technical Committee, 2008 to 2012
   * SAE J2735 V2X Communications Message Set Dictionary
 * [US Department of Transportation](https://en.wikipedia.org/wiki/United_States_Department_of_Transportation) (USDOT) Intelligent Transportation Systems (ITS) Joint Program Office (JPO) Coordinating Working Group for ITS Standards Program, 2010-2011
   * [ITS Standards Program Strategic Plan for 2011-2014](stds_strat_plan.pdf) FHWA-JPO-11-052, Version 1.01, April 2011
