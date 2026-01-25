@@ -76,14 +76,14 @@ Make lifelong [learning](/Learning) an everyday habit
   * [Standards Development Board](https://www.comsoc.org/about/boards/standards-development-board), Chair (2012-2013) and Advisor (2014-2017)
   * [Standardization Programs Development Board](https://www.comsoc.org/about/boards/standardization-programs-development-board), Member (2016-2022) and Non-Voting Member (2023-2025)
   * [IEEE Conference on Standards for Communications and Networking (CSCN)](https://dblp.org/db/conf/cscn/index.html) technical program committee, 2021-present
-  * Organizer and Chair, IEEE Globecom Session on Multi-Wavelength Optical Networks, San Francisco, California, December 1, 1994
+  * Organizer and Chair, IEEE GLOBECOM Session on Multi-Wavelength Optical Networks, San Francisco, California, December 1, 1994
   * Organizer, IEEE SUPERCOMM/ICC Session on Broadband Optical Transport Systems and Networks, New Orleans, Louisiana, May 3, 1994
   * Chair, ComSoc/OFC Coordinating Committee, IEEE Communications Society, 1993 to 1994
-  * Chair, IEEE Globecom Session on Optical and Cabled System Access, Houston, Texas, November 30, 1993
+  * Chair, IEEE GLOBECOM Session on Optical and Cabled System Access, Houston, Texas, November 30, 1993
   * Chair, Technical Program Subcommittee, Optical Communications Committee, June 1991 to 1994
   * Representative for Optical Communications Committee, IEEE ICC 1991 Technical Program Committee, Denver, Colorado, June 23-26, 1991
   * Secretary, Optical Communications Committee, April 1990 to June 1991
-  * Organizer and Chair, IEEE Globecom Session on Asynchronous Transfer Mode Technology, Dallas, Texas, November 30, 1989
+  * Organizer and Chair, IEEE GLOBECOM Session on Asynchronous Transfer Mode Technology, Dallas, Texas, November 30, 1989
 * [IEEE Standards Association](https://standards.ieee.org/) (IEEE SA) 
   * [Standards Board](https://standards.ieee.org/about/sasb/) (2016-2025)
     * [Audit Committee](https://standards.ieee.org/about/sasb/audcom/) (2019-2026) and Chair (2021-2024)
