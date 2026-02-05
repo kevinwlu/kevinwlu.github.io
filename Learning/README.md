@@ -1147,6 +1147,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Ronald Graham](https://en.wikipedia.org/wiki/Ronald_Graham) 1935&mdash;2020
 * [Robert W. Lucky](https://en.wikipedia.org/wiki/Robert_W._Lucky) 1936&mdash;2022
 * [Institutional review board](https://en.wikipedia.org/wiki/Institutional_review_board) (IRB)
+* [Institutional Animal Care and Use Committee](https://en.wikipedia.org/wiki/Institutional_Animal_Care_and_Use_Committee) (IACUC)
 * [Irving Herman](https://en.wikipedia.org/wiki/Irving_P._Herman), ["Following the law: A guide for the perplexed graduate student doing research,"](https://www.nature.com/articles/nj7124-228a) January 10, 2007
   * [Laws of Herman](https://www.irvingpherman.com/professional/)
     * The First Amendment: “If you didn’t document it, you didn’t do it.”
