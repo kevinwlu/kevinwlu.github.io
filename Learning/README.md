@@ -146,6 +146,7 @@
 * [Patrick Henry Winston](https://en.wikipedia.org/wiki/Patrick_Winston) 1943&mdash;2019, [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY), MIT Independent Activities Period [IAP](https://elo.mit.edu/iap/) 2018
 * [Science communication](https://en.wikipedia.org/wiki/Science_communication)
 * [Fighting Fire with Fire: Scalable Personalized Oral Exams with an ElevenLabs Voice AI Agent](https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html), December 29, 2025
+
 ---
 * [The Pen Is Mightier Than the Keyboard: Advantages of Longhand Over Laptop Note Taking](https://www.jstor.org/stable/24543504)
 * [Brain Drain: The Mere Presence of One’s Own Smartphone Reduces Available Cognitive Capacity](https://www.journals.uchicago.edu/doi/10.1086/691462)
