@@ -844,6 +844,7 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [*The Count of Monte Cristo*](https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo) 1844 by [Alexandre Dumas](https://en.wikipedia.org/wiki/Alexandre_Dumas) 1802&mdash;1870
   * [The Project Gutenberg eBook 1184](https://www.gutenberg.org/ebooks/1184)
   * [Château d'If](https://en.wikipedia.org/wiki/Ch%C3%A2teau_d%27If)
+* [*Wuthering Heights*](https://en.wikipedia.org/wiki/Wuthering_Heights) 1847 by [Emily Brontë](https://en.wikipedia.org/wiki/Emily_Bront%C3%AB) 1818&mdash;1848
 * [*Moby-Dick*](https://en.wikipedia.org/wiki/Moby-Dick) 1851 by [Herman Melville](https://en.wikipedia.org/wiki/Herman_Melville) 1819&mdash;1891
   * [The Project Gutenberg eBook 2701](https://www.gutenberg.org/ebooks/2701)
   * [List of *Moby-Dick* characters](https://en.wikipedia.org/wiki/List_of_Moby-Dick_characters)
