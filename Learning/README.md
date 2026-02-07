@@ -838,6 +838,8 @@ Source: An interactive flight through millions of galaxies by [Fiske Planetarium
 * [Voltaire](https://en.wikipedia.org/wiki/Voltaire) 1694&mdash;1778
 * [*The Social Contract*](https://en.wikipedia.org/wiki/The_Social_Contract) 1762 by [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) 1712&mdash;1778
   * [The Project Gutenberg eBook 46333](https://www.gutenberg.org/ebooks/46333)
+* [*Pride and Prejudice*](https://en.wikipedia.org/wiki/Pride_and_Prejudice) 1813 by [Jane Austen](https://en.wikipedia.org/wiki/Jane_Austen) 1775&mdash;1817 
+  * [The Project Gutenberg eBook 1342](https://www.gutenberg.org/ebooks/1342)
 * [*Frankenstein; Or, The Modern Prometheus*](https://en.wikipedia.org/wiki/Frankenstein) 1818 by [Mary Shelley](https://en.wikipedia.org/wiki/Mary_Shelley) 1797&mdash;1851
   * [The Project Gutenberg eBook 84](https://www.gutenberg.org/ebooks/84)
   * [Midas](https://en.wikipedia.org/wiki/Midas)
