@@ -3,8 +3,7 @@
 [Google Scholar](https://scholar.google.com/citations?user=r3ktnhEAAAAJ) | 
 [DBLP](https://dblp.org/pid/91/1700.html) |
 [LinkedIn](https://www.linkedin.com/in/kevinwlu) | 
-[Devpost](https://devpost.com/kevinwenlu)\
-Make lifelong [learning](/Learning) an everyday habit
+[Devpost](https://devpost.com/kevinwenlu)
 
 ## Education
 * [DSc](https://en.wikipedia.org/wiki/Doctor_of_Science) in Systems Science and Mathematics, [Washington University in St. Louis]([https://wustl.edu/](https://en.wikipedia.org/wiki/Washington_University_in_St._Louis)), August 1984
