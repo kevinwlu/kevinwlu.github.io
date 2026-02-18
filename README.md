@@ -428,6 +428,7 @@ Citation: G. Lyons, "Evolving from FSA to passive cable networks," [CED](https:/
 1.	Kamen Kresnitchki, “Media Streaming and Icecast Report,” December 2022.
 
 ## Senior Thesis Committee
+* Theodore Rogalski, "Decentralized and Safety Guaranteed Deep Multi-Agent Reinforcement Learning With Applications to the Persistent Monitoring Problem," May 2026
 *	Justin DeTone, “A Spiking Neural Network Model in Python,” May 2020.
 
 ## Senior Design Projects
