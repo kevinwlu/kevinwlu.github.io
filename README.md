@@ -100,6 +100,8 @@
   * Organizer and Chair, the Future of Broadband Access Panel, the Broadband Access Technologies Session for the 2000 IEEE/LEOS Summer Topical Meetings, July 27, 2000, Aventura, Florida
 * [IEEE Technical Activities Board](https://ta.ieee.org/) (IEEE TAB)
   * [IEEE TAB Committee on Standards](https://resourcecenter.tcos.ieee.org/) (TCOS) (2020-2023)
+* [IEEE Region 1](https://ieeer1.org/)
+  * Chair of the Student Activities Committee (SAC), 2026-2027
 * [Wireless and Optical Communications Conference](https://www.wocc.org/) (WOCC)
   * Treasurer (2015-2025)
   * Chair (2007-2008), Vice Chair (2006-2007), and Member (2005-2006), Board of Trustees
