@@ -110,6 +110,7 @@
   * President (2004-2005)
 * [embedded world North America Conference](https://embedded-world-na.com/) program committee, 2023-present
 * [Terra North Jersey STEM Fair](https://tnjsf.org/) Judge, 2025-present
+* [IEEE International Conference on Intelligent Systems and Interdisciplinary Applications (ISAIA)]() Advisory Committee and Organizing Committee, 2026
 
 ## Technical Contributions
 * IEEE Future Networks, [IEEE 5G and Beyond Technology Roadmap White Paper](https://futurenetworks.ieee.org/images/files/pdf/ieee-5g-roadmap-white-paper.pdf), October 2017
