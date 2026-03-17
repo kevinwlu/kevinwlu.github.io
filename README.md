@@ -165,8 +165,8 @@ $ 2026 Stevens Employee Recognition Award for Student Success Champion, February
 * 1994 Team Bellcore Award, August 31, 1994
 * 1987 Bellcore Award of Excellence
 
-## Patent Disclosure
-*	Sally Shady, Kevin Lu, Frank Castello, and Sean Pelcher, “TrachAlert: AI Driven Tracheostomy Monitoring Device,” March 25, 2024
+## Patent Filed
+*	Sally Shady, Kevin Lu, Frank Castello, and Sean Pelcher, “Tracheostomy Monitoring System,” March 11, 2026
 
 ## News Articles
 1. [High School Students Broaden Their Futures Through Experiential Learning at Stevens](https://www.stevens.edu/news/high-school-students-experiential-learning), *Stevens News*, July 17, 2025
