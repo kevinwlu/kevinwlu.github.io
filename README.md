@@ -9,7 +9,7 @@
 * [DSc](https://en.wikipedia.org/wiki/Doctor_of_Science) in Systems Science and Mathematics, [Washington University in St. Louis](https://en.wikipedia.org/wiki/Washington_University_in_St._Louis), August 1984
   * Dissertation: *A Textured Model and Its Uses in Reactive Power Management and Control*
   * Advisor: Dr. [John Zaborszky](https://en.wikipedia.org/wiki/John_Zaborszky) 1914&mdash;2008
-  * Committee Members: Dr. [David LeRoy Elliott](https://isr.umd.edu/news/story/david-l-elliott-an-appreciation) &mdash;2020, Dr. [Garng Huang](https://scholar.google.com/citations?user=7zk9wWYAAAAJ&hl=en)
+  * Committee Members: Dr. [David LeRoy Elliott](https://isr.umd.edu/news/story/david-l-elliott-an-appreciation) 1932&mdash;2020, Dr. [Garng Huang](https://scholar.google.com/citations?user=7zk9wWYAAAAJ&hl=en)
 * MS in Systems Science and Mathematics, Washington University in St. Louis, May 1981
 * BS in Control Engineering, [National Chiao Tung University](https://en.wikipedia.org/wiki/National_Chiao_Tung_University) (NCTU), Hsinchu, Taiwan, June 1979
 
