@@ -145,7 +145,7 @@
 * Bellcore technological and market obsolescence of telephone network equipment, 1986
 
 ## Honors and Awards
-$ 2026 Stevens Employee Recognition Award for Student Success Champion, February 25, 2026
+* 2026 Stevens Employee Recognition Award for Student Success Champion, February 25, 2026
 * 2025 [Order of the Engineer](https://en.wikipedia.org/wiki/Order_of_the_Engineer), May 20, 2025
 * 2024 IEEE SA Standards Board Distinguished Service Award for “superior IEEE SA Governance leadership as the IEEE SA Standards Board Audit Committee Chair and as the IEEE SA Industry Connections Committee Chair”
   * [2024 IEEE SA Awards](https://standards.ieee.org/beyond-standards/2024-ieee-sa-award-winners/)
@@ -156,7 +156,7 @@ $ 2026 Stevens Employee Recognition Award for Student Success Champion, February
 * 2018-2019 Stevens [Henry Morton](https://en.wikipedia.org/wiki/Henry_Morton_(scientist)) Distinguished Teaching Professor Award, May 21, 2019
 * 2015 IEEE North Jersey Advanced Communications Symposium Outstanding Contributions Award, December 5, 2015
 * 2012-2013 IEEE Communications Society Appreciation for Contributions Made in Furthering the Objectives of the Society as Director - Standards Development
-* 2011 IEEE Senior Member. June 18, 2011
+* 2011 IEEE Senior Member, June 18, 2011
 * 2011 NJIT ECE Department Industry Advisory Board Recognition and Appreciation of Commitment, Support, and Contributions, May 3, 2011
 * 2011 WOCC Outstanding Contribution Award, April 15, 2011
 * 1997-1999 Bellcore Pipeline Development Program and Telcordia Corporate Succession Program Certificate of Achievement
