@@ -383,6 +383,7 @@ Citation: G. Lyons, "Evolving from FSA to passive cable networks," [CED](https:/
 1.	Leyland George, “Impact of Regenerative Breaking on Railway Traction Power Systems,” May 2017.
 
 ## Graduate Student Research Projects
+1. Murali Sai Buddakkagari Venkata and Nawaz Fateen Khan, "Adaptive Ensemble Detection for Medical Imaging," May 2026.
 1.	Lasya Addala, “NIRCam and MIRI Composite Imaging and Enhancement Using JWST Images,” May 2025.
 1.	Prabal Sharma, “Low-Light Object Detection on ExDark via Joint Enhancement-Detection Pipelines,” May 2025.
 1.	Daniel Yassa, “A Multi-Modal Aerial Object Detection Framework for Precision Agriculture,” May 2025.
