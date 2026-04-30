@@ -172,6 +172,7 @@
 1. [High School Students Broaden Their Futures Through Experiential Learning at Stevens](https://www.stevens.edu/news/high-school-students-experiential-learning), *Stevens News*, July 17, 2025
 1. [Stevens Inducts Graduating Seniors into the Order of the Engineer at Spring 2025 Ceremony](https://www.stevens.edu/news/order-of-the-engineer-2025), *Stevens News*, July 10, 2025
 1. [Telecom Expert Honored By IEEE Standards Association: Stevens professor was recognized for standards governance management](https://spectrum.ieee.org/telecom-kevin-lu-ieee-standards), *IEEE Spectrum*, June 12, 2025
+1. [Eight Great Reasons You Don’t Want to Miss the 2025 Innovation Expo](https://www.stevens.edu/news/eight-great-reasons-you-dont-want-to-miss-the-2025-innovation-expo), April 7, 2025
 1. [IEEE SA Industry Connections Program Cultivates Collaboration](https://standards.ieee.org/beyond-standards/industry-connections-spotlight/), February 27, 2025
 1. [Alumni Panel Furthers Culture of Inclusion at Stevens](https://www.stevens.edu/news/alumni-panel-furthers-culture-of-inclusion-at-stevens), *Stevens News*, January 15, 2025
 1. [Insight From Stevens Institute Professor Kevin Lu](https://circleoptics.com/insight-from-stevens-institute-professor-kevin-lu/), *Circle Optics Company News*, June 15, 2023
