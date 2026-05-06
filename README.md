@@ -386,6 +386,7 @@ Citation: G. Lyons, "Evolving from FSA to passive cable networks," [CED](https:/
 
 ## Graduate Student Research Projects
 1. Murali Sai Buddakkagari Venkata and Nawaz Fateen Khan, "Adaptive Ensemble Detection for Medical Imaging," May 2026.
+1. Syed Adnan, "WeatherAug-YOLO: A Curriculum-Based Weather Augmentation Framework for Robust Detection of Temporary Traffic Control Signs Using YOLO26," May 2026.
 1.	Lasya Addala, “NIRCam and MIRI Composite Imaging and Enhancement Using JWST Images,” May 2025.
 1.	Prabal Sharma, “Low-Light Object Detection on ExDark via Joint Enhancement-Detection Pipelines,” May 2025.
 1.	Daniel Yassa, “A Multi-Modal Aerial Object Detection Framework for Precision Agriculture,” May 2025.
@@ -439,8 +440,8 @@ Citation: G. Lyons, "Evolving from FSA to passive cable networks," [CED](https:/
 1.	Kamen Kresnitchki, “Media Streaming and Icecast Report,” December 2022.
 
 ## Senior Thesis Committee
-* Theodore Rogalski, "Fully Decentralized Safety-Aware Deep Reinforcement Learning for the Discrete Time Persistent Monitoring Problem With a Graph Topology," May 2026.
-*	Justin DeTone, “A Spiking Neural Network Model in Python,” May 2020.
+1. Theodore Rogalski, "Fully Decentralized, Safety-Aware Deep Reinforcement Learning for the Discrete Time Persistent Monitoring Problem With a Graph Topology," May 2026.
+1.	Justin DeTone, “A Spiking Neural Network Model in Python,” May 2020.
 
 ## Senior Design Projects
 1. Jacqueline Castro (CPE), Alison Dutton (CPE), Mariam Elnaggar (CPE), Gianina Maldonado (EE), Alyssa Pavone (EE), and Jernique Richardson (EE), "DensiSense 2.0," Fall 2025 – Spring 2026.
