@@ -169,6 +169,8 @@
 *	Sally Shady, Kevin Lu, Frank Castello, and Sean Pelcher, “Tracheostomy Monitoring System,” March 11, 2026
 
 ## News Articles
+1. [Drones, Diagnostics and Clean Fuel: 10 Schaefer School Projects to See at the 2026 Stevens Innovation Expo
+](https://www.stevens.edu/news/drones-diagnostics-clean-fuel-10-schaefer-school-projects-2026-stevens-innovation-expo), *Stevens News*, May 4, 2026
 1. [High School Students Broaden Their Futures Through Experiential Learning at Stevens](https://www.stevens.edu/news/high-school-students-experiential-learning), *Stevens News*, July 17, 2025
 1. [Stevens Inducts Graduating Seniors into the Order of the Engineer at Spring 2025 Ceremony](https://www.stevens.edu/news/order-of-the-engineer-2025), *Stevens News*, July 10, 2025
 1. [Telecom Expert Honored By IEEE Standards Association: Stevens professor was recognized for standards governance management](https://spectrum.ieee.org/telecom-kevin-lu-ieee-standards), *IEEE Spectrum*, June 12, 2025
