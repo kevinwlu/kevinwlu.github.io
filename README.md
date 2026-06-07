@@ -71,6 +71,8 @@
 * NYU ECE Industry Advisory Board, 2006
 
 ## Professional Societies and Services
+* [IEEE Region 1](https://ieeer1.org/)
+  * Chair of the Student Activities Committee (SAC), 2026-2027
 * [IEEE Communications Society](https://www.comsoc.org/) (IEEE ComSoc) 
   * [Standards Development Board](https://www.comsoc.org/about/boards/standards-development-board), Chair (2012-2013) and Advisor (2014-2017)
   * [Standardization Programs Development Board](https://www.comsoc.org/about/boards/standardization-programs-development-board), Member (2016-2022) and Non-Voting Member (2023-2025)
@@ -100,8 +102,6 @@
   * Organizer and Chair, the Future of Broadband Access Panel, the Broadband Access Technologies Session for the 2000 IEEE/LEOS Summer Topical Meetings, July 27, 2000, Aventura, Florida
 * [IEEE Technical Activities Board](https://ta.ieee.org/) (IEEE TAB)
   * [IEEE TAB Committee on Standards](https://resourcecenter.tcos.ieee.org/) (TCOS) (2020-2023)
-* [IEEE Region 1](https://ieeer1.org/)
-  * Chair of the Student Activities Committee (SAC), 2026-2027
 * [IEEE North Jersey Section](https://r1.ieee.org/northjersey/)
   * STEM Outreach, 2023-present
 * [Wireless and Optical Communications Conference](https://www.wocc.org/) (WOCC)
@@ -145,6 +145,7 @@
 * Bellcore technological and market obsolescence of telephone network equipment, 1986
 
 ## Honors and Awards
+* IEEE-Eta Kappa Nu (IEEE-HKN) Eta Chapter, June 6, 2026
 * 2026 Stevens Employee Recognition Award for Student Success Champion, February 25, 2026
 * 2025 [Order of the Engineer](https://en.wikipedia.org/wiki/Order_of_the_Engineer), May 20, 2025
 * 2024 IEEE SA Standards Board Distinguished Service Award for “superior IEEE SA Governance leadership as the IEEE SA Standards Board Audit Committee Chair and as the IEEE SA Industry Connections Committee Chair”
