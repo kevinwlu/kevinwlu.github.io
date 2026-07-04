@@ -55,6 +55,7 @@
 
 ## Institutional Services
 * Stevens Admissions events including Visit Day, Early Decision Brunch, Admitted Student Friday, and Admitted Student Weekend/Meet and Greet, September 2018 – present
+* Stevens Committee on AI Literacy for Undergraduate Students, July 2025 – present
 * Stevens Benefits Advisory Committee Member, September 2020 – June 2024
 * Stevens Committee on the New Core “SUCCESS” Member and Facilitator for PRV 205 Frontiers of Technology Course – Quantum Technology, September 2022 – February 2024
 * Stevens Teaching Advisory Board Member, September 2024 – August 2025
