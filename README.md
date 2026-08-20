@@ -362,6 +362,7 @@ Citation: G. Lyons, "Evolving from FSA to passive cable networks," [CED](https:/
 * [Second Curve of Technology, Media, and Telecommunications](https://goo.gl/5wH7D7)
 
 ## Doctoral Dissertation Committees
+1.	Kaiyu Huang, “Nonintrusive Multimodal Sensing and AI-Driven Occupant Analytics for Human-Responsive Building Operations,” April 2026.
 1.	Jeevanandha Ramanathan, “Exploring Temporal State Basis for Quantum Information Processing,” August 2025.
 1.	Zhan Li, “High-Q Resonators and Single Photon Nonlinearity on Thin Film Lithium Niobate,” May 2024.
 1.	Lac Nguyen, “A Practical Approach to Quantum Cryptography With Quantum Authentication,” May 2023.
