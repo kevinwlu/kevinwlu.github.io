@@ -168,7 +168,7 @@
 * 1987 Bellcore Award of Excellence
 
 ## Patent Filed
-*	Sally Shady, Kevin Lu, Frank Castello, and Sean Pelcher, “Tracheostomy Monitoring System,” March 11, 2026
+*	Sally Shady, Kevin Lu, Frank Castello, and Sean Pelcher, “Tracheostomy Monitoring System,” U.S. Patent Application No. 19/563,559, filed March 11, 2026
 
 ## News Articles
 1. [Drones, Diagnostics and Clean Fuel: 10 Schaefer School Projects to See at the 2026 Stevens Innovation Expo
