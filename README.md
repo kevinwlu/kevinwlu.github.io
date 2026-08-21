@@ -374,7 +374,7 @@ Citation: G. Lyons, "Evolving from FSA to passive cable networks," [CED](https:/
 1.	Yuanqiu Luo (NJIT), "Dynamic Bandwidth Management With Service Differentiation Over Ethernet Passive Optical Networks," May 2006.
 1.	Fahd A. Alharbi (NJIT), "Congestion Control in the Resilient Packet Ring Networks," January 2005.
 
-## Master Thesis Committees
+## Master's Thesis Committees
 1.	Saurabh Raman Parkar, “Contactless Respiratory sensing Using mmWave FMCW Radar and 5G NR,” May 19, 2025.
 1.	Jingyi Jia, “Machine Learning Approaches for Predicting Battery Cycle Life: A Study on Degradation Mechanisms and Model Comparisons,” December 2024.
 1.	Serafin Fernandez, “Impact on New Jersey’s Electrical Grid and Emissions From Electrical Vehicle Usage by New York City Commuters,” December 2023.
