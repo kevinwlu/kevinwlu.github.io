@@ -28,6 +28,7 @@
 
 ## Courses Taught
 * Stevens PRV 101 [First Year Experience](https://github.com/kevinwlu/fye), Fall Semesters 2024 – present
+* Stevens EE 181 [Seminar in Electrical Engineering](https://github.com/kevinwlu/ece), Fall 2026
 * Stevens CPE/EE 322 [Engineering Design VI](https://sites.google.com/view/ece322), Fall 2017 – Spring 2025
 * Stevens CPE/EE 400 Research, Fall 2022 – Fall 2023
 * Stevens CPE/EE 423 [Engineering Design VII](https://sites.google.com/view/ece423), Fall Semesters 2017 – present
