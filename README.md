@@ -172,6 +172,7 @@
 *	Sally Shady, Kevin Lu, Frank Castello, and Sean Pelcher, “Tracheostomy Monitoring System,” U.S. Patent Application No. 19/563,559, filed March 11, 2026
 
 ## News Articles
+1. [Stevens Students Celebrated as Champions of Port Authority Robotics Challenge](https://www.stevens.edu/news/stevens-students-celebrated-as-champions-of-port-authority-robotics-challenge), *Stevens News*, August 31, 2026
 1. [Drones, Diagnostics and Clean Fuel: 10 Schaefer School Projects to See at the 2026 Stevens Innovation Expo
 ](https://www.stevens.edu/news/drones-diagnostics-clean-fuel-10-schaefer-school-projects-2026-stevens-innovation-expo), *Stevens News*, May 4, 2026
 1. [High School Students Broaden Their Futures Through Experiential Learning at Stevens](https://www.stevens.edu/news/high-school-students-experiential-learning), *Stevens News*, July 17, 2025
