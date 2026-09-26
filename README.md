@@ -44,10 +44,10 @@
 * Stevens Pre-College Programs, Exploring Career Options in Engineering and Science (ECOES), Summer 2018, Summer 2019, and Summer 2021
 * Stevens Pre-College Programs, Engineering Bootcamp, Summer 2020 and Summer 2021
 * Stevens Pre-College Programs, Discover Engineering Day, 23 February 2019, 22 February 2020, 24 February 2021, and 26 February 26 2022
-* Hands-on Approach to the IoT, Machine Learning, and Blockchain, NCTU, December 19, 2019
-* Hands-on Approach to the IoT, Machine Learning, and Blockchain, NCTU, January 14, 2019
-* Hands-on Approach to the IoT, NCTU, December 20-21, 2017
-* Hands-on Approach to the IoT, NCTU, January 19-20, 2016
+* Hands-On Approach to the IoT, Machine Learning, and Blockchain, NCTU, December 19, 2019
+* Hands-On Approach to the IoT, Machine Learning, and Blockchain, NCTU, January 14, 2019
+* Hands-On Approach to the IoT, NCTU, December 20-21, 2017
+* Hands-On Approach to the IoT, NCTU, January 19-20, 2016
 * Fiber Optic Subscriber Loop Architectures and Economics, Short Course SC6, [SPIE](https://en.wikipedia.org/wiki/SPIE) OE/FIBERS, San Jose, California, September 17, 1990
 * Fiber-Optic Subscriber Loop Architectures and Economics, Chunghwa Telecom Training Institute, Kaohsiung, July 20-21, 1989
 * Fiber-Optic Subscriber Loop Architectures and Economics, NCTU, July 24-28, 1989
@@ -356,7 +356,7 @@ Citation: G. Lyons, "Evolving from FSA to passive cable networks," [CED](https:/
 * [Balanced Skill Set](https://docs.google.com/presentation/d/153WdbX45X3mDv5xqPK3I9XluN-qWKLW9vqNKKk2y5kI)
 * [Careers in Industry](https://docs.google.com/presentation/d/106zGCupPAgWhLEW6l_BM_moIr_ZFnFw36kjqOi9m9q8)
 * [Ethics of Autonomous and Intelligent Systems](https://docs.google.com/presentation/d/1mvlRrR5tgnX2LDzR20_8J74wdCawYNp7Y1KuTh8QK3c)
-* [Hands-on Approach to Internet of Things](https://docs.google.com/presentation/d/1nW76PppJbi9WeeJnl-cxk0Al-DEN9r5vw4FR4d0fkYI)
+* [Hands-On Approach to Internet of Things](https://docs.google.com/presentation/d/1nW76PppJbi9WeeJnl-cxk0Al-DEN9r5vw4FR4d0fkYI)
 * [IEEE Writing Style](https://docs.google.com/presentation/d/1TIWfYpBYfumA1rgMLDP6UkM7fC9rC8EK4up3Q28t6MQ)
 * [Necessity and Serendipity of Invention and Innovation](https://docs.google.com/presentation/d/1hLaVNikDvlXs1PCG4ikN8zXegfyOYcp04XByzQSG864)
 * [Professional Writing Workshop](https://docs.google.com/presentation/d/1MxA8BNXht-iZBCjvJ132hFw8NCFqIsytRd7-xZcuoo8)
