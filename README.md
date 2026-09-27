@@ -172,9 +172,11 @@
 *	Sally Shady, Kevin Lu, Frank Castello, and Sean Pelcher, “Tracheostomy Monitoring System,” U.S. Patent Application No. 19/563,559, filed March 11, 2026
 
 ## News Articles
+1. [Change to eighteen credit max](https://thestute.com/2026/09/11/change-to-eighteen-credit-max/) *The Stute*, September 11, 2026
 1. [Stevens Students Celebrated as Champions of Port Authority Robotics Challenge](https://www.stevens.edu/news/stevens-students-celebrated-as-champions-of-port-authority-robotics-challenge), *Stevens News*, August 31, 2026
 1. [Drones, Diagnostics and Clean Fuel: 10 Schaefer School Projects to See at the 2026 Stevens Innovation Expo
 ](https://www.stevens.edu/news/drones-diagnostics-clean-fuel-10-schaefer-school-projects-2026-stevens-innovation-expo), *Stevens News*, May 4, 2026
+1. [DuckAI 2025: Stevens pushes for computing without boundaries](https://thestute.com/2025/12/12/duckai-2025-stevens-pushes-for-computing-without-boundaries/), *The Stute*, December 12, 2025
 1. [High School Students Broaden Their Futures Through Experiential Learning at Stevens](https://www.stevens.edu/news/high-school-students-experiential-learning), *Stevens News*, July 17, 2025
 1. [Stevens Inducts Graduating Seniors into the Order of the Engineer at Spring 2025 Ceremony](https://www.stevens.edu/news/order-of-the-engineer-2025), *Stevens News*, July 10, 2025
 1. [Telecom Expert Honored By IEEE Standards Association: Stevens professor was recognized for standards governance management](https://spectrum.ieee.org/telecom-kevin-lu-ieee-standards), *IEEE Spectrum*, June 12, 2025
@@ -183,7 +185,7 @@
 1. [Alumni Panel Furthers Culture of Inclusion at Stevens](https://www.stevens.edu/news/alumni-panel-furthers-culture-of-inclusion-at-stevens), *Stevens News*, January 15, 2025
 1. [Insight From Stevens Institute Professor Kevin Lu](https://circleoptics.com/insight-from-stevens-institute-professor-kevin-lu/), *Circle Optics Company News*, June 15, 2023
 1. [Rediscovering the Language of Family Connections](https://www.stevens.edu/news/rediscovering-the-language-of-family-connections), *Stevens News*, May 19, 2023
-1. [Snapshots From The 2022 Innovation Expo](https://www.stevens.edu/indicator/fall-2022/snapshots-from-the-2022-innovation-expo), *Stevens Indicator*, Fall 2022
+1. [Snapshots From The 2022 Innovation Expo](https://www.stevens.edu/indicator/fall-2022/snapshots-from-the-2022-innovation-expo), *Stevens Indicator*, Fall 2022 [PDF](https://assets.stevens.edu/mviowpldu823/6YVqCnequ6XzVbcgsYa94E/f4c0dca5afadeb05f73caad3f5381d0d/FINAL_Stevens-_Indicator-Fall-2022-web.pdf)
 1. [Seniors Design Intelligent Greenhouse to Grow a More Sustainable Food Supply](https://www.stevens.edu/news/seniors-design-intelligent-greenhouse-grow-more-sustainable-food-supply), *Stevens News*, June 3, 2022
 1. [Pick 6: Six Reasons You Need to Attend Stevens Institute of Technology’s 2022 Innovation Expo on April 29
 ](https://www.stevens.edu/news/pick-6-six-reasons-you-need-attend-stevens-institute-technologys-2022-innovation-expo-april-29), *Stevens News*, April 23, 2022
