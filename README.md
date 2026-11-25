@@ -366,6 +366,7 @@ Citation: G. Lyons, "Evolving from FSA to passive cable networks," [CED](https:/
 * [Second Curve of Technology, Media, and Telecommunications](https://goo.gl/5wH7D7)
 
 ## Doctoral Dissertation Committees
+1. Jiaxing Liu, "All-Optical Switching ​by Thin Film Lithium Niobate (TFLN) Chips and Related Automated Setup​," October 2026.
 1.	Kaiyu Huang, “Nonintrusive Multimodal Sensing and AI-Driven Occupant Analytics for Human-Responsive Building Operations,” April 2026.
 1.	Jeevanandha Ramanathan, “Exploring Temporal State Basis for Quantum Information Processing,” August 2025.
 1.	Zhan Li, “High-Q Resonators and Single Photon Nonlinearity on Thin Film Lithium Niobate,” May 2024.
@@ -392,6 +393,7 @@ Citation: G. Lyons, "Evolving from FSA to passive cable networks," [CED](https:/
 1.	Leyland George, “Impact of Regenerative Breaking on Railway Traction Power Systems,” May 2017.
 
 ## Graduate Student Research Projects
+1. Sana Michael, "FaceTrace: A Framework for Quantifying Facial Privacy Exposure Using Deep Learning-Based Face Recognition," December 2026.
 1. Murali Sai Buddakkagari Venkata and Nawaz Fateen Khan, "Adaptive Ensemble Detection for Medical Imaging," May 2026.
 1. Syed Adnan, "WeatherAug-YOLO: A Curriculum-Based Weather Augmentation Framework for Robust Detection of Temporary Traffic Control Signs Using YOLO26," May 2026.
 1.	Lasya Addala, “NIRCam and MIRI Composite Imaging and Enhancement Using JWST Images,” May 2025.
@@ -437,6 +439,9 @@ Citation: G. Lyons, "Evolving from FSA to passive cable networks," [CED](https:/
 1.	Peize Yu, “Using Raspberry Pi to Make a Smart Lock With Face Recognition,” December 2019.
 
 ## Undergraduate Student Research Projects
+1. Okherra Prosper, "Machine Learning Framework for Climate-Driven Economic Risk Modeling," Summer 2026.
+1. Okherra Prosper, "Automated Stellar Classification and Parameter Regression From Near-Infrared Spectra: A Random Forest Machine Learning Approach," Fall 2025 - Spring 2026.
+1. Leland Quaynor, "Predicting Human Skeletal Muscle Atrophy in Microgravity Using a Machine Learning Approach," Fall 2025 - Spring 2026.
 1. Leland Quaynor, "Exploring Animal Physiological Adaptations to Microgravity," Fall 2024 - Spring 2025.
 1. Nataly Jimenez-Cruz, "Predicting Hazardous Near-Earth Objects With Random-Forest and Class Imbalance Techniques," Summer 2024.
 1. Prerana Putrevu, "Optimizing Exoplanet Signal Retrieval and Analysis Utilizing Bayesian Deep Learning," Summer 2024.
